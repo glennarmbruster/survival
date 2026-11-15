@@ -1,13 +1,8 @@
 {
-  "version": "2026-11-15-v2",
+  "version": "2026.11.15-m3",
   "files": [
-    "01_kitchen_scratch.json",
-    "02_homestead_garden.json",
-    "03_home_repair_diy.json",
-    "04_wilderness_survival.json",
-    "05_first_aid_remedies.json",
-    "06_crafts_textiles.json",
-    "07_travel_fieldcraft.json",
-    "08_shopping_negotiation.json"
+    "01-kitchen-from-scratch.json",
+    "02-homestead-garden.json",
+    "03-home-appliance-repair.json"
   ]
 }

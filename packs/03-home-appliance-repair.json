@@ -1,0 +1,1541 @@
+{
+  "guides": [
+    {
+      "id": "rep-101",
+      "cat": "Home & Appliance Repair",
+      "sub": "Electrical & Safety",
+      "title": "Tripped Circuit Breaker vs. Blown Fuse Diagnosis",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "Non-contact voltage tester",
+        "Flashlight"
+      ],
+      "supplies": [
+        "Label maker or permanent marker"
+      ],
+      "steps": [
+        "Open the main electrical panel and look for a breaker handle sitting in the middle (tripped) position rather than fully ON or OFF.",
+        "Unplug high-wattage appliances on that circuit (space heaters, hair dryers, air fryers) before resetting.",
+        "Push the tripped breaker handle firmly all the way to the OFF position until it clicks, then flip it back to ON.",
+        "If the breaker trips again immediately with nothing plugged in, leave it OFF and call an electrician\u2014this indicates a hard short circuit or ground fault."
+      ],
+      "safety": "Stand to the side of the panel (never directly in front) when flipping a breaker back on, and never touch the panel with wet hands.",
+      "tags": [
+        "electrical",
+        "breaker",
+        "panel",
+        "power",
+        "troubleshooting"
+      ]
+    },
+    {
+      "id": "rep-102",
+      "cat": "Home & Appliance Repair",
+      "sub": "Electrical & Safety",
+      "title": "Resetting & Testing GFCI Outlets (Kitchen, Bath, Garage, Exterior)",
+      "diff": "Easy",
+      "time": "10 mins",
+      "gear": [
+        "GFCI outlet tester"
+      ],
+      "supplies": [],
+      "steps": [
+        "When a bathroom, kitchen, garage, or outdoor outlet goes dead, check all nearby GFCI outlets\u2014one upstream GFCI often protects several downstream standard outlets.",
+        "Press the TEST button on the GFCI outlet; the RESET button should pop out with a distinct click.",
+        "Press the RESET button firmly until it latches flush, then plug in a GFCI tester or lamp to confirm power is restored.",
+        "If the RESET button refuses to latch or pops immediately, moisture has entered an exterior box or an appliance has a ground fault."
+      ],
+      "safety": "Test every GFCI outlet monthly using its TEST button to verify life-saving ground-fault protection works.",
+      "tags": [
+        "gfci",
+        "outlet",
+        "electrical",
+        "bathroom",
+        "garage"
+      ]
+    },
+    {
+      "id": "rep-103",
+      "cat": "Home & Appliance Repair",
+      "sub": "Electrical & Safety",
+      "title": "Replacing a Dead Standard Wall Outlet or Light Switch",
+      "diff": "Medium",
+      "time": "30 mins",
+      "gear": [
+        "Non-contact voltage tester",
+        "Wire strippers",
+        "Phillips & flathead screwdrivers",
+        "Needle-nose pliers"
+      ],
+      "supplies": [
+        "15A or 20A Tamper-Resistant outlet/switch (match breaker amperage)",
+        "Electrical tape"
+      ],
+      "steps": [
+        "Turn off the circuit breaker and verify zero voltage on all wires inside the box using a non-contact voltage tester.",
+        "Photograph the existing wire positions before disconnecting: black (hot) goes to brass screw, white (neutral) goes to silver screw, bare copper/green goes to green ground screw.",
+        "Strip 3/4-inch of insulation, bend clockwise J-hooks with needle-nose pliers, tighten securely under the side screw terminals (avoid push-in backstab holes), and wrap electrical tape around the sides of the device.",
+        "Fold wires neatly into the box, screw in the device, restore breaker power, and verify polarity with an outlet tester."
+      ],
+      "safety": "Never assume a wall switch turns off power inside an outlet box\u2014always confirm with a non-contact voltage tester.",
+      "tags": [
+        "outlet",
+        "switch",
+        "wiring",
+        "electrical",
+        "diy"
+      ]
+    },
+    {
+      "id": "rep-104",
+      "cat": "Home & Appliance Repair",
+      "sub": "Electrical & Safety",
+      "title": "Reversing Ceiling Fan Direction & Balancing Wobbling Blades",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "Step ladder",
+        "Phillips screwdriver"
+      ],
+      "supplies": [
+        "Ceiling fan balancing kit (plastic clip + adhesive weights)",
+        "Microfiber cloth"
+      ],
+      "steps": [
+        "Turn off the fan and dust the top of every blade\u2014uneven dust buildup alone causes wobbling.",
+        "Set the direction switch on the motor housing: counterclockwise (pushing air straight down) for Texas summer wind-chill cooling; clockwise on low speed in winter to push warm ceiling air down walls.",
+        "Tighten all blade-bracket screws and canopy mounting screws.",
+        "Clip the plastic balancing clip to the center trailing edge of one blade, run the fan, and test each blade until the wobble stops\u2014then stick the adhesive weight on top of that blade aligned with the clip."
+      ],
+      "safety": "Wait for blades to come to a complete stop before reaching up to flip the direction switch.",
+      "tags": [
+        "ceiling-fan",
+        "cooling",
+        "wobble",
+        "summer",
+        "maintenance"
+      ]
+    },
+    {
+      "id": "rep-105",
+      "cat": "Home & Appliance Repair",
+      "sub": "Electrical & Safety",
+      "title": "Smoke & Carbon Monoxide Detector Chirp & Replacement Guide",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "Step ladder",
+        "Vacuum with brush attachment"
+      ],
+      "supplies": [
+        "Fresh 9V/AA alkaline batteries or 10-year sealed replacement unit"
+      ],
+      "steps": [
+        "Check the manufacture date printed on the back of the unit\u2014smoke alarms expire after 10 years and CO sensors expire after 7\u201310 years, chirping permanently at end-of-life.",
+        "Vacuum dust and cobwebs out of the sensor vents (dust triggers false alarms in high humidity).",
+        "Install fresh batteries, hold the TEST button for 5 seconds until the horn sounds, and press and hold TEST for 15 seconds after battery swap to drain residual capacitor charge if chirping persists."
+      ],
+      "safety": "Keep a carbon monoxide detector outside every sleeping area and near any attached garage or gas appliance.",
+      "tags": [
+        "smoke-detector",
+        "carbon-monoxide",
+        "safety",
+        "battery"
+      ]
+    },
+    {
+      "id": "rep-106",
+      "cat": "Home & Appliance Repair",
+      "sub": "Plumbing & Water",
+      "title": "Shutting Off Main Water & Whole-House Pressure Relief",
+      "diff": "Easy",
+      "time": "10 mins",
+      "gear": [
+        "Water meter curb key",
+        "Flashlight"
+      ],
+      "supplies": [
+        "Brightly colored waterproof tag"
+      ],
+      "steps": [
+        "Locate your home's primary ball/gate shutoff valve (usually in the garage wall, utility closet, or exterior wall facing the street) and tie a bright tag on it so anyone in the house can find it in seconds.",
+        "Turn a quarter-turn ball valve 90 degrees perpendicular to the pipe (or turn a wheel gate valve clockwise until snug).",
+        "If the house valve is stuck, open the street meter box cover with a water meter curb key and turn the brass valve 90 degrees until the two holes align (lock position).",
+        "Open the lowest outdoor hose bib and an upstairs faucet to drain residual line pressure before cutting pipe or before a hard freeze."
+      ],
+      "safety": "Turn off electric or gas water heaters before draining the house plumbing so heating elements do not dry-fire.",
+      "tags": [
+        "plumbing",
+        "shutoff",
+        "emergency",
+        "freeze-prep",
+        "leak"
+      ]
+    },
+    {
+      "id": "rep-107",
+      "cat": "Home & Appliance Repair",
+      "sub": "Plumbing & Water",
+      "title": "Fixing a Constantly Running Toilet (Flapper & Fill Valve)",
+      "diff": "Easy",
+      "time": "25 mins",
+      "gear": [
+        "Sponge",
+        "Adjustable pliers"
+      ],
+      "supplies": [
+        "Universal silicone toilet flapper",
+        "Universal fill valve (Fluidmaster style)"
+      ],
+      "steps": [
+        "Lift the tank lid and check the water level: if water is spilling into the center overflow tube, lower the float adjustment screw/clip on the fill valve.",
+        "If water is below the overflow tube yet the tank refills periodically (phantom flush), shut off the wall angle stop, flush to empty the tank, and unhook the warped rubber flapper.",
+        "Wipe mineral grime off the flush valve rim with a sponge and snap on a chlorine-resistant silicone flapper with 1/2-inch slack in the chain.",
+        "If the fill valve hisses or takes over 60 seconds to fill, unscrew the supply line underneath, swap in a new universal fill valve, and adjust water level 1/2-inch below the overflow rim."
+      ],
+      "safety": "Hand-tighten the plastic fill-valve locknut plus 1/4 turn only\u2014over-tightening can crack the porcelain tank.",
+      "tags": [
+        "toilet",
+        "plumbing",
+        "flapper",
+        "leak",
+        "water-bill"
+      ]
+    },
+    {
+      "id": "rep-108",
+      "cat": "Home & Appliance Repair",
+      "sub": "Plumbing & Water",
+      "title": "Unjamming & Resetting a Garbage Disposal",
+      "diff": "Easy",
+      "time": "10 mins",
+      "gear": [
+        "1/4-inch Allen wrench (disposal hex key)",
+        "Flashlight",
+        "Tongs"
+      ],
+      "supplies": [
+        "Ice cubes",
+        "Coarse salt",
+        "Lemon peel"
+      ],
+      "steps": [
+        "Turn the wall switch OFF (and unplug the unit under the sink for extra safety).",
+        "Shine a flashlight into the chamber and remove any dropped spoon, bone, or glass using long tongs\u2014never put your hand inside.",
+        "Insert a 1/4-inch Allen wrench into the center hex socket on the very bottom exterior of the disposal and crank back and forth until the flywheel spins freely.",
+        "Press the small red overload RESET button on the bottom of the motor housing, restore power, run cold water, and grind a cup of ice cubes + salt to scour the impellers."
+      ],
+      "safety": "Never pour chemical drain cleaners into a garbage disposal\u2014they corrode seals and splash back when plunging.",
+      "tags": [
+        "garbage-disposal",
+        "kitchen",
+        "plumbing",
+        "jam",
+        "reset"
+      ]
+    },
+    {
+      "id": "rep-109",
+      "cat": "Home & Appliance Repair",
+      "sub": "Plumbing & Water",
+      "title": "Cleaning & Replacing a Sink P-Trap (Dropped Ring or Clog)",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "Bucket",
+        "Channel-lock pliers",
+        "Old toothbrush"
+      ],
+      "supplies": [
+        "1-1/2 inch or 1-1/4 inch slip-joint washers",
+        "Old towel"
+      ],
+      "steps": [
+        "Place a bucket and towel directly beneath the curved P-trap under the sink.",
+        "Unscrew the two large slip-joint nuts at both ends of the U-bend by hand (use channel-locks gently with a rag if stuck) and lower the trap into the bucket.",
+        "Retrieve dropped jewelry or scrub out hair and grease buildup with an old toothbrush and hot water.",
+        "Inspect beveled plastic washers (tapered edge faces toward the threads), reassemble hand-tight, and run water for 2 minutes while feeling joints with dry tissue for leaks."
+      ],
+      "safety": "Do not over-torque PVC slip nuts with metal wrenches or the plastic collar will split.",
+      "tags": [
+        "p-trap",
+        "sink",
+        "clog",
+        "plumbing",
+        "drain"
+      ]
+    },
+    {
+      "id": "rep-110",
+      "cat": "Home & Appliance Repair",
+      "sub": "Plumbing & Water",
+      "title": "Clearing a Slow Bathroom Drain Without Harsh Chemicals",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "Plastic barbed drain snake (Zip-It)",
+        "Needle-nose pliers"
+      ],
+      "supplies": [
+        "1/2 cup baking soda",
+        "1 cup white vinegar",
+        "Kettle of hot tap water"
+      ],
+      "steps": [
+        "Remove the sink pop-up stopper (unscrew the pivot nut behind the drain pipe and pull out the rod) or unscrew the tub strainer cover.",
+        "Push a barbed plastic hair-snare tool all the way down the pipe, twist, and pull out tangled hair and soap scum.",
+        "Pour 1/2 cup baking soda followed by 1 cup white vinegar down the drain, plug for 15 minutes while it fizzes, and flush with hot water.",
+        "Reinsert the pop-up stopper through the pivot rod loop and tighten the retaining nut."
+      ],
+      "safety": "Never use boiling water on PVC pipes if joints are old or glued with standard PVC cement\u2014use hot tap water (120\u00b0F\u2013140\u00b0F).",
+      "tags": [
+        "drain",
+        "clog",
+        "bathroom",
+        "hair",
+        "plumbing"
+      ]
+    },
+    {
+      "id": "rep-111",
+      "cat": "Home & Appliance Repair",
+      "sub": "Plumbing & Water",
+      "title": "Replacing a Kitchen or Bathroom Faucet Cartridge",
+      "diff": "Medium",
+      "time": "45 mins",
+      "gear": [
+        "Basin wrench",
+        "Allen wrench set",
+        "Needle-nose pliers",
+        "Flathead screwdriver"
+      ],
+      "supplies": [
+        "OEM replacement cartridge (Moen, Delta, Kohler)",
+        "Silicone plumber's grease"
+      ],
+      "steps": [
+        "Shut off both hot and cold angle-stop valves under the sink and open the faucet handle to relieve pressure.",
+        "Pry off the decorative index cap on the handle, loosen the hidden set screw with an Allen wrench, and lift off the handle.",
+        "Unthread the dome cap and pull out the retaining clip with needle-nose pliers, then pull the old cartridge straight up.",
+        "Coat the new cartridge O-rings with silicone plumber's grease, seat it in the exact same orientation (hot side left), reassemble, and turn valves back on slowly."
+      ],
+      "safety": "Plug the sink drain with a rag before starting so tiny set screws or retaining clips do not fall down the pipe.",
+      "tags": [
+        "faucet",
+        "drip",
+        "cartridge",
+        "plumbing",
+        "kitchen"
+      ]
+    },
+    {
+      "id": "rep-112",
+      "cat": "Home & Appliance Repair",
+      "sub": "Plumbing & Water",
+      "title": "Flushing Sediment from a Tank Water Heater (Annual Maintenance)",
+      "diff": "Medium",
+      "time": "45 mins",
+      "gear": [
+        "Garden hose",
+        "Flathead screwdriver",
+        "Work gloves"
+      ],
+      "supplies": [],
+      "steps": [
+        "Turn the water heater thermostat to PILOT (gas) or switch OFF the dedicated 240V breaker (electric), and close the cold-water inlet valve on top of the tank.",
+        "Attach a garden hose to the brass drain valve near the bottom of the tank and run the hose outside to a driveway or storm drain.",
+        "Open a hot water faucet inside the house to break the vacuum, then open the bottom drain valve and let sediment flush out.",
+        "Briefly open the cold-water inlet valve in 15-second bursts to swirl remaining scale off the tank floor until water runs clear, then close drain, refill tank completely (bleeding air at the indoor faucet), and restore power/gas."
+      ],
+      "safety": "Drained water is scalding hot (120\u00b0F\u2013140\u00b0F); keep children and pets away from the hose outlet, and never turn power back on until water flows steadily from an indoor hot tap.",
+      "tags": [
+        "water-heater",
+        "flushing",
+        "maintenance",
+        "sediment",
+        "plumbing"
+      ]
+    },
+    {
+      "id": "rep-113",
+      "cat": "Home & Appliance Repair",
+      "sub": "Plumbing & Water",
+      "title": "Stopping a Dripping Frost-Free Outdoor Hose Bib",
+      "diff": "Easy",
+      "time": "25 mins",
+      "gear": [
+        "Adjustable wrench",
+        "Phillips screwdriver"
+      ],
+      "supplies": [
+        "Vacuum breaker repair kit or bibb washer",
+        "Silicone plumber's grease"
+      ],
+      "steps": [
+        "If water sprays out the top cap when the hose is turned on, unscrew the plastic/brass anti-siphon vacuum breaker cap on top of the faucet and snap in a $5 replacement float kit.",
+        "If water drips continuously from the spout when turned OFF, shut off the main house water, remove the handle screw, and unthread the packing nut to pull out the long stem.",
+        "Replace the flattened rubber washer at the far end of the stem, grease the threads with silicone grease, and reassemble."
+      ],
+      "safety": "Always disconnect garden hoses before any Texas freeze so trapped water cannot split the internal frost-free stem.",
+      "tags": [
+        "hose-bib",
+        "spigot",
+        "outdoor",
+        "plumbing",
+        "freeze-prep"
+      ]
+    },
+    {
+      "id": "rep-114",
+      "cat": "Home & Appliance Repair",
+      "sub": "HVAC & Comfort",
+      "title": "Clearing a Clogged AC Condensate Drain Line (Prevent Ceiling Leaks)",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "Wet/dry shop vac",
+        "Funnel"
+      ],
+      "supplies": [
+        "1 cup distilled white vinegar",
+        "Duct tape or rag"
+      ],
+      "steps": [
+        "In humid Gulf Coast summers, an AC pulls gallons of water out of the air daily; if the indoor unit shuts off (float switch tripped) or water appears in the attic pan, the PVC drain line is clogged with algae.",
+        "Attach a wet/dry shop vac hose to the exterior PVC condensate drain exit outside the house, sealing the gap with a rag or duct tape, and suction for 60 seconds.",
+        "Go to the indoor air handler, remove the cap on the vertical PVC cleanout T-fitting, and pour 1 cup of white vinegar down the line to kill algae.",
+        "Repeat the vinegar flush every 30 days from April through October."
+      ],
+      "safety": "Never pour chlorine bleach into an AC drain line\u2014bleach fumes corrode the copper/aluminum evaporator coil.",
+      "tags": [
+        "ac",
+        "hvac",
+        "condensate",
+        "drain-line",
+        "summer",
+        "friendswood"
+      ]
+    },
+    {
+      "id": "rep-115",
+      "cat": "Home & Appliance Repair",
+      "sub": "HVAC & Comfort",
+      "title": "Cleaning Outdoor AC Condenser Coils & Airflow Prep",
+      "diff": "Easy",
+      "time": "30 mins",
+      "gear": [
+        "Garden hose with spray nozzle",
+        "1/4-inch or 5/16-inch nut driver",
+        "Soft bristle brush"
+      ],
+      "supplies": [
+        "Foaming coil cleaner (non-acidic)"
+      ],
+      "steps": [
+        "Pull the exterior electrical disconnect block (or turn off the AC breaker) before touching the outdoor unit.",
+        "Clear grass clippings, leaves, and vines at least 24 inches back from all four sides of the condenser.",
+        "Spray foaming coil cleaner onto the aluminum fins from the outside, wait 10 minutes, and rinse gently from the inside out (or straight downward) with a regular garden hose\u2014never a pressure washer.",
+        "Reinsert the disconnect block and verify cool air returns within 10 minutes."
+      ],
+      "safety": "Never use a pressure washer on condenser fins\u2014high pressure bends the thin aluminum fins flat and ruins airflow.",
+      "tags": [
+        "ac",
+        "hvac",
+        "coils",
+        "summer",
+        "efficiency"
+      ]
+    },
+    {
+      "id": "rep-116",
+      "cat": "Home & Appliance Repair",
+      "sub": "HVAC & Comfort",
+      "title": "Replacing a Failed AC Run Capacitor (Compressor/Fan Won't Start)",
+      "diff": "Medium",
+      "time": "30 mins",
+      "gear": [
+        "Insulated screwdriver",
+        "Needle-nose pliers",
+        "1/4-inch nut driver",
+        "Multimeter"
+      ],
+      "supplies": [
+        "Exact-match dual-run capacitor (e.g., 45/5 \u00b5F 440V)"
+      ],
+      "steps": [
+        "If the outdoor AC fan hums but won't spin (or won't start with a stick push), pull the exterior disconnect switch AND turn off the indoor AC breaker.",
+        "Remove the service panel, take a clear photo of wire colors on HERM, FAN, and C terminals, and discharge the old capacitor by laying an insulated-handle screwdriver shaft across all three terminals simultaneously.",
+        "Transfer wires one-by-one onto the matching terminals of a new dual-run capacitor with identical microfarad (\u00b5F) ratings.",
+        "Reinstall the panel, restore power, and confirm the fan and compressor start immediately."
+      ],
+      "safety": "Capacitors store lethal high-voltage charge even with power off\u2014always discharge across terminals with an insulated screwdriver before touching.",
+      "tags": [
+        "ac",
+        "capacitor",
+        "hvac",
+        "emergency",
+        "summer"
+      ]
+    },
+    {
+      "id": "rep-117",
+      "cat": "Home & Appliance Repair",
+      "sub": "HVAC & Comfort",
+      "title": "HVAC Air Filter Sizing, MERV Ratings & Return Vent Care",
+      "diff": "Easy",
+      "time": "10 mins",
+      "gear": [
+        "Vacuum with brush attachment"
+      ],
+      "supplies": [
+        "Pleated MERV 8\u201311 air filters"
+      ],
+      "steps": [
+        "Check filter size printed on the cardboard frame and replace every 30\u201360 days during heavy summer cooling.",
+        "Stick to pleated MERV 8 to MERV 11 filters\u2014ultra-dense MERV 13+ filters restrict airflow on residential blowers and can freeze the indoor coil.",
+        "Align the airflow arrow printed on the filter frame pointing INTO the return duct (toward the blower/attic).",
+        "Vacuum dust off the metal return grille louvers before latching."
+      ],
+      "safety": "Never run the AC without a filter installed; dust coats the wet evaporator coil and causes costly coil-cleaning repairs.",
+      "tags": [
+        "hvac",
+        "air-filter",
+        "merv",
+        "maintenance",
+        "ac"
+      ]
+    },
+    {
+      "id": "rep-118",
+      "cat": "Home & Appliance Repair",
+      "sub": "Kitchen Appliances",
+      "title": "Refrigerator Not Cooling: Condenser Coils & Evaporator Fan Check",
+      "diff": "Medium",
+      "time": "40 mins",
+      "gear": [
+        "Vacuum with crevice tool",
+        "Coil brush",
+        "1/4-inch nut driver"
+      ],
+      "supplies": [],
+      "steps": [
+        "Unplug the refrigerator, pull it out (or remove the front bottom kickplate), and vacuum thick dust and pet hair off the black condenser coils underneath or behind.",
+        "Verify the condenser fan next to the compressor spins freely when plugged back in.",
+        "If the freezer is cold (0\u00b0F) but the fresh-food fridge section is warm (50\u00b0F+), open the freezer door and listen for the evaporator fan\u2014if silent or frosted solid, manually defrost the freezer with a hair dryer on low for 30 minutes and check the defrost heater/fan."
+      ],
+      "safety": "Keep coolers with ice packs ready before unplugging a warm refrigerator so perishables stay below 40\u00b0F.",
+      "tags": [
+        "refrigerator",
+        "appliance",
+        "cooling",
+        "coils",
+        "pet-hair"
+      ]
+    },
+    {
+      "id": "rep-119",
+      "cat": "Home & Appliance Repair",
+      "sub": "Kitchen Appliances",
+      "title": "Testing & Sealing a Refrigerator Door Gasket (Dollar-Bill Test)",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "Hair dryer"
+      ],
+      "supplies": [
+        "Dollar bill",
+        "Warm soapy water",
+        "Petroleum jelly or silicone grease"
+      ],
+      "steps": [
+        "Close the fridge or freezer door on a dollar bill and pull gently: if the bill slides out with zero resistance, warm humid air is leaking in and causing frost/overwork.",
+        "Wash the magnetic rubber gasket folds thoroughly with warm soapy water to remove sticky spills.",
+        "Warm any warped or flattened section of the gasket gently with a hair dryer on medium heat while pulling the rubber pleats outward so the magnet re-engages the cabinet.",
+        "Apply a paper-thin film of silicone grease along the hinge-side gasket edge so it does not pinch when closing."
+      ],
+      "safety": "Keep the hair dryer moving constantly 6 inches away so you soften the vinyl without melting it.",
+      "tags": [
+        "refrigerator",
+        "gasket",
+        "seal",
+        "energy",
+        "appliance"
+      ]
+    },
+    {
+      "id": "rep-120",
+      "cat": "Home & Appliance Repair",
+      "sub": "Kitchen Appliances",
+      "title": "Dishwasher Not Draining or Leaving Dishes Gritty",
+      "diff": "Easy",
+      "time": "25 mins",
+      "gear": [
+        "Old toothbrush",
+        "Toothpick",
+        "Cup"
+      ],
+      "supplies": [
+        "2 cups white vinegar",
+        "1 cup baking soda"
+      ],
+      "steps": [
+        "Twist and lift out the cylindrical mesh filter in the bottom tub of the dishwasher and scrub away grease and food bits under hot running water.",
+        "Pop off the spray arms and poke clogged spray holes clear with a wooden toothpick so water jets spin at full pressure.",
+        "Check the air-gap cylinder on the sink deck (if equipped) and the high-loop drain hose under the sink for kinks or disposal plug knockouts.",
+        "Place a bowl upright on the top rack filled with 2 cups white vinegar and run a hot cycle, followed by sprinkling 1 cup baking soda across the bottom for a short rinse."
+      ],
+      "safety": "Check the sump area carefully for broken glass shards before reaching inside with bare hands.",
+      "tags": [
+        "dishwasher",
+        "drain",
+        "filter",
+        "cleaning",
+        "kitchen"
+      ]
+    },
+    {
+      "id": "rep-121",
+      "cat": "Home & Appliance Repair",
+      "sub": "Kitchen Appliances",
+      "title": "Washing Machine Won't Drain or Spin (Drain Pump Filter & Lid Switch)",
+      "diff": "Medium",
+      "time": "35 mins",
+      "gear": [
+        "Shallow baking pan",
+        "Pliers",
+        "Screwdriver"
+      ],
+      "supplies": [
+        "Old towels"
+      ],
+      "steps": [
+        "Unplug the washer. On front-loaders, open the small lower-front access door, place a shallow pan and towel underneath, drain water through the small black hose, and unscrew the coin-trap filter to remove socks, coins, or hairpins.",
+        "On top-loaders that fill and agitate but refuse to spin or drain, press the lid switch actuator with a pen\u2014if it does not click, the lid switch assembly has failed.",
+        "Check that the drain hose goes no more than 4\u20136 inches down the standpipe (pushing it too deep causes siphoning) and is free of kinks."
+      ],
+      "safety": "Have plenty of towels and a shallow pan ready before unscrewing a front-load pump filter\u2014up to 2 gallons of water may pour out.",
+      "tags": [
+        "washer",
+        "laundry",
+        "drain-pump",
+        "filter",
+        "appliance"
+      ]
+    },
+    {
+      "id": "rep-122",
+      "cat": "Home & Appliance Repair",
+      "sub": "Kitchen Appliances",
+      "title": "Cleaning Dryer Vent Ducts & Moisture Sensor Bars (Fire Prevention)",
+      "diff": "Easy",
+      "time": "30 mins",
+      "gear": [
+        "Rotary dryer vent brush kit (drill-powered)",
+        "Vacuum"
+      ],
+      "supplies": [
+        "Rubbing alcohol",
+        "Cotton ball",
+        "Foil HVAC tape (never cloth duct tape)"
+      ],
+      "steps": [
+        "Unplug the dryer, slide it forward, and disconnect the flexible transition hose from the wall duct.",
+        "Run a rotary dryer vent brush all the way from the indoor wall pipe to the exterior exhaust hood while running a leaf blower or shop vac to clear trapped lint.",
+        "Inside the dryer drum near the lint screen, wipe the two metal moisture sensor bars with rubbing alcohol\u2014dryer-sheet residue coats them and causes the dryer to shut off while clothes are still damp.",
+        "Reconnect with rigid or semi-rigid aluminum duct sealed with UL-listed foil tape."
+      ],
+      "safety": "Never use white vinyl accordion vent hose\u2014it traps lint and melts easily in a dryer fire.",
+      "tags": [
+        "dryer",
+        "lint",
+        "fire-safety",
+        "maintenance",
+        "laundry"
+      ]
+    },
+    {
+      "id": "rep-123",
+      "cat": "Home & Appliance Repair",
+      "sub": "Kitchen Appliances",
+      "title": "Gas Stove Burner Clicking Continuously or Uneven Flame",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "Old toothbrush",
+        "Wooden toothpick",
+        "Paperclip"
+      ],
+      "supplies": [
+        "Warm soapy water",
+        "Rubbing alcohol"
+      ],
+      "steps": [
+        "Turn all burner knobs OFF and let grates cool completely.",
+        "Lift off the burner grates, round burner caps, and aluminum burner heads; soak in warm soapy water and scrub every slotted gas port clean with a toothbrush and toothpick.",
+        "Scrub the white ceramic spark igniter tip with a dry toothbrush and rubbing alcohol\u2014food splatter grounds out the spark or causes continuous clicking after boil-overs.",
+        "Dry every piece 100% completely before reassembling (damp caps cause yellow, uneven flames)."
+      ],
+      "safety": "Never use metal pins or drill bits to enlarge brass gas orifices underneath the burner head.",
+      "tags": [
+        "gas-stove",
+        "igniter",
+        "burner",
+        "kitchen",
+        "appliance"
+      ]
+    },
+    {
+      "id": "rep-124",
+      "cat": "Home & Appliance Repair",
+      "sub": "Kitchen Appliances",
+      "title": "Electric Oven Not Heating (Bake Element & Igniter Check)",
+      "diff": "Medium",
+      "time": "40 mins",
+      "gear": [
+        "1/4-inch nut driver",
+        "Multimeter",
+        "Flashlight"
+      ],
+      "supplies": [
+        "Replacement bake element (model-specific)"
+      ],
+      "steps": [
+        "Unplug the range or switch OFF its double-pole 240V breaker at the main panel.",
+        "Inspect the lower black bake element visually for blisters, cracks, or burn-through spots.",
+        "Remove the two rear mounting screws, gently pull the element forward 2 inches, pull off the two spade wires (keep wires from slipping back into the insulation), and test continuity across the element terminals with a multimeter.",
+        "If continuity reads infinite (OL), slide the spade connectors onto the new element and screw it back into place."
+      ],
+      "safety": "Verify power is off at the breaker\u2014electric ovens run on 240 volts.",
+      "tags": [
+        "oven",
+        "bake-element",
+        "multimeter",
+        "kitchen",
+        "appliance"
+      ]
+    },
+    {
+      "id": "rep-125",
+      "cat": "Home & Appliance Repair",
+      "sub": "Walls, Doors & Hardware",
+      "title": "Patching Drywall Holes (Nail Pops to Doorknob Holes)",
+      "diff": "Easy",
+      "time": "45 mins + dry time",
+      "gear": [
+        "Putty knife (4-inch and 6-inch)",
+        "Utility knife",
+        "120-grit sanding sponge"
+      ],
+      "supplies": [
+        "Self-adhesive fiberglass mesh patch",
+        "Lightweight spackle or joint compound",
+        "Primer & matching wall paint"
+      ],
+      "steps": [
+        "For nail pops: drive a new drywall screw 1.5 inches above and below the popped nail to secure the sheetrock, then hammer the popped nail slightly below the paper surface.",
+        "For doorknob holes (up to 4 inches): scrape away loose crumbs, stick a self-adhesive aluminum/mesh patch over the hole, and spread joint compound in a thin X-pattern feathering 3 inches past the edges.",
+        "Let dry completely (2\u20134 hours), apply a second wider skim coat, sand smooth with a 120-grit sponge, prime, and touch up paint."
+      ],
+      "safety": "Wear a dust mask when sanding dry joint compound.",
+      "tags": [
+        "drywall",
+        "patch",
+        "spackle",
+        "walls",
+        "painting"
+      ]
+    },
+    {
+      "id": "rep-126",
+      "cat": "Home & Appliance Repair",
+      "sub": "Walls, Doors & Hardware",
+      "title": "Fixing a Sagging Door That Rubs or Won't Latch",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "Drill/driver",
+        "Phillips screwdriver",
+        "Metal file"
+      ],
+      "supplies": [
+        "3-inch #9 wood screws",
+        "Wooden golf tees or toothpicks + wood glue"
+      ],
+      "steps": [
+        "Check the top hinge first\u2014gravity pulls the top hinge screws loose over time, dropping the latch side of the door.",
+        "Remove one short screw from the top hinge jamb leaf and drive a 3-inch wood screw straight through into the wall framing stud to pull the door back square.",
+        "If screw holes are stripped, dip wooden toothpicks or a golf tee in wood glue, tap them into the hole, snap flush, and drive the screw back in.",
+        "If the latch still misses by 1/8-inch, unscrew the strike plate and enlarge the inner edge slightly with a metal file."
+      ],
+      "safety": "Drive the 3-inch screw snugly without over-torquing, which can bow the jamb inward and bind the hinge.",
+      "tags": [
+        "door",
+        "hinge",
+        "latch",
+        "carpentry",
+        "hardware"
+      ]
+    },
+    {
+      "id": "rep-127",
+      "cat": "Home & Appliance Repair",
+      "sub": "Walls, Doors & Hardware",
+      "title": "Re-Caulking Showers, Tubs & Countertops Without Mold",
+      "diff": "Easy",
+      "time": "1 hour",
+      "gear": [
+        "Caulk removal tool or utility knife",
+        "Caulk gun",
+        "Paper towels"
+      ],
+      "supplies": [
+        "100% Silicone kitchen/bath caulk (mold-resistant)",
+        "70% isopropyl alcohol",
+        "Painter's tape"
+      ],
+      "steps": [
+        "Scrape out 100% of old peeling caulk\u2014new silicone will not bond to old silicone.",
+        "Wipe the joint clean with 70% isopropyl alcohol and let dry completely (fill a bathtub halfway with water before caulking so the tub is at maximum weight load).",
+        "Apply parallel strips of painter's tape 1/8-inch from both sides of the seam, cut the caulk nozzle at a 45\u00b0 angle to match the gap width, and run a smooth continuous bead.",
+        "Tool the bead immediately with a wet finger, pull painter's tape off right away before caulk skins over, and let cure 24 hours before showering."
+      ],
+      "safety": "Ensure bathroom exhaust fan or window is open while applying 100% silicone caulk.",
+      "tags": [
+        "caulk",
+        "bathroom",
+        "shower",
+        "silicone",
+        "mold-prevention"
+      ]
+    },
+    {
+      "id": "rep-128",
+      "cat": "Home & Appliance Repair",
+      "sub": "Walls, Doors & Hardware",
+      "title": "Garage Door Maintenance & Safety Sensor Alignment",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "Step ladder",
+        "Microfiber cloth"
+      ],
+      "supplies": [
+        "Silicone or white lithium garage door lubricant (spray)"
+      ],
+      "steps": [
+        "If the garage door reverses immediately when closing, check the two photo-eye sensors 6 inches above the floor on each track: wipe dust/cobwebs off both lenses and bend the bracket gently until both LEDs glow solid (not blinking).",
+        "Lubricate steel rollers, hinges, and the overhead torsion spring with garage-door silicone spray\u2014NEVER grease the tracks themselves (grease traps grit and makes rollers skid).",
+        "Test the auto-reverse safety feature by placing a 2x4 board flat under the center of the door; the door must reverse within 2 seconds of touching the wood."
+      ],
+      "safety": "NEVER loosen or adjust the high-tension overhead torsion springs or bottom corner brackets\u2014they store lethal energy.",
+      "tags": [
+        "garage-door",
+        "sensors",
+        "lubrication",
+        "safety",
+        "maintenance"
+      ]
+    },
+    {
+      "id": "rep-129",
+      "cat": "Home & Appliance Repair",
+      "sub": "Walls, Doors & Hardware",
+      "title": "Weatherstripping Doors & Windows for AC & Hurricane Seal",
+      "diff": "Easy",
+      "time": "30 mins",
+      "gear": [
+        "Scissors or tin snips",
+        "Putty knife"
+      ],
+      "supplies": [
+        "Kerf-in foam/vinyl door weatherstripping",
+        "Silicone door sweep"
+      ],
+      "steps": [
+        "Close exterior doors on a sunny day and look for daylight peeking around the perimeter or underneath.",
+        "Pull old torn kerf weatherstripping out of the jamb groove with fingers or a putty knife and press new foam-filled vinyl weatherstripping firmly into the channel.",
+        "Slide a new vinyl sweep onto the bottom of the door so the fins kiss the threshold without dragging hard."
+      ],
+      "safety": "Keep weep holes at the bottom exterior track of sliding windows clear so driving rain drains outside rather than onto drywall.",
+      "tags": [
+        "weatherstripping",
+        "energy",
+        "ac",
+        "door",
+        "drafts"
+      ]
+    },
+    {
+      "id": "rep-130",
+      "cat": "Home & Appliance Repair",
+      "sub": "Generators & Power",
+      "title": "Portable Generator Startup, Load Order & Fuel Storage Rules",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "10-gauge or 12-gauge outdoor extension cords",
+        "Funnel"
+      ],
+      "supplies": [
+        "Non-ethanol gasoline + fuel stabilizer (Sta-Bil)",
+        "10W-30 synthetic motor oil",
+        "Spare spark plug"
+      ],
+      "steps": [
+        "Position the generator outdoors at least 20 feet away from windows, doors, and garage vents with the exhaust pointed away from the house.",
+        "Check engine oil level before EVERY start (low-oil sensors will prevent starting if even slightly low).",
+        "Start the generator with nothing plugged in, let warm up 3 minutes, then plug in appliances one at a time starting with the largest motor load first (fridge/freezer, then fans/lights/chargers).",
+        "Treat stored gasoline with fuel stabilizer on Day 1, rotate cans into your car every 6 months, and run the generator dry (or drain the carburetor bowl) before long-term storage."
+      ],
+      "safety": "NEVER run a generator inside a garage\u2014even with the garage door open\u2014and NEVER back-feed power into a wall outlet with a double-male 'suicide cord.'",
+      "tags": [
+        "generator",
+        "hurricane",
+        "power-outage",
+        "fuel",
+        "safety"
+      ]
+    },
+    {
+      "id": "rep-131",
+      "cat": "Home & Appliance Repair",
+      "sub": "Generators & Power",
+      "title": "Cleaning a Gummed-Up Small Engine Carburetor (Generator/Mower)",
+      "diff": "Medium",
+      "time": "45 mins",
+      "gear": [
+        "10mm socket & ratchet",
+        "Flathead screwdriver",
+        "Thin copper wire strand"
+      ],
+      "supplies": [
+        "Aerosol carburetor cleaner",
+        "Nitrile gloves",
+        "Safety glasses"
+      ],
+      "steps": [
+        "If a generator or mower starts on starting fluid then dies immediately, old ethanol fuel has clogged the tiny brass main jet inside the carburetor.",
+        "Turn the fuel petcock OFF, place a rag under the carburetor, and unbolt the center 10mm bolt at the bottom of the metal float bowl.",
+        "Unscrew the brass main jet hidden inside the center post using a snug-fitting flathead screwdriver.",
+        "Poke a single thin strand of copper wire through the tiny pinhole in the brass jet, spray carb cleaner through all passages, reassemble, and turn fuel back ON."
+      ],
+      "safety": "Wear safety glasses\u2014pressurized carb cleaner sprays back out of tiny passages unexpectedly.",
+      "tags": [
+        "carburetor",
+        "generator",
+        "lawnmower",
+        "small-engine",
+        "fuel"
+      ]
+    },
+    {
+      "id": "rep-132",
+      "cat": "Home & Appliance Repair",
+      "sub": "Exterior & Roof",
+      "title": "Emergency Roof Tarp & Attic Leak Containment After a Storm",
+      "diff": "Medium",
+      "time": "1 hour",
+      "gear": [
+        "Extension ladder",
+        "Hammer",
+        "Utility knife",
+        "Bucket"
+      ],
+      "supplies": [
+        "Heavy-duty 10-mil+ tarp",
+        "2x4 furring strips",
+        "3-inch cap nails or deck screws"
+      ],
+      "steps": [
+        "Inside the attic: place a plastic tub on a piece of plywood spanning across ceiling joists directly under the drip; if ceiling drywall is bulging with water, poke a small screwdriver hole in the center over a bucket to relieve weight before the whole sheet collapses.",
+        "Once wind and lightning have completely passed, lay a heavy tarp over the damaged roof section extending at least 4 feet past the leak and draping over the ridge peak so water cannot run underneath.",
+        "Wrap the tarp edges twice around 2x4 lumber strips and nail/screw through the wood strips into the roof decking\u2014never nail directly through bare tarp grommets, which rip out in the first gust."
+      ],
+      "safety": "Never climb onto a wet, steep, or wind-swept roof; wait until surfaces are dry and use a spotter at the ladder base.",
+      "tags": [
+        "roof",
+        "tarp",
+        "hurricane",
+        "leak",
+        "storm-damage"
+      ]
+    },
+    {
+      "id": "rep-133",
+      "cat": "Home & Appliance Repair",
+      "sub": "Exterior & Roof",
+      "title": "Cleaning Gutters & Downspouts Before Heavy Gulf Coast Rain",
+      "diff": "Easy",
+      "time": "1 hour",
+      "gear": [
+        "Extension ladder with stabilizer bar",
+        "Garden trowel or gutter scoop",
+        "Garden hose"
+      ],
+      "supplies": [
+        "Heavy work gloves",
+        "5-gallon bucket with hook"
+      ],
+      "steps": [
+        "Set the ladder on firm level ground at a 4:1 angle (1 foot out from the wall for every 4 feet of height) using a standoff stabilizer so you don't crush aluminum gutters.",
+        "Scoop wet leaves and shingle grit into a bucket hung from the ladder rather than throwing debris onto flower beds.",
+        "Flush each gutter run toward the downspout with a garden hose; if a downspout is plugged at the elbow, tap the outside with a rubber mallet or snake from the bottom up."
+      ],
+      "safety": "Keep your belt buckle between the ladder rails at all times\u2014never lean far to the side; climb down and move the ladder instead.",
+      "tags": [
+        "gutters",
+        "rain",
+        "drainage",
+        "ladder",
+        "maintenance"
+      ]
+    },
+    {
+      "id": "rep-134",
+      "cat": "Home & Appliance Repair",
+      "sub": "Pool & Outdoor Systems",
+      "title": "Pool Pump Lost Prime or Air Bubbles in Return Jets",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "Pool pump lid wrench (if needed)",
+        "Garden hose"
+      ],
+      "supplies": [
+        "Silicone pool O-ring lube"
+      ],
+      "steps": [
+        "Check the pool water level first\u2014water must sit halfway up the skimmer opening, and the skimmer weir flap must swing freely without sticking.",
+        "Turn the pump OFF, unscrew the clear pump strainer lid, empty the basket, and inspect the black rubber lid O-ring for cracks or grit.",
+        "Wipe the O-ring and groove clean, coat generously with silicone pool lube (never petroleum Vaseline, which swells rubber), fill the pump pot with a garden hose, and lock the lid.",
+        "Turn the pump ON and open the air-relief valve on top of the filter tank until a steady stream of water shoots out, then close it."
+      ],
+      "safety": "Never run a pool pump dry for more than 2 minutes\u2014friction heat warps PVC fittings and destroys the shaft seal.",
+      "tags": [
+        "pool",
+        "pump",
+        "prime",
+        "maintenance",
+        "friendswood"
+      ]
+    },
+    {
+      "id": "rep-135",
+      "cat": "Home & Appliance Repair",
+      "sub": "Pool & Outdoor Systems",
+      "title": "Emergency Pool Chemistry & Storm Recovery Shock Protocol",
+      "diff": "Easy",
+      "time": "30 mins",
+      "gear": [
+        "Liquid drop test kit (FAS-DPD / Taylor style)",
+        "Pool brush"
+      ],
+      "supplies": [
+        "Liquid chlorine (10%\u201312.5% sodium hypochlorite)",
+        "Muriatic acid",
+        "Baking soda"
+      ],
+      "steps": [
+        "After heavy rain or dust storms, scoop out leaves immediately and test Free Chlorine (FC), pH (target 7.4\u20137.6), and Total Alkalinity (80\u2013100 ppm).",
+        "Adjust pH to 7.2\u20137.4 first using muriatic acid (always pour acid into water, never water into acid) so chlorine works at peak efficiency.",
+        "Pour liquid chlorine slowly in front of a running return jet after sunset (sunlight destroys unstabilized chlorine within hours) to raise FC to shock level (10\u201315 ppm).",
+        "Run the pump continuously for 24 hours and brush walls and steps thoroughly."
+      ],
+      "safety": "NEVER mix liquid chlorine and muriatic acid together or store them in the same closed cabinet\u2014mixing releases toxic chlorine gas.",
+      "tags": [
+        "pool",
+        "chlorine",
+        "shock",
+        "storm-recovery",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "rep-136",
+      "cat": "Home & Appliance Repair",
+      "sub": "Auto & Mechanical",
+      "title": "Jump-Starting a Dead Car Battery in Safe Cable Order",
+      "diff": "Easy",
+      "time": "10 mins",
+      "gear": [
+        "Heavy-gauge jumper cables or lithium jump pack",
+        "Safety glasses"
+      ],
+      "supplies": [
+        "Baking soda + water + wire brush (if terminals are corroded)"
+      ],
+      "steps": [
+        "Park the booster vehicle close without touching, turn BOTH vehicles OFF, and engage parking brakes.",
+        "Connect clamps in strict order: (1) RED clamp to dead battery (+) positive post; (2) RED clamp to good battery (+) positive post; (3) BLACK clamp to good battery (\u2013) negative post; (4) BLACK clamp to an unpainted metal ground bolt on the dead car's engine block away from the battery.",
+        "Start the good car, let idle 2 minutes, then start the dead car.",
+        "Remove clamps in exact reverse order (4, 3, 2, 1) without letting clamps touch each other, and drive 20\u201330 minutes to recharge the battery."
+      ],
+      "safety": "Never attach the final black clamp directly to the dead battery's negative post\u2014a spark near the battery can ignite hydrogen gas.",
+      "tags": [
+        "car",
+        "battery",
+        "jump-start",
+        "auto",
+        "emergency"
+      ]
+    },
+    {
+      "id": "rep-137",
+      "cat": "Home & Appliance Repair",
+      "sub": "Auto & Mechanical",
+      "title": "Changing a Flat Tire Safely on the Roadside",
+      "diff": "Easy",
+      "time": "25 mins",
+      "gear": [
+        "Lug wrench",
+        "Scissor or hydraulic jack",
+        "Wheel chocks or heavy rocks",
+        "Flashlight"
+      ],
+      "supplies": [
+        "Spare tire",
+        "Reflective warning triangle"
+      ],
+      "steps": [
+        "Pull completely off the road onto flat, solid pavement (never jack a car on soft mud or a steep hill), turn on hazards, and set the parking brake.",
+        "Wedge chocks/rocks behind and in front of the tire diagonally opposite the flat.",
+        "Crack each lug nut loose 1/2 turn while the tire is still on the ground (push wrench counter-clockwise).",
+        "Position the jack under the reinforced pinch-weld notch behind the front wheel or ahead of the rear wheel, raise until the flat is 2 inches off the ground, swap on the spare, hand-snug lugs in a star pattern, lower the car, and torque lugs tight."
+      ],
+      "safety": "Never put any part of your body underneath a vehicle supported only by a scissor jack.",
+      "tags": [
+        "flat-tire",
+        "car",
+        "auto",
+        "roadside",
+        "emergency"
+      ]
+    },
+    {
+      "id": "rep-138",
+      "cat": "Home & Appliance Repair",
+      "sub": "Auto & Mechanical",
+      "title": "Replacing Cabin & Engine Air Filters and Wiper Blades",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "Flathead screwdriver"
+      ],
+      "supplies": [
+        "Vehicle-specific engine air filter",
+        "Cabin air filter",
+        "Beam-style wiper blades"
+      ],
+      "steps": [
+        "Engine air filter: Unclip the black airbox under the hood, lift out the dirty filter, vacuum leaves out of the bottom tray, and drop in the new filter with rubber gasket seated flat.",
+        "Cabin air filter: Open the glovebox, unhook the side damper arm and squeeze the stops inward so the glovebox drops down, unclip the filter door, note the airflow arrow direction, and slide in the fresh filter.",
+        "Wiper blades: Lift the wiper arm gently (lay a towel on the glass in case the spring arm snaps down), press the release tab, slide off the old blade, and click the new blade until locked."
+      ],
+      "safety": "Never let a bare metal wiper arm rest upright unattended\u2014if bumped, the spring slams it hard enough to crack a windshield.",
+      "tags": [
+        "car",
+        "air-filter",
+        "wipers",
+        "auto",
+        "maintenance"
+      ]
+    },
+    {
+      "id": "rep-139",
+      "cat": "Home & Appliance Repair",
+      "sub": "Walls, Doors & Hardware",
+      "title": "Hanging Heavy TVs, Mirrors & Shelves in Studs vs. Drywall Anchors",
+      "diff": "Easy",
+      "time": "30 mins",
+      "gear": [
+        "Stud finder",
+        "Level",
+        "Drill/driver",
+        "Socket wrench"
+      ],
+      "supplies": [
+        "5/16-inch lag bolts (for studs)",
+        "Snap-toggle / Toggler anchors (for hollow drywall)"
+      ],
+      "steps": [
+        "Always mount TV brackets and heavy cabinets into wooden wall studs (spaced 16 inches on center): locate stud edges with a stud finder and confirm center with a thin finishing nail.",
+        "Pre-drill 3/16-inch pilot holes into stud centers, level the bracket, and drive 5/16-inch x 2.5-inch lag bolts snug with washers.",
+        "Where no stud exists for medium-weight shelves or mirrors, drill a 1/2-inch hole and insert heavy-duty snap-toggle bolts (rated 100+ lbs in 1/2-inch drywall) rather than cheap plastic expansion plugs."
+      ],
+      "safety": "Never drill directly above or below an electrical outlet or light switch where vertical Romex wires run inside the stud bay.",
+      "tags": [
+        "stud-finder",
+        "drywall-anchor",
+        "mounting",
+        "tv",
+        "tools"
+      ]
+    },
+    {
+      "id": "rep-140",
+      "cat": "Home & Appliance Repair",
+      "sub": "Plumbing & Water",
+      "title": "Fixing a Running or Weak-Flushing Bidet / Toilet Supply Line",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "Adjustable wrench",
+        "Small towel"
+      ],
+      "supplies": [
+        "Braided stainless steel supply line",
+        "PTFE thread seal tape"
+      ],
+      "steps": [
+        "Shut off the chrome angle-stop valve at the wall behind the toilet and flush to empty the tank.",
+        "Unscrew the existing supply hose from the tank bottom and wall valve; replace any stiff white plastic supply line with a burst-proof braided stainless steel line.",
+        "Do NOT put Teflon tape on compression or rubber-gasket hose threads\u2014the internal rubber cone washer makes the seal. Hand-tighten plus 1/2 turn with a wrench."
+      ],
+      "safety": "If the wall shutoff valve stem drips slightly when turned, tighten the packing nut just behind the handle 1/8 turn.",
+      "tags": [
+        "toilet",
+        "supply-line",
+        "plumbing",
+        "leak-prevention"
+      ]
+    },
+    {
+      "id": "rep-141",
+      "cat": "Home & Appliance Repair",
+      "sub": "Home Tech & Network",
+      "title": "Home Wi-Fi, Modem & NAS Power-Outage Recovery Sequence",
+      "diff": "Easy",
+      "time": "10 mins",
+      "gear": [
+        "UPS battery backup"
+      ],
+      "supplies": [
+        "Label tags for power bricks"
+      ],
+      "steps": [
+        "If internet fails to return after a power blink, unplug power from BOTH the fiber ONT/cable modem and the Wi-Fi router.",
+        "Plug in the fiber ONT/cable modem FIRST and wait a full 2\u20133 minutes until all upstream/online status lights turn solid.",
+        "Plug in the primary Wi-Fi router next and wait 2 minutes before powering on mesh nodes or switches.",
+        "Keep critical network gear on a UPS battery backup so brief grid flickers never corrupt drives or drop calls."
+      ],
+      "safety": "Shut down NAS servers cleanly via their dashboard or UPS USB trigger before prolonged battery depletion.",
+      "tags": [
+        "wifi",
+        "router",
+        "ups",
+        "outage",
+        "troubleshooting"
+      ]
+    },
+    {
+      "id": "rep-142",
+      "cat": "Home & Appliance Repair",
+      "sub": "Electrical & Safety",
+      "title": "Using a Non-Contact Voltage Tester & Outlet Polarity Checker",
+      "diff": "Easy",
+      "time": "5 mins",
+      "gear": [
+        "Non-contact voltage tester",
+        "3-prong GFCI outlet tester"
+      ],
+      "supplies": [],
+      "steps": [
+        "Test your non-contact voltage tester on a KNOWN live outlet first to confirm its battery and buzzer work.",
+        "Hold the plastic tip against the wire insulation or inside the narrow hot slot of an outlet: rapid red flashing and beeping indicates live AC voltage.",
+        "Re-verify on a known live outlet afterward ('Live-Dead-Live' safety rule).",
+        "Plug a 3-prong tester into outlets to spot 'Open Ground' or 'Hot/Neutral Reversed' wiring faults."
+      ],
+      "safety": "Non-contact testers do not detect DC battery voltage or shielded cables; always follow Live-Dead-Live verification.",
+      "tags": [
+        "voltage-tester",
+        "electrical",
+        "safety",
+        "tools",
+        "diy"
+      ]
+    },
+    {
+      "id": "rep-143",
+      "cat": "Home & Appliance Repair",
+      "sub": "Plumbing & Water",
+      "title": "Thawing Frozen Pipes Safely & Emergency PVC Slip-Coupling Repair",
+      "diff": "Medium",
+      "time": "30 mins",
+      "gear": [
+        "Hair dryer",
+        "PVC pipe cutter or hacksaw",
+        "Clean rag"
+      ],
+      "supplies": [
+        "Push-to-connect brass cap/coupling (SharkBite)",
+        "Bath towels"
+      ],
+      "steps": [
+        "If a faucet stops flowing during a hard freeze, leave the faucet OPEN so expanding steam/water has an escape path as ice melts.",
+        "Warm the frozen pipe section gradually with a hair dryer or hot wet towels starting from the faucet end and working back toward the wall\u2014NEVER use a propane torch.",
+        "If a pipe splits and sprays once thawed, shut off the main house valve immediately, cut cleanly 1 inch on either side of the split with a PVC/pipe cutter, deburr the edge, and push a SharkBite coupling onto both ends until it clicks."
+      ],
+      "safety": "Keep a 1/2-inch or 3/4-inch SharkBite end cap in your emergency toolbox\u2014it stops a burst pipe in 30 seconds without glue or soldering.",
+      "tags": [
+        "frozen-pipe",
+        "sharkbite",
+        "emergency",
+        "plumbing",
+        "freeze-prep"
+      ]
+    },
+    {
+      "id": "rep-144",
+      "cat": "Home & Appliance Repair",
+      "sub": "Kitchen Appliances",
+      "title": "Microwave Not Heating vs. Turntable / Door Switch Fault",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "Microfiber cloth",
+        "Flashlight"
+      ],
+      "supplies": [
+        "Rubbing alcohol",
+        "1 cup water in microwave-safe mug"
+      ],
+      "steps": [
+        "If the microwave runs and lights up but food stays cold after 60 seconds with a mug of water, check the mica waveguide cover inside the right wall\u2014grease splatters burn holes in it and cause arcing.",
+        "If the microwave fails to start or trips the breaker when closing the door, inspect the plastic door latch hooks and wipe sticky food off the latch slots.",
+        "Replace a scorched mica waveguide cover in 2 minutes by popping out the old card and snapping in a $6 replacement."
+      ],
+      "safety": "NEVER remove the outer metal cabinet of a microwave\u2014the high-voltage capacitor inside holds 2,000+ volts even when unplugged.",
+      "tags": [
+        "microwave",
+        "appliance",
+        "safety",
+        "kitchen"
+      ]
+    },
+    {
+      "id": "rep-145",
+      "cat": "Home & Appliance Repair",
+      "sub": "Walls, Doors & Hardware",
+      "title": "Fixing Squeaky Hardwood Floors & Stair Treads",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "Drill/driver",
+        "Stud finder"
+      ],
+      "supplies": [
+        "Break-away counter-snap floor screws",
+        "Talcum powder or dry graphite"
+      ],
+      "steps": [
+        "Squeaks happen when loose floorboards rub against nails or the subfloor.",
+        "For quick temporary quiet on bare hardwood seams, puff talcum powder or dry graphite into the joint and work it down by stepping on the board.",
+        "For a permanent fix through carpet or wood, use a counter-snap screw kit: drive the scored screw through the floor into the joist below, then snap the top head off cleanly 1/4-inch below the surface."
+      ],
+      "safety": "Check below the floor in a basement/crawlspace if accessible to avoid drilling into plumbing or wiring.",
+      "tags": [
+        "floors",
+        "squeak",
+        "stairs",
+        "carpentry",
+        "home-repair"
+      ]
+    },
+    {
+      "id": "rep-146",
+      "cat": "Home & Appliance Repair",
+      "sub": "Exterior & Roof",
+      "title": "Pressure Washing Concrete & Siding Without Etching or Water Intrusion",
+      "diff": "Easy",
+      "time": "1 hour",
+      "gear": [
+        "Pressure washer with 25\u00b0 (green) and 40\u00b0 (white) nozzles",
+        "Safety glasses",
+        "Closed-toe shoes"
+      ],
+      "supplies": [
+        "Oxygen bleach / house wash detergent"
+      ],
+      "steps": [
+        "NEVER use the pinpoint 0\u00b0 red nozzle on concrete, wood, or siding\u2014it carves permanent trenches into concrete and strips paint.",
+        "For driveways/sidewalks: pre-wet plants, apply concrete cleaner, and sweep smoothly with the 25\u00b0 green nozzle held 8\u201310 inches off the surface.",
+        "For painted siding: use low pressure with the 40\u00b0 white nozzle aimed slightly downward so water is never forced upward behind lap siding."
+      ],
+      "safety": "Never spray near electrical meter boxes, AC disconnects, or exterior outlets, and always wear closed-toe shoes.",
+      "tags": [
+        "pressure-washer",
+        "concrete",
+        "siding",
+        "exterior",
+        "cleaning"
+      ]
+    },
+    {
+      "id": "rep-147",
+      "cat": "Home & Appliance Repair",
+      "sub": "Walls, Doors & Hardware",
+      "title": "Replacing Torn Window & Patio Door Bug Screens",
+      "diff": "Easy",
+      "time": "25 mins",
+      "gear": [
+        "Screen spline roller tool",
+        "Utility knife",
+        "Flathead screwdriver"
+      ],
+      "supplies": [
+        "Roll of fiberglass or pet-resistant screen mesh",
+        "New rubber screen spline (match diameter)"
+      ],
+      "steps": [
+        "Lay the aluminum frame flat on a table, pry out the old rubber spline with a flathead screwdriver, and lift off the torn screen.",
+        "Roll new screen mesh over the frame with 2 inches of overhang on all sides.",
+        "Use the concave wheel of a spline roller to press the new rubber spline into the frame channel along two adjacent sides, pull the mesh gently taut (not bowed inward), and roll the remaining two sides.",
+        "Trim excess mesh cleanly along the outside edge of the spline with a fresh utility blade."
+      ],
+      "safety": "Angle the utility blade outward against the metal frame lip so you do not slice the newly installed screen.",
+      "tags": [
+        "window-screen",
+        "mosquitoes",
+        "patio",
+        "diy",
+        "summer"
+      ]
+    },
+    {
+      "id": "rep-148",
+      "cat": "Home & Appliance Repair",
+      "sub": "Tools & Maintenance",
+      "title": "Essential 20-Piece Homeowner Emergency Tool Kit",
+      "diff": "Easy",
+      "time": "Reference guide",
+      "gear": [
+        "16-oz claw hammer",
+        "6-in-1 screwdriver",
+        "10-inch channel-lock pliers",
+        "Needle-nose pliers",
+        "Adjustable crescent wrench",
+        "25-ft tape measure",
+        "Torpedo level",
+        "Utility knife",
+        "18V cordless drill + bit set",
+        "Digital multimeter",
+        "Non-contact voltage tester",
+        "Headlamp",
+        "Water meter curb key"
+      ],
+      "supplies": [
+        "Assorted wood screws & drywall anchors",
+        "Electrical tape, duct tape & foil HVAC tape",
+        "PTFE plumber's tape",
+        "Zip ties",
+        "1/2-inch & 3/4-inch SharkBite caps"
+      ],
+      "steps": [
+        "Keep these core tools together in a single grab-and-go tote or toolbox inside the house (not buried in the back of a hot shed).",
+        "Store extra AA/AAA batteries and a headlamp right on top so you have hands-free light during night outages.",
+        "Add your home's exact HVAC filter size, fridge water filter model, and dryer thermal fuse part number on a card inside the lid."
+      ],
+      "safety": "Inspect flashlight and tester batteries every 6 months when clocks change.",
+      "tags": [
+        "toolbox",
+        "essentials",
+        "checklist",
+        "tools",
+        "preparedness"
+      ]
+    },
+    {
+      "id": "rep-149",
+      "cat": "Home & Appliance Repair",
+      "sub": "Electrical & Safety",
+      "title": "Fire Extinguisher PASS Method & Kitchen Grease Fire Rules",
+      "diff": "Easy",
+      "time": "5 mins",
+      "gear": [
+        "ABC Dry Chemical Fire Extinguisher (5-lb minimum)"
+      ],
+      "supplies": [
+        "Metal pot lid or baking sheet",
+        "Baking soda"
+      ],
+      "steps": [
+        "For a small pan grease fire: slide a metal lid or baking sheet sideways over the pan to smother oxygen and turn the burner OFF\u2014NEVER throw water or flour on burning oil (water causes an explosive fireball).",
+        "For spreading fires, use the PASS method from 6\u20138 feet back: Pull the pin, Aim low at the base of the flames, Squeeze the lever, Sweep side to side.",
+        "Check the pressure gauge needle monthly\u2014it must sit squarely in the green zone, and invert dry-chemical extinguishers once a year to loosen settled powder."
+      ],
+      "safety": "If a fire grows taller than your waist or fills the room with smoke, evacuate immediately and call 911 from outside.",
+      "tags": [
+        "fire-safety",
+        "extinguisher",
+        "grease-fire",
+        "kitchen",
+        "emergency"
+      ]
+    },
+    {
+      "id": "rep-150",
+      "cat": "Home & Appliance Repair",
+      "sub": "Tools & Maintenance",
+      "title": "Seasonal Home Maintenance Checklist (Spring, Summer, Fall, Winter)",
+      "diff": "Easy",
+      "time": "Reference guide",
+      "gear": [
+        "Step ladder",
+        "Garden hose",
+        "Shop vac"
+      ],
+      "supplies": [
+        "HVAC filters",
+        "Vinegar",
+        "Foam pipe covers"
+      ],
+      "steps": [
+        "Spring: Clean outdoor AC condenser coils, flush condensate line with vinegar, test GFCI outlets, check roof shingles and caulking.",
+        "Summer: Clean dryer vent duct, check attic insulation/ventilation, verify generator starts under load, and test smoke/CO alarms.",
+        "Fall: Clean gutters and downspouts, flush water heater sediment, test furnace heat strips/pilot before cold snaps, and stock pipe insulation.",
+        "Winter: Cover exterior hose bibs, verify main water shutoff valve turns smoothly, check door weatherstripping, and test sump/drainage paths."
+      ],
+      "safety": "Keep a printed copy of emergency utility phone numbers and shutoff locations taped inside the utility closet door.",
+      "tags": [
+        "checklist",
+        "maintenance",
+        "seasonal",
+        "homeowner",
+        "friendswood"
+      ]
+    }
+  ],
+  "glossary": {
+    "non-contact voltage tester": {
+      "term": "Non-Contact Voltage Tester",
+      "aka": "Volt tick / inductance tester pen",
+      "svg": "volttester",
+      "def": "A pocket pen-shaped safety tester that lights up and beeps when its insulated plastic tip detects live 50V\u20131000V AC current inside a wire or outlet\u2014without touching bare metal. Always verify it works on a known live outlet before and after testing."
+    },
+    "water meter curb key": {
+      "term": "Water Meter Curb Key",
+      "aka": "T-handle street shutoff wrench",
+      "svg": "curbkey",
+      "def": "A long steel T-handled rod with a U-shaped slotted fork at the bottom designed to reach inside underground street water-meter boxes and turn the city water shutoff valve 90 degrees during a major plumbing emergency."
+    },
+    "push-to-connect brass cap": {
+      "term": "Push-to-Connect Pipe Cap (SharkBite)",
+      "aka": "Emergency brass push-fit end stop",
+      "svg": "sharkbite",
+      "def": "A brass plumbing fitting with internal stainless-steel teeth and an O-ring that snaps onto cut copper, PEX, or CPVC pipe in seconds without glue, solder, or torches\u2014ideal for capping a burst pipe during a hard freeze."
+    },
+    "wet/dry shop vac": {
+      "term": "Wet/Dry Shop Vacuum",
+      "aka": "Utility canister vacuum",
+      "svg": "shopvac",
+      "def": "A heavy-duty canister vacuum capable of suctioning both water (when the paper dust filter is removed) and construction debris\u2014indispensable for clearing algae-clogged AC condensate drain lines and containing water leaks."
+    },
+    "stud finder": {
+      "term": "Electronic Stud Finder",
+      "aka": "Wall framing scanner",
+      "svg": "studfinder",
+      "def": "A handheld density sensor slid flat across drywall to locate the edges and center of hidden wooden 2x4 wall studs (typically spaced 16 inches apart) so heavy TVs, shelves, and cabinets anchor into solid lumber."
+    }
+  }
+}
