@@ -1,10 +1,11 @@
 {
-  "version": "2026.11.15-m5",
+  "version": "2026.11.15-m6",
   "files": [
-    "01-kitchen-from-scratch.json",
+    "01_kitchen_scratch.json",
     "02-homestead-garden.json",
     "03-home-appliance-repair.json",
     "04-wilderness-emergency.json",
-    "05-first-aid-remedies.json"
+    "05-first-aid-remedies.json",
+    "06-crafts-textiles.json"
   ]
 }
