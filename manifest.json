@@ -1,0 +1,22 @@
+{
+  "name": "Field & Home \u2014 Cindy's Skills Guide",
+  "short_name": "Field & Home",
+  "description": "Offline-first field guide for homemade skills, gardening, home repair, survival, and workshop logs.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f4ef",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
