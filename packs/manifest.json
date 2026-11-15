@@ -1,8 +1,9 @@
 {
-  "version": "2026.11.15-m3",
+  "version": "2026.11.15-m4",
   "files": [
     "01-kitchen-from-scratch.json",
     "02-homestead-garden.json",
-    "03-home-appliance-repair.json"
+    "03-home-appliance-repair.json",
+    "04-wilderness-emergency.json"
   ]
 }

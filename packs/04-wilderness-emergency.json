@@ -1,0 +1,1518 @@
+{
+  "guides": [
+    {
+      "id": "sur-101",
+      "cat": "Wilderness & Emergency",
+      "sub": "Mindset & Priorities",
+      "title": "The Rule of Threes & STOP Survival Protocol",
+      "diff": "Easy",
+      "time": "5 mins",
+      "gear": [
+        "Pocket notepad & pencil",
+        "Whistle"
+      ],
+      "supplies": [],
+      "steps": [
+        "Apply the STOP protocol immediately when lost, stranded, or hit by disaster: Sit down, Think calmly, Observe surroundings/resources/hazards, Plan priorities before expending energy.",
+        "Follow the physiological Rule of Threes in strict order: 3 minutes without air/bleeding control, 3 hours without shelter in extreme heat/cold, 3 days without water, 3 weeks without food.",
+        "Inventory everything on your person and in your vehicle/pack before moving, and establish regular check-in routines to defeat panic and despair."
+      ],
+      "safety": "Panic burns calories, causes dehydration, and leads to fatal navigation errors\u2014spend 5 minutes sitting and thinking before taking a single step.",
+      "tags": [
+        "mindset",
+        "rule-of-threes",
+        "stop",
+        "psychology",
+        "essentials"
+      ]
+    },
+    {
+      "id": "sur-102",
+      "cat": "Wilderness & Emergency",
+      "sub": "Mindset & Priorities",
+      "title": "72-Hour Vehicle & Home Bug-Out Bag (BOB) Master Loadout",
+      "diff": "Easy",
+      "time": "1 hour",
+      "gear": [
+        "40L\u201350L backpack",
+        "Fixed-blade full-tang knife",
+        "Multi-tool",
+        "Headlamp + spare batteries",
+        "Hollow-fiber water filter",
+        "Stainless steel single-wall water bottle",
+        "Ferrocerium rod + Bic lighters",
+        "Emergency bivvy / Mylar blanket",
+        "Silnylon tarp (10x10 ft)",
+        "550 paracord (100 ft)",
+        "NOAA crank/solar weather radio",
+        "Compass & regional paper maps"
+      ],
+      "supplies": [
+        "3 liters water + purification tablets",
+        "3,600+ kcal no-cook rations",
+        "7-day prescription meds + trauma first-aid kit",
+        "N95 masks & nitrile gloves",
+        "Cash ($200+ in $1s, $5s, $20s)",
+        "Waterproof pouch with ID/insurance copies",
+        "Spare socks, rain poncho, leather gloves"
+      ],
+      "steps": [
+        "Pack heavy items (water, food, tools) close to your spine between the shoulder blades and keep total bag weight under 20% of body weight.",
+        "Line the inside of the pack with a heavy-duty contractor trash bag as a waterproof liner before loading clothes and electronics.",
+        "Keep a dedicated scaled-down Get-Home Bag in each vehicle trunk with walking shoes, water, headlamp, jumper pack, and rain gear.",
+        "Audit food, water, batteries, and medications every 6 months at daylight saving time."
+      ],
+      "safety": "Never pack canned goods requiring a separate opener unless a P-38/multi-tool is attached, and avoid cotton clothing ('cotton kills' when wet).",
+      "tags": [
+        "bug-out-bag",
+        "go-bag",
+        "checklist",
+        "edc",
+        "gear"
+      ]
+    },
+    {
+      "id": "sur-103",
+      "cat": "Wilderness & Emergency",
+      "sub": "Mindset & Priorities",
+      "title": "Pocket Survival Tin & Everyday Carry (EDC) Altoids Kit",
+      "diff": "Easy",
+      "time": "30 mins",
+      "gear": [
+        "Hinged metal tin",
+        "Mini ferro rod & striker",
+        "Button compass (liquid-filled)",
+        "Razor blade / scalpel blade",
+        "Micro LED flashlight",
+        "Whistle (pealess)"
+      ],
+      "supplies": [
+        "Waterproof storm matches",
+        "Tinder tabs (petroleum-soaked cotton)",
+        "Water purification tablets (6\u201310)",
+        "1-quart heavy freezer bag (water vessel)",
+        "15 ft braided fishing line + 4 hooks + split shot",
+        "Heavy sewing needle + Kevlar thread",
+        "Safety pins & brass snare wire (6 ft)",
+        "Ranger bands (heavy rubber bands sealing tin)"
+      ],
+      "steps": [
+        "Seal the tin seam with a wide Ranger band (cut bicycle inner tube) so contents stay bone-dry and the band itself serves as emergency high-heat tinder.",
+        "Glue a strip of adhesive reflective tape or signal mirror film inside the lid.",
+        "Carry the tin in a pocket rather than inside your main pack so you still have fire, water purification, signaling, and snare tools if separated from your bag."
+      ],
+      "safety": "Wrap bare razor/scalpel blades in cardboard sleeves inside the tin so you do not slice fingers when opening in the dark.",
+      "tags": [
+        "survival-tin",
+        "edc",
+        "sas",
+        "kit",
+        "pocket"
+      ]
+    },
+    {
+      "id": "sur-104",
+      "cat": "Wilderness & Emergency",
+      "sub": "Tools & Blades",
+      "title": "Survival Knife Selection, Safe Batoning & Field Sharpening",
+      "diff": "Medium",
+      "time": "30 mins",
+      "gear": [
+        "Full-tang fixed-blade knife (4\u20135 inch blade)",
+        "Pocket diamond/ceramic sharpener",
+        "Folding saw"
+      ],
+      "supplies": [
+        "Mineral oil or food-safe wax",
+        "Hardwood baton stick"
+      ],
+      "steps": [
+        "Choose a 4\u20135 inch full-tang carbon or tough stainless steel blade with a 90\u00b0 sharp spine (for striking ferro rods and scraping wood shavings).",
+        "For splitting wrist-thick dry kindling (batoning): rest the blade edge on the wood grain, strike ONLY the protruding tip/spine with a wooden baton (never a rock or metal hammer), and never twist the blade sideways.",
+        "Maintain the edge in the field by stroking each side 5\u201310 times along a pocket diamond stone at a consistent 20\u00b0 angle, finishing on a leather belt strop."
+      ],
+      "safety": "Always carve away from your body and outside the 'triangle of death' (inner thighs/femoral arteries); keep folding knives locked and never baton a folder.",
+      "tags": [
+        "knife",
+        "batoning",
+        "sharpening",
+        "tools",
+        "bushcraft"
+      ]
+    },
+    {
+      "id": "sur-105",
+      "cat": "Wilderness & Emergency",
+      "sub": "Water & Hydration",
+      "title": "Finding Hidden Water: Terrain Clues, Dry Riverbeds & Dew",
+      "diff": "Medium",
+      "time": "1\u20132 hours",
+      "gear": [
+        "Digging stick or folding shovel",
+        "Absorbent cotton cloth",
+        "Clean container"
+      ],
+      "supplies": [],
+      "steps": [
+        "Follow downhill terrain, converging animal trails at dawn/dusk, swarms of bees/flies, and water-loving trees (willows, cottonwoods, sycamores, cattails).",
+        "In a dry creek bed, dig 1\u20132 feet deep at the OUTSIDE bend of a curve (where fast water scoured deepest) until water seeps in; let sediment settle before scooping.",
+        "Collect morning dew before sunrise by tying clean cotton rags around ankles and walking through tall unpolluted grass, wringing water into a bottle."
+      ],
+      "safety": "Never drink saltwater, urine, alcohol, or milky/sticky plant sap; always filter and purify all found surface water.",
+      "tags": [
+        "water-finding",
+        "dew",
+        "riverbed",
+        "foraging",
+        "hydration"
+      ]
+    },
+    {
+      "id": "sur-106",
+      "cat": "Wilderness & Emergency",
+      "sub": "Water & Hydration",
+      "title": "Building a Solar Still & Tree Transpiration Bag",
+      "diff": "Medium",
+      "time": "4\u201324 hours",
+      "gear": [
+        "Digging tool",
+        "Cup/can",
+        "Clear plastic sheet (6x6 ft) or clear heavy trash bag"
+      ],
+      "supplies": [
+        "Green non-toxic leafy branches",
+        "Small rock",
+        "String or rubber band"
+      ],
+      "steps": [
+        "Transpiration bag (fastest passive yield): Slip a clear plastic bag over a sun-exposed branch of a non-toxic leafy tree (oak, willow, fruit tree), tie the mouth airtight around the stem, and weight the bottom corner so condensed water pools away from leaves.",
+        "Solar ground still: Dig a 3-ft-wide by 2-ft-deep bowl in sunny moist soil, place a catch cup in the center, pack chopped green vegetation around the cup, cover the pit with clear plastic sealed with soil around the rim, and place a small stone in the center directly over the cup.",
+        "Sun heats the pit, evaporating moisture that condenses on the underside of the plastic and drips into the cup."
+      ],
+      "safety": "Never use toxic plants (oleander, poison ivy, yew, nightshade) inside a solar still or transpiration bag.",
+      "tags": [
+        "solar-still",
+        "transpiration",
+        "water",
+        "desert",
+        "survival"
+      ]
+    },
+    {
+      "id": "sur-107",
+      "cat": "Wilderness & Emergency",
+      "sub": "Water & Hydration",
+      "title": "DIY Tripod Sand-and-Charcoal Water Filter + Boiling",
+      "diff": "Medium",
+      "time": "45 mins",
+      "gear": [
+        "3 wooden poles",
+        "2-liter plastic bottle (bottom cut off) or cloth cone",
+        "Metal pot"
+      ],
+      "supplies": [
+        "Cordage",
+        "Clean grass/cloth",
+        "Crushed hardwood campfire charcoal",
+        "Clean sand",
+        "Small gravel"
+      ],
+      "steps": [
+        "Cut the bottom off a plastic bottle (or lash 3 poles into a tripod with tiered cloth slings), plug the neck tightly with clean grass or cotton cloth.",
+        "Layer from bottom to top: 2 inches fine sand, 3 inches crushed wood charcoal (removes chemicals/odors), 2 inches coarse sand, and 2 inches small gravel on top.",
+        "Pour muddy water through slowly; discard the first cloudy flush until water runs clear.",
+        "CRITICAL: A sand/charcoal filter removes sediment and some chemicals ONLY\u2014you MUST boil the filtered water for 1 full minute (or treat with bleach/tablets) to kill bacteria, viruses, and protozoa."
+      ],
+      "safety": "Never use charcoal briquettes (which contain chemical binders/lighter fluid)\u2014use pure charred wood from a campfire.",
+      "tags": [
+        "water-filter",
+        "charcoal",
+        "purification",
+        "bushcraft",
+        "boiling"
+      ]
+    },
+    {
+      "id": "sur-108",
+      "cat": "Wilderness & Emergency",
+      "sub": "Water & Hydration",
+      "title": "Household Emergency Water Storage, Water Heater Tap & SODIS",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "Hollow-fiber filter (Sawyer/Katadyn)",
+        "Clear 2-liter PET soda bottles",
+        "Garden hose"
+      ],
+      "supplies": [
+        "Food-grade water bricks/jugs",
+        "Chlorine dioxide tablets"
+      ],
+      "steps": [
+        "Store at least 1 gallon per person (plus 1/2 gallon per pet) per day for 14 days in food-grade HDPE containers out of direct sunlight.",
+        "During a municipal boil-water notice or outage, turn off power/gas to your water heater, close its cold inlet, open a hot faucet upstairs, and drain 30\u201350 gallons of clean reserve water from the bottom tank valve.",
+        "SODIS backup method: Fill clear, scratch-free PET plastic bottles with clear filtered water, shake 20 seconds to oxygenate, and lay flat in direct blazing sun for 6 hours (or 2 full days if cloudy) so UV-A rays neutralize pathogens."
+      ],
+      "safety": "Never store drinking water in old milk jugs (biodegradable plastic leaks) or containers that held non-food chemicals.",
+      "tags": [
+        "water-storage",
+        "sodis",
+        "water-heater",
+        "hurricane",
+        "household"
+      ]
+    },
+    {
+      "id": "sur-109",
+      "cat": "Wilderness & Emergency",
+      "sub": "Firecraft",
+      "title": "Tinder, Kindling & Fuelwood Prep (3-Stage Fire Pyramid)",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "Fixed-blade knife",
+        "Folding saw"
+      ],
+      "supplies": [
+        "Dry tinder bundle",
+        "Pencil-lead twigs",
+        "Pencil-thick kindling",
+        "Thumb-to-wrist fuelwood"
+      ],
+      "steps": [
+        "Gather 3x more fuel than you think you need BEFORE striking a spark, sorting into four distinct piles off the damp ground.",
+        "Collect dead standing branches ('squaw wood') that snap sharply\u2014avoid punky ground wood that absorbs moisture.",
+        "Build a dry platform of split sticks on wet ground, place a bird's-nest tinder bundle in the center, and keep air gaps between sticks so oxygen feeds the flame from below."
+      ],
+      "safety": "Clear a 10-foot ring down to bare mineral soil or rock away from overhanging branches and dry grass.",
+      "tags": [
+        "fire",
+        "tinder",
+        "kindling",
+        "bushcraft",
+        "essentials"
+      ]
+    },
+    {
+      "id": "sur-110",
+      "cat": "Wilderness & Emergency",
+      "sub": "Firecraft",
+      "title": "Making Feather Sticks & Striking a Ferrocerium Rod",
+      "diff": "Medium",
+      "time": "15 mins",
+      "gear": [
+        "Fixed-blade knife with 90\u00b0 spine",
+        "Ferrocerium rod"
+      ],
+      "supplies": [
+        "Dry split softwood or hardwood stick (wrist-thick)"
+      ],
+      "steps": [
+        "Split a dry stick in half to expose bone-dry heartwood, rest the bottom tip firmly on a log/ground, and shave thin curling ribbons down the grain without severing them at the base.",
+        "Make 3\u20134 fluffy feather sticks so fine curls catch sparks instantly even after rain.",
+        "Place the tip of your ferro rod directly into the tinder/curls, hold the 90\u00b0 knife spine steady, and pull the ferro rod BACKWARD away from the pile\u2014scraping showers of 5,000\u00b0F sparks straight into the tinder without knocking your nest apart."
+      ],
+      "safety": "Pulling the ferro rod backward (rather than pushing the knife forward) prevents your blade from plunging into your tinder pile or hand.",
+      "tags": [
+        "ferro-rod",
+        "feather-stick",
+        "fire",
+        "wet-weather",
+        "knife"
+      ]
+    },
+    {
+      "id": "sur-111",
+      "cat": "Wilderness & Emergency",
+      "sub": "Firecraft",
+      "title": "Fire Lays: Teepee, Log Cabin, Star, Dakota Fire Hole & Reflector",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "Digging tool",
+        "Folding saw"
+      ],
+      "supplies": [
+        "Assorted dry firewood",
+        "Green logs (for reflector wall)"
+      ],
+      "steps": [
+        "Teepee Lay: Lean kindling in a cone over tinder for fast, high flames ideal for boiling water quickly.",
+        "Log Cabin Lay: Stack parallel logs in a square around a starter teepee for a long-burning bed of cooking coals.",
+        "Dakota Fire Hole (windproof & stealthy): Dig two 12-inch-deep holes 10 inches apart connected by an underground air tunnel; build fire in the downwind hole while wind funnels down the upwind air shaft for intense, low-smoke heat.",
+        "Heat Reflector Wall: Stack green logs or rocks behind the fire facing your shelter to bounce radiant heat back toward you all night."
+      ],
+      "safety": "Never build a fire on peat moss or deep pine needles where smoldering roots can ignite a wildfire days later.",
+      "tags": [
+        "fire-lays",
+        "dakota-hole",
+        "cooking-fire",
+        "shelter-heat",
+        "sas"
+      ]
+    },
+    {
+      "id": "sur-112",
+      "cat": "Wilderness & Emergency",
+      "sub": "Firecraft",
+      "title": "Bow-Drill Friction Fire & Making Char Cloth",
+      "diff": "Hard",
+      "time": "1 hour",
+      "gear": [
+        "Fixed-blade knife",
+        "Altoids metal tin with nail hole"
+      ],
+      "supplies": [
+        "Dry softwood hearth & spindle (cedar, willow, cottonwood, yucca)",
+        "Curved branch + 550 paracord (bow)",
+        "Hardwood socket block",
+        "100% cotton cloth squares"
+      ],
+      "steps": [
+        "Char cloth: Pack 2x2-inch squares of 100% pure cotton (old jeans/t-shirt) into a metal tin with a tiny vent hole in the lid, place in campfire coals until smoke stops jetting from the hole, remove and plug the hole to cool.",
+        "Bow drill: Carve a thumb-thick spindle and flat hearth board from the same dry non-resinous wood, burn a shallow depression, then cut a 1/8-pie V-notch right to the center of the depression.",
+        "Wrap the bow cord once around the spindle, brace your wrist firmly against your shin, apply downward pressure with the lubricated socket block, and saw with smooth full-length strokes until dark brown powder fills the notch and smokes on its own.",
+        "Gently transfer the glowing coal into a dry tinder nest and blow steadily until flames burst."
+      ],
+      "safety": "Avoid resinous pine for bow-drill spindles\u2014sap glazes the tip and stops friction heat.",
+      "tags": [
+        "bow-drill",
+        "friction-fire",
+        "char-cloth",
+        "primitive",
+        "sas"
+      ]
+    },
+    {
+      "id": "sur-113",
+      "cat": "Wilderness & Emergency",
+      "sub": "Firecraft",
+      "title": "Improvised Fire Ignition: Battery + Foil, Lens & Vaseline Cotton",
+      "diff": "Easy",
+      "time": "10 mins",
+      "gear": [
+        "AA/9V battery",
+        "Magnifying lens / reading glasses / clear water bottle"
+      ],
+      "supplies": [
+        "Foil gum wrapper or fine steel wool (0000)",
+        "Cotton balls + petroleum jelly"
+      ],
+      "steps": [
+        "Waterproof tinder tabs: Knead petroleum jelly thoroughly into cotton balls and store in a pill bottle\u2014pull apart to expose dry inner fibers; a single spark ignites a 4-minute waterproof flame.",
+        "Battery ignition: Cut a foil-backed gum wrapper into an hourglass shape with a 2mm narrow waist in the center, press the foil ends against the (+) and (\u2013) terminals of a AA battery (or touch 0000 steel wool across a 9V battery) to ignite the paper waist.",
+        "Solar ignition: Focus bright midday sunlight through a magnifying glass, convex reading glasses, or a round clear water bottle onto dark char cloth or dark tinder."
+      ],
+      "safety": "Wear gloves or hold foil ends with dry cloth\u2014short-circuited batteries heat up rapidly.",
+      "tags": [
+        "fire-starting",
+        "improvised",
+        "tinder",
+        "battery",
+        "emergency"
+      ]
+    },
+    {
+      "id": "sur-114",
+      "cat": "Wilderness & Emergency",
+      "sub": "Shelter & Knots",
+      "title": "Shelter Site Selection & 5 Deadly Hazards to Avoid",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "Compass"
+      ],
+      "supplies": [],
+      "steps": [
+        "Look UP first for 'widowmakers'\u2014dead hanging branches, leaning trunks, or loose rocks above your camp.",
+        "Avoid dry riverbeds, narrow canyons, and low drainage depressions where flash floods or cold-air pooling occur at night.",
+        "Avoid hilltop ridges exposed to wind and lightning, as well as insect-heavy stagnant marsh edges and ant mounds.",
+        "Choose a flat, slightly elevated well-drained spot near dead firewood and water, oriented with the shelter back into the prevailing wind."
+      ],
+      "safety": "Conduction into cold ground steals body heat 25x faster than air\u2014always build a 6-inch-thick dry leaf/pine-bough mattress before building a roof.",
+      "tags": [
+        "shelter",
+        "camp-site",
+        "widowmakers",
+        "hypothermia",
+        "essentials"
+      ]
+    },
+    {
+      "id": "sur-115",
+      "cat": "Wilderness & Emergency",
+      "sub": "Shelter & Knots",
+      "title": "6 Essential Survival Knots & Lashings (Step-by-Step)",
+      "diff": "Easy",
+      "time": "30 mins",
+      "gear": [
+        "550 paracord (6-ft practice line)",
+        "Two wooden poles"
+      ],
+      "supplies": [],
+      "steps": [
+        "1. Bowline (non-slip fixed loop): Form an overhand loop ('rabbit hole'), pass the working end up through the hole, around behind the standing line ('around the tree'), and back down through the hole; pull tight.",
+        "2. Taut-Line Hitch (adjustable guyline tensioner): Wrap working end twice around the standing line inside the loop, then once outside above the wraps; slide to tighten or loosen tarp stakes.",
+        "3. Clove Hitch (fast post/pole anchor): Wrap rope around a pole, cross over itself to make an X, wrap around a second time, and tuck the working end under the top X wrap.",
+        "4. Trucker's Hitch (3:1 mechanical pulley): Tie an alpine butterfly or slip loop midway up the line, pass the working end around an anchor, thread back through the loop, pull down hard to cinch cargo/ridgeline taut, and lock with two half-hitches.",
+        "5. Square Lashing (joining two poles at 90\u00b0): Start with a clove hitch on the vertical pole, wrap over-and-under both poles 4 times, wrap 2\u20133 tight 'frapping' turns between the poles to cinch tight, and finish with a clove hitch."
+      ],
+      "safety": "Melt cut ends of nylon 550 paracord with a lighter to fuse the 7 inner strands to the outer sheath.",
+      "tags": [
+        "knots",
+        "bowline",
+        "taut-line",
+        "truckers-hitch",
+        "lashing",
+        "paracord"
+      ]
+    },
+    {
+      "id": "sur-116",
+      "cat": "Wilderness & Emergency",
+      "sub": "Shelter & Knots",
+      "title": "A-Frame, Plow-Point & Lean-To Tarp Shelter Rigging",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "10x10 ft tarp",
+        "550 paracord (50 ft)",
+        "6 tent stakes"
+      ],
+      "supplies": [
+        "Small smooth pebbles (for corner tie-outs if grommets tear)"
+      ],
+      "steps": [
+        "Rig a taut chest-high ridgeline between two trees using a bowline on one end and a trucker's hitch on the other; add two Prusik loops on the ridgeline to clip the tarp corners so the tarp slides and centers effortlessly.",
+        "A-Frame (best all-weather rain protection): Drape the tarp symmetrically over the ridgeline and stake all four corners out at 45\u00b0 angles.",
+        "Plow-Point (fastest 3-minute storm shelter): Tie one corner of a square tarp to a tree at waist height, stake the opposite corner into the ground into the wind, and stake the two side wings out.",
+        "Tie drip-stop cords 6 inches from trees on the ridgeline so rainwater drips off the strings instead of soaking the inside of your tarp."
+      ],
+      "safety": "Never stretch a tarp drum-tight in dry afternoon heat if rain is coming\u2014nylon sags when wet, whereas polyester stays taut.",
+      "tags": [
+        "tarp",
+        "shelter",
+        "a-frame",
+        "plow-point",
+        "ridgeline"
+      ]
+    },
+    {
+      "id": "sur-117",
+      "cat": "Wilderness & Emergency",
+      "sub": "Shelter & Knots",
+      "title": "Building a Natural Debris Hut (Zero-Gear Freezing Weather Shelter)",
+      "diff": "Medium",
+      "time": "2\u20133 hours",
+      "gear": [
+        "Fixed-blade knife (optional)"
+      ],
+      "supplies": [
+        "1 sturdy 9-ft ridgepole",
+        "2 forked support sticks",
+        "30+ rib sticks",
+        "Massive pile of dry leaves, pine needles, ferns, and bark"
+      ],
+      "steps": [
+        "Prop a stout 9-foot ridgepole onto two forked sticks (or a low stump) at hip height so the back slopes all the way down to the ground.",
+        "Pack the interior floor first with 6\u20138 inches of dry leaves/pine needles so your body never touches bare earth.",
+        "Lean smaller rib sticks along both sides at 45\u00b0 angles spaced 6 inches apart, weaving cross-twigs to form a lattice.",
+        "Pile at least 2 to 3 FEET (arm's-length thick!) of dry leaves, grass, and bark over the entire frame, and stuff a backpack or leaf-filled sack in the entrance doorway at night."
+      ],
+      "safety": "Keep the interior snug\u2014just wide enough for your shoulders\u2014so your own body heat warms the trapped air pocket.",
+      "tags": [
+        "debris-hut",
+        "shelter",
+        "cold-weather",
+        "primitive",
+        "sas"
+      ]
+    },
+    {
+      "id": "sur-118",
+      "cat": "Wilderness & Emergency",
+      "sub": "Climate & Terrain",
+      "title": "Extreme Heat, Humidity & Gulf Coast Blackout Cooling",
+      "diff": "Easy",
+      "time": "Ongoing",
+      "gear": [
+        "Battery/USB rechargeable fans",
+        "Spray bottle",
+        "Reflective emergency blankets"
+      ],
+      "supplies": [
+        "Electrolyte packets",
+        "Cotton bandanas"
+      ],
+      "steps": [
+        "During summer grid outages in Southeast Texas, close blinds/curtains on south and west windows and tape reflective Mylar blankets (shiny side out) on sun-facing glass.",
+        "Keep all indoor doors open at night if safe to vent heat, then seal windows early in the morning before outdoor air heats up.",
+        "Cool the body directly via evaporative pulse-point cooling: drape wet bandanas over the back of the neck, wrists, and ankles while running a small battery fan.",
+        "Restrict heavy physical labor to before 10:00 AM and after 6:00 PM, sipping water with electrolytes before thirst sets in."
+      ],
+      "safety": "Never leave children, elderly relatives, or pets in parked vehicles or unventilated upstairs attics/rooms during summer blackouts.",
+      "tags": [
+        "heatwave",
+        "cooling",
+        "blackout",
+        "friendswood",
+        "texas"
+      ]
+    },
+    {
+      "id": "sur-119",
+      "cat": "Wilderness & Emergency",
+      "sub": "Climate & Terrain",
+      "title": "Cold Weather Layering (Wick-Warm-Weather) & Hypothermia Prevention",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "Wool or synthetic base layer",
+        "Fleece/down mid-layer",
+        "Waterproof/windproof outer shell",
+        "Wool hat & mittens"
+      ],
+      "supplies": [
+        "Chemical hand warmers",
+        "High-fat snacks"
+      ],
+      "steps": [
+        "Dress in 3 modular layers: (1) moisture-wicking merino wool or polyester against skin; (2) insulating fleece, wool, or down; (3) breathable wind/rain shell.",
+        "Vent zippers BEFORE you start sweating during exertion\u2014sweat-soaked clothing loses up to 90% of its insulating value.",
+        "Cover head, neck, and wrists (up to 30% of heat loss occurs from an uncovered head/neck), and eat high-calorie foods before bed so metabolism fuels warmth overnight."
+      ],
+      "safety": "Strictly avoid cotton jeans, hoodies, and socks in cold/wet conditions\u2014cotton holds water and accelerates hypothermia.",
+      "tags": [
+        "cold-weather",
+        "layering",
+        "hypothermia",
+        "winter",
+        "sas"
+      ]
+    },
+    {
+      "id": "sur-120",
+      "cat": "Wilderness & Emergency",
+      "sub": "Climate & Terrain",
+      "title": "Desert & Arid Terrain Survival (Shade, Water Rationing & Night Travel)",
+      "diff": "Medium",
+      "time": "Ongoing",
+      "gear": [
+        "Wide-brim hat",
+        "Sunglasses / slit glare visor",
+        "2 tarps or space blankets",
+        "Lip balm & sunscreen"
+      ],
+      "supplies": [
+        "4\u20138 liters water per person/day"
+      ],
+      "steps": [
+        "Ration your SWEAT, not your water: never ration water in your canteen while dehydrating\u2014drink steadily to keep blood volume circulating, and stay completely still in deep shade during peak heat (10 AM \u2013 4 PM).",
+        "Create a double-roof air-gap shade canopy using two tarps spaced 12 inches apart so upper heat radiates away instead of baking underneath.",
+        "Keep loose, light-colored long sleeves and pants buttoned up\u2014bare skin loses moisture far faster to dry desert wind.",
+        "Travel at dawn, dusk, or under bright moonlight while watching carefully for rattlesnakes and scorpions."
+      ],
+      "safety": "Never lie directly on scorching desert sand (up to 150\u00b0F)\u2014elevate yourself on rocks, brush, or a pack.",
+      "tags": [
+        "desert",
+        "arid",
+        "heat",
+        "water-rationing",
+        "sas"
+      ]
+    },
+    {
+      "id": "sur-121",
+      "cat": "Wilderness & Emergency",
+      "sub": "Climate & Terrain",
+      "title": "Coastal, Swamp & Flooded Terrain Survival (Texas Gulf Coast)",
+      "diff": "Medium",
+      "time": "Ongoing",
+      "gear": [
+        "Dry bags",
+        "Waterproof headlamp",
+        "Walking staff / probing pole",
+        "Life vest (PFD)"
+      ],
+      "supplies": [
+        "Insect repellent (DEET or Picaridin)",
+        "Antifungal foot powder"
+      ],
+      "steps": [
+        "Never walk or drive through moving floodwater: 6 inches of fast water knocks an adult off their feet, and 12\u201318 inches sweeps away cars and SUVs.",
+        "If wading through calm, shallow flooded streets or marsh, use a stout pole to probe every step ahead for open manhole covers, washed-out culverts, and downed power lines.",
+        "Elevate sleeping platforms above high-tide and storm-surge marks, and dry feet completely every evening to prevent immersion foot (trench foot)."
+      ],
+      "safety": "Watch out for displaced fire-ant rafts floating on floodwaters and venomous snakes (cottonmouths/copperheads) seeking high ground.",
+      "tags": [
+        "flood",
+        "swamp",
+        "coastal",
+        "hurricane",
+        "friendswood",
+        "texas"
+      ]
+    },
+    {
+      "id": "sur-122",
+      "cat": "Wilderness & Emergency",
+      "sub": "Climate & Terrain",
+      "title": "Mountain, Lightning & Flash Flood Protocol",
+      "diff": "Medium",
+      "time": "15 mins",
+      "gear": [
+        "Insulated foam pad",
+        "Rain shell"
+      ],
+      "supplies": [],
+      "steps": [
+        "When thunder roars or hair stands on end at high elevation, immediately descend below treeline and away from isolated tall trees, metal poles, and open ridges.",
+        "Assume the lightning crouch on a dry insulated pad or pack: feet pressed tight together, heels touching, crouching low on the balls of your feet with hands covering ears (never lie flat on conductive ground).",
+        "In slot canyons or mountain washes, climb immediately to high ground if dark clouds build upstream\u2014flash floods arrive miles away under blue skies."
+      ],
+      "safety": "Maintain at least 20 feet of spacing between group members during severe lightning storms.",
+      "tags": [
+        "lightning",
+        "mountain",
+        "flash-flood",
+        "weather",
+        "safety"
+      ]
+    },
+    {
+      "id": "sur-123",
+      "cat": "Wilderness & Emergency",
+      "sub": "Wild Food & Trapping",
+      "title": "The Universal Edibility Test (Testing Unknown Wild Plants)",
+      "diff": "Medium",
+      "time": "24 hours",
+      "gear": [
+        "Metal pot for boiling"
+      ],
+      "supplies": [
+        "Clean water"
+      ],
+      "steps": [
+        "Before testing, discard ALL mushrooms/fungi (never apply this test to mushrooms), plants with milky/colored sap, umbrella-shaped flower clusters (hemlock family), shiny 3-leaf clusters, or bitter almond scents.",
+        "Test ONLY ONE part (leaf, stem, root) of ONE plant at a time: crush and rub on inner wrist/elbow for 15 minutes to check for rash.",
+        "Touch a tiny piece to your outer lip for 3 minutes, then hold on your tongue for 15 minutes without swallowing\u2014spit out immediately if any burning, numbing, or soapy bitterness occurs.",
+        "Swallow a tiny pinch and wait 8 full hours (drinking water only); if zero nausea or cramps occur, eat 1/4 cup and wait another 8 hours before considering safe."
+      ],
+      "safety": "Never use the Universal Edibility Test on mushrooms\u2014deadly Amanita toxins cause liver failure 12\u201324 hours later with zero initial taste warning.",
+      "tags": [
+        "edibility-test",
+        "foraging",
+        "wild-plants",
+        "sas",
+        "food"
+      ]
+    },
+    {
+      "id": "sur-124",
+      "cat": "Wilderness & Emergency",
+      "sub": "Wild Food & Trapping",
+      "title": "Top 8 Reliable North American Wild Edibles & Deadly Lookalikes",
+      "diff": "Easy",
+      "time": "Reference guide",
+      "gear": [
+        "Foraging pouch",
+        "Knife"
+      ],
+      "supplies": [],
+      "steps": [
+        "1. Cattail ('Supermarket of the Swamp'): Edible year-round\u2014spring shoots, summer green flower spikes (boil like corn), yellow pollen, and starchy winter rhizomes. Avoid lookalike wild iris (flat fan leaves, no cylindrical brown seed head).",
+        "2. Dandelion: Entire plant edible (young leaves raw, older leaves boiled, roasted roots as coffee substitute). Single hollow unbranched stem with milky sap.",
+        "3. Oak Acorns: Shell, crush, and leach bitter tannins in multiple changes of boiling water (or cold stream water in a cloth sack) until sweet, then dry into flour.",
+        "4. Pine Needles & Inner Bark: Steep green needles (avoid toxic Yew needles) for vitamin-C-rich tea; inner white cambium bark can be roasted or dried.",
+        "5. Prickly Pear Cactus (Nopales & Tuna fruit): Singe or scrape off all spines and tiny glochids before slicing pads or eating purple fruit.",
+        "6. Clover, Purslane & Chickweed: Abundant nutrient-dense greens in yards and fields."
+      ],
+      "safety": "DEADLY LOOKALIKES TO MEMORIZE: Poison Hemlock (smooth purple-spotted hollow stems, lacy carrot-like leaves) and Water Hemlock\u2014never eat wild carrot/parsley lookalikes.",
+      "tags": [
+        "foraging",
+        "cattail",
+        "acorns",
+        "wild-edibles",
+        "hemlock"
+      ]
+    },
+    {
+      "id": "sur-125",
+      "cat": "Wilderness & Emergency",
+      "sub": "Wild Food & Trapping",
+      "title": "Simple Loop Snares & Figure-4 Deadfall Trap Mechanics",
+      "diff": "Medium",
+      "time": "30 mins",
+      "gear": [
+        "Fixed-blade knife"
+      ],
+      "supplies": [
+        "24-gauge brass snare wire or thin braided cord",
+        "3 notched sticks + flat heavy stone/log"
+      ],
+      "steps": [
+        "Wire Loop Snare: Form a small locking loop at one end of a 24-inch brass wire, thread the other end through to make a noose, and set it a fist-width wide and 3 fingers off the ground along a narrow rabbit/squirrel trail.",
+        "Funnel the animal into the loop by placing natural brush obstacles on either side of the trail, anchoring the snare tail securely to a stout sapling or stake.",
+        "Figure-4 Deadfall: Carve 3 sticks\u2014(1) upright post with flat chisel top and square notch, (2) angled diagonal lever with matching notch, and (3) horizontal bait stick with square notch and pointed trigger tip\u2014supporting a heavy flat rock at 45\u00b0."
+      ],
+      "safety": "Check trap lines every morning at dawn, and never set deadfalls or snares where domestic pets or hikers walk.",
+      "tags": [
+        "trapping",
+        "snare",
+        "figure-4",
+        "deadfall",
+        "sas",
+        "survival-food"
+      ]
+    },
+    {
+      "id": "sur-126",
+      "cat": "Wilderness & Emergency",
+      "sub": "Wild Food & Trapping",
+      "title": "Improvised Survival Fishing: Gorge Hooks, Trotlines & Fish Traps",
+      "diff": "Easy",
+      "time": "30 mins",
+      "gear": [
+        "Knife",
+        "550 paracord inner strands"
+      ],
+      "supplies": [
+        "Safety pins, thorns, or carved hardwood splinters",
+        "Soda can tab",
+        "Earthworms/grubs"
+      ],
+      "steps": [
+        "Carve a 1-inch double-pointed hardwood or bone gorge hook with a center notch; tie line to the middle, bury lengthwise inside bait\u2014when swallowed, pulling the line toggles the gorge crosswise.",
+        "Set a passive bank line or trotline across a creek overnight with multiple baited hooks spaced 2 feet apart so you catch fish while sleeping.",
+        "Bottle/Basket Funnel Trap: Cut the top off a 2-liter bottle, invert the spout inward like a funnel, punch sink holes, bait with crushed insects or bread, and submerge in shallow eddies."
+      ],
+      "safety": "Always cook freshwater fish thoroughly to destroy tapeworms and flukes.",
+      "tags": [
+        "fishing",
+        "gorge-hook",
+        "trotline",
+        "food",
+        "bushcraft"
+      ]
+    },
+    {
+      "id": "sur-127",
+      "cat": "Wilderness & Emergency",
+      "sub": "Wild Food & Trapping",
+      "title": "Field Dressing Small Game & Smoking/Drying Meat Without a Fridge",
+      "diff": "Medium",
+      "time": "1\u20134 hours",
+      "gear": [
+        "Sharp knife",
+        "Wooden tripod rack",
+        "Smoldering hardwood fire"
+      ],
+      "supplies": [
+        "Clean water",
+        "Salt (if available)"
+      ],
+      "steps": [
+        "Field dressing: Make a shallow pinch-cut through belly skin from breastbone to pelvis without puncturing the stomach or bladder; peel skin back, remove entrails cleanly, rinse cavity with clean water, and cool meat immediately.",
+        "Cutting for preservation: Slice lean red meat (fat goes rancid quickly) WITH the grain into thin 1/4-inch strips.",
+        "Field smoking/drying: Hang strips on a green willow rack 3\u20134 feet above a small, smoky non-resinous hardwood fire (oak, hickory, mesquite\u2014never pine) inside a bark/tarp teepee for 8\u201312 hours until brittle and dark."
+      ],
+      "safety": "Discard any animal whose liver shows white spots, cysts, or discoloration (signs of tularemia or parasites), and wear gloves when skinning.",
+      "tags": [
+        "field-dressing",
+        "smoking-meat",
+        "jerky",
+        "preservation",
+        "sas"
+      ]
+    },
+    {
+      "id": "sur-128",
+      "cat": "Wilderness & Emergency",
+      "sub": "Navigation & Weather",
+      "title": "Baseplate Compass, Magnetic Declination & Taking a Bearing",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "Baseplate liquid-filled compass",
+        "Topographic paper map"
+      ],
+      "supplies": [],
+      "steps": [
+        "Hold the compass level at waist height away from metal belt buckles, knives, phones, or vehicles.",
+        "To follow a bearing: rotate the bezel until your desired degree number aligns with the index line, turn your whole body until the red magnetic needle sits squarely inside the orienting outline ('Red in the Shed'), and walk toward a distant landmark aligned with the direction-of-travel arrow.",
+        "To take a bearing from a map: align the compass edge between Point A and Point B, rotate the bezel until the orienting lines parallel the map's north-south grid lines, then adjust for local magnetic declination (in Friendswood/Houston, declination is roughly 2\u00b0 East)."
+      ],
+      "safety": "Always set a 'handrail' or 'backstop' (road, river, powerline) on your map so you cannot overshoot your target.",
+      "tags": [
+        "compass",
+        "navigation",
+        "map",
+        "bearing",
+        "declination"
+      ]
+    },
+    {
+      "id": "sur-129",
+      "cat": "Wilderness & Emergency",
+      "sub": "Navigation & Weather",
+      "title": "Pace Counting & Dead Reckoning Distance Tracking",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "Ranger pace beads (or pebbles in pocket)"
+      ],
+      "supplies": [],
+      "steps": [
+        "Calibrate your pace count on a measured 100-meter/100-yard stretch: count every time your LEFT foot strikes the ground (typically 60\u201365 double-paces per 100 meters on flat ground).",
+        "Slide one lower bead on your Ranger pace-count string every 100 meters; after 10 lower beads (1 km), slide one upper kilometer bead.",
+        "Add 15%\u201325% extra paces when hiking uphill, through thick brush, or at night, and detour around obstacles using equal 90\u00b0 box-offset legs."
+      ],
+      "safety": "Never trust straight-line distance alone in swamps or canyons\u2014track both compass azimuth and cumulative distance.",
+      "tags": [
+        "pace-count",
+        "navigation",
+        "dead-reckoning",
+        "distance",
+        "sas"
+      ]
+    },
+    {
+      "id": "sur-130",
+      "cat": "Wilderness & Emergency",
+      "sub": "Navigation & Weather",
+      "title": "No-Compass Navigation: Shadow-Stick, Analog Watch & Stars",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "Straight 3-ft stick",
+        "2 small pebbles"
+      ],
+      "supplies": [],
+      "steps": [
+        "Shadow-Stick Method: Push a 3-ft stick straight into flat sunny ground, place Pebble #1 at the exact tip of the shadow, wait 15\u201320 minutes, and place Pebble #2 at the new shadow tip\u2014a line drawn from Pebble #1 to Pebble #2 points straight WEST-TO-EAST anywhere on Earth.",
+        "Analog Watch Method (Northern Hemisphere): Hold watch flat, point the hour hand directly at the sun; halfway between the hour hand and 12 o'clock (1 o'clock during Daylight Saving Time) points due SOUTH.",
+        "Night Star Navigation: Locate the two outer stars of the Big Dipper's cup (Dubhe and Merak) and trace an imaginary line 5x their distance to Polaris (the North Star); in the Southern Hemisphere, extend the long axis of the Southern Cross 4.5x to find due South."
+      ],
+      "safety": "Never look directly at the sun when aligning an analog watch\u2014use the shadow of a vertical twig cast across the dial.",
+      "tags": [
+        "shadow-stick",
+        "north-star",
+        "navigation",
+        "celestial",
+        "sas"
+      ]
+    },
+    {
+      "id": "sur-131",
+      "cat": "Wilderness & Emergency",
+      "sub": "Navigation & Weather",
+      "title": "Reading Clouds, Wind Shifts & Natural Weather Warnings",
+      "diff": "Easy",
+      "time": "10 mins",
+      "gear": [
+        "Barometer / weather watch (optional)"
+      ],
+      "supplies": [],
+      "steps": [
+        "High wispy Cirrus ('mares' tails') thickening into a milky Cirrostratus halo around the sun or moon signals an approaching warm front and steady rain within 12\u201324 hours.",
+        "Towering dark Cumulonimbus ('anvil tops') indicate imminent severe thunderstorms, hail, microburst winds, and lightning within 30\u201360 minutes.",
+        "Stand with your back to the wind (Northern Hemisphere): low pressure (approaching storm) sits to your LEFT and slightly ahead; falling barometric pressure + easterly backing winds confirm worsening weather."
+      ],
+      "safety": "Sudden temperature drops and calm air right before dark wall clouds signal dangerous gust fronts.",
+      "tags": [
+        "weather",
+        "clouds",
+        "barometer",
+        "forecasting",
+        "sas"
+      ]
+    },
+    {
+      "id": "sur-132",
+      "cat": "Wilderness & Emergency",
+      "sub": "Signaling & Rescue",
+      "title": "Aiming a Signal Mirror, 3-Blast Whistle & Ground-to-Air Codes",
+      "diff": "Easy",
+      "time": "10 mins",
+      "gear": [
+        "Aiming signal mirror (with mesh/hole sight)",
+        "Pealess emergency whistle"
+      ],
+      "supplies": [
+        "Bright orange cloth/tarp",
+        "Logs/rocks for ground letters"
+      ],
+      "steps": [
+        "Signal Mirror (visible 10+ miles): Hold mirror near your cheek, extend your other hand in a V-sign framing the aircraft/boat, and tilt the mirror until the bright reflection spot hits your V-fingers\u2014flash 3 quick bursts repeatedly.",
+        "International Distress Signal = THREE of anything: 3 sharp whistle blasts, 3 smoky/bright fires in a triangle, or 3 flashlight flashes.",
+        "Ground-to-Air Search & Rescue Codes (make letters at least 10 ft tall with high color contrast in an open clearing): V = Require Assistance; X = Require Medical Assistance; N = No / Negative; Y = Yes / Affirmative; \u2192 = Proceeding in this direction."
+      ],
+      "safety": "Keep green pine boughs or rubber/oil staged next to a signal fire so you can throw them on immediately for thick white (day) or black (snow/sand) smoke when you hear an engine.",
+      "tags": [
+        "signaling",
+        "signal-mirror",
+        "whistle",
+        "sar",
+        "rescue",
+        "sas"
+      ]
+    },
+    {
+      "id": "sur-133",
+      "cat": "Wilderness & Emergency",
+      "sub": "Signaling & Rescue",
+      "title": "Off-Grid Comms: NOAA Weather Radio, FRS/GMRS & Power Budgets",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "NOAA All-Hazards Weather Radio (SAME alert capable)",
+        "FRS/GMRS two-way radios",
+        "Solar power bank (20,000+ mAh)"
+      ],
+      "supplies": [
+        "Laminated family comms card"
+      ],
+      "steps": [
+        "Program your NOAA radio to your county SAME code (Galveston/Brazoria County for Friendswood) and keep it on ALERT standby during hurricane and tornado seasons.",
+        "Establish a family radio schedule to conserve batteries: turn FRS/GMRS walkie-talkies ON for only the first 5 minutes of every even hour on Channel 1 (or agreed GMRS channel) rather than leaving them scanning all day.",
+        "Switch phones immediately to Airplane Mode + Low Power Mode during outages\u2014searching for dead cell towers drains a phone battery in 3 hours, whereas Airplane Mode preserves offline maps and guides for 4+ days."
+      ],
+      "safety": "Keep a printed list of out-of-state family relay contacts\u2014text messages often go through on congested local towers when voice calls fail.",
+      "tags": [
+        "comms",
+        "noaa",
+        "radio",
+        "gmrs",
+        "battery",
+        "hurricane"
+      ]
+    },
+    {
+      "id": "sur-134",
+      "cat": "Wilderness & Emergency",
+      "sub": "Urban & Disaster",
+      "title": "Hurricane Evacuation vs. Shelter-in-Place Decision Matrix",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "Full gas tank (fill at 1/2 tank during June\u2013Nov)",
+        "Paper regional road atlas",
+        "Cash"
+      ],
+      "supplies": [
+        "Plywood/storm shutters",
+        "Important documents in waterproof bag"
+      ],
+      "steps": [
+        "ALWAYS evacuate if ordered for storm surge or if living in a mobile/manufactured home; if sheltering in place inland (like Friendswood in a Category 1\u20133 wind event), prepare for 7\u201314 days without electricity or municipal water.",
+        "If evacuating, leave 48+ hours before tropical-storm-force winds arrive and use pre-mapped back-road alternates north/northwest rather than jammed I-45.",
+        "Inside the house during peak eye-wall winds, retreat to an interior windowless downstairs room, closet, or hallway under a heavy mattress, and remember the calm eye is only halfway through the storm."
+      ],
+      "safety": "Never open windows 'to equalize pressure' during a hurricane\u2014wind rushing inside pressurizes the roof from underneath and blows it off.",
+      "tags": [
+        "hurricane",
+        "evacuation",
+        "friendswood",
+        "gulf-coast",
+        "storm"
+      ]
+    },
+    {
+      "id": "sur-135",
+      "cat": "Wilderness & Emergency",
+      "sub": "Urban & Disaster",
+      "title": "Submerged Vehicle Escape Protocol (SWOC Method)",
+      "diff": "Easy",
+      "time": "5 mins",
+      "gear": [
+        "Spring-loaded window punch & seatbelt cutter (mounted on visor/console)"
+      ],
+      "supplies": [],
+      "steps": [
+        "If your car enters deep water, you have roughly 30\u201360 seconds while the vehicle floats before water pressure pins the doors shut\u2014do NOT call 911 first.",
+        "Follow SWOC in seconds: (1) SEATBELTS off immediately (adults unbuckle themselves first, then children); (2) WINDOWS rolled down or shattered at the corner with a spring-loaded punch (tempered side windows shatter easily; laminated windshields will NOT break); (3) OUT immediately\u2014children pushed out first, followed by adults; (4) CLIMB onto the car roof or swim with the current toward high ground."
+      ],
+      "safety": "Mount a ResQMe or spring-loaded center punch within arm's reach of the driver's seat\u2014never buried in the glovebox.",
+      "tags": [
+        "vehicle",
+        "submerged",
+        "flood",
+        "escape",
+        "swoc",
+        "safety"
+      ]
+    },
+    {
+      "id": "sur-136",
+      "cat": "Wilderness & Emergency",
+      "sub": "Urban & Disaster",
+      "title": "House Fire Escape, Smoke Crawling & Closed-Door Rule",
+      "diff": "Easy",
+      "time": "5 mins",
+      "gear": [
+        "2nd-floor chain escape ladder",
+        "Bedside flashlight"
+      ],
+      "supplies": [],
+      "steps": [
+        "Sleep with bedroom doors CLOSED\u2014a closed hollow-core door holds back 1,000\u00b0F fire and toxic smoke for 15+ minutes, keeping bedroom air survivable.",
+        "Before opening any door during a fire, feel the door panel and knob with the back of your hand: if hot, keep it shut, stuff wet towels/clothes along the bottom crack, open a window slightly, and wave a bright sheet for firefighters.",
+        "If escaping through smoke, drop to hands and knees where cool breathable air sits 12\u201318 inches off the floor, and go straight to your pre-arranged mailbox/neighbor meeting spot\u2014NEVER re-enter a burning building."
+      ],
+      "safety": "Synthetic furniture burns 8x faster than legacy wood\u2014you have under 2 minutes from alarm chirp to get out.",
+      "tags": [
+        "house-fire",
+        "escape",
+        "smoke",
+        "safety",
+        "home"
+      ]
+    },
+    {
+      "id": "sur-137",
+      "cat": "Wilderness & Emergency",
+      "sub": "Urban & Disaster",
+      "title": "Stranded in a Vehicle: Winter Blizzard vs. Summer Heat Protocol",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "Jumper pack",
+        "Reflective triangles",
+        "Flashlight",
+        "Snow brush / folding shovel"
+      ],
+      "supplies": [
+        "Wool blankets",
+        "Bottled water",
+        "High-calorie snacks",
+        "Bright cloth tied to antenna"
+      ],
+      "steps": [
+        "Stay WITH your vehicle unless a lit building is clearly visible within 100 yards\u2014vehicles provide shelter and are 10x easier for rescuers to spot than a lone walker.",
+        "In freezing weather, run the engine and heater for ONLY 10 minutes each hour, cracking a downwind window 1/2-inch and checking first that the exhaust tailpipe is completely clear of snow or mud.",
+        "In summer desert/highway breakdowns, raise the hood and tie a bright cloth to the door handle, sit in shade outside the car if safe from traffic, and conserve water."
+      ],
+      "safety": "Carbon monoxide from a snow-blocked exhaust pipe kills silently inside idling cars within minutes.",
+      "tags": [
+        "vehicle",
+        "stranded",
+        "winter",
+        "blizzard",
+        "roadside"
+      ]
+    },
+    {
+      "id": "sur-138",
+      "cat": "Wilderness & Emergency",
+      "sub": "Urban & Disaster",
+      "title": "Earthquake Drop-Cover-Hold & Post-Quake Gas/Utility Check",
+      "diff": "Easy",
+      "time": "10 mins",
+      "gear": [
+        "Non-sparking gas shutoff wrench",
+        "Sturdy shoes by bed",
+        "Flashlight"
+      ],
+      "supplies": [],
+      "steps": [
+        "During shaking, immediately DROP to hands and knees, COVER head and neck under a sturdy table or against an interior wall away from glass/bookcases, and HOLD ON until shaking stops\u2014do NOT run outside or stand in doorways.",
+        "Keep sturdy shoes and a flashlight beside your bed so you don't walk across shattered glass in the dark.",
+        "After shaking stops, sniff for rotten-egg gas odor or listen for hissing: ONLY shut off the main gas valve if you smell/hear a leak (turning gas off requires the utility company to relight pilots)."
+      ],
+      "safety": "Never strike a match or flip light switches if you suspect a gas leak\u2014use a battery flashlight.",
+      "tags": [
+        "earthquake",
+        "gas-shutoff",
+        "disaster",
+        "safety",
+        "sas"
+      ]
+    },
+    {
+      "id": "sur-139",
+      "cat": "Wilderness & Emergency",
+      "sub": "Urban & Disaster",
+      "title": "Chemical Spill / Hazmat Shelter-in-Place Room Sealing",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "Scissors",
+        "NOAA radio"
+      ],
+      "supplies": [
+        "Pre-cut 4-mil plastic sheeting",
+        "Wide painter's or duct tape",
+        "Bath towels"
+      ],
+      "steps": [
+        "If local authorities issue a chemical/industrial hazmat shelter-in-place order (critical near Houston Ship Channel / petrochemical corridors), bring family and pets inside immediately.",
+        "Shut all exterior doors and windows, and turn OFF all HVAC systems, bathroom exhaust fans, and clothes dryers that pull outside air in.",
+        "Move to an interior room with few or no windows (prefer higher floors for heavier-than-air vapors), wedge wet towels under the door, and tape pre-cut plastic sheeting tightly over window frames and air vents."
+      ],
+      "safety": "Ventilate the room immediately once authorities broadcast the all-clear so CO\u2082 does not build up.",
+      "tags": [
+        "hazmat",
+        "chemical-spill",
+        "shelter-in-place",
+        "houston",
+        "disaster"
+      ]
+    },
+    {
+      "id": "sur-140",
+      "cat": "Wilderness & Emergency",
+      "sub": "Urban & Disaster",
+      "title": "Nuclear / Radiological Fallout: 10-Minute Shelter & 48-Hour Rule",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "NOAA battery/crank radio",
+        "N95 masks"
+      ],
+      "supplies": [
+        "Sealed bottled water",
+        "Change of clothes + trash bags"
+      ],
+      "steps": [
+        "Never look at a bright flash\u2014drop immediately behind solid cover to shield from blast wave and thermal heat.",
+        "You have 10\u201315 minutes before heavy radioactive fallout dust begins arriving: get inside the center of a concrete/brick multi-story building or underground basement immediately (cars and wooden sheds offer almost zero shielding).",
+        "If caught outside during fallout, remove outer clothing (eliminates 90% of external contamination), seal clothes in a plastic bag away from people, and wash skin/hair with soap and water (do NOT use hair conditioner, which binds radioactive particles).",
+        "Stay sheltered inside for at least 24\u201348 hours\u2014radiation levels drop by 80% in the first 24 hours and 99% within two weeks."
+      ],
+      "safety": "Take potassium iodide (KI) ONLY if directed by public health officials, as it protects only the thyroid from radioactive iodine.",
+      "tags": [
+        "fallout",
+        "nuclear",
+        "radiological",
+        "shelter",
+        "civil-defense"
+      ]
+    },
+    {
+      "id": "sur-141",
+      "cat": "Wilderness & Emergency",
+      "sub": "Urban & Disaster",
+      "title": "Emergency Sanitation: Twin-Bucket Off-Grid Toilet & Greywater",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "Two 5-gallon buckets",
+        "Snap-on toilet seat lid"
+      ],
+      "supplies": [
+        "Heavy-duty contractor trash bags",
+        "Sawdust, peat moss, or kitty litter",
+        "Hand sanitizer / bleach"
+      ],
+      "steps": [
+        "Keep urine (liquid) and feces (solid) in SEPARATE buckets\u2014separating liquids eliminates 95% of odor and prevents overflowing bags.",
+        "Line the solid-waste bucket with a heavy contractor bag, add 2 inches of sawdust/peat moss/cat litter on the bottom, and cover with another scoop after each use.",
+        "Never pour chlorine bleach into a bucket containing urine\u2014bleach reacts with ammonia in urine to create toxic chloramine gas.",
+        "Dispose of greywater (dish/wash water) in a mulched garden trench away from wells, never into storm drains."
+      ],
+      "safety": "Keep a dedicated hand-washing station right next to emergency toilets to prevent dysentery and norovirus outbreaks.",
+      "tags": [
+        "sanitation",
+        "off-grid",
+        "toilet",
+        "hygiene",
+        "blackout"
+      ]
+    },
+    {
+      "id": "sur-142",
+      "cat": "Wilderness & Emergency",
+      "sub": "Urban & Disaster",
+      "title": "Home Security Hardening & Situational Awareness (Cooper Color Code)",
+      "diff": "Easy",
+      "time": "30 mins",
+      "gear": [
+        "Door reinforcement strike plate",
+        "Solar motion floodlights"
+      ],
+      "supplies": [
+        "3-inch hardened security screws",
+        "Wooden dowels for sliding doors"
+      ],
+      "steps": [
+        "Replace short 1/2-inch screws in every exterior door deadbolt strike plate and hinge with 3-inch hardened steel screws anchored deep into the wall stud.",
+        "Drop a cut wooden dowel or adjustable security bar into the bottom track of sliding glass patio doors.",
+        "Practice Jeff Cooper's Awareness Color Code in public: Condition White (oblivious/staring at phone\u2014avoid), Condition Yellow (relaxed, head-up 360\u00b0 scan of exits and people\u2014default mode), Condition Orange (specific potential threat spotted\u2014plan exit/barrier), Condition Red (decisive action).",
+        "Keep exterior bushes trimmed below window sills and ensure solar motion lights cover dark side yards during grid outages."
+      ],
+      "safety": "Never open an exterior door to strangers during a post-storm blackout\u2014speak through a locked door or window.",
+      "tags": [
+        "security",
+        "awareness",
+        "home-defense",
+        "blackout",
+        "urban"
+      ]
+    },
+    {
+      "id": "sur-143",
+      "cat": "Wilderness & Emergency",
+      "sub": "Pets & Family",
+      "title": "Pet Emergency Evacuation & Carrier Protocol (Cats & Small Pets)",
+      "diff": "Easy",
+      "time": "20 mins",
+      "gear": [
+        "Hard-sided top-loading cat carriers (one per cat)",
+        "Pillowcases (backup emergency restraint)",
+        "Harness & leash"
+      ],
+      "supplies": [
+        "7-day kibble/wet food + pop-top cans",
+        "Bottled water & collapsible bowls",
+        "Disposable aluminum litter trays + scoopable litter",
+        "Vaccination & microchip records + recent photos",
+        "Calming pheromone spray (Feliway)"
+      ],
+      "steps": [
+        "Keep hard-sided carriers accessible in a closet (never buried in the attic) with the doors left open year-round so cats treat them as safe beds rather than panicking when storms approach.",
+        "At the first hurricane watch or evacuation warning, bring outdoor/patio pets inside and confine cats to a single small bathroom BEFORE loading carriers so they cannot hide under beds.",
+        "Backup emergency trick: if a fire or tornado strikes with zero seconds to spare, slip a panicked cat headfirst into a sturdy cotton pillowcase and knot the top\u2014cats stay calm in the dark and cannot scratch while carried.",
+        "Tape a laminated ID card with your name, cell number, and vet info onto the top of each carrier."
+      ],
+      "safety": "Never leave pets behind during a mandatory evacuation\u2014and never sedate pets for air/car travel unless prescribed by your vet.",
+      "tags": [
+        "pets",
+        "cats",
+        "evacuation",
+        "carrier",
+        "emergency",
+        "family"
+      ]
+    },
+    {
+      "id": "sur-144",
+      "cat": "Wilderness & Emergency",
+      "sub": "Water & Sea Survival",
+      "title": "Swift River Crossing & Improvised Pant-Leg Flotation",
+      "diff": "Medium",
+      "time": "20 mins",
+      "gear": [
+        "Stout 6-ft wooden pole",
+        "Long pants or dry bag"
+      ],
+      "supplies": [],
+      "steps": [
+        "Scout for the widest, shallowest gravel-bar section of the river (water moves slowest where the channel is widest) and unbuckle your backpack waist belt BEFORE stepping in so you can shed a heavy pack instantly if swept.",
+        "Keep boots/shoes ON for traction and foot protection; face upstream at a 45\u00b0 angle, plant your pole upstream as a 3-point tripod, and shuffle sideways without crossing your legs.",
+        "Trouser Flotation Aid: Tie knots in the cuffs of wet cotton/nylon pants, button the fly, hold the waistband open behind your head, and sweep forward into the water to trap air bubbles inside the legs."
+      ],
+      "safety": "Never attempt to cross fast water deeper than mid-thigh, and never tie a rope around your waist across swift current (water pressure pushes you underwater).",
+      "tags": [
+        "river-crossing",
+        "flotation",
+        "water-safety",
+        "sas",
+        "fieldcraft"
+      ]
+    },
+    {
+      "id": "sur-145",
+      "cat": "Wilderness & Emergency",
+      "sub": "Water & Sea Survival",
+      "title": "Abandon Ship, Cold-Water Shock (1-10-1 Rule) & HELP Position",
+      "diff": "Medium",
+      "time": "15 mins",
+      "gear": [
+        "Life jacket (PFD)",
+        "Whistle & strobe light attached to PFD"
+      ],
+      "supplies": [],
+      "steps": [
+        "Follow the 1-10-1 Cold Water Rule: 1 minute to control your breathing and survive initial cold-shock gasp reflex; 10 minutes of meaningful muscle movement before fingers/arms stiffen; 1 hour before hypothermia causes unconsciousness.",
+        "If stranded in cold water wearing a PFD, assume the HELP (Heat Escape Lessening Posture): cross arms tight over chest, clamp thighs together, and pull knees up toward chest to protect high-heat-loss groin, armpits, and chest.",
+        "If multiple people are in the water, huddle chest-to-chest in a tight circle with children/elderly in the center.",
+        "In a life raft, deploy the sea anchor (drogue) immediately to reduce drift, bail water dry, and inflate the double floor for insulation."
+      ],
+      "safety": "Do NOT swim for distant shore unless it is safely within easy reach (under 400 yards in cold water)\u2014swimming pumps warm blood to cold skin and accelerates hypothermia.",
+      "tags": [
+        "sea-survival",
+        "cold-water",
+        "help-position",
+        "pfd",
+        "sas"
+      ]
+    },
+    {
+      "id": "sur-146",
+      "cat": "Wilderness & Emergency",
+      "sub": "Tools & Blades",
+      "title": "Making Natural Cordage from Plant Fibers (Reverse-Wrap Twist)",
+      "diff": "Medium",
+      "time": "30 mins",
+      "gear": [
+        "Knife"
+      ],
+      "supplies": [
+        "Inner bark of cedar/willow/basswood, yucca leaves, nettle stalks, or cattail leaves"
+      ],
+      "steps": [
+        "Harvest long fibrous plant stalks or strip inner tree bark, pound gently with a smooth stone to separate flexible fibers, and twist into two even strands.",
+        "Hold the center bend in your left hand; twist the top strand AWAY from you (clockwise) between right thumb and forefinger, then pull it TOWARD you (counter-clockwise) over the bottom strand.",
+        "Repeat: twist top away, wrap toward you\u2014the opposing twists lock the fibers together into surprisingly strong rope.",
+        "Splice in fresh fibers staggered at different lengths before a strand runs thin so weak points never align."
+      ],
+      "safety": "Wear gloves when harvesting stinging nettle stalks; drying or crushing neutralizes the stinging hairs.",
+      "tags": [
+        "cordage",
+        "rope",
+        "bushcraft",
+        "primitive",
+        "yucca",
+        "sas"
+      ]
+    },
+    {
+      "id": "sur-147",
+      "cat": "Wilderness & Emergency",
+      "sub": "Climate & Terrain",
+      "title": "Wildlife Encounters: Snakes, Alligators, Bears & Stray Dogs",
+      "diff": "Easy",
+      "time": "10 mins",
+      "gear": [
+        "Walking stick",
+        "Bear spray (in bear country)"
+      ],
+      "supplies": [],
+      "steps": [
+        "Venomous Snakes (Cottonmouth, Copperhead, Rattlesnake, Coral Snake): Freeze immediately, locate the snake, and step slowly backward\u201490% of bites happen when people try to kill or pick up a snake.",
+        "Alligators (Gulf Coast bayous/marshes): Keep at least 30 feet back from water edges, keep pets leashed away from banks, and run straight away in a straight line (gators burst fast for 15 feet but cannot sustain chases on land).",
+        "Black Bears vs. Grizzlies: For Black Bears, make yourself look huge, shout loudly, and fight back aggressively if attacked; for Grizzlies, speak calmly, back away slowly without running, use bear spray, and play dead face-down with hands clasped behind neck ONLY if physical contact occurs.",
+        "Aggressive Dogs: Stand sideways, avoid direct eye contact, place a backpack/stick between you and the dog, and command 'NO!' firmly while backing away."
+      ],
+      "safety": "Never run from bears, cougars, or dogs\u2014running triggers an automatic chase predator instinct.",
+      "tags": [
+        "wildlife",
+        "snakes",
+        "alligators",
+        "bears",
+        "safety",
+        "texas"
+      ]
+    },
+    {
+      "id": "sur-148",
+      "cat": "Wilderness & Emergency",
+      "sub": "Urban & Disaster",
+      "title": "Offline Emergency Binder & Digital Vault Checklist",
+      "diff": "Easy",
+      "time": "1 hour",
+      "gear": [
+        "Waterproof zippered document pouch",
+        "Encrypted USB drive"
+      ],
+      "supplies": [
+        "Laminated contact & medical cards"
+      ],
+      "steps": [
+        "Keep physical photocopies and encrypted digital scans of driver's licenses, passports, marriage certificate, property deed/title, auto/home insurance policies, and pet vaccine records in one grab-and-go waterproof pouch.",
+        "Record video walkthroughs of every room, closet, garage, and serial numbers of major electronics/appliances once a year for effortless insurance claims.",
+        "Include a laminated card with local/out-of-state family phone numbers, doctor/vet numbers, bank/insurance claim lines, and utility account numbers."
+      ],
+      "safety": "Store backup copies with a trusted out-of-area family member (such as Bryan in Austin) in case local fire or flooding destroys home copies.",
+      "tags": [
+        "documents",
+        "insurance",
+        "vault",
+        "preparedness",
+        "checklist"
+      ]
+    },
+    {
+      "id": "sur-149",
+      "cat": "Wilderness & Emergency",
+      "sub": "Tools & Blades",
+      "title": "Improvised Candle Lanterns, Fat Lamps & Emergency Lighting",
+      "diff": "Easy",
+      "time": "15 mins",
+      "gear": [
+        "Tuna can or glass jar",
+        "Knife or nail"
+      ],
+      "supplies": [
+        "Cooking oil, bacon grease, or butter",
+        "Twisted cotton strip or paper towel wick",
+        "Aluminum soda can"
+      ],
+      "steps": [
+        "Emergency Oil Lamp: Pour 1 inch of vegetable oil, olive oil, or melted lard into a shallow tuna can or glass jar, thread a twisted 100% cotton string/shoelace through a poked foil lid or wire coil so 1/4-inch protrudes, let soak 5 minutes, and light.",
+        "Windproof Soda-Can Lantern: Cut a vertical flap window out of the side of an empty aluminum soda can, fold the metal wings outward as reflectors, and place a tea-light candle inside.",
+        "Keep dedicated LED headlamps and lantern batteries stored in cool, dry bins so open flames are used only as a last resort."
+      ],
+      "safety": "Never leave open-flame oil lamps or candles burning unattended or while sleeping.",
+      "tags": [
+        "lighting",
+        "oil-lamp",
+        "blackout",
+        "improvised",
+        "candle"
+      ]
+    },
+    {
+      "id": "sur-150",
+      "cat": "Wilderness & Emergency",
+      "sub": "Mindset & Priorities",
+      "title": "Pre-Trip Flight Plan & Wilderness Lost-Person Protocol",
+      "diff": "Easy",
+      "time": "10 mins",
+      "gear": [
+        "Whistle",
+        "Bright orange bandana",
+        "Phone (on Airplane Mode)"
+      ],
+      "supplies": [
+        "Written trip plan left with trusted contact"
+      ],
+      "steps": [
+        "Before any hike, road trip, or boat outing, text a trusted contact your exact trailhead/route, vehicle license plate, companions, and firm 'call SAR if not back by' cutoff time.",
+        "If you realize you are lost: STOP immediately, mark your exact spot with bright cloth/rocks, and NEVER wander randomly in circles.",
+        "Stay put near an open clearing if overdue\u2014searchers grid outward from your last known point and find stationary subjects 4x faster than moving ones.",
+        "Blow 3 sharp whistle blasts every 15 minutes during daylight and keep warm/dry."
+      ],
+      "safety": "Conserve phone battery on Airplane Mode\u2014if you get a weak signal on a ridge, send an SMS text with your GPS coordinates rather than draining battery on voice calls.",
+      "tags": [
+        "lost",
+        "sar",
+        "trip-plan",
+        "hiking",
+        "emergency"
+      ]
+    }
+  ],
+  "glossary": {
+    "ferrocerium rod": {
+      "term": "Ferrocerium Rod (Ferro Rod)",
+      "aka": "Flint & steel firestarter rod",
+      "svg": "ferrorod",
+      "def": "A synthetic pyrophoric alloy rod (iron, cerium, lanthanum) that shaves off showers of 5,000\u00b0F molten sparks when scraped firmly with a sharp 90\u00b0 knife spine or hardened steel striker\u2014works even after being submerged in water."
+    },
+    "baseplate liquid-filled compass": {
+      "term": "Baseplate Orienteering Compass",
+      "aka": "Map & bearing compass",
+      "svg": "compass",
+      "def": "A transparent rectangular baseplate compass with a rotating 360\u00b0 degree bezel, orienting arrow outline, ruler edges, and liquid-damped magnetic needle designed to lay flat on topographic maps for plotting exact travel bearings."
+    },
+    "aiming signal mirror": {
+      "term": "Aiming Signal Mirror",
+      "aka": "Heliograph rescue mirror",
+      "svg": "sigmirror",
+      "def": "A shatterproof survival mirror with a central retro-reflective mesh sighting hole that projects a pinpoint beam of sunlight visible to aircraft and boats over 10\u201320 miles away."
+    },
+    "hollow-fiber water filter": {
+      "term": "Hollow-Fiber Membrane Water Filter",
+      "aka": "0.1-micron squeeze/straw filter (Sawyer/Katadyn)",
+      "svg": "waterfilter",
+      "def": "A portable microfiltration cartridge packed with U-shaped hollow fiber tubes containing 0.1-micron pores that physically block 99.9999% of bacteria (Salmonella, E. coli, Cholera) and protozoa (Giardia, Cryptosporidium) without chemicals or batteries."
+    },
+    "spring-loaded window punch": {
+      "term": "Spring-Loaded Window Punch & Belt Cutter",
+      "aka": "Vehicle escape tool (ResQMe)",
+      "svg": "winpunch",
+      "def": "A keychain-sized emergency escape tool combining a shielded razor hook for slicing jammed seatbelts and an internal spring-loaded steel spike that shatters tempered car side windows with light hand pressure."
+    }
+  }
+}
