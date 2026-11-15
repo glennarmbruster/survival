@@ -1,11 +1,13 @@
 {
-  "version": "2026.11.15-m6",
+  "version": "2026.11.15-m8",
   "files": [
     "01_kitchen_scratch.json",
     "02-homestead-garden.json",
     "03-home-appliance-repair.json",
     "04-wilderness-emergency.json",
     "05-first-aid-remedies.json",
-    "06-crafts-textiles.json"
+    "06-crafts-textiles.json",
+    "07-travel-fieldcraft.json",
+    "08-friendswood-greenhouse-garden.json"
   ]
 }
