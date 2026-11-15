@@ -121,9 +121,21 @@ input[type=checkbox]{width:22px;height:22px;min-height:0;padding:0;accent-color:
 .callout.note{background:var(--accent-soft);color:var(--ink);border-left:4px solid var(--accent)}
 .steps{margin:10px 0 14px;padding-left:22px}
 .steps li{margin-bottom:10px;line-height:1.5}
-.pill-list{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 14px}
-.pill{background:var(--soft);padding:5px 10px;border-radius:8px;font-size:13.5px}
+.pill-list{display:flex;flex-wrap:wrap;gap:7px;margin:6px 0 14px}
+.pill{background:var(--soft);padding:6px 11px;border-radius:9px;font-size:13.5px;border:1px solid transparent;display:inline-flex;align-items:center;gap:5px}
 .pill.owned{background:var(--ok-soft);color:var(--ok);font-weight:600}
+.pill.def-btn{cursor:pointer;border-color:var(--line);font-weight:600;color:var(--ink);font-family:inherit}
+.pill.def-btn:hover{border-color:var(--accent);background:var(--accent-soft)}
+.pill.def-btn .qmark{display:inline-grid;place-items:center;width:17px;height:17px;border-radius:50%;background:var(--accent);color:var(--accent-ink);font-size:11px;font-weight:800}
+
+/* Tool Definition Card inside Guide & Glossary */
+.def-card{background:var(--soft);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin:8px 0 14px;display:flex;gap:14px;align-items:center}
+.def-pic{flex:none;width:72px;height:72px;border-radius:10px;background:var(--card);border:1px solid var(--line);display:grid;place-items:center;padding:6px;color:var(--accent)}
+.def-pic svg{width:100%;height:100%;display:block}
+.def-body{flex:1;min-width:0}
+.def-title{font-weight:700;font-size:15px;display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:3px}
+.def-desc{font-size:13.5px;line-height:1.4;color:var(--ink)}
+.def-sub{font-size:12px;color:var(--muted);margin-top:4px}
 
 /* Bottom Nav + FAB (Narrow < 1000px) */
 nav.tabs{position:fixed;left:0;right:0;bottom:0;z-index:12;background:var(--card);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
@@ -141,7 +153,6 @@ dialog::backdrop{background:rgba(10,15,12,.55)}
 .field label{display:block;font-size:13px;font-weight:650;color:var(--muted);margin-bottom:4px}
 .field.check{display:flex;align-items:center;gap:10px}
 .field.check label{margin:0;color:var(--ink);font-size:15.5px;font-weight:500}
-.fields2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .dlg-actions{display:flex;gap:8px;align-items:center;margin-top:6px;flex-wrap:wrap}
 .dlg-actions .spacer{flex:1}
 .dlg-err{color:var(--bad);font-size:14px}
@@ -564,6 +575,93 @@ document.addEventListener('click', e => {
   $$('[data-theme-pick]').forEach(x => x.setAttribute('aria-pressed', String(x === b)));
 });
 
+/* ===================== Tool & Specialty Gear Glossary (Definitions + Crisp SVG Diagrams) ===================== */
+const TOOL_SVGS = {
+  cloth: '<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="12" y="14" width="40" height="36" rx="4"/><path d="M12 22h40M12 30h40M12 38h40M20 14v36M28 14v36M36 14v36M44 14v36" stroke-opacity=".45"/><path d="M10 12c6 4 14-4 22 0s16-4 22 0" stroke-width="2.5"/></svg>',
+  basket: '<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M10 24h44l-5 24a6 6 0 0 1-6 5H21a6 6 0 0 1-6-5l-5-24Z"/><path d="M12 31h40M13 38h38M15 45h34" stroke-dasharray="4 3"/><ellipse cx="32" cy="24" rx="22" ry="4"/></svg>',
+  lame: '<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M12 52 36 28" stroke-width="4" stroke-linecap="round"/><rect x="33" y="12" width="18" height="12" rx="2" transform="rotate(-45 42 18)"/><circle cx="42" cy="18" r="2"/></svg>',
+  meter: '<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.3"><rect x="16" y="8" width="32" height="48" rx="5"/><rect x="21" y="13" width="22" height="11" rx="2"/><circle cx="32" cy="36" r="7"/><path d="M32 36l4-4M23 49v5M41 49v5"/></svg>',
+  fuse: '<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 32h12M46 32h12"/><rect x="18" y="23" width="28" height="18" rx="4"/><path d="M24 32c3-5 5 5 8 0s5 5 8 0"/></svg>',
+  pot: '<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M14 26h36v22a6 6 0 0 1-6 6H20a6 6 0 0 1-6-6V26Z"/><path d="M8 30h6M50 30h6M12 22h40M28 17h8"/></svg>',
+  ferment: '<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.3"><rect x="18" y="22" width="28" height="34" rx="4"/><path d="M22 17h20v5H22z"/><path d="M32 17V9c0-3 6-3 6 0v4c0 3 6 3 6 0V8"/></svg>',
+  spade: '<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M32 8v26M26 8h12" stroke-linecap="round"/><path d="M23 34h18v12c0 6-9 11-9 11s-9-5-9-11V34Z"/></svg>',
+  wrench: '<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M42 12a11 11 0 0 0-10 15L14 45a4 4 0 0 0 5 5l18-18a11 11 0 0 0 15-10l-6 6-5-1-1-5 6-6Z"/></svg>'
+};
+
+const BUILTIN_GLOSSARY = {
+  'butter muslin': {
+    term: 'Butter Muslin',
+    aka: 'Grade 90+ extra-fine cheesecloth',
+    svg: 'cloth',
+    def: 'A tightly woven, unbleached cotton fabric with a much finer mesh (90+ threads per inch) than standard grocery-store cheesecloth. It catches fine ricotta, yogurt, and paneer curds without letting them slip through, and can be rinsed and reused.'
+  },
+  'banneton': {
+    term: 'Banneton (Brotform)',
+    aka: 'Coiled rattan or cane proofing basket',
+    svg: 'basket',
+    def: 'A breathable coiled-rattan basket used to support shaped bread dough during its final rise. It wicks slight surface moisture so the dough forms a dry skin—making clean razor scoring easier—and leaves classic spiral flour rings on the crust.'
+  },
+  'bread lame': {
+    term: 'Bread Lame',
+    aka: 'Curved or straight dough-scoring razor',
+    svg: 'lame',
+    def: 'A thin, ultra-sharp double-edged razor blade mounted on a handle (often slightly curved). Used right before baking to slash bread dough at a shallow 30° angle so steam escapes controllably and the loaf blooms with a crisp "ear."'
+  },
+  'multimeter': {
+    term: 'Digital Multimeter',
+    aka: 'Volt-Ohm-Milliammeter (VOM)',
+    svg: 'meter',
+    def: 'An electronic diagnostic meter that measures voltage (AC/DC), resistance (Ohms Ω), and continuity. Set to continuity/Ohms (with the appliance unplugged), touching its two probes to both terminals of a fuse or heating element confirms whether electricity can flow through it.'
+  },
+  'thermal fuse': {
+    term: 'Thermal Fuse',
+    aka: 'One-time high-temperature safety cutoff',
+    svg: 'fuse',
+    def: 'A small, inexpensive safety switch mounted on a dryer’s blower housing or heating duct. If lint buildup causes overheating, an internal pellet melts and permanently opens the circuit to prevent a fire. Once blown, it cannot be reset and must be replaced.'
+  },
+  'dutch oven': {
+    term: 'Cast-Iron Dutch Oven',
+    aka: 'Heavy lidded baking pot',
+    svg: 'pot',
+    def: 'A thick-walled cast-iron pot (bare or enameled) with a tight-fitting lid. When preheated to 450°F–500°F, it traps the bread dough’s own evaporating moisture to create bakery-level steam for maximum oven spring and blistered crust.'
+  },
+  'airlock lid': {
+    term: 'Fermentation Airlock Lid',
+    aka: 'One-way CO₂ burping lid',
+    svg: 'ferment',
+    def: 'A mason-jar lid fitted with a water-filled S-trap or silicone one-way valve. It lets carbon dioxide gas escape during vegetable fermentation (like sauerkraut) while blocking oxygen and airborne mold spores from entering.'
+  },
+  'fermentation weights': {
+    term: 'Fermentation Weights',
+    aka: 'Glass or ceramic submerging pucks',
+    svg: 'ferment',
+    def: 'Heavy, non-porous glass or glazed ceramic discs placed inside wide-mouth jars to hold shredded vegetables completely beneath the salty brine. Keeping vegetables submerged prevents mold and kahm yeast.'
+  },
+  'drain spade': {
+    term: 'Drain Spade (Trenching Shovel)',
+    aka: 'Sharpshooter shovel',
+    svg: 'spade',
+    def: 'A narrow, long-bladed shovel (typically 14–16 inches long and 4–6 inches wide) built for digging narrow irrigation trenches, deep post holes, and transplanting deep-rooted shrubs without disturbing neighboring plants.'
+  },
+  'basin wrench': {
+    term: 'Basin Wrench',
+    aka: 'Sink-faucet nut wrench',
+    svg: 'wrench',
+    def: 'A T-handled plumbing tool with a spring-loaded pivoting jaw at the end of a long shaft, designed specifically to reach behind a sink bowl and loosen or tighten faucet mounting nuts in tight spaces.'
+  }
+};
+
+let customGlossary = {};
+
+function lookupTerm(rawLabel) {
+  const low = rawLabel.toLowerCase();
+  const all = { ...BUILTIN_GLOSSARY, ...customGlossary };
+  for (const [key, entry] of Object.entries(all)) {
+    if (low.includes(key)) return { key, ...entry };
+  }
+  return null;
+}
+
 /* ===================== App State & Data Model ===================== */
 const CATEGORIES = [
   'All',
@@ -577,7 +675,6 @@ const CATEGORIES = [
   'Smart Shopping & Negotiation'
 ];
 
-/* Built-in starter seeds so the app works immediately before packs/ are uploaded */
 const BUILTIN_STARTER = [
   {
     id: 'kit-001',
@@ -604,15 +701,15 @@ const BUILTIN_STARTER = [
     title: 'Artisan Loaf Scoring & Ear Control',
     diff: 'Easy',
     time: '15 mins',
-    gear: ['Bread lame or razor blade', 'Banneton proofing basket', 'Dutch oven'],
+    gear: ['Bread lame', 'Banneton', 'Dutch oven'],
     supplies: ['Cold-proofed shaped dough', 'Rice flour for dusting'],
     steps: [
       'Chill shaped dough in the banneton for at least 2–12 hours so the skin firms up for clean cuts.',
-      'Turn dough onto parchment, dust lightly with rice flour, and hold the lame at a 30-degree angle to the surface (not straight down).',
+      'Turn dough onto parchment, dust lightly with rice flour, and hold the bread lame at a 30-degree angle to the surface (not straight down).',
       'Make one confident, swift slash 1/2-inch deep along the length of the loaf to create a flap that peels back into an ear.',
-      'Bake covered with steam for the first 20 minutes so the score expands fully before the crust sets.'
+      'Bake covered in a preheated Dutch oven for the first 20 minutes so the score expands fully before the crust sets.'
     ],
-    safety: 'Handle bare razor blades carefully; cap or store the lame immediately after scoring.',
+    safety: 'Handle bare razor blades carefully; cap or store the bread lame immediately after scoring.',
     tags: ['bread', 'sourdough', 'scoring', 'banneton', 'lame']
   },
   {
@@ -622,7 +719,7 @@ const BUILTIN_STARTER = [
     title: 'Friendswood / Southeast Texas Planting Windows',
     diff: 'Easy',
     time: 'Planning guide',
-    gear: ['Seed organizer box', 'Plant labels'],
+    gear: ['Seed organizer box', 'Plant labels', 'Drain spade'],
     supplies: ['Heat-tolerant heirloom seeds', 'Compost'],
     steps: [
       'Spring warm-season window (Feb 15 – Apr 15): Transplant tomatoes, peppers, eggplant, and bush beans after last frost risk passes so fruit sets before 90°F+ nights.',
@@ -641,7 +738,7 @@ const BUILTIN_STARTER = [
     diff: 'Medium',
     time: '45 mins',
     gear: ['Multimeter', '1/4-inch nut driver', 'Phillips screwdriver'],
-    supplies: ['Replacement thermal fuse / high-limit thermostat (model-specific)'],
+    supplies: ['Replacement thermal fuse (model-specific)'],
     steps: [
       'Unplug the dryer from the 240V wall outlet completely before removing any panels.',
       'Clean the entire lint trap, exhaust duct, and exterior wall vent flap—restricted airflow is the #1 cause of blown thermal fuses.',
@@ -689,7 +786,8 @@ const ui = {
   q: '',
   cat: 'All',
   filter: 'all',
-  selectedId: 'kit-001'
+  selectedId: 'kit-001',
+  openDefKey: ''
 };
 
 function normState(s) {
@@ -747,7 +845,7 @@ const syncModel = {
   }
 };
 
-/* ===================== Modular Pack Loader (2,000+ Guides) ===================== */
+/* ===================== Modular Pack Loader (2,000+ Guides + Glossary) ===================== */
 async function loadLibraryPacks(force = false) {
   try {
     if (!libDb) libDb = await openDB(LIB_DB_NAME).catch(() => null);
@@ -760,24 +858,39 @@ async function loadLibraryPacks(force = false) {
           if (!masterGuides.some(g => g.id === ui.selectedId)) ui.selectedId = masterGuides[0].id;
         }
       }
+      const cachedGloss = await idbGet(libDb, 'packs_glossary');
+      if (cachedGloss) customGlossary = JSON.parse(cachedGloss) || {};
     }
     const res = await fetch('./packs/manifest.json?t=' + Date.now(), { cache: 'no-store' });
     if (!res.ok) return;
     const manifest = await res.json();
     if (!force && manifest.version && manifest.version === state.libVer && masterGuides.length > BUILTIN_STARTER.length) return;
     if (Array.isArray(manifest.files) && manifest.files.length) {
-      const arrays = await Promise.all(
+      const payloads = await Promise.all(
         manifest.files.map(f => fetch('./packs/' + f).then(r => r.ok ? r.json() : []).catch(() => []))
       );
-      const merged = arrays.flat().filter(g => g && g.id && g.title);
-      if (merged.length) {
-        masterGuides = merged;
+      const merged = [];
+      const glossMerged = {};
+      for (const p of payloads) {
+        if (Array.isArray(p)) merged.push(...p);
+        else if (p && typeof p === 'object') {
+          if (Array.isArray(p.guides)) merged.push(...p.guides);
+          if (p.glossary && typeof p.glossary === 'object') Object.assign(glossMerged, p.glossary);
+        }
+      }
+      const valid = merged.filter(g => g && g.id && g.title);
+      if (valid.length) {
+        masterGuides = valid;
+        customGlossary = glossMerged;
         state.libVer = manifest.version || String(Date.now());
         save();
-        if (libDb) await idbPut(libDb, 'packs_bundle', JSON.stringify(merged));
+        if (libDb) {
+          await idbPut(libDb, 'packs_bundle', JSON.stringify(valid));
+          await idbPut(libDb, 'packs_glossary', JSON.stringify(glossMerged));
+        }
         if (!masterGuides.some(g => g.id === ui.selectedId)) ui.selectedId = masterGuides[0].id;
         render();
-        if (force) toast(`Loaded ${merged.length.toLocaleString()} guides`);
+        if (force) toast(`Loaded ${valid.length.toLocaleString()} guides`);
       }
     }
   } catch (e) {}
@@ -837,11 +950,42 @@ function filteredGuides() {
   });
 }
 
+function renderPill(item, isOwned) {
+  const def = lookupTerm(item);
+  if (def) {
+    return `<button type="button" class="pill def-btn${isOwned ? ' owned' : ''}" data-def="${esc(def.key)}" aria-expanded="${ui.openDefKey === def.key}">
+      ${isOwned ? '✓ ' : ''}${esc(item)} <span class="qmark" title="What is this?">?</span>
+    </button>`;
+  }
+  return `<span class="pill${isOwned ? ' owned' : ''}">${isOwned ? '✓ ' : ''}${esc(item)}</span>`;
+}
+
+function defCardHTML(key) {
+  if (!key) return '';
+  const all = { ...BUILTIN_GLOSSARY, ...customGlossary };
+  const entry = all[key];
+  if (!entry) return '';
+  const svgMarkup = entry.svg && TOOL_SVGS[entry.svg] ? TOOL_SVGS[entry.svg] : TOOL_SVGS.wrench;
+  return `<div class="def-card" role="region" aria-label="Tool definition">
+    <div class="def-pic">${svgMarkup}</div>
+    <div class="def-body">
+      <div class="def-title"><span>${esc(entry.term)}</span><button type="button" class="btn small ghost" data-def-close style="min-height:28px;padding:0 8px">✕</button></div>
+      <div class="def-desc">${esc(entry.def)}</div>
+      ${entry.aka ? `<div class="def-sub">Also known as: ${esc(entry.aka)}</div>` : ''}
+    </div>
+  </div>`;
+}
+
 function guideDetailHTML(id) {
   const g = getGuide(id);
   if (!g) return '<div class="card guide-box empty"><h2>Select a guide</h2><p>Pick any guide from the list to view instructions, edit steps, or add margin notes.</p></div>';
   const owned = ownedSet();
   const isOwned = item => [...owned].some(o => item.toLowerCase().includes(o) || o.includes(item.toLowerCase()));
+
+  const activeDef = ui.openDefKey && [...(g.gear || []), ...(g.supplies || [])].some(x => {
+    const d = lookupTerm(x);
+    return d && d.key === ui.openDefKey;
+  }) ? ui.openDefKey : '';
 
   return `<article class="card guide-box">
     <div class="guide-head">
@@ -869,9 +1013,11 @@ function guideDetailHTML(id) {
 
     ${g.notes ? `<div class="callout note"><b>Cindy’s Note:</b><br>${esc(g.notes).replace(/\n/g, '<br>')}</div>` : ''}
 
-    ${(g.gear && g.gear.length) ? `<div class="sec-h"><span>Tools &amp; Gear</span></div><div class="pill-list">${g.gear.map(x => `<span class="pill${isOwned(x) ? ' owned' : ''}">${isOwned(x) ? '✓ ' : ''}${esc(x)}</span>`).join('')}</div>` : ''}
+    ${(g.gear && g.gear.length) ? `<div class="sec-h"><span>Tools &amp; Gear <span style="font-weight:400;text-transform:none">(tap ? for definition &amp; diagram)</span></span></div><div class="pill-list">${g.gear.map(x => renderPill(x, isOwned(x))).join('')}</div>` : ''}
 
-    ${(g.supplies && g.supplies.length) ? `<div class="sec-h"><span>Supplies &amp; Ingredients</span></div><div class="pill-list">${g.supplies.map(x => `<span class="pill${isOwned(x) ? ' owned' : ''}">${isOwned(x) ? '✓ ' : ''}${esc(x)}</span>`).join('')}</div>` : ''}
+    ${activeDef ? defCardHTML(activeDef) : ''}
+
+    ${(g.supplies && g.supplies.length) ? `<div class="sec-h"><span>Supplies &amp; Ingredients</span></div><div class="pill-list">${g.supplies.map(x => renderPill(x, isOwned(x))).join('')}</div>` : ''}
 
     <div class="sec-h"><span>Step-by-Step Instructions</span></div>
     <ol class="steps">${(g.steps || []).map(s => `<li>${esc(s)}</li>`).join('')}</ol>
@@ -956,6 +1102,21 @@ function renderGear() {
   html += seeds.length
     ? `<div class="card"><div class="list">${seeds.map(s => `<button type="button" class="row" data-edit-gear="${esc(s.id)}"><div class="row-main"><div class="row-title">🌱 ${esc(s.name)}</div><div class="row-sub">${esc(s.category || 'Spring/Fall')}${s.date ? ' · Packed ' + esc(s.date) : ''}${s.note ? ' · ' + esc(s.note) : ''}</div></div></button>`).join('')}</div></div>`
     : `<div class="card pad muted">Track heirloom seed packets, packing years, and Gulf Coast planting windows here.</div>`;
+
+  const allGloss = Object.values({ ...BUILTIN_GLOSSARY, ...customGlossary });
+  html += `<div class="sec-h"><span>📖 Specialty Tool &amp; Supply Glossary (${allGloss.length})</span></div>
+    <p class="hint" style="margin:0 4px 8px">Visual reference for specialty homesteading, kitchen, and repair tools.</p>`;
+  html += allGloss.map(entry => {
+    const svgMarkup = entry.svg && TOOL_SVGS[entry.svg] ? TOOL_SVGS[entry.svg] : TOOL_SVGS.wrench;
+    return `<div class="def-card" style="margin:8px 0">
+      <div class="def-pic">${svgMarkup}</div>
+      <div class="def-body">
+        <div class="def-title"><span>${esc(entry.term)}</span></div>
+        <div class="def-desc">${esc(entry.def)}</div>
+        ${entry.aka ? `<div class="def-sub">Also known as: ${esc(entry.aka)}</div>` : ''}
+      </div>
+    </div>`;
+  }).join('');
 
   view.innerHTML = html;
 }
@@ -1192,6 +1353,18 @@ function buildEpubBlob(guides) {
     addFile(`OEBPS/${fname}`, `<?xml version="1.0" encoding="utf-8"?><html xmlns="http://www.w3.org/1999/xhtml"><head><title>${esc(cat)}</title></head><body><h1>${esc(cat)}</h1>${body}</body></html>`);
   });
 
+  // Add Specialty Tool Glossary chapter to EPUB
+  const glossList = Object.values({ ...BUILTIN_GLOSSARY, ...customGlossary });
+  if (glossList.length) {
+    const gIdx = cats.length + 1;
+    const gFile = `ch${gIdx}.xhtml`;
+    manifest += `<item id="ch${gIdx}" href="${gFile}" media-type="application/xhtml+xml"/>\n`;
+    spine += `<itemref idref="ch${gIdx}"/>\n`;
+    navPoints += `<navPoint id="np${gIdx}" playOrder="${gIdx}"><navLabel><text>Specialty Tool &amp; Supply Glossary</text></navLabel><content src="${gFile}"/></navPoint>\n`;
+    const gBody = glossList.map(e => `<h3>${esc(e.term)}</h3>${e.aka ? `<p><i>Also known as: ${esc(e.aka)}</i></p>` : ''}<p>${esc(e.def)}</p><hr/>`).join('\n');
+    addFile(`OEBPS/${gFile}`, `<?xml version="1.0" encoding="utf-8"?><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Tool Glossary</title></head><body><h1>Specialty Tool &amp; Supply Glossary</h1>${gBody}</body></html>`);
+  }
+
   addFile('OEBPS/content.opf', `<?xml version="1.0" encoding="utf-8"?><package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="2.0"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>Field &amp; Home: Cindy's Skills Guide</dc:title><dc:language>en</dc:language><dc:identifier id="uid">goobs-survival-${todayISO()}</dc:identifier></metadata><manifest>${manifest}</manifest><spine toc="ncx">${spine}</spine></package>`);
   addFile('OEBPS/toc.ncx', `<?xml version="1.0" encoding="utf-8"?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1"><head><meta name="dtb:uid" content="goobs-survival-${todayISO()}"/></head><docTitle><text>Field &amp; Home</text></docTitle><navMap>${navPoints}</navMap></ncx>`);
 
@@ -1267,6 +1440,18 @@ view.addEventListener('input', e => {
 });
 
 view.addEventListener('click', async e => {
+  const defBtn = e.target.closest('[data-def]');
+  if (defBtn) {
+    const k = defBtn.dataset.def;
+    ui.openDefKey = ui.openDefKey === k ? '' : k;
+    render();
+    return;
+  }
+  if (e.target.closest('[data-def-close]')) {
+    ui.openDefKey = '';
+    render();
+    return;
+  }
   const cat = e.target.closest('[data-cat]');
   if (cat) { ui.cat = cat.dataset.cat; render(); return; }
   const flt = e.target.closest('[data-flt]');

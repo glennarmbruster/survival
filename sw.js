@@ -1,5 +1,5 @@
 'use strict';
-const CACHE = 'goobs-survival-v1';
+const CACHE = 'goobs-survival-v2';
 const CORE = [
   './',
   './index.html',
