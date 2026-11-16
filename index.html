@@ -230,7 +230,8 @@ header.top h1{font-weight:600;letter-spacing:-.035em;font-size:24px}
     <button type="button" class="btn small primary" id="deskAddBtn">+ Add</button>
   </nav>
   <span id="syncSlot"></span>
-  <button type="button" class="btn small ghost hbtn" id="viewBtn" aria-label="Theme">🎨</button>
+  <button type="button" class="btn small ghost hbtn" id="topSearchBtn" aria-label="Search guides" title="Search guides">🔍</button>
+  <button type="button" class="btn small ghost hbtn" id="viewBtn" aria-label="Theme" title="Theme">🎨</button>
 </div></header>
 
 <main class="wrap" id="view"></main>
@@ -1471,6 +1472,19 @@ document.addEventListener('click', async e => {
   }
 });
 
+$('#topSearchBtn').onclick = () => {
+  ui.tab = 'guides';
+  ui.showSearch = true;
+  render();
+  const det = $('.reader-options');
+  if (det) det.open = true;
+  const q = $('#q');
+  if (q) {
+    q.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    q.focus();
+    q.select();
+  }
+};
 $('#viewBtn').onclick = () => askDialog({ title: 'Theme', body: themesHTML(), buttons: [{ label: 'Done', value: true, kind: 'primary' }] });
 $('#fabBtn').onclick = $('#deskAddBtn').onclick = () => {
   if (ui.tab === 'logs') logDialog(null, null);
