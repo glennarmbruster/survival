@@ -4,27 +4,27 @@
       "id": "sur-101",
       "cat": "Wilderness & Emergency",
       "sub": "Mindset & Priorities",
-      "title": "The Rule of Threes & STOP Survival Protocol",
+      "title": "Lost on a trail: stop, assess and signal",
       "diff": "Easy",
-      "time": "5 mins",
+      "time": "Immediate",
       "gear": [
-        "Pocket notepad & pencil",
+        "Map",
         "Whistle"
       ],
       "supplies": [],
       "steps": [
-        "Apply the STOP protocol immediately when lost, stranded, or hit by disaster: Sit down, Think calmly, Observe surroundings/resources/hazards, Plan priorities before expending energy.",
-        "Follow the physiological Rule of Threes in strict order: 3 minutes without air/bleeding control, 3 hours without shelter in extreme heat/cold, 3 days without water, 3 weeks without food.",
-        "Inventory everything on your person and in your vehicle/pack before moving, and establish regular check-in routines to defeat panic and despair."
+        "Move away from immediate hazards such as rising water or falling rock. Check for injury and get emergency help for life threats immediately.",
+        "In a safe spot, stop moving. Mark the time, check your last known landmark and inventory water, shelter, light and communication.",
+        "Send your position and intended action if possible. Stay where searchers can find you unless staying puts you in danger."
       ],
-      "safety": "Panic burns calories, causes dehydration, and leads to fatal navigation errors\u2014spend 5 minutes sitting and thinking before taking a single step.",
+      "safety": "Survival time varies enormously. Never wait a set number of minutes to escape danger or start emergency care.",
       "tags": [
-        "mindset",
-        "rule-of-threes",
-        "stop",
-        "psychology",
-        "essentials"
-      ]
+        "lost",
+        "STOP",
+        "rescue"
+      ],
+      "scenario": "You’ve stepped off the trail and the last recognizable junction is out of sight.",
+      "overview": "Once immediate danger is addressed, a pause gives you a fixed place and time to report. Changing direction repeatedly makes both navigation and rescue harder."
     },
     {
       "id": "sur-102",
@@ -34,7 +34,7 @@
       "diff": "Easy",
       "time": "1 hour",
       "gear": [
-        "40L\u201350L backpack",
+        "40L–50L backpack",
         "Fixed-blade full-tang knife",
         "Multi-tool",
         "Headlamp + spare batteries",
@@ -69,7 +69,9 @@
         "checklist",
         "edc",
         "gear"
-      ]
+      ],
+      "scenario": "A storm may mean leaving home for several nights and each person can carry only one bag.",
+      "overview": "Try the loaded bag on a walk from the bedroom to the vehicle. Anything too heavy to carry or inaccessible in a hurry needs a different place."
     },
     {
       "id": "sur-103",
@@ -79,36 +81,32 @@
       "diff": "Easy",
       "time": "30 mins",
       "gear": [
-        "Hinged metal tin",
-        "Mini ferro rod & striker",
-        "Button compass (liquid-filled)",
-        "Razor blade / scalpel blade",
-        "Micro LED flashlight",
-        "Whistle (pealess)"
+        "Small rigid tin",
+        "Mini whistle",
+        "Reflective signal film"
       ],
       "supplies": [
-        "Waterproof storm matches",
-        "Tinder tabs (petroleum-soaked cotton)",
-        "Water purification tablets (6\u201310)",
-        "1-quart heavy freezer bag (water vessel)",
-        "15 ft braided fishing line + 4 hooks + split shot",
-        "Heavy sewing needle + Kevlar thread",
-        "Safety pins & brass snare wire (6 ft)",
-        "Ranger bands (heavy rubber bands sealing tin)"
+        "Water-treatment tablets with directions",
+        "Folding water bag sized for tablet dose",
+        "Needle in protective case",
+        "Thread",
+        "Safety pins"
       ],
       "steps": [
-        "Seal the tin seam with a wide Ranger band (cut bicycle inner tube) so contents stay bone-dry and the band itself serves as emergency high-heat tinder.",
-        "Glue a strip of adhesive reflective tape or signal mirror film inside the lid.",
-        "Carry the tin in a pocket rather than inside your main pack so you still have fire, water purification, signaling, and snare tools if separated from your bag."
+        "Write your emergency contact and any trip-specific instructions on a small waterproof card.",
+        "Fit signaling, water treatment and repair items into the tin. Keep the tablet directions readable and sharp points in a protective case.",
+        "Take each item out and use it during a dry run. Return the tin to a pocket where it stays with you if you take off your pack."
       ],
-      "safety": "Wrap bare razor/scalpel blades in cardboard sleeves inside the tin so you do not slice fingers when opening in the dark.",
+      "safety": "Check tablet expiry and the bag’s actual volume before the trip.",
       "tags": [
         "survival-tin",
         "edc",
         "sas",
         "kit",
         "pocket"
-      ]
+      ],
+      "scenario": "You have room for a small tin on a short walk.",
+      "overview": "Choose items you can operate with cold or tired hands. A pocket kit supplements the water, shelter and communication gear carried separately."
     },
     {
       "id": "sur-104",
@@ -118,7 +116,7 @@
       "diff": "Medium",
       "time": "30 mins",
       "gear": [
-        "Full-tang fixed-blade knife (4\u20135 inch blade)",
+        "Full-tang fixed-blade knife (4–5 inch blade)",
         "Pocket diamond/ceramic sharpener",
         "Folding saw"
       ],
@@ -127,9 +125,9 @@
         "Hardwood baton stick"
       ],
       "steps": [
-        "Choose a 4\u20135 inch full-tang carbon or tough stainless steel blade with a 90\u00b0 sharp spine (for striking ferro rods and scraping wood shavings).",
+        "Choose a 4–5 inch full-tang carbon or tough stainless steel blade with a 90° sharp spine (for striking ferro rods and scraping wood shavings).",
         "For splitting wrist-thick dry kindling (batoning): rest the blade edge on the wood grain, strike ONLY the protruding tip/spine with a wooden baton (never a rock or metal hammer), and never twist the blade sideways.",
-        "Maintain the edge in the field by stroking each side 5\u201310 times along a pocket diamond stone at a consistent 20\u00b0 angle, finishing on a leather belt strop."
+        "Maintain the edge in the field by stroking each side 5–10 times along a pocket diamond stone at a consistent 20° angle, finishing on a leather belt strop."
       ],
       "safety": "Always carve away from your body and outside the 'triangle of death' (inner thighs/femoral arteries); keep folding knives locked and never baton a folder.",
       "tags": [
@@ -138,7 +136,9 @@
         "sharpening",
         "tools",
         "bushcraft"
-      ]
+      ],
+      "scenario": "A cutting tool is needed for camp chores and a damaged handle makes the old one unreliable.",
+      "overview": "Choose a tool appropriate to the material and keep its edge covered in transit. Put unstable wood and work needing heavy force aside."
     },
     {
       "id": "sur-105",
@@ -146,7 +146,7 @@
       "sub": "Water & Hydration",
       "title": "Finding Hidden Water: Terrain Clues, Dry Riverbeds & Dew",
       "diff": "Medium",
-      "time": "1\u20132 hours",
+      "time": "1–2 hours",
       "gear": [
         "Digging stick or folding shovel",
         "Absorbent cotton cloth",
@@ -155,7 +155,7 @@
       "supplies": [],
       "steps": [
         "Follow downhill terrain, converging animal trails at dawn/dusk, swarms of bees/flies, and water-loving trees (willows, cottonwoods, sycamores, cattails).",
-        "In a dry creek bed, dig 1\u20132 feet deep at the OUTSIDE bend of a curve (where fast water scoured deepest) until water seeps in; let sediment settle before scooping.",
+        "In a dry creek bed, dig 1–2 feet deep at the OUTSIDE bend of a curve (where fast water scoured deepest) until water seeps in; let sediment settle before scooping.",
         "Collect morning dew before sunrise by tying clean cotton rags around ankles and walking through tall unpolluted grass, wringing water into a bottle."
       ],
       "safety": "Never drink saltwater, urine, alcohol, or milky/sticky plant sap; always filter and purify all found surface water.",
@@ -165,7 +165,9 @@
         "riverbed",
         "foraging",
         "hydration"
-      ]
+      ],
+      "scenario": "The marked water point is dry and your map shows a drainage nearby.",
+      "overview": "Terrain offers search clues only. Consider the energy cost, a safe route and a treatment plan before leaving a known position."
     },
     {
       "id": "sur-106",
@@ -173,7 +175,7 @@
       "sub": "Water & Hydration",
       "title": "Building a Solar Still & Tree Transpiration Bag",
       "diff": "Medium",
-      "time": "4\u201324 hours",
+      "time": "4–24 hours",
       "gear": [
         "Digging tool",
         "Cup/can",
@@ -196,70 +198,78 @@
         "water",
         "desert",
         "survival"
-      ]
+      ],
+      "scenario": "You have seen a drawing of a solar still and wonder whether it could supply a day’s water.",
+      "overview": "A collection experiment often yields very little. Carry enough potable water for the outing and turn back while that reserve is intact."
     },
     {
       "id": "sur-107",
       "cat": "Wilderness & Emergency",
       "sub": "Water & Hydration",
-      "title": "DIY Tripod Sand-and-Charcoal Water Filter + Boiling",
+      "title": "Clarify cloudy water before boiling",
       "diff": "Medium",
       "time": "45 mins",
       "gear": [
-        "3 wooden poles",
-        "2-liter plastic bottle (bottom cut off) or cloth cone",
-        "Metal pot"
+        "Clean cloth or coffee filter",
+        "Pot with lid",
+        "Clean storage vessel"
       ],
       "supplies": [
-        "Cordage",
-        "Clean grass/cloth",
-        "Crushed hardwood campfire charcoal",
-        "Clean sand",
-        "Small gravel"
+        "Water from a source without suspected chemical contamination"
       ],
       "steps": [
-        "Cut the bottom off a plastic bottle (or lash 3 poles into a tripod with tiered cloth slings), plug the neck tightly with clean grass or cotton cloth.",
-        "Layer from bottom to top: 2 inches fine sand, 3 inches crushed wood charcoal (removes chemicals/odors), 2 inches coarse sand, and 2 inches small gravel on top.",
-        "Pour muddy water through slowly; discard the first cloudy flush until water runs clear.",
-        "CRITICAL: A sand/charcoal filter removes sediment and some chemicals ONLY\u2014you MUST boil the filtered water for 1 full minute (or treat with bleach/tablets) to kill bacteria, viruses, and protozoa."
+        "Use sealed drinking water when available. Reject water suspected of containing fuel, chemicals or radioactive contamination.",
+        "Let cloudy water settle and pour the clearer portion through clean cloth or a coffee filter into a clean pot.",
+        "Bring to a rolling boil for one minute, or three minutes above 6,500 feet. Let cool covered and pour into a clean covered vessel."
       ],
-      "safety": "Never use charcoal briquettes (which contain chemical binders/lighter fluid)\u2014use pure charred wood from a campfire.",
+      "safety": "Cloth and campfire charcoal cannot make chemically contaminated water safe.",
       "tags": [
         "water-filter",
         "charcoal",
         "purification",
         "bushcraft",
         "boiling"
+      ],
+      "scenario": "A water sample contains floating sediment and debris.",
+      "overview": "A rough filter can clarify water but cannot certify it as drinkable. The source and a reliable treatment method govern that decision.",
+      "sources": [
+        [
+          "CDC · Making water safe in an emergency",
+          "https://www.cdc.gov/water-emergency/about/"
+        ]
       ]
     },
     {
       "id": "sur-108",
       "cat": "Wilderness & Emergency",
       "sub": "Water & Hydration",
-      "title": "Household Emergency Water Storage, Water Heater Tap & SODIS",
+      "title": "Use stored water during a household outage",
       "diff": "Easy",
-      "time": "20 mins",
+      "time": "As needed",
       "gear": [
-        "Hollow-fiber filter (Sawyer/Katadyn)",
-        "Clear 2-liter PET soda bottles",
-        "Garden hose"
+        "Clean cups"
       ],
       "supplies": [
-        "Food-grade water bricks/jugs",
-        "Chlorine dioxide tablets"
+        "Sealed drinking water"
       ],
       "steps": [
-        "Store at least 1 gallon per person (plus 1/2 gallon per pet) per day for 14 days in food-grade HDPE containers out of direct sunlight.",
-        "During a municipal boil-water notice or outage, turn off power/gas to your water heater, close its cold inlet, open a hot faucet upstairs, and drain 30\u201350 gallons of clean reserve water from the bottom tank valve.",
-        "SODIS backup method: Fill clear, scratch-free PET plastic bottles with clear filtered water, shake 20 seconds to oxygenate, and lay flat in direct blazing sun for 6 hours (or 2 full days if cloudy) so UV-A rays neutralize pathogens."
+        "Read the utility’s notice for your address and find the sealed water reserve. Set aside enough for drinking, food and brushing teeth.",
+        "Mark a clean pouring area and keep the caps with their containers. Pour into individual cups or bottles without dipping hands into the reserve.",
+        "Track the remaining gallons at the end of each day. Contact the utility or an official distribution site before you run short."
       ],
-      "safety": "Never store drinking water in old milk jugs (biodegradable plastic leaks) or containers that held non-food chemicals.",
-      "tags": [
-        "water-storage",
-        "sodis",
-        "water-heater",
-        "hurricane",
-        "household"
+      "safety": "Boiling cannot remove fuel or other harmful chemicals. Follow do-not-drink and do-not-use instructions.",
+      "tags": [],
+      "scenario": "A water disruption has been announced and the household needs drinking water first.",
+      "overview": "Stored, sealed drinking water is the simplest starting point. Identify the type of advisory before considering any household source.",
+      "sources": [
+        [
+          "CDC · Storing emergency water",
+          "https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html"
+        ],
+        [
+          "CDC · Drinking water advisories",
+          "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html"
+        ]
       ]
     },
     {
@@ -281,7 +291,7 @@
       ],
       "steps": [
         "Gather 3x more fuel than you think you need BEFORE striking a spark, sorting into four distinct piles off the damp ground.",
-        "Collect dead standing branches ('squaw wood') that snap sharply\u2014avoid punky ground wood that absorbs moisture.",
+        "Collect dead standing branches ('squaw wood') that snap sharply—avoid punky ground wood that absorbs moisture.",
         "Build a dry platform of split sticks on wet ground, place a bird's-nest tinder bundle in the center, and keep air gaps between sticks so oxygen feeds the flame from below."
       ],
       "safety": "Clear a 10-foot ring down to bare mineral soil or rock away from overhanging branches and dry grass.",
@@ -291,7 +301,9 @@
         "kindling",
         "bushcraft",
         "essentials"
-      ]
+      ],
+      "scenario": "Damp ground and a gusty campsite make a planned cooking fire uncertain.",
+      "overview": "Assess permission, conditions and extinguishing water before gathering fuel. A no-fire meal keeps dinner independent of a flame."
     },
     {
       "id": "sur-110",
@@ -301,7 +313,7 @@
       "diff": "Medium",
       "time": "15 mins",
       "gear": [
-        "Fixed-blade knife with 90\u00b0 spine",
+        "Fixed-blade knife with 90° spine",
         "Ferrocerium rod"
       ],
       "supplies": [
@@ -309,8 +321,8 @@
       ],
       "steps": [
         "Split a dry stick in half to expose bone-dry heartwood, rest the bottom tip firmly on a log/ground, and shave thin curling ribbons down the grain without severing them at the base.",
-        "Make 3\u20134 fluffy feather sticks so fine curls catch sparks instantly even after rain.",
-        "Place the tip of your ferro rod directly into the tinder/curls, hold the 90\u00b0 knife spine steady, and pull the ferro rod BACKWARD away from the pile\u2014scraping showers of 5,000\u00b0F sparks straight into the tinder without knocking your nest apart."
+        "Make 3–4 fluffy feather sticks so fine curls catch sparks instantly even after rain.",
+        "Place the tip of your ferro rod directly into the tinder/curls, hold the 90° knife spine steady, and pull the ferro rod BACKWARD away from the pile—scraping showers of 5,000°F sparks straight into the tinder without knocking your nest apart."
       ],
       "safety": "Pulling the ferro rod backward (rather than pushing the knife forward) prevents your blade from plunging into your tinder pile or hand.",
       "tags": [
@@ -319,37 +331,36 @@
         "fire",
         "wet-weather",
         "knife"
-      ]
+      ],
+      "scenario": "You want to practice lighting a permitted campfire in a supervised fire ring.",
+      "overview": "Prepare the site and extinguishing water first. On practice day the useful finish is cold ash and an undamaged site."
     },
     {
       "id": "sur-111",
       "cat": "Wilderness & Emergency",
       "sub": "Firecraft",
-      "title": "Fire Lays: Teepee, Log Cabin, Star, Dakota Fire Hole & Reflector",
+      "title": "Manage and extinguish a permitted campsite fire",
       "diff": "Easy",
-      "time": "20 mins",
+      "time": "Throughout camp use",
       "gear": [
-        "Digging tool",
-        "Folding saw"
+        "Water container",
+        "Stirring tool"
       ],
       "supplies": [
-        "Assorted dry firewood",
-        "Green logs (for reflector wall)"
+        "Water"
       ],
       "steps": [
-        "Teepee Lay: Lean kindling in a cone over tinder for fast, high flames ideal for boiling water quickly.",
-        "Log Cabin Lay: Stack parallel logs in a square around a starter teepee for a long-burning bed of cooking coals.",
-        "Dakota Fire Hole (windproof & stealthy): Dig two 12-inch-deep holes 10 inches apart connected by an underground air tunnel; build fire in the downwind hole while wind funnels down the upwind air shaft for intense, low-smoke heat.",
-        "Heat Reflector Wall: Stack green logs or rocks behind the fire facing your shelter to bounce radiant heat back toward you all night."
+        "Check current restrictions with the land manager. Use the designated fire ring only when permitted and have water available before lighting.",
+        "Keep the fire small, clear loose gear from the ring and assign one adult to watch it continuously. If wind starts carrying embers, extinguish it.",
+        "Pour water over the embers, stir and wet again. Continue until the ashes and coals are cold before leaving."
       ],
-      "safety": "Never build a fire on peat moss or deep pine needles where smoldering roots can ignite a wildfire days later.",
+      "safety": "If you cannot fully extinguish and attend the fire, choose a no-fire meal.",
       "tags": [
-        "fire-lays",
-        "dakota-hole",
-        "cooking-fire",
-        "shelter-heat",
-        "sas"
-      ]
+        "campfire",
+        "extinguish"
+      ],
+      "scenario": "You have a designated fire ring and want heat for a particular camp chore.",
+      "overview": "Choose a modest fire that fits the ring and conditions. Leave enough water and time to extinguish every coal."
     },
     {
       "id": "sur-112",
@@ -374,43 +385,43 @@
         "Wrap the bow cord once around the spindle, brace your wrist firmly against your shin, apply downward pressure with the lubricated socket block, and saw with smooth full-length strokes until dark brown powder fills the notch and smokes on its own.",
         "Gently transfer the glowing coal into a dry tinder nest and blow steadily until flames burst."
       ],
-      "safety": "Avoid resinous pine for bow-drill spindles\u2014sap glazes the tip and stops friction heat.",
+      "safety": "Avoid resinous pine for bow-drill spindles—sap glazes the tip and stops friction heat.",
       "tags": [
         "bow-drill",
         "friction-fire",
         "char-cloth",
         "primitive",
         "sas"
-      ]
+      ],
+      "scenario": "A scheduled outdoor class includes historical friction-fire methods.",
+      "overview": "Treat this as a fair-weather practice skill. Carry a dependable permitted means of cooking on a real trip."
     },
     {
       "id": "sur-113",
       "cat": "Wilderness & Emergency",
       "sub": "Firecraft",
-      "title": "Improvised Fire Ignition: Battery + Foil, Lens & Vaseline Cotton",
+      "title": "When the camp lighter fails",
       "diff": "Easy",
-      "time": "10 mins",
+      "time": "5 minutes",
       "gear": [
-        "AA/9V battery",
-        "Magnifying lens / reading glasses / clear water bottle"
+        "Dry matches or spare lighter"
       ],
       "supplies": [
-        "Foil gum wrapper or fine steel wool (0000)",
-        "Cotton balls + petroleum jelly"
+        "Ready-to-eat food"
       ],
       "steps": [
-        "Waterproof tinder tabs: Knead petroleum jelly thoroughly into cotton balls and store in a pill bottle\u2014pull apart to expose dry inner fibers; a single spark ignites a 4-minute waterproof flame.",
-        "Battery ignition: Cut a foil-backed gum wrapper into an hourglass shape with a 2mm narrow waist in the center, press the foil ends against the (+) and (\u2013) terminals of a AA battery (or touch 0000 steel wool across a 9V battery) to ignite the paper waist.",
-        "Solar ignition: Focus bright midday sunlight through a magnifying glass, convex reading glasses, or a round clear water bottle onto dark char cloth or dark tinder."
+        "Keep the group warm and sheltered. Check whether fires are permitted and conditions allow safe cooking.",
+        "Use a dry spare lighter or matches only with approved equipment as directed. Keep fuel containers away from the ignition area.",
+        "If a reliable, permitted setup is unavailable, serve the packed no-cook meal. Replace wet supplies at the next safe opportunity."
       ],
-      "safety": "Wear gloves or hold foil ends with dry cloth\u2014short-circuited batteries heat up rapidly.",
+      "safety": "Keep batteries intact. Shorting a battery can cause burns and fire.",
       "tags": [
-        "fire-starting",
-        "improvised",
-        "tinder",
-        "battery",
-        "emergency"
-      ]
+        "camp",
+        "lighter",
+        "wet matches"
+      ],
+      "scenario": "The camp lighter is wet and the group still needs an evening meal.",
+      "overview": "A dry spare and a ready-to-eat meal make a failed lighter manageable without damaging batteries or creating an uncontrolled ignition source."
     },
     {
       "id": "sur-114",
@@ -424,25 +435,27 @@
       ],
       "supplies": [],
       "steps": [
-        "Look UP first for 'widowmakers'\u2014dead hanging branches, leaning trunks, or loose rocks above your camp.",
+        "Look UP first for 'widowmakers'—dead hanging branches, leaning trunks, or loose rocks above your camp.",
         "Avoid dry riverbeds, narrow canyons, and low drainage depressions where flash floods or cold-air pooling occur at night.",
         "Avoid hilltop ridges exposed to wind and lightning, as well as insect-heavy stagnant marsh edges and ant mounds.",
         "Choose a flat, slightly elevated well-drained spot near dead firewood and water, oriented with the shelter back into the prevailing wind."
       ],
-      "safety": "Conduction into cold ground steals body heat 25x faster than air\u2014always build a 6-inch-thick dry leaf/pine-bough mattress before building a roof.",
+      "safety": "Conduction into cold ground steals body heat 25x faster than air—always build a 6-inch-thick dry leaf/pine-bough mattress before building a roof.",
       "tags": [
         "shelter",
         "camp-site",
         "widowmakers",
         "hypothermia",
         "essentials"
-      ]
+      ],
+      "scenario": "A flat patch near a creek looks comfortable just before dark.",
+      "overview": "Look above, around and upstream before unpacking. A slightly longer walk to safer ground is easier before the shelter is erected."
     },
     {
       "id": "sur-115",
       "cat": "Wilderness & Emergency",
       "sub": "Shelter & Knots",
-      "title": "6 Essential Survival Knots & Lashings (Step-by-Step)",
+      "title": "Four camp knots and a square lashing",
       "diff": "Easy",
       "time": "30 mins",
       "gear": [
@@ -451,13 +464,13 @@
       ],
       "supplies": [],
       "steps": [
-        "1. Bowline (non-slip fixed loop): Form an overhand loop ('rabbit hole'), pass the working end up through the hole, around behind the standing line ('around the tree'), and back down through the hole; pull tight.",
-        "2. Taut-Line Hitch (adjustable guyline tensioner): Wrap working end twice around the standing line inside the loop, then once outside above the wraps; slide to tighten or loosen tarp stakes.",
-        "3. Clove Hitch (fast post/pole anchor): Wrap rope around a pole, cross over itself to make an X, wrap around a second time, and tuck the working end under the top X wrap.",
-        "4. Trucker's Hitch (3:1 mechanical pulley): Tie an alpine butterfly or slip loop midway up the line, pass the working end around an anchor, thread back through the loop, pull down hard to cinch cargo/ridgeline taut, and lock with two half-hitches.",
-        "5. Square Lashing (joining two poles at 90\u00b0): Start with a clove hitch on the vertical pole, wrap over-and-under both poles 4 times, wrap 2\u20133 tight 'frapping' turns between the poles to cinch tight, and finish with a clove hitch."
+        "Bowline (non-slip fixed loop): Form an overhand loop ('rabbit hole'), pass the working end up through the hole, around behind the standing line ('around the tree'), and back down through the hole; pull tight.",
+        "Taut-Line Hitch (adjustable guyline tensioner): Wrap working end twice around the standing line inside the loop, then once outside above the wraps; slide to tighten or loosen tarp stakes.",
+        "Clove Hitch (fast post/pole anchor): Wrap rope around a pole, cross over itself to make an X, wrap around a second time, and tuck the working end under the top X wrap.",
+        "Trucker's Hitch (3:1 mechanical pulley): Tie an alpine butterfly or slip loop midway up the line, pass the working end around an anchor, thread back through the loop, pull down hard to cinch cargo/ridgeline taut, and lock with two half-hitches.",
+        "Square Lashing (joining two poles at 90°): Start with a clove hitch on the vertical pole, wrap over-and-under both poles 4 times, wrap 2–3 tight 'frapping' turns between the poles to cinch tight, and finish with a clove hitch."
       ],
-      "safety": "Melt cut ends of nylon 550 paracord with a lighter to fuse the 7 inner strands to the outer sheath.",
+      "safety": "Practice with light camp loads close to the ground. Keep utility paracord out of climbing, rescue and suspended-person systems.",
       "tags": [
         "knots",
         "bowline",
@@ -465,6 +478,18 @@
         "truckers-hitch",
         "lashing",
         "paracord"
+      ],
+      "scenario": "Your tarp line needs to attach at one end and adjust at the other.",
+      "overview": "Use the bowline when the loop must stay the same size and the taut-line hitch when a tarp edge needs adjusting. On a practice pitch, ease the load, slide the hitch, then tension it again. If the line still slips, correct the wraps before relying on the shelter.",
+      "sources": [
+        [
+          "Bowline illustration by Jazzmanian, public domain",
+          "https://commons.wikimedia.org/wiki/File:Knot_bowline.jpg"
+        ],
+        [
+          "Clove hitch illustration by Jazzmanian, public domain",
+          "https://commons.wikimedia.org/wiki/File:Knot_clove.jpg"
+        ]
       ]
     },
     {
@@ -483,18 +508,31 @@
         "Small smooth pebbles (for corner tie-outs if grommets tear)"
       ],
       "steps": [
-        "Rig a taut chest-high ridgeline between two trees using a bowline on one end and a trucker's hitch on the other; add two Prusik loops on the ridgeline to clip the tarp corners so the tarp slides and centers effortlessly.",
-        "A-Frame (best all-weather rain protection): Drape the tarp symmetrically over the ridgeline and stake all four corners out at 45\u00b0 angles.",
-        "Plow-Point (fastest 3-minute storm shelter): Tie one corner of a square tarp to a tree at waist height, stake the opposite corner into the ground into the wind, and stake the two side wings out.",
-        "Tie drip-stop cords 6 inches from trees on the ridgeline so rainwater drips off the strings instead of soaking the inside of your tarp."
+        "Choose a drained, permitted site clear of dead limbs and flood channels. Lay out the sleeping pad and check which direction the rain is coming from. Choose one of the following pitches for the available anchors and wind.",
+        "A-frame. Run a low ridgeline between two sound anchors where permitted. Center the tarp over it so both panels shed water. Stake the four corners outward and alternate sides as you tension them. Leave enough room for the sleeping bag to clear the wet fabric.",
+        "Lean-to. Secure one reinforced long edge to a ridgeline or two supports. Stake the opposite long edge low on the side facing the wind. Viewed from the end, the tarp is a single slope with the open side facing away from the wind. If rain blows through the opening, lower the high edge or switch to an A-frame.",
+        "Plow-point. On a square tarp, secure one reinforced corner to a low anchor. Stake the opposite corner close to the ground toward the wind, then spread and stake the two side corners. Place your head toward the roomier end, still inside the drip line.",
+        "Test the pitch before moving bedding in. Look for a pocket where rain can pool. Move the nearest stake outward to smooth the panel, then check that runoff will pass beside the sleeping area. At home, pour a little water on the roof and watch where it lands."
       ],
-      "safety": "Never stretch a tarp drum-tight in dry afternoon heat if rain is coming\u2014nylon sags when wet, whereas polyester stays taut.",
+      "safety": "A tarp gives rain cover. For thunder, seek a substantial building or enclosed hard-topped vehicle. Move off any site threatened by rising water.",
       "tags": [
         "tarp",
         "shelter",
         "a-frame",
         "plow-point",
         "ridgeline"
+      ],
+      "scenario": "The wind shifts and rain starts coming under one open side of the tarp.",
+      "overview": "The pitch sets the balance between headroom, drainage and wind exposure. Test it with your sleeping gear underneath before nightfall.",
+      "sources": [
+        [
+          "Scouting America · Camping equipment and tarp shelters",
+          "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Camping.pdf"
+        ],
+        [
+          "National Weather Service · Lightning safety",
+          "https://www.weather.gov/safety/lightning-tips"
+        ]
       ]
     },
     {
@@ -503,7 +541,7 @@
       "sub": "Shelter & Knots",
       "title": "Building a Natural Debris Hut (Zero-Gear Freezing Weather Shelter)",
       "diff": "Medium",
-      "time": "2\u20133 hours",
+      "time": "2–3 hours",
       "gear": [
         "Fixed-blade knife (optional)"
       ],
@@ -515,18 +553,20 @@
       ],
       "steps": [
         "Prop a stout 9-foot ridgepole onto two forked sticks (or a low stump) at hip height so the back slopes all the way down to the ground.",
-        "Pack the interior floor first with 6\u20138 inches of dry leaves/pine needles so your body never touches bare earth.",
-        "Lean smaller rib sticks along both sides at 45\u00b0 angles spaced 6 inches apart, weaving cross-twigs to form a lattice.",
+        "Pack the interior floor first with 6–8 inches of dry leaves/pine needles so your body never touches bare earth.",
+        "Lean smaller rib sticks along both sides at 45° angles spaced 6 inches apart, weaving cross-twigs to form a lattice.",
         "Pile at least 2 to 3 FEET (arm's-length thick!) of dry leaves, grass, and bark over the entire frame, and stuff a backpack or leaf-filled sack in the entrance doorway at night."
       ],
-      "safety": "Keep the interior snug\u2014just wide enough for your shoulders\u2014so your own body heat warms the trapped air pocket.",
+      "safety": "Keep the interior snug—just wide enough for your shoulders—so your own body heat warms the trapped air pocket.",
       "tags": [
         "debris-hut",
         "shelter",
         "cold-weather",
         "primitive",
         "sas"
-      ]
+      ],
+      "scenario": "You have to wait for help and the ground is pulling heat away.",
+      "overview": "Shelter includes insulation underneath the body as well as overhead cover. Keep your location visible to searchers."
     },
     {
       "id": "sur-118",
@@ -557,7 +597,9 @@
         "blackout",
         "friendswood",
         "texas"
-      ]
+      ],
+      "scenario": "The AC is off, the house is warming and the utility has no restoration time.",
+      "overview": "Identify a reachable cooled location while people can still travel. Confusion or collapse in heat requires emergency help and immediate cooling."
     },
     {
       "id": "sur-119",
@@ -578,17 +620,19 @@
       ],
       "steps": [
         "Dress in 3 modular layers: (1) moisture-wicking merino wool or polyester against skin; (2) insulating fleece, wool, or down; (3) breathable wind/rain shell.",
-        "Vent zippers BEFORE you start sweating during exertion\u2014sweat-soaked clothing loses up to 90% of its insulating value.",
+        "Vent zippers BEFORE you start sweating during exertion—sweat-soaked clothing loses up to 90% of its insulating value.",
         "Cover head, neck, and wrists (up to 30% of heat loss occurs from an uncovered head/neck), and eat high-calorie foods before bed so metabolism fuels warmth overnight."
       ],
-      "safety": "Strictly avoid cotton jeans, hoodies, and socks in cold/wet conditions\u2014cotton holds water and accelerates hypothermia.",
+      "safety": "Strictly avoid cotton jeans, hoodies, and socks in cold/wet conditions—cotton holds water and accelerates hypothermia.",
       "tags": [
         "cold-weather",
         "layering",
         "hypothermia",
         "winter",
         "sas"
-      ]
+      ],
+      "scenario": "A walk starts cold but the first uphill stretch leaves your base layer damp.",
+      "overview": "Adjust layers before sweat soaks the insulation. Keep a dry layer protected for the point when movement stops."
     },
     {
       "id": "sur-120",
@@ -604,53 +648,50 @@
         "Lip balm & sunscreen"
       ],
       "supplies": [
-        "4\u20138 liters water per person/day"
+        "4–8 liters water per person/day"
       ],
       "steps": [
-        "Ration your SWEAT, not your water: never ration water in your canteen while dehydrating\u2014drink steadily to keep blood volume circulating, and stay completely still in deep shade during peak heat (10 AM \u2013 4 PM).",
+        "Ration your SWEAT, not your water: never ration water in your canteen while dehydrating—drink steadily to keep blood volume circulating, and stay completely still in deep shade during peak heat (10 AM – 4 PM).",
         "Create a double-roof air-gap shade canopy using two tarps spaced 12 inches apart so upper heat radiates away instead of baking underneath.",
-        "Keep loose, light-colored long sleeves and pants buttoned up\u2014bare skin loses moisture far faster to dry desert wind.",
+        "Keep loose, light-colored long sleeves and pants buttoned up—bare skin loses moisture far faster to dry desert wind.",
         "Travel at dawn, dusk, or under bright moonlight while watching carefully for rattlesnakes and scorpions."
       ],
-      "safety": "Never lie directly on scorching desert sand (up to 150\u00b0F)\u2014elevate yourself on rocks, brush, or a pack.",
+      "safety": "Never lie directly on scorching desert sand (up to 150°F)—elevate yourself on rocks, brush, or a pack.",
       "tags": [
         "desert",
         "arid",
         "heat",
         "water-rationing",
         "sas"
-      ]
+      ],
+      "scenario": "A desert walk is taking longer than planned and exposed ground reflects the sun.",
+      "overview": "Shade, an early turnaround and a known water reserve protect the return trip. Avoid navigating unfamiliar terrain in darkness."
     },
     {
       "id": "sur-121",
       "cat": "Wilderness & Emergency",
       "sub": "Climate & Terrain",
-      "title": "Coastal, Swamp & Flooded Terrain Survival (Texas Gulf Coast)",
+      "title": "Choose dry ground when coastal floodwater rises",
       "diff": "Medium",
-      "time": "Ongoing",
+      "time": "As needed",
       "gear": [
-        "Dry bags",
-        "Waterproof headlamp",
-        "Walking staff / probing pole",
-        "Life vest (PFD)"
+        "Phone or weather radio"
       ],
-      "supplies": [
-        "Insect repellent (DEET or Picaridin)",
-        "Antifungal foot powder"
-      ],
+      "supplies": [],
       "steps": [
-        "Never walk or drive through moving floodwater: 6 inches of fast water knocks an adult off their feet, and 12\u201318 inches sweeps away cars and SUVs.",
-        "If wading through calm, shallow flooded streets or marsh, use a stout pole to probe every step ahead for open manhole covers, washed-out culverts, and downed power lines.",
-        "Elevate sleeping platforms above high-tide and storm-surge marks, and dry feet completely every evening to prevent immersion foot (trench foot)."
+        "Check flood warnings and identify a dry uphill route before approaching low ground.",
+        "Move to higher ground immediately if flooding threatens. Avoid ditches, low crossings and any street covered by water.",
+        "If cut off, call 911, give your location and stay at the highest safe accessible point while following official instructions."
       ],
-      "safety": "Watch out for displaced fire-ant rafts floating on floodwaters and venomous snakes (cottonmouths/copperheads) seeking high ground.",
-      "tags": [
-        "flood",
-        "swamp",
-        "coastal",
-        "hurricane",
-        "friendswood",
-        "texas"
+      "safety": "Stay away from downed lines and water that may be energized.",
+      "tags": [],
+      "scenario": "A Gulf Coast campsite is dry underfoot but water is rising along its access road.",
+      "overview": "Choose higher ground early and keep a dry route available. Floodwater can hide a washed-out surface as well as electrical and contamination hazards.",
+      "sources": [
+        [
+          "National Weather Service · During a flood",
+          "https://www.weather.gov/safety/flood-during"
+        ]
       ]
     },
     {
@@ -666,163 +707,178 @@
       ],
       "supplies": [],
       "steps": [
-        "When thunder roars or hair stands on end at high elevation, immediately descend below treeline and away from isolated tall trees, metal poles, and open ridges.",
-        "Assume the lightning crouch on a dry insulated pad or pack: feet pressed tight together, heels touching, crouching low on the balls of your feet with hands covering ears (never lie flat on conductive ground).",
-        "In slot canyons or mountain washes, climb immediately to high ground if dark clouds build upstream\u2014flash floods arrive miles away under blue skies."
+        "At the first thunder, leave exposed ridges and water immediately. Move toward a substantial building or a fully enclosed metal-topped vehicle with the windows closed. A tent or open pavilion does not protect against lightning.",
+        "Avoid isolated trees and low drainages subject to flash flooding on your route. If water rises, move to higher ground by a dry route.",
+        "Stay in lightning shelter until at least 30 minutes after the last thunder and reassess trail and water conditions before continuing."
       ],
-      "safety": "Maintain at least 20 feet of spacing between group members during severe lightning storms.",
+      "safety": "There is no safe outdoor posture in a thunderstorm. Plan a sheltered destination before the hike.",
       "tags": [
         "lightning",
         "mountain",
         "flash-flood",
         "weather",
         "safety"
+      ],
+      "scenario": "Thunder reaches a ridge while the quickest route down crosses a narrow wash.",
+      "overview": "Consider lightning and flood exposure together. A low drainage that looks sheltered may collect water falling many miles away.",
+      "sources": [
+        [
+          "National Weather Service · Lightning safety",
+          "https://www.weather.gov/safety/lightning-tips"
+        ]
       ]
     },
     {
       "id": "sur-123",
       "cat": "Wilderness & Emergency",
       "sub": "Wild Food & Trapping",
-      "title": "The Universal Edibility Test (Testing Unknown Wild Plants)",
+      "title": "Unknown berries or leaves: leave them uneaten",
       "diff": "Medium",
-      "time": "24 hours",
+      "time": "Immediate",
       "gear": [
-        "Metal pot for boiling"
+        "Phone"
       ],
-      "supplies": [
-        "Clean water"
-      ],
+      "supplies": [],
       "steps": [
-        "Before testing, discard ALL mushrooms/fungi (never apply this test to mushrooms), plants with milky/colored sap, umbrella-shaped flower clusters (hemlock family), shiny 3-leaf clusters, or bitter almond scents.",
-        "Test ONLY ONE part (leaf, stem, root) of ONE plant at a time: crush and rub on inner wrist/elbow for 15 minutes to check for rash.",
-        "Touch a tiny piece to your outer lip for 3 minutes, then hold on your tongue for 15 minutes without swallowing\u2014spit out immediately if any burning, numbing, or soapy bitterness occurs.",
-        "Swallow a tiny pinch and wait 8 full hours (drinking water only); if zero nausea or cramps occur, eat 1/4 cup and wait another 8 hours before considering safe."
+        "Stop anyone from tasting the plant. Photograph it in place from a safe distance if identification will be needed.",
+        "Use the food you carried and reassess your route or need for rescue. Arrange expert identification later, away from the pressure of hunger.",
+        "If anyone has already tasted it, call US Poison Control at 1-800-222-1222 promptly. Report the time, amount and symptoms. For collapse, seizure or breathing difficulty, call 911."
       ],
-      "safety": "Never use the Universal Edibility Test on mushrooms\u2014deadly Amanita toxins cause liver failure 12\u201324 hours later with zero initial taste warning.",
+      "safety": "Do not induce vomiting or rely on a skin or taste test.",
       "tags": [
-        "edibility-test",
-        "foraging",
-        "wild-plants",
-        "sas",
-        "food"
+        "berries",
+        "edibility test",
+        "poison",
+        "foraging"
+      ],
+      "scenario": "There are berries beside the trail and your food bag is nearly empty.",
+      "overview": "Taste, skin contact and animal feeding cannot identify an edible plant. The decision to leave it behind also prevents an uncertain exposure from becoming a rescue emergency.",
+      "sources": [
+        [
+          "National Park Service · Plant identification",
+          "https://www.nps.gov/anch/faqs.htm"
+        ]
       ]
     },
     {
       "id": "sur-124",
       "cat": "Wilderness & Emergency",
       "sub": "Wild Food & Trapping",
-      "title": "Top 8 Reliable North American Wild Edibles & Deadly Lookalikes",
+      "title": "Document a wild plant for expert identification",
       "diff": "Easy",
-      "time": "Reference guide",
+      "time": "10 minutes",
       "gear": [
-        "Foraging pouch",
-        "Knife"
+        "Camera or phone",
+        "Notebook"
       ],
       "supplies": [],
       "steps": [
-        "1. Cattail ('Supermarket of the Swamp'): Edible year-round\u2014spring shoots, summer green flower spikes (boil like corn), yellow pollen, and starchy winter rhizomes. Avoid lookalike wild iris (flat fan leaves, no cylindrical brown seed head).",
-        "2. Dandelion: Entire plant edible (young leaves raw, older leaves boiled, roasted roots as coffee substitute). Single hollow unbranched stem with milky sap.",
-        "3. Oak Acorns: Shell, crush, and leach bitter tannins in multiple changes of boiling water (or cold stream water in a cloth sack) until sweet, then dry into flour.",
-        "4. Pine Needles & Inner Bark: Steep green needles (avoid toxic Yew needles) for vitamin-C-rich tea; inner white cambium bark can be roasted or dried.",
-        "5. Prickly Pear Cactus (Nopales & Tuna fruit): Singe or scrape off all spines and tiny glochids before slicing pads or eating purple fruit.",
-        "6. Clover, Purslane & Chickweed: Abundant nutrient-dense greens in yards and fields."
+        "Photograph the entire plant, leaves in their original arrangement, and any visible flower or fruit without tasting or collecting it.",
+        "Record location, habitat and season. Compare multiple identifying traits in a regional guide and ask a qualified local botanist about lookalikes.",
+        "If any trait is uncertain, leave it uneaten. If someone already ate an unknown plant, call Poison Control promptly."
       ],
-      "safety": "DEADLY LOOKALIKES TO MEMORIZE: Poison Hemlock (smooth purple-spotted hollow stems, lacy carrot-like leaves) and Water Hemlock\u2014never eat wild carrot/parsley lookalikes.",
+      "safety": "A phone identification result or a single photograph cannot establish edibility.",
       "tags": [
+        "wild plants",
         "foraging",
-        "cattail",
-        "acorns",
-        "wild-edibles",
-        "hemlock"
+        "lookalikes"
+      ],
+      "scenario": "A plant resembles a photograph in a field guide but its leaf arrangement differs.",
+      "overview": "Record the whole plant, habitat and season for later identification. Close resemblance is a good reason to keep it out of the cookpot.",
+      "sources": [
+        [
+          "National Park Service · Plant identification",
+          "https://www.nps.gov/anch/faqs.htm"
+        ]
       ]
     },
     {
       "id": "sur-125",
       "cat": "Wilderness & Emergency",
-      "sub": "Wild Food & Trapping",
-      "title": "Simple Loop Snares & Figure-4 Deadfall Trap Mechanics",
+      "sub": "Trail Safety",
+      "title": "Recognize and report a trail entanglement hazard",
       "diff": "Medium",
-      "time": "30 mins",
+      "time": "5 minutes",
       "gear": [
-        "Fixed-blade knife"
+        "Phone",
+        "Map"
       ],
-      "supplies": [
-        "24-gauge brass snare wire or thin braided cord",
-        "3 notched sticks + flat heavy stone/log"
-      ],
+      "supplies": [],
       "steps": [
-        "Wire Loop Snare: Form a small locking loop at one end of a 24-inch brass wire, thread the other end through to make a noose, and set it a fist-width wide and 3 fingers off the ground along a narrow rabbit/squirrel trail.",
-        "Funnel the animal into the loop by placing natural brush obstacles on either side of the trail, anchoring the snare tail securely to a stout sapling or stake.",
-        "Figure-4 Deadfall: Carve 3 sticks\u2014(1) upright post with flat chisel top and square notch, (2) angled diagonal lever with matching notch, and (3) horizontal bait stick with square notch and pointed trigger tip\u2014supporting a heavy flat rock at 45\u00b0."
+        "Stop short of wire, a suspended object or unfamiliar equipment across the path. Bring children and pets back beside you.",
+        "Return by the clear path and record the location from there. Do not move the object or try to free a distressed animal yourself.",
+        "Tell the ranger or land manager where the hazard lies, how it is marked and whether an animal or person needs help. Call emergency services for an injured person."
       ],
-      "safety": "Check trap lines every morning at dawn, and never set deadfalls or snares where domestic pets or hikers walk.",
+      "safety": "Keep your distance from tensioned wire, unstable loads and distressed wildlife.",
       "tags": [
-        "trapping",
+        "wire",
+        "trail hazard",
         "snare",
-        "figure-4",
-        "deadfall",
-        "sas",
-        "survival-food"
-      ]
+        "wildlife"
+      ],
+      "scenario": "On a walk you find a loop of wire stretched across an animal path.",
+      "overview": "Mark the location from a safe distance for the land manager. Keeping people and pets away is more useful than trying to dismantle unfamiliar equipment."
     },
     {
       "id": "sur-126",
       "cat": "Wilderness & Emergency",
-      "sub": "Wild Food & Trapping",
-      "title": "Improvised Survival Fishing: Gorge Hooks, Trotlines & Fish Traps",
+      "sub": "Trail Food",
+      "title": "Pack a reserve meal for a fishing trip",
       "diff": "Easy",
-      "time": "30 mins",
+      "time": "10 minutes",
       "gear": [
-        "Knife",
-        "550 paracord inner strands"
+        "Dry bag"
       ],
       "supplies": [
-        "Safety pins, thorns, or carved hardwood splinters",
-        "Soda can tab",
-        "Earthworms/grubs"
+        "Shelf-stable food",
+        "Drinking water"
       ],
       "steps": [
-        "Carve a 1-inch double-pointed hardwood or bone gorge hook with a center notch; tie line to the middle, bury lengthwise inside bait\u2014when swallowed, pulling the line toggles the gorge crosswise.",
-        "Set a passive bank line or trotline across a creek overnight with multiple baited hooks spaced 2 feet apart so you catch fish while sleeping.",
-        "Bottle/Basket Funnel Trap: Cut the top off a 2-liter bottle, invert the spout inward like a funnel, punch sink holes, bait with crushed insects or bread, and submerge in shallow eddies."
+        "Count everyone on the trip and pack an extra ready-to-eat portion for each person. Check allergies and packaging.",
+        "Keep the reserve dry and separate from bait, hooks and the planned lunch. Add drinking water appropriate to the route and conditions.",
+        "Set a turnaround time that leaves enough daylight to return. If the fishing falls through, use the reserve and follow the return plan."
       ],
-      "safety": "Always cook freshwater fish thoroughly to destroy tapeworms and flukes.",
+      "safety": "Keep food and drinking water separate from fishing equipment.",
       "tags": [
         "fishing",
-        "gorge-hook",
-        "trotline",
-        "food",
-        "bushcraft"
-      ]
+        "food reserve",
+        "camp meal"
+      ],
+      "scenario": "A camp meal depended on catching fish and the water or weather has changed.",
+      "overview": "A ready-to-eat reserve gives the group a known meal and a margin for the return trip when fishing is impractical."
     },
     {
       "id": "sur-127",
       "cat": "Wilderness & Emergency",
-      "sub": "Wild Food & Trapping",
-      "title": "Field Dressing Small Game & Smoking/Drying Meat Without a Fridge",
+      "sub": "Trail Food",
+      "title": "Keep perishable food cold on a field trip",
       "diff": "Medium",
-      "time": "1\u20134 hours",
+      "time": "Before and during travel",
       "gear": [
-        "Sharp knife",
-        "Wooden tripod rack",
-        "Smoldering hardwood fire"
+        "Cooler",
+        "Thermometer"
       ],
       "supplies": [
-        "Clean water",
-        "Salt (if available)"
+        "Ice packs"
       ],
       "steps": [
-        "Field dressing: Make a shallow pinch-cut through belly skin from breastbone to pelvis without puncturing the stomach or bladder; peel skin back, remove entrails cleanly, rinse cavity with clean water, and cool meat immediately.",
-        "Cutting for preservation: Slice lean red meat (fat goes rancid quickly) WITH the grain into thin 1/4-inch strips.",
-        "Field smoking/drying: Hang strips on a green willow rack 3\u20134 feet above a small, smoky non-resinous hardwood fire (oak, hickory, mesquite\u2014never pine) inside a bark/tarp teepee for 8\u201312 hours until brittle and dark."
+        "Pack chilled food in a cooler with enough ice or frozen packs and a thermometer. Seal raw meat separately below ready-to-eat food.",
+        "Check for 40°F or below at departure and when the cooler is opened. Keep it in shade and limit unnecessary openings.",
+        "If perishables have spent over two hours above 40°F, discard them. In ambient heat above 90°F, use the one-hour limit. Choose shelf-stable food if the cold chain cannot be maintained."
       ],
-      "safety": "Discard any animal whose liver shows white spots, cysts, or discoloration (signs of tularemia or parasites), and wear gloves when skinning.",
+      "safety": "Smoking over a campfire does not establish safe shelf storage.",
       "tags": [
-        "field-dressing",
-        "smoking-meat",
-        "jerky",
-        "preservation",
-        "sas"
+        "cooler",
+        "game",
+        "food safety"
+      ],
+      "scenario": "You’re planning to carry perishable food beyond the reach of a refrigerator.",
+      "overview": "A measured cold chain determines whether meat can travel. Smoke or a dry-looking surface alone cannot make raw game shelf-stable.",
+      "sources": [
+        [
+          "FoodSafety.gov · Four steps to food safety",
+          "https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety"
+        ]
       ]
     },
     {
@@ -838,17 +894,31 @@
       ],
       "supplies": [],
       "steps": [
-        "Hold the compass level at waist height away from metal belt buckles, knives, phones, or vehicles.",
-        "To follow a bearing: rotate the bezel until your desired degree number aligns with the index line, turn your whole body until the red magnetic needle sits squarely inside the orienting outline ('Red in the Shed'), and walk toward a distant landmark aligned with the direction-of-travel arrow.",
-        "To take a bearing from a map: align the compass edge between Point A and Point B, rotate the bezel until the orienting lines parallel the map's north-south grid lines, then adjust for local magnetic declination (in Friendswood/Houston, declination is roughly 2\u00b0 East)."
+        "Before leaving, look up current declination for the route and date. Write the angle and E or W on the paper map. Identify the map’s true-north reference using its legend. Grid north and magnetic north can each point somewhere else.",
+        "Lay the baseplate edge from your known starting point toward the destination. The direction-of-travel arrow must point toward the destination. Rotate the dial until its orienting lines run parallel to the map’s true north–south direction, with the north end toward the top of that reference. Read the true bearing at the index.",
+        "On a compass without adjustable declination, convert the true bearing to a magnetic bearing: subtract east declination or add west declination. For practice, 80° true with 5° east gives 75° magnetic. Set that result at the index. With an adjustable compass already configured for local declination per its manual, use the true bearing directly.",
+        "Step away from vehicles and electronics. Hold the compass level and turn your body until the north tip of the needle aligns with the orienting arrow. Sight a reachable landmark in the direction of travel. Check terrain and hazards before moving toward it.",
+        "Practice by choosing two points you already recognize on an open path. Take the map bearing at the first point and sight the second. A nearly opposite result calls for checking the direction of the baseplate. A small persistent offset calls for checking your north reference and declination setting."
       ],
-      "safety": "Always set a 'handrail' or 'backstop' (road, river, powerline) on your map so you cannot overshoot your target.",
+      "safety": "If the map, compass and visible landmarks disagree, pause on safe ground and re-establish your position. Never proceed toward a hazardous crossing simply because the bearing points across it.",
       "tags": [
         "compass",
         "navigation",
         "map",
         "bearing",
         "declination"
+      ],
+      "scenario": "The trail curves out of sight and the map has no arrow telling you which way to turn.",
+      "overview": "Orient the map first, then match your bearing to a visible feature. A bearing gives direction and still needs a safe route.",
+      "sources": [
+        [
+          "USGS · North arrows on topographic maps",
+          "https://www.usgs.gov/faqs/what-do-different-north-arrows-a-usgs-topographic-map-mean"
+        ],
+        [
+          "NOAA · Current magnetic declination by place and date",
+          "https://www.ngdc.noaa.gov/geomag/calculators/declinationForm.shtml"
+        ]
       ]
     },
     {
@@ -863,18 +933,20 @@
       ],
       "supplies": [],
       "steps": [
-        "Calibrate your pace count on a measured 100-meter/100-yard stretch: count every time your LEFT foot strikes the ground (typically 60\u201365 double-paces per 100 meters on flat ground).",
+        "Calibrate your pace count on a measured 100-meter/100-yard stretch: count every time your LEFT foot strikes the ground (typically 60–65 double-paces per 100 meters on flat ground).",
         "Slide one lower bead on your Ranger pace-count string every 100 meters; after 10 lower beads (1 km), slide one upper kilometer bead.",
-        "Add 15%\u201325% extra paces when hiking uphill, through thick brush, or at night, and detour around obstacles using equal 90\u00b0 box-offset legs."
+        "Add 15%–25% extra paces when hiking uphill, through thick brush, or at night, and detour around obstacles using equal 90° box-offset legs."
       ],
-      "safety": "Never trust straight-line distance alone in swamps or canyons\u2014track both compass azimuth and cumulative distance.",
+      "safety": "Never trust straight-line distance alone in swamps or canyons—track both compass azimuth and cumulative distance.",
       "tags": [
         "pace-count",
         "navigation",
         "dead-reckoning",
         "distance",
         "sas"
-      ]
+      ],
+      "scenario": "Two trail junctions look alike and are only a short distance apart on the map.",
+      "overview": "A measured pace count gives an estimate of distance. Recalibrate on terrain similar to the route and cross-check a landmark."
     },
     {
       "id": "sur-130",
@@ -889,18 +961,20 @@
       ],
       "supplies": [],
       "steps": [
-        "Shadow-Stick Method: Push a 3-ft stick straight into flat sunny ground, place Pebble #1 at the exact tip of the shadow, wait 15\u201320 minutes, and place Pebble #2 at the new shadow tip\u2014a line drawn from Pebble #1 to Pebble #2 points straight WEST-TO-EAST anywhere on Earth.",
+        "Shadow-Stick Method: Push a 3-ft stick straight into flat sunny ground, place Pebble #1 at the exact tip of the shadow, wait 15–20 minutes, and place Pebble #2 at the new shadow tip—a line drawn from Pebble #1 to Pebble #2 points straight WEST-TO-EAST anywhere on Earth.",
         "Analog Watch Method (Northern Hemisphere): Hold watch flat, point the hour hand directly at the sun; halfway between the hour hand and 12 o'clock (1 o'clock during Daylight Saving Time) points due SOUTH.",
         "Night Star Navigation: Locate the two outer stars of the Big Dipper's cup (Dubhe and Merak) and trace an imaginary line 5x their distance to Polaris (the North Star); in the Southern Hemisphere, extend the long axis of the Southern Cross 4.5x to find due South."
       ],
-      "safety": "Never look directly at the sun when aligning an analog watch\u2014use the shadow of a vertical twig cast across the dial.",
+      "safety": "Never look directly at the sun when aligning an analog watch—use the shadow of a vertical twig cast across the dial.",
       "tags": [
         "shadow-stick",
         "north-star",
         "navigation",
         "celestial",
         "sas"
-      ]
+      ],
+      "scenario": "The main compass is missing and you’re trying to orient a paper map.",
+      "overview": "Sky cues give approximate directions under suitable conditions. Confirm them against terrain before making a consequential move."
     },
     {
       "id": "sur-131",
@@ -914,8 +988,8 @@
       ],
       "supplies": [],
       "steps": [
-        "High wispy Cirrus ('mares' tails') thickening into a milky Cirrostratus halo around the sun or moon signals an approaching warm front and steady rain within 12\u201324 hours.",
-        "Towering dark Cumulonimbus ('anvil tops') indicate imminent severe thunderstorms, hail, microburst winds, and lightning within 30\u201360 minutes.",
+        "High wispy Cirrus ('mares' tails') thickening into a milky Cirrostratus halo around the sun or moon signals an approaching warm front and steady rain within 12–24 hours.",
+        "Towering dark Cumulonimbus ('anvil tops') indicate imminent severe thunderstorms, hail, microburst winds, and lightning within 30–60 minutes.",
         "Stand with your back to the wind (Northern Hemisphere): low pressure (approaching storm) sits to your LEFT and slightly ahead; falling barometric pressure + easterly backing winds confirm worsening weather."
       ],
       "safety": "Sudden temperature drops and calm air right before dark wall clouds signal dangerous gust fronts.",
@@ -925,7 +999,9 @@
         "barometer",
         "forecasting",
         "sas"
-      ]
+      ],
+      "scenario": "Clouds are building above a picnic spot with a long walk back to shelter.",
+      "overview": "Weather signs prompt an early check of official forecasts and warnings. Thunder is a reason to leave exposed areas immediately."
     },
     {
       "id": "sur-132",
@@ -943,9 +1019,9 @@
         "Logs/rocks for ground letters"
       ],
       "steps": [
-        "Signal Mirror (visible 10+ miles): Hold mirror near your cheek, extend your other hand in a V-sign framing the aircraft/boat, and tilt the mirror until the bright reflection spot hits your V-fingers\u2014flash 3 quick bursts repeatedly.",
+        "Signal Mirror (visible 10+ miles): Hold mirror near your cheek, extend your other hand in a V-sign framing the aircraft/boat, and tilt the mirror until the bright reflection spot hits your V-fingers—flash 3 quick bursts repeatedly.",
         "International Distress Signal = THREE of anything: 3 sharp whistle blasts, 3 smoky/bright fires in a triangle, or 3 flashlight flashes.",
-        "Ground-to-Air Search & Rescue Codes (make letters at least 10 ft tall with high color contrast in an open clearing): V = Require Assistance; X = Require Medical Assistance; N = No / Negative; Y = Yes / Affirmative; \u2192 = Proceeding in this direction."
+        "Ground-to-Air Search & Rescue Codes (make letters at least 10 ft tall with high color contrast in an open clearing): V = Require Assistance; X = Require Medical Assistance; N = No / Negative; Y = Yes / Affirmative; → = Proceeding in this direction."
       ],
       "safety": "Keep green pine boughs or rubber/oil staged next to a signal fire so you can throw them on immediately for thick white (day) or black (snow/sand) smoke when you hear an engine.",
       "tags": [
@@ -955,13 +1031,15 @@
         "sar",
         "rescue",
         "sas"
-      ]
+      ],
+      "scenario": "You can hear people searching but shouting is tiring and they cannot see you.",
+      "overview": "Sound can attract attention while a visible signal helps pinpoint the location. Stay where responders can safely reach you."
     },
     {
       "id": "sur-133",
       "cat": "Wilderness & Emergency",
       "sub": "Signaling & Rescue",
-      "title": "Off-Grid Comms: NOAA Weather Radio, FRS/GMRS & Power Budgets",
+      "title": "Weather alerts and a family radio check-in",
       "diff": "Easy",
       "time": "15 mins",
       "gear": [
@@ -973,11 +1051,12 @@
         "Laminated family comms card"
       ],
       "steps": [
-        "Program your NOAA radio to your county SAME code (Galveston/Brazoria County for Friendswood) and keep it on ALERT standby during hurricane and tornado seasons.",
-        "Establish a family radio schedule to conserve batteries: turn FRS/GMRS walkie-talkies ON for only the first 5 minutes of every even hour on Channel 1 (or agreed GMRS channel) rather than leaving them scanning all day.",
-        "Switch phones immediately to Airplane Mode + Low Power Mode during outages\u2014searching for dead cell towers drains a phone battery in 3 hours, whereas Airplane Mode preserves offline maps and guides for 4+ days."
+        "Find the county for your address. Friendswood spans Galveston and Harris counties. For a receiver with SAME county filtering, use the National Weather Service county and station listing and the receiver manual to select the correct code and a transmitter serving the address.",
+        "Put the weather receiver where you will use it during an outage. Listen for a clear forecast, enable alerts and confirm backup power. Check that it receives a scheduled local test before depending on it overnight.",
+        "For two-way radios you are authorized to operate, agree on the same channel and settings. Write down who calls whom, the next check-in time and what each person does if the call fails. Test from the actual rooms or nearby locations you expect to use.",
+        "On a phone, use low-power mode when appropriate. Airplane mode turns off cellular calls, texts and cellular emergency alerts. Keep a reachable device or a designated listening period when you are expecting instructions."
       ],
-      "safety": "Keep a printed list of out-of-state family relay contacts\u2014text messages often go through on congested local towers when voice calls fail.",
+      "safety": "A receive-only weather radio cannot call for rescue. In immediate danger, contact emergency services by an available means instead of waiting for a family check-in.",
       "tags": [
         "comms",
         "noaa",
@@ -985,36 +1064,57 @@
         "gmrs",
         "battery",
         "hurricane"
+      ],
+      "scenario": "The household has radios but nobody remembers which one receives warnings or which can transmit.",
+      "overview": "A listening test and a short practice exchange distinguish the two jobs. Keep the agreed channel and battery type with each unit.",
+      "sources": [
+        [
+          "National Weather Service · County and station listings",
+          "https://www.weather.gov/dsb/counties"
+        ],
+        [
+          "National Weather Service · Using SAME county codes",
+          "https://www.weather.gov/dsb/usingsame"
+        ]
       ]
     },
     {
       "id": "sur-134",
       "cat": "Wilderness & Emergency",
       "sub": "Urban & Disaster",
-      "title": "Hurricane Evacuation vs. Shelter-in-Place Decision Matrix",
+      "title": "Hurricane: decide whether to leave or shelter",
       "diff": "Easy",
-      "time": "20 mins",
+      "time": "As conditions change",
       "gear": [
-        "Full gas tank (fill at 1/2 tank during June\u2013Nov)",
-        "Paper regional road atlas",
-        "Cash"
+        "Official alerts",
+        "Map",
+        "Radio"
       ],
       "supplies": [
-        "Plywood/storm shutters",
-        "Important documents in waterproof bag"
+        "Departure essentials"
       ],
       "steps": [
-        "ALWAYS evacuate if ordered for storm surge or if living in a mobile/manufactured home; if sheltering in place inland (like Friendswood in a Category 1\u20133 wind event), prepare for 7\u201314 days without electricity or municipal water.",
-        "If evacuating, leave 48+ hours before tropical-storm-force winds arrive and use pre-mapped back-road alternates north/northwest rather than jammed I-45.",
-        "Inside the house during peak eye-wall winds, retreat to an interior windowless downstairs room, closet, or hallway under a heavy mattress, and remember the calm eye is only halfway through the storm."
+        "Check your address against current official evacuation instructions, storm-surge and flood warnings. Leave when ordered. Ask the local emergency management office about transport early if needed.",
+        "If leaving, confirm a receiving destination and use official open routes. Avoid water-covered roads and allow extra time for pets, medical needs and traffic.",
+        "If officials advise sheltering, choose a sturdy safe location appropriate to the hazard. An interior room away from windows helps in high wind; rising water requires higher ground. Monitor alerts throughout."
       ],
-      "safety": "Never open windows 'to equalize pressure' during a hurricane\u2014wind rushing inside pressurizes the roof from underneath and blows it off.",
+      "safety": "Wind category alone cannot determine flood or surge danger at a particular home.",
       "tags": [
         "hurricane",
         "evacuation",
-        "friendswood",
-        "gulf-coast",
-        "storm"
+        "shelter"
+      ],
+      "scenario": "A Gulf storm is approaching and the household is deciding when to leave Friendswood.",
+      "overview": "Official instructions, road conditions and the time your slowest traveler needs belong in the same decision. Choose a destination before traffic constrains the route.",
+      "sources": [
+        [
+          "City of Friendswood · Emergency notifications",
+          "https://www.ci.friendswood.tx.us/618/Emergency-Notifications"
+        ],
+        [
+          "National Weather Service · During a flood",
+          "https://www.weather.gov/safety/flood-during"
+        ]
       ]
     },
     {
@@ -1029,10 +1129,10 @@
       ],
       "supplies": [],
       "steps": [
-        "If your car enters deep water, you have roughly 30\u201360 seconds while the vehicle floats before water pressure pins the doors shut\u2014do NOT call 911 first.",
-        "Follow SWOC in seconds: (1) SEATBELTS off immediately (adults unbuckle themselves first, then children); (2) WINDOWS rolled down or shattered at the corner with a spring-loaded punch (tempered side windows shatter easily; laminated windshields will NOT break); (3) OUT immediately\u2014children pushed out first, followed by adults; (4) CLIMB onto the car roof or swim with the current toward high ground."
+        "If your car enters deep water, you have roughly 30–60 seconds while the vehicle floats before water pressure pins the doors shut—do NOT call 911 first.",
+        "Follow SWOC in seconds: (1) SEATBELTS off immediately (adults unbuckle themselves first, then children); (2) WINDOWS rolled down or shattered at the corner with a spring-loaded punch (tempered side windows shatter easily; laminated windshields will NOT break); (3) OUT immediately—children pushed out first, followed by adults; (4) CLIMB onto the car roof or swim with the current toward high ground."
       ],
-      "safety": "Mount a ResQMe or spring-loaded center punch within arm's reach of the driver's seat\u2014never buried in the glovebox.",
+      "safety": "Mount a ResQMe or spring-loaded center punch within arm's reach of the driver's seat—never buried in the glovebox.",
       "tags": [
         "vehicle",
         "submerged",
@@ -1040,7 +1140,9 @@
         "escape",
         "swoc",
         "safety"
-      ]
+      ],
+      "scenario": "A vehicle has entered water and occupants need a way out.",
+      "overview": "The immediate task is escape from the vehicle. Flooded roads should be avoided before entry, even when another driver appears to get through."
     },
     {
       "id": "sur-136",
@@ -1055,18 +1157,20 @@
       ],
       "supplies": [],
       "steps": [
-        "Sleep with bedroom doors CLOSED\u2014a closed hollow-core door holds back 1,000\u00b0F fire and toxic smoke for 15+ minutes, keeping bedroom air survivable.",
+        "Sleep with bedroom doors CLOSED—a closed hollow-core door holds back 1,000°F fire and toxic smoke for 15+ minutes, keeping bedroom air survivable.",
         "Before opening any door during a fire, feel the door panel and knob with the back of your hand: if hot, keep it shut, stuff wet towels/clothes along the bottom crack, open a window slightly, and wave a bright sheet for firefighters.",
-        "If escaping through smoke, drop to hands and knees where cool breathable air sits 12\u201318 inches off the floor, and go straight to your pre-arranged mailbox/neighbor meeting spot\u2014NEVER re-enter a burning building."
+        "If escaping through smoke, drop to hands and knees where cool breathable air sits 12–18 inches off the floor, and go straight to your pre-arranged mailbox/neighbor meeting spot—NEVER re-enter a burning building."
       ],
-      "safety": "Synthetic furniture burns 8x faster than legacy wood\u2014you have under 2 minutes from alarm chirp to get out.",
+      "safety": "Synthetic furniture burns 8x faster than legacy wood—you have under 2 minutes from alarm chirp to get out.",
       "tags": [
         "house-fire",
         "escape",
         "smoke",
         "safety",
         "home"
-      ]
+      ],
+      "scenario": "A smoke alarm sounds during the night and family members are in different rooms.",
+      "overview": "A practiced outside meeting point gives firefighters a reliable head count. Stay outside and tell responders where anyone was last seen."
     },
     {
       "id": "sur-137",
@@ -1088,7 +1192,7 @@
         "Bright cloth tied to antenna"
       ],
       "steps": [
-        "Stay WITH your vehicle unless a lit building is clearly visible within 100 yards\u2014vehicles provide shelter and are 10x easier for rescuers to spot than a lone walker.",
+        "Stay WITH your vehicle unless a lit building is clearly visible within 100 yards—vehicles provide shelter and are 10x easier for rescuers to spot than a lone walker.",
         "In freezing weather, run the engine and heater for ONLY 10 minutes each hour, cracking a downwind window 1/2-inch and checking first that the exhaust tailpipe is completely clear of snow or mud.",
         "In summer desert/highway breakdowns, raise the hood and tie a bright cloth to the door handle, sit in shade outside the car if safe from traffic, and conserve water."
       ],
@@ -1099,7 +1203,9 @@
         "winter",
         "blizzard",
         "roadside"
-      ]
+      ],
+      "scenario": "The car is disabled and the weather is turning dangerous.",
+      "overview": "Record the location and contact help early. Temperature, traffic and whether the vehicle remains safe determine where to wait."
     },
     {
       "id": "sur-138",
@@ -1115,18 +1221,20 @@
       ],
       "supplies": [],
       "steps": [
-        "During shaking, immediately DROP to hands and knees, COVER head and neck under a sturdy table or against an interior wall away from glass/bookcases, and HOLD ON until shaking stops\u2014do NOT run outside or stand in doorways.",
+        "During shaking, immediately DROP to hands and knees, COVER head and neck under a sturdy table or against an interior wall away from glass/bookcases, and HOLD ON until shaking stops—do NOT run outside or stand in doorways.",
         "Keep sturdy shoes and a flashlight beside your bed so you don't walk across shattered glass in the dark.",
         "After shaking stops, sniff for rotten-egg gas odor or listen for hissing: ONLY shut off the main gas valve if you smell/hear a leak (turning gas off requires the utility company to relight pilots)."
       ],
-      "safety": "Never strike a match or flip light switches if you suspect a gas leak\u2014use a battery flashlight.",
+      "safety": "Never strike a match or flip light switches if you suspect a gas leak—use a battery flashlight.",
       "tags": [
         "earthquake",
         "gas-shutoff",
         "disaster",
         "safety",
         "sas"
-      ]
+      ],
+      "scenario": "Shaking starts indoors while heavy objects are nearby.",
+      "overview": "Protect yourself during the shaking, then reassess the building and utilities from a safe position before re-entry."
     },
     {
       "id": "sur-139",
@@ -1149,43 +1257,48 @@
         "Shut all exterior doors and windows, and turn OFF all HVAC systems, bathroom exhaust fans, and clothes dryers that pull outside air in.",
         "Move to an interior room with few or no windows (prefer higher floors for heavier-than-air vapors), wedge wet towels under the door, and tape pre-cut plastic sheeting tightly over window frames and air vents."
       ],
-      "safety": "Ventilate the room immediately once authorities broadcast the all-clear so CO\u2082 does not build up.",
+      "safety": "Ventilate the room immediately once authorities broadcast the all-clear so CO₂ does not build up.",
       "tags": [
         "hazmat",
         "chemical-spill",
         "shelter-in-place",
         "houston",
         "disaster"
-      ]
+      ],
+      "scenario": "Officials direct your neighborhood to shelter indoors after a chemical release.",
+      "overview": "The location of the release and official instructions determine when to close the room and when it is safe to leave."
     },
     {
       "id": "sur-140",
       "cat": "Wilderness & Emergency",
       "sub": "Urban & Disaster",
-      "title": "Nuclear / Radiological Fallout: 10-Minute Shelter & 48-Hour Rule",
+      "title": "A radiation alert: get inside and follow local instructions",
       "diff": "Easy",
-      "time": "15 mins",
+      "time": "Immediate",
       "gear": [
-        "NOAA battery/crank radio",
-        "N95 masks"
+        "Radio or phone"
       ],
       "supplies": [
-        "Sealed bottled water",
-        "Change of clothes + trash bags"
+        "Clean clothes",
+        "Bag"
       ],
       "steps": [
-        "Never look at a bright flash\u2014drop immediately behind solid cover to shield from blast wave and thermal heat.",
-        "You have 10\u201315 minutes before heavy radioactive fallout dust begins arriving: get inside the center of a concrete/brick multi-story building or underground basement immediately (cars and wooden sheds offer almost zero shielding).",
-        "If caught outside during fallout, remove outer clothing (eliminates 90% of external contamination), seal clothes in a plastic bag away from people, and wash skin/hair with soap and water (do NOT use hair conditioner, which binds radioactive particles).",
-        "Stay sheltered inside for at least 24\u201348 hours\u2014radiation levels drop by 80% in the first 24 hours and 99% within two weeks."
+        "Get inside the nearest substantial building immediately. Move toward its basement or center, away from windows and outside walls.",
+        "If you were outside, carefully remove the outer layer of clothing without shaking it. Bag it away from people and pets and gently wash exposed skin.",
+        "Monitor official instructions by radio or phone. Stay sheltered until authorities direct you to leave or an immediate danger makes staying unsafe."
       ],
-      "safety": "Take potassium iodide (KI) ONLY if directed by public health officials, as it protects only the thyroid from radioactive iodine.",
+      "safety": "Follow the local alert for shelter duration. A fixed countdown cannot determine the all-clear.",
       "tags": [
-        "fallout",
-        "nuclear",
-        "radiological",
-        "shelter",
-        "civil-defense"
+        "radiation",
+        "shelter"
+      ],
+      "scenario": "A radiological alert arrives while you are outdoors.",
+      "overview": "Get inside a substantial building, stay inside and monitor official instructions. The all-clear depends on local measurements and the incident.",
+      "sources": [
+        [
+          "CDC · Radiation emergencies",
+          "https://www.cdc.gov/radiation-emergencies/response/"
+        ]
       ]
     },
     {
@@ -1205,9 +1318,9 @@
         "Hand sanitizer / bleach"
       ],
       "steps": [
-        "Keep urine (liquid) and feces (solid) in SEPARATE buckets\u2014separating liquids eliminates 95% of odor and prevents overflowing bags.",
+        "Keep urine (liquid) and feces (solid) in SEPARATE buckets—separating liquids eliminates 95% of odor and prevents overflowing bags.",
         "Line the solid-waste bucket with a heavy contractor bag, add 2 inches of sawdust/peat moss/cat litter on the bottom, and cover with another scoop after each use.",
-        "Never pour chlorine bleach into a bucket containing urine\u2014bleach reacts with ammonia in urine to create toxic chloramine gas.",
+        "Never pour chlorine bleach into a bucket containing urine—bleach reacts with ammonia in urine to create toxic chloramine gas.",
         "Dispose of greywater (dish/wash water) in a mulched garden trench away from wells, never into storm drains."
       ],
       "safety": "Keep a dedicated hand-washing station right next to emergency toilets to prevent dysentery and norovirus outbreaks.",
@@ -1217,7 +1330,9 @@
         "toilet",
         "hygiene",
         "blackout"
-      ]
+      ],
+      "scenario": "The sewer is unavailable and a working flush toilet may add to a backup.",
+      "overview": "Separate waste handling from clean water and food areas. Follow local collection or disposal instructions when services resume."
     },
     {
       "id": "sur-142",
@@ -1237,17 +1352,19 @@
       "steps": [
         "Replace short 1/2-inch screws in every exterior door deadbolt strike plate and hinge with 3-inch hardened steel screws anchored deep into the wall stud.",
         "Drop a cut wooden dowel or adjustable security bar into the bottom track of sliding glass patio doors.",
-        "Practice Jeff Cooper's Awareness Color Code in public: Condition White (oblivious/staring at phone\u2014avoid), Condition Yellow (relaxed, head-up 360\u00b0 scan of exits and people\u2014default mode), Condition Orange (specific potential threat spotted\u2014plan exit/barrier), Condition Red (decisive action).",
+        "Practice Jeff Cooper's Awareness Color Code in public: Condition White (oblivious/staring at phone—avoid), Condition Yellow (relaxed, head-up 360° scan of exits and people—default mode), Condition Orange (specific potential threat spotted—plan exit/barrier), Condition Red (decisive action).",
         "Keep exterior bushes trimmed below window sills and ensure solar motion lights cover dark side yards during grid outages."
       ],
-      "safety": "Never open an exterior door to strangers during a post-storm blackout\u2014speak through a locked door or window.",
+      "safety": "Never open an exterior door to strangers during a post-storm blackout—speak through a locked door or window.",
       "tags": [
         "security",
         "awareness",
         "home-defense",
         "blackout",
         "urban"
-      ]
+      ],
+      "scenario": "During an outage the entryway is dark and an unexpected visitor knocks.",
+      "overview": "A working latch, lighting and a clear exit let you communicate from a protected position while keeping an escape route."
     },
     {
       "id": "sur-143",
@@ -1271,10 +1388,10 @@
       "steps": [
         "Keep hard-sided carriers accessible in a closet (never buried in the attic) with the doors left open year-round so cats treat them as safe beds rather than panicking when storms approach.",
         "At the first hurricane watch or evacuation warning, bring outdoor/patio pets inside and confine cats to a single small bathroom BEFORE loading carriers so they cannot hide under beds.",
-        "Backup emergency trick: if a fire or tornado strikes with zero seconds to spare, slip a panicked cat headfirst into a sturdy cotton pillowcase and knot the top\u2014cats stay calm in the dark and cannot scratch while carried.",
+        "Backup emergency trick: if a fire or tornado strikes with zero seconds to spare, slip a panicked cat headfirst into a sturdy cotton pillowcase and knot the top—cats stay calm in the dark and cannot scratch while carried.",
         "Tape a laminated ID card with your name, cell number, and vet info onto the top of each carrier."
       ],
-      "safety": "Never leave pets behind during a mandatory evacuation\u2014and never sedate pets for air/car travel unless prescribed by your vet.",
+      "safety": "Never leave pets behind during a mandatory evacuation—and never sedate pets for air/car travel unless prescribed by your vet.",
       "tags": [
         "pets",
         "cats",
@@ -1282,32 +1399,41 @@
         "carrier",
         "emergency",
         "family"
-      ]
+      ],
+      "scenario": "A carrier is buried in the closet and the evacuation window is short.",
+      "overview": "Practice loading the carrier on an ordinary day. A labeled carrier and current pet photo help reconnect a separated animal with its household."
     },
     {
       "id": "sur-144",
       "cat": "Wilderness & Emergency",
       "sub": "Water & Sea Survival",
-      "title": "Swift River Crossing & Improvised Pant-Leg Flotation",
+      "title": "When rising water cuts off a trail crossing",
       "diff": "Medium",
-      "time": "20 mins",
+      "time": "Immediate",
       "gear": [
-        "Stout 6-ft wooden pole",
-        "Long pants or dry bag"
+        "Map",
+        "Phone or satellite messenger"
       ],
       "supplies": [],
       "steps": [
-        "Scout for the widest, shallowest gravel-bar section of the river (water moves slowest where the channel is widest) and unbuckle your backpack waist belt BEFORE stepping in so you can shed a heavy pack instantly if swept.",
-        "Keep boots/shoes ON for traction and foot protection; face upstream at a 45\u00b0 angle, plant your pole upstream as a 3-point tripod, and shuffle sideways without crossing your legs.",
-        "Trouser Flotation Aid: Tie knots in the cuffs of wet cotton/nylon pants, button the fly, hold the waistband open behind your head, and sweep forward into the water to trap air bubbles inside the legs."
+        "Stop on dry ground well back from the bank. Account for everybody, pets included.",
+        "Mark the location. Check your map for an established bridge or dry return route without approaching unstable banks.",
+        "If no safe route exists, wait on higher ground and contact the land manager or emergency services. Give coordinates and your side of the waterway."
       ],
-      "safety": "Never attempt to cross fast water deeper than mid-thigh, and never tie a rope around your waist across swift current (water pressure pushes you underwater).",
+      "safety": "Do not enter moving floodwater or depend on improvised flotation for a crossing.",
       "tags": [
-        "river-crossing",
-        "flotation",
-        "water-safety",
-        "sas",
-        "fieldcraft"
+        "river",
+        "flood",
+        "crossing",
+        "turn back"
+      ],
+      "scenario": "A creek crossing on the return trail is higher and faster than it was this morning.",
+      "overview": "A flooded crossing can make yesterday’s route unusable. A marked retreat point gives rescuers and companions a safer place to meet.",
+      "sources": [
+        [
+          "National Weather Service · During a flood",
+          "https://www.weather.gov/safety/flood-during"
+        ]
       ]
     },
     {
@@ -1328,14 +1454,16 @@
         "If multiple people are in the water, huddle chest-to-chest in a tight circle with children/elderly in the center.",
         "In a life raft, deploy the sea anchor (drogue) immediately to reduce drift, bail water dry, and inflate the double floor for insulation."
       ],
-      "safety": "Do NOT swim for distant shore unless it is safely within easy reach (under 400 yards in cold water)\u2014swimming pumps warm blood to cold skin and accelerates hypothermia.",
+      "safety": "Do NOT swim for distant shore unless it is safely within easy reach (under 400 yards in cold water)—swimming pumps warm blood to cold skin and accelerates hypothermia.",
       "tags": [
         "sea-survival",
         "cold-water",
         "help-position",
         "pfd",
         "sas"
-      ]
+      ],
+      "scenario": "Someone falls overboard and immersion takes their breath away.",
+      "overview": "A properly fitted life jacket helps keep the airway clear while the person regains breathing control and awaits rescue."
     },
     {
       "id": "sur-146",
@@ -1353,7 +1481,7 @@
       "steps": [
         "Harvest long fibrous plant stalks or strip inner tree bark, pound gently with a smooth stone to separate flexible fibers, and twist into two even strands.",
         "Hold the center bend in your left hand; twist the top strand AWAY from you (clockwise) between right thumb and forefinger, then pull it TOWARD you (counter-clockwise) over the bottom strand.",
-        "Repeat: twist top away, wrap toward you\u2014the opposing twists lock the fibers together into surprisingly strong rope.",
+        "Repeat: twist top away, wrap toward you—the opposing twists lock the fibers together into surprisingly strong rope.",
         "Splice in fresh fibers staggered at different lengths before a strand runs thin so weak points never align."
       ],
       "safety": "Wear gloves when harvesting stinging nettle stalks; drying or crushing neutralizes the stinging hairs.",
@@ -1364,7 +1492,9 @@
         "primitive",
         "yucca",
         "sas"
-      ]
+      ],
+      "scenario": "A noncritical bundle needs tying and you want to practice using plant fibers.",
+      "overview": "Test cordage on a light ground-level task. Keep manufactured rated equipment for any load that could injure a person if it falls."
     },
     {
       "id": "sur-147",
@@ -1379,12 +1509,12 @@
       ],
       "supplies": [],
       "steps": [
-        "Venomous Snakes (Cottonmouth, Copperhead, Rattlesnake, Coral Snake): Freeze immediately, locate the snake, and step slowly backward\u201490% of bites happen when people try to kill or pick up a snake.",
+        "Venomous Snakes (Cottonmouth, Copperhead, Rattlesnake, Coral Snake): Freeze immediately, locate the snake, and step slowly backward—90% of bites happen when people try to kill or pick up a snake.",
         "Alligators (Gulf Coast bayous/marshes): Keep at least 30 feet back from water edges, keep pets leashed away from banks, and run straight away in a straight line (gators burst fast for 15 feet but cannot sustain chases on land).",
         "Black Bears vs. Grizzlies: For Black Bears, make yourself look huge, shout loudly, and fight back aggressively if attacked; for Grizzlies, speak calmly, back away slowly without running, use bear spray, and play dead face-down with hands clasped behind neck ONLY if physical contact occurs.",
         "Aggressive Dogs: Stand sideways, avoid direct eye contact, place a backpack/stick between you and the dog, and command 'NO!' firmly while backing away."
       ],
-      "safety": "Never run from bears, cougars, or dogs\u2014running triggers an automatic chase predator instinct.",
+      "safety": "Never run from bears, cougars, or dogs—running triggers an automatic chase predator instinct.",
       "tags": [
         "wildlife",
         "snakes",
@@ -1392,7 +1522,9 @@
         "bears",
         "safety",
         "texas"
-      ]
+      ],
+      "scenario": "An animal is standing between you and the intended trail.",
+      "overview": "Distance and an alternate route are the first resources. Record the species and behavior from a safe position for a ranger if needed."
     },
     {
       "id": "sur-148",
@@ -1420,37 +1552,36 @@
         "vault",
         "preparedness",
         "checklist"
-      ]
+      ],
+      "scenario": "The phones are locked and one of you needs the other person’s insurance or emergency contact details.",
+      "overview": "A small paper set handles essential calls. Keep sensitive copies secured and check that both of you know how to retrieve them."
     },
     {
       "id": "sur-149",
       "cat": "Wilderness & Emergency",
       "sub": "Tools & Blades",
-      "title": "Improvised Candle Lanterns, Fat Lamps & Emergency Lighting",
+      "title": "Stage hands-free lighting for a blackout",
       "diff": "Easy",
-      "time": "15 mins",
+      "time": "10 minutes",
       "gear": [
-        "Tuna can or glass jar",
-        "Knife or nail"
+        "Headlamps",
+        "Battery lantern"
       ],
       "supplies": [
-        "Cooking oil, bacon grease, or butter",
-        "Twisted cotton strip or paper towel wick",
-        "Aluminum soda can"
+        "Spare batteries"
       ],
       "steps": [
-        "Emergency Oil Lamp: Pour 1 inch of vegetable oil, olive oil, or melted lard into a shallow tuna can or glass jar, thread a twisted 100% cotton string/shoelace through a poked foil lid or wire coil so 1/4-inch protrudes, let soak 5 minutes, and light.",
-        "Windproof Soda-Can Lantern: Cut a vertical flap window out of the side of an empty aluminum soda can, fold the metal wings outward as reflectors, and place a tea-light candle inside.",
-        "Keep dedicated LED headlamps and lantern batteries stored in cool, dry bins so open flames are used only as a last resort."
+        "Put a battery headlamp within reach of each bed and a lantern near the usual meeting area. Check battery type and condition.",
+        "In daylight, practice finding each light with one hand. Verify the lowest setting lights a safe path to the exit.",
+        "Keep spare cells in their original packaging and remove depleted cells as directed. Date the next function check."
       ],
-      "safety": "Never leave open-flame oil lamps or candles burning unattended or while sleeping.",
+      "safety": "Leave an area with a gas odor immediately. Use the phone only from a safe location outside.",
       "tags": [
-        "lighting",
-        "oil-lamp",
         "blackout",
-        "improvised",
-        "candle"
-      ]
+        "lighting"
+      ],
+      "scenario": "The lights fail after dark and you need both hands to move around the house.",
+      "overview": "A staged headlamp leaves hands free and avoids open flames around bedding, pets or a possible fuel leak."
     },
     {
       "id": "sur-150",
@@ -1470,17 +1601,121 @@
       "steps": [
         "Before any hike, road trip, or boat outing, text a trusted contact your exact trailhead/route, vehicle license plate, companions, and firm 'call SAR if not back by' cutoff time.",
         "If you realize you are lost: STOP immediately, mark your exact spot with bright cloth/rocks, and NEVER wander randomly in circles.",
-        "Stay put near an open clearing if overdue\u2014searchers grid outward from your last known point and find stationary subjects 4x faster than moving ones.",
+        "Stay put near an open clearing if overdue—searchers grid outward from your last known point and find stationary subjects 4x faster than moving ones.",
         "Blow 3 sharp whistle blasts every 15 minutes during daylight and keep warm/dry."
       ],
-      "safety": "Conserve phone battery on Airplane Mode\u2014if you get a weak signal on a ridge, send an SMS text with your GPS coordinates rather than draining battery on voice calls.",
+      "safety": "Conserve phone battery on Airplane Mode—if you get a weak signal on a ridge, send an SMS text with your GPS coordinates rather than draining battery on voice calls.",
       "tags": [
         "lost",
         "sar",
         "trip-plan",
         "hiking",
         "emergency"
-      ]
+      ],
+      "scenario": "You’re leaving for a short hike and the person at home has only the park name.",
+      "overview": "A trailhead, route, return time and explicit overdue action give a trusted contact enough detail to start a meaningful search."
+    },
+    {
+      "id": "sur-151",
+      "sub": "Navigation & Weather",
+      "title": "Set a turnaround time both hikers can use",
+      "scenario": "The viewpoint is probably just over the next rise, but the return route is slower than it looked on the map.",
+      "time": "10 minutes before departure",
+      "diff": "Easy",
+      "gear": [
+        "Map",
+        "Watch",
+        "Pencil"
+      ],
+      "supplies": [],
+      "steps": [
+        "Mark the trailhead, intended endpoint, difficult return sections and daylight or access deadline.",
+        "Working backward, allow time for the return, the slowest walker, breaks and a reserve for delay. Write down the resulting latest turnaround time.",
+        "At the first known landmark compare elapsed time with your plan. Move the turnaround earlier if progress, weather or anyone’s condition warrants it.",
+        "Tell the whole group the time and turn then, even if the objective is close. Update the person holding the trip plan when back safely."
+      ],
+      "overview": "The time is a decision made while everyone is rested. Its job is to protect the return trip when a destination begins to feel close.",
+      "tags": [
+        "navigation",
+        "weather"
+      ],
+      "cat": "Wilderness & Emergency"
+    },
+    {
+      "id": "sur-152",
+      "sub": "Water safety",
+      "title": "Escape a rip current or help a swimmer from shore",
+      "scenario": "At a Gulf beach, a swimmer is moving farther from shore despite swimming toward you. The beach access number is on the sign behind you.",
+      "gear": [],
+      "time": "At the beach",
+      "steps": [
+        "If you are the swimmer, stop trying to swim straight back against the current. Float or tread water, breathe and signal by waving or calling for help.",
+        "If you can swim comfortably, swim along the shoreline until the seaward pull eases, then angle back toward the beach away from the current. If you tire or make no progress, float and keep signaling.",
+        "If you see someone in trouble, alert the lifeguard immediately. If there is no lifeguard, call 911 and give the beach access or nearest landmark. Point continuously so the rescuer can track the swimmer.",
+        "Stay on shore. Throw something buoyant within reach if possible and call to the swimmer to float. Keep watching until rescuers take over.",
+        "Before your next swim, check the local surf forecast, choose a lifeguarded area and ask about conditions. A quiet gap between breaking waves can be a channel carrying water offshore."
+      ],
+      "overview": "Agree on the access number before you spread out on the beach. The person with the phone can give a precise location while the other keeps the swimmer in sight.",
+      "tags": [
+        "rip current",
+        "beach",
+        "Gulf",
+        "swimmer",
+        "water rescue"
+      ],
+      "sources": [
+        [
+          "National Weather Service · Surviving a rip current",
+          "https://www.weather.gov/safety/ripcurrent-surviving"
+        ],
+        [
+          "National Weather Service · Helping from shore",
+          "https://www.weather.gov/safety/ripcurrent-faqs"
+        ]
+      ],
+      "cat": "Wilderness & Emergency",
+      "diff": "Easy",
+      "supplies": []
+    },
+    {
+      "id": "sur-153",
+      "sub": "Navigation & Weather",
+      "title": "Test a two-way satellite messenger before a trip",
+      "scenario": "The trail leaves cell coverage in the first mile. One of you usually carries the messenger, but either of you may need to send a check-in or call for rescue.",
+      "gear": [
+        "Two-way satellite messenger and its model instructions",
+        "Charging cable",
+        "Trip plan and home contact"
+      ],
+      "time": "Before departure",
+      "steps": [
+        "Charge the device, confirm that its satellite service is active for your route and sync the intended contacts. Save the model’s instructions offline. Let both partners locate the buttons and read how to start a real SOS. Reserve the SOS control for an actual emergency.",
+        "Go outside with an open view of the sky. Follow the model’s satellite test procedure, including any instruction to disable a paired phone’s cellular connection. Wait for the return confirmation. A queued message alone does not complete the test.",
+        "Send your home contact an ordinary check-in and have them reply. Both partners should read the reply and locate the device after it is packed. Write down when the home contact should act on a missed return and whom they should call.",
+        "If a test fails, check the subscription and device sync, allow time under open sky and repeat. Resolve the failure or revise the trip’s communication plan before setting off.",
+        "In a real emergency beyond cell service, initiate SOS using the model’s instructions. For example, on the inReach Mini 2 lift the protective cap, hold SOS and allow the countdown to finish. When the response center messages, describe what happened, how many people need help and any immediate hazard. Keep the device available for replies."
+      ],
+      "overview": "The rehearsal is complete when a reply has traveled back over satellite and the partner who normally leaves the messaging to someone else can find and use the device.",
+      "tags": [
+        "satellite messenger",
+        "inReach",
+        "SOS",
+        "rescue",
+        "check-in"
+      ],
+      "sources": [
+        [
+          "Garmin · Verify service and run a test",
+          "https://support.garmin.com/en-US/?faq=HX8hA43Ys40k1akYC5tAsA"
+        ],
+        [
+          "Garmin · inReach Mini 2 SOS instructions",
+          "https://www8.garmin.com/manuals/webhelp/GUID-802DEF62-EBB2-463C-8C51-C58FB29F89E3/EN-US/GUID-1A05801A-FC6D-401A-9E38-AA13923E9E96.html"
+        ]
+      ],
+      "cat": "Wilderness & Emergency",
+      "diff": "Easy",
+      "supplies": []
     }
   ],
   "glossary": {
@@ -1488,19 +1723,19 @@
       "term": "Ferrocerium Rod (Ferro Rod)",
       "aka": "Flint & steel firestarter rod",
       "svg": "ferrorod",
-      "def": "A synthetic pyrophoric alloy rod (iron, cerium, lanthanum) that shaves off showers of 5,000\u00b0F molten sparks when scraped firmly with a sharp 90\u00b0 knife spine or hardened steel striker\u2014works even after being submerged in water."
+      "def": "A synthetic pyrophoric alloy rod (iron, cerium, lanthanum) that shaves off showers of 5,000°F molten sparks when scraped firmly with a sharp 90° knife spine or hardened steel striker—works even after being submerged in water."
     },
     "baseplate liquid-filled compass": {
       "term": "Baseplate Orienteering Compass",
       "aka": "Map & bearing compass",
       "svg": "compass",
-      "def": "A transparent rectangular baseplate compass with a rotating 360\u00b0 degree bezel, orienting arrow outline, ruler edges, and liquid-damped magnetic needle designed to lay flat on topographic maps for plotting exact travel bearings."
+      "def": "A transparent rectangular baseplate compass with a rotating 360° degree bezel, orienting arrow outline, ruler edges, and liquid-damped magnetic needle designed to lay flat on topographic maps for plotting exact travel bearings."
     },
     "aiming signal mirror": {
       "term": "Aiming Signal Mirror",
       "aka": "Heliograph rescue mirror",
       "svg": "sigmirror",
-      "def": "A shatterproof survival mirror with a central retro-reflective mesh sighting hole that projects a pinpoint beam of sunlight visible to aircraft and boats over 10\u201320 miles away."
+      "def": "A shatterproof survival mirror with a central retro-reflective mesh sighting hole that projects a pinpoint beam of sunlight visible to aircraft and boats over 10–20 miles away."
     },
     "hollow-fiber water filter": {
       "term": "Hollow-Fiber Membrane Water Filter",
@@ -1514,5 +1749,7 @@
       "svg": "winpunch",
       "def": "A keychain-sized emergency escape tool combining a shielded razor hook for slicing jammed seatbelts and an internal spring-loaded steel spike that shatters tempered car side windows with light hand pressure."
     }
-  }
+  },
+  "count": 53,
+  "version": "2026.11.15-birthday-r1"
 }

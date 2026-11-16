@@ -19,18 +19,20 @@
         "Magnetic cabin hooks"
       ],
       "steps": [
-        "Checked luggage often arrives at your cabin door between 4:00 PM and 8:00 PM\u2014pack everything needed for Day 1 (medications, swimsuits, dinner clothes, phone chargers, and travel documents) in your carry-on.",
+        "Checked luggage often arrives at your cabin door between 4:00 PM and 8:00 PM—pack everything needed for Day 1 (medications, swimsuits, dinner clothes, phone chargers, and travel documents) in your carry-on.",
         "Complete the e-Muster safety video on the cruise line's app while waiting in the terminal, then walk straight to your physical muster station the moment you board to check in within 5 minutes.",
         "Set phones to Airplane Mode + Ship Wi-Fi immediately upon boarding (before sailing out of Galveston/port) to avoid brutal maritime cellular roaming charges."
       ],
-      "safety": "Keep passports, cash, jewelry, and all prescription medications in your personal carry-on\u2014never in checked bags handed to porters.",
+      "safety": "Keep passports, cash, jewelry, and all prescription medications in your personal carry-on—never in checked bags handed to porters.",
       "tags": [
         "cruise",
         "embarkation",
         "packing",
         "galveston",
         "travel"
-      ]
+      ],
+      "scenario": "Your checked bag is still at the cruise terminal when you board.",
+      "overview": "Pack for the first afternoon and learn the ship’s muster procedure while essentials are still in your hand."
     },
     {
       "id": "trv-102",
@@ -40,7 +42,7 @@
       "diff": "Easy",
       "time": "15 mins",
       "gear": [
-        "Heavy-duty neodymium magnetic hooks (25\u201350 lb rating)",
+        "Heavy-duty neodymium magnetic hooks (25–50 lb rating)",
         "Over-the-door clear shoe organizer",
         "USB non-surge power hub",
         "Popup mesh laundry hamper"
@@ -52,7 +54,7 @@
       ],
       "steps": [
         "Cruise cabin walls and ceilings are painted steel: stick heavy-duty magnetic hooks on the ceiling for hanging wet swimsuits/lanyards and on walls for hats, daypacks, and rain ponchos.",
-        "Bring ONLY a non-surge-protected USB charging hub\u2014cruise lines confiscate standard household surge protectors at boarding because marine grounding systems cause surge-strip fire hazards.",
+        "Bring ONLY a non-surge-protected USB charging hub—cruise lines confiscate standard household surge protectors at boarding because marine grounding systems cause surge-strip fire hazards.",
         "Pack a small battery motion-sensor nightlight for the pitch-black interior cabin bathroom."
       ],
       "safety": "Never hang anything from ceiling fire sprinklers or smoke detectors inside a ship cabin.",
@@ -62,7 +64,9 @@
         "hacks",
         "cruise",
         "packing"
-      ]
+      ],
+      "scenario": "Two people and two suitcases share a narrow cabin.",
+      "overview": "Organize around the route from bed to door. Accessible storage matters even more after lights out."
     },
     {
       "id": "trv-103",
@@ -82,18 +86,20 @@
         "Small bills ($1s, $5s, $10s)"
       ],
       "steps": [
-        "Set a non-network analog/digital watch to SHIP TIME (which may differ by 1 hour from local port time\u2014phones automatically jump to local cell tower time and cause missed ships!).",
+        "Set a non-network analog/digital watch to SHIP TIME (which may differ by 1 hour from local port time—phones automatically jump to local cell tower time and cause missed ships!).",
         "Carry a laminated color copy of your passport photo page and the ship's port agent contact card from the daily planner (keep original passport locked in the cabin safe unless local port rules require originals).",
-        "Plan to be back on the pier at least 60\u201390 minutes before 'All Aboard' time, and if booking independent excursions, choose operators with a guaranteed 'Back-to-Ship' policy."
+        "Plan to be back on the pier at least 60–90 minutes before 'All Aboard' time, and if booking independent excursions, choose operators with a guaranteed 'Back-to-Ship' policy."
       ],
-      "safety": "If a medical emergency or delay strands you in port, call the local Port Agent listed on the daily cruise sheet immediately\u2014they coordinate with ship security and immigration.",
+      "safety": "If a medical emergency or delay strands you in port, call the local Port Agent listed on the daily cruise sheet immediately—they coordinate with ship security and immigration.",
       "tags": [
         "cruise-ports",
         "ship-time",
         "security",
         "excursions",
         "travel"
-      ]
+      ],
+      "scenario": "The phone shows local time and the ship announces a different all-aboard time.",
+      "overview": "Write the deadline in ship time and allow a return margin before leaving the pier."
     },
     {
       "id": "trv-104",
@@ -112,18 +118,20 @@
         "Green apples & saltine crackers"
       ],
       "steps": [
-        "Motion sickness medications work 10x better BEFORE nausea starts\u2014take Meclizine (non-drowsy) the night before embarkation or 2 hours before crossing open Gulf swells.",
-        "If rough seas hit: move to mid-ship on a lower deck (least pitch and roll), go outside into fresh sea air, and lock eyes on the fixed distant horizon\u2014never read or stare at a phone screen below deck.",
+        "Motion sickness medications work 10x better BEFORE nausea starts—take Meclizine (non-drowsy) the night before embarkation or 2 hours before crossing open Gulf swells.",
+        "If rough seas hit: move to mid-ship on a lower deck (least pitch and roll), go outside into fresh sea air, and lock eyes on the fixed distant horizon—never read or stare at a phone screen below deck.",
         "Eat green apples and plain crackers (ship buffets stock green apples specifically for seasickness) and sip ginger tea."
       ],
-      "safety": "Wash hands thoroughly after applying a Scopolamine patch behind the ear\u2014touching your eye afterward causes temporary blurry pupil dilation.",
+      "safety": "Wash hands thoroughly after applying a Scopolamine patch behind the ear—touching your eye afterward causes temporary blurry pupil dilation.",
       "tags": [
         "seasickness",
         "motion-sickness",
         "cruise",
         "ginger",
         "remedy"
-      ]
+      ],
+      "scenario": "A rough sea day is forecast and you’ve felt motion sick on previous trips.",
+      "overview": "Plan ahead with a pharmacist or clinician. Drowsiness and interactions matter when choosing a remedy."
     },
     {
       "id": "trv-105",
@@ -144,17 +152,19 @@
       ],
       "steps": [
         "New silicone masks ship with an invisible factory mold-release film that causes constant fogging: scrub the inside glass lens gently with white non-gel toothpaste before your trip, rinse clean, and coat with 1 drop of diluted baby shampoo before each swim.",
-        "Wear a long-sleeve UPF 50+ rash guard and reef-safe zinc sunscreen\u2014Caribbean/Gulf sun reflects off water and burns shoulders in 20 minutes.",
+        "Wear a long-sleeve UPF 50+ rash guard and reef-safe zinc sunscreen—Caribbean/Gulf sun reflects off water and burns shoulders in 20 minutes.",
         "Shuffle feet in shallow sandy surf (stingray safety) and never stand on or touch living coral."
       ],
-      "safety": "Never snorkel alone or swim against a rip current\u2014if caught in a rip current, swim PARALLEL to the beach until out of the narrow pull, then angle back to shore.",
+      "safety": "Never snorkel alone or swim against a rip current—if caught in a rip current, swim PARALLEL to the beach until out of the narrow pull, then angle back to shore.",
       "tags": [
         "snorkeling",
         "beach",
         "rip-current",
         "reef-safe",
         "cruise"
-      ]
+      ],
+      "scenario": "A mask leaks on the beach just before the excursion leaves.",
+      "overview": "Test the fit and ask about conditions and the buddy plan before entering the water."
     },
     {
       "id": "trv-106",
@@ -174,18 +184,20 @@
         "Zip-top bags"
       ],
       "steps": [
-        "Follow the 5-4-3-2-1 Capsule Wardrobe for 7\u201310 day trips: 5 tops, 4 bottoms, 3 pairs of shoes (wear heaviest pair on the plane), 2 swimsuits/outer layers, 1 dressy outfit\u2014all in mix-and-match neutral colors.",
+        "Follow the 5-4-3-2-1 Capsule Wardrobe for 7–10 day trips: 5 tops, 4 bottoms, 3 pairs of shoes (wear heaviest pair on the plane), 2 swimsuits/outer layers, 1 dressy outfit—all in mix-and-match neutral colors.",
         "Ranger-Roll (Army roll) t-shirts, underwear, and socks into tight wrinkle-free cylinders, pack inside compression cubes, and stuff socks/chargers inside spare shoes.",
         "Drop an Apple AirTag or Tile tracker inside every checked bag and carry-on so you know exact bag location before airport baggage carousels even start."
       ],
-      "safety": "Never pack spare lithium-ion power banks, vapes, or loose lithium batteries in checked luggage\u2014TSA/FAA strictly requires them in carry-on bags.",
+      "safety": "Never pack spare lithium-ion power banks, vapes, or loose lithium batteries in checked luggage—TSA/FAA strictly requires them in carry-on bags.",
       "tags": [
         "packing",
         "ranger-roll",
         "carry-on",
         "airtag",
         "air-travel"
-      ]
+      ],
+      "scenario": "Your carry-on closes at home but security will need access to its contents.",
+      "overview": "Group related items together and check the packed bag against the carrier’s size and weight allowances."
     },
     {
       "id": "trv-107",
@@ -205,9 +217,9 @@
         "Credit card with zero foreign transaction fees"
       ],
       "steps": [
-        "Check passport expiration at least 6 months ahead\u2014many countries deny boarding if your passport expires within 6 months of your return date.",
+        "Check passport expiration at least 6 months ahead—many countries deny boarding if your passport expires within 6 months of your return date.",
         "Download offline Google Maps regions, Google Translate offline language packs, and airline/hotel confirmations onto your phone before leaving home.",
-        "Always pay in LOCAL CURRENCY when credit card terminals ask 'USD or Local Currency?'\u2014declining Dynamic Currency Conversion avoids 5%\u201310% hidden exchange markups, and use bank-affiliated ATMs inside bank lobbies rather than standalone street ATMs."
+        "Always pay in LOCAL CURRENCY when credit card terminals ask 'USD or Local Currency?'—declining Dynamic Currency Conversion avoids 5%–10% hidden exchange markups, and use bank-affiliated ATMs inside bank lobbies rather than standalone street ATMs."
       ],
       "safety": "Split cash and backup credit cards across two separate locations (wallet + hidden money belt/bag pocket) so one pickpocket never strands you.",
       "tags": [
@@ -216,7 +228,9 @@
         "currency",
         "esim",
         "security"
-      ]
+      ],
+      "scenario": "The phone holds the boarding pass and the only copy of your passport.",
+      "overview": "Separate recovery details from the device they recover. Keep essential contact numbers accessible on paper."
     },
     {
       "id": "trv-108",
@@ -235,13 +249,15 @@
         "Count the exact number of doors between your room and the nearest stairwell exit (and feel whether the exit is left or right) so you can crawl out blind in thick hallway smoke.",
         "Keep shoes, room keycard, glasses, and phone on the nightstand every night, and hang the 'Do Not Disturb' sign when stepping out to deter opportunistic room entry."
       ],
-      "safety": "Never take elevators during a hotel fire alarm\u2014use the enclosed fire stairwell.",
+      "safety": "Never take elevators during a hotel fire alarm—use the enclosed fire stairwell.",
       "tags": [
         "hotel-safety",
         "security",
         "fire-escape",
         "travel"
-      ]
+      ],
+      "scenario": "The hotel corridor looks identical in both directions.",
+      "overview": "Walk to a usable stair exit in daylight. Count doors back to the room and identify a second route."
     },
     {
       "id": "trv-109",
@@ -251,27 +267,29 @@
       "diff": "Easy",
       "time": "Ongoing",
       "gear": [
-        "Graduated compression socks (15\u201320 mmHg)",
+        "Graduated compression socks (15–20 mmHg)",
         "Refillable water bottle",
         "Eye mask & earplugs / ANC headphones"
       ],
       "supplies": [
         "Electrolyte packets",
-        "Melatonin (0.5\u20133 mg)"
+        "Melatonin (0.5–3 mg)"
       ],
       "steps": [
         "Set your watch to your destination time zone the moment you board the flight and align sleep/meals to the new schedule.",
-        "Wear 15\u201320 mmHg compression socks on flights over 4 hours, drink 8 oz water every hour, and perform ankle circles + calf pumps every 30 minutes to prevent Deep Vein Thrombosis (DVT) blood clots.",
-        "Upon landing, get 20\u201330 minutes of bright morning outdoor sunlight directly into your eyes (without sunglasses) to anchor your circadian clock immediately."
+        "Wear 15–20 mmHg compression socks on flights over 4 hours, drink 8 oz water every hour, and perform ankle circles + calf pumps every 30 minutes to prevent Deep Vein Thrombosis (DVT) blood clots.",
+        "Upon landing, get 20–30 minutes of bright morning outdoor sunlight directly into your eyes (without sunglasses) to anchor your circadian clock immediately."
       ],
-      "safety": "Avoid heavy alcohol and sleeping pills on long flights\u2014both worsen dehydration and immobility DVT risk.",
+      "safety": "Avoid heavy alcohol and sleeping pills on long flights—both worsen dehydration and immobility DVT risk.",
       "tags": [
         "jet-lag",
         "flights",
         "dvt",
         "compression-socks",
         "health"
-      ]
+      ],
+      "scenario": "An overnight flight crosses several time zones.",
+      "overview": "Plan rest around the destination day and allow for movement during the flight. Personal clot risk deserves individual advice before departure."
     },
     {
       "id": "trv-110",
@@ -290,11 +308,11 @@
         "Sunscreen & walking shoes"
       ],
       "steps": [
-        "Friendswood \u2192 Austin Corridor (2.5\u20133 hrs): Avoid I-10/I-35 holiday bottlenecks by taking Hwy 288 N \u2192 Beltway 8 / Grand Pkwy 99 \u2192 US-290 W through Brenham, Burton, and Elgin (prime stops for Blue Bell Creameries, Brenham antique squares, and Southside Market BBQ).",
-        "Hill Country Loop (3.5\u20134.5 hrs): Fredericksburg, Enchanted Rock, Wimberley (Blue Hole / Jacob's Well), and Gruene Historic District\u2014book state park day passes weeks in advance.",
+        "Friendswood → Austin Corridor (2.5–3 hrs): Avoid I-10/I-35 holiday bottlenecks by taking Hwy 288 N → Beltway 8 / Grand Pkwy 99 → US-290 W through Brenham, Burton, and Elgin (prime stops for Blue Bell Creameries, Brenham antique squares, and Southside Market BBQ).",
+        "Hill Country Loop (3.5–4.5 hrs): Fredericksburg, Enchanted Rock, Wimberley (Blue Hole / Jacob's Well), and Gruene Historic District—book state park day passes weeks in advance.",
         "Gulf Coast & Piney Woods Day Trips (<2 hrs from Friendswood): Brazos Bend State Park (alligator boardwalk trails, 45 mins), Galveston Historic Strand & Bolivar Ferry (45 mins), Armand Bayou Nature Center (20 mins), and Huntsville / Sam Houston National Forest (90 mins)."
       ],
-      "safety": "In rural Texas counties, gas stations close early on Sundays\u2014never let your tank drop below 1/3 in Hill Country or West Texas.",
+      "safety": "In rural Texas counties, gas stations close early on Sundays—never let your tank drop below 1/3 in Hill Country or West Texas.",
       "tags": [
         "texas",
         "road-trip",
@@ -302,7 +320,9 @@
         "austin",
         "hill-country",
         "day-trips"
-      ]
+      ],
+      "scenario": "A Texas day trip looks short on a map but includes slow back roads.",
+      "overview": "Plan the return as carefully as the outward drive. Fuel, daylight and current road conditions set the limit."
     },
     {
       "id": "trv-111",
@@ -321,11 +341,11 @@
         "Kitty litter / sand / dry branches"
       ],
       "steps": [
-        "STOP spinning your tires the instant forward motion stops\u2014spinning digs the axle straight down to the frame in seconds.",
+        "STOP spinning your tires the instant forward motion stops—spinning digs the axle straight down to the frame in seconds.",
         "Dig out mud/sand from in front of and behind all 4 tires plus under the bumper/frame, and straighten the front wheels.",
-        "Air down drive tires to 15\u201318 PSI (doubles the tire footprint on soft sand or mud\u2014re-inflate once back on pavement!), wedge traction boards, floor mats, or dry sticks tightly under the drive tires, and ease onto the gas gently in 2nd gear or Low range."
+        "Air down drive tires to 15–18 PSI (doubles the tire footprint on soft sand or mud—re-inflate once back on pavement!), wedge traction boards, floor mats, or dry sticks tightly under the drive tires, and ease onto the gas gently in 2nd gear or Low range."
       ],
-      "safety": "Never attach recovery straps to a trailer hitch ball (balls shear off like cannonballs)\u2014use frame-mounted recovery hooks or a receiver shackle.",
+      "safety": "Never attach recovery straps to a trailer hitch ball (balls shear off like cannonballs)—use frame-mounted recovery hooks or a receiver shackle.",
       "tags": [
         "vehicle-recovery",
         "stuck-car",
@@ -333,7 +353,9 @@
         "mud",
         "beach-driving",
         "galveston"
-      ]
+      ],
+      "scenario": "The wheels spin and the vehicle settles deeper into a soft shoulder.",
+      "overview": "Stop adding wheelspin and assess the surface and traffic. Record the location if roadside recovery is needed."
     },
     {
       "id": "trv-112",
@@ -346,7 +368,7 @@
         "Lithium jump starter pack",
         "12V air compressor + tire plug kit",
         "Reflective LED road flares / triangles",
-        "Tow strap (20,000 lb rated \u2014 no metal hooks)",
+        "Tow strap (20,000 lb rated — no metal hooks)",
         "Headlamp",
         "Seatbelt cutter / window punch"
       ],
@@ -368,39 +390,41 @@
         "jump-pack",
         "tire-plug",
         "checklist"
-      ]
+      ],
+      "scenario": "A breakdown happens after dark with the trunk full of luggage.",
+      "overview": "Pack visibility gear and a light where they can be reached without unloading into traffic."
     },
     {
       "id": "trv-113",
       "cat": "Travel & Fieldcraft",
       "sub": "Road Trips & Vehicle Fieldcraft",
-      "title": "Plugging a Tubeless Tire Puncture in 10 Minutes",
+      "title": "Handle a tire puncture away from home",
       "diff": "Medium",
-      "time": "15 mins",
+      "time": "As needed",
       "gear": [
-        "T-handle spiral rasp reamer",
-        "T-handle split-eye insertion needle",
-        "Pliers",
-        "12V air compressor",
-        "Utility knife"
+        "Vehicle manual",
+        "Phone"
       ],
-      "supplies": [
-        "Vulcanizing rubber tire plug strips",
-        "Rubber cement",
-        "Soapy water spray"
-      ],
+      "supplies": [],
       "steps": [
-        "Locate the nail/screw in the main tread area (NEVER plug a sidewall puncture\u2014sidewall flex blows plugs out) and pull it out with pliers.",
-        "Plunge the spiral rasp tool firmly in and out of the hole 5\u20136 times to clean and roughen the rubber channel.",
-        "Thread a sticky rubber plug halfway through the split-eye needle, coat with rubber cement, push straight into the hole until 1/2-inch remains outside, and yank the needle straight back out without twisting.",
-        "Trim excess plug 1/4-inch above tread, inflate to door-jamb PSI, and spray soapy water to confirm zero bubbles."
+        "Move to a safe stopping area if possible. Stay out of traffic and call roadside help where there is no protected place to work.",
+        "Check the vehicle manual for its spare or temporary mobility kit and its limits. Use roadside assistance if there is sidewall damage, a flat driven on, or doubt about safe lifting.",
+        "Arrange dismounting and internal inspection at a tire shop. Follow any temporary spare or kit speed and distance limits on the way."
       ],
-      "safety": "Treat a plugged tire as a reliable road repair to get to a tire shop for an internal patch-plug inspection.",
+      "safety": "An external plug alone is not a permanent repair.",
       "tags": [
-        "tire-plug",
-        "flat-tire",
-        "auto-repair",
-        "road-trip"
+        "tire",
+        "puncture",
+        "flat",
+        "plug"
+      ],
+      "scenario": "A tire loses pressure and the puncture location is unclear.",
+      "overview": "A proper repair assessment includes the inside of the removed tire. Tell the shop if the vehicle was driven flat.",
+      "sources": [
+        [
+          "U.S. Tire Manufacturers Association · Puncture repair",
+          "https://www.ustires.org/system/files/files/2024-03/Puncture_repair_handout_17_2.pdf"
+        ]
       ]
     },
     {
@@ -419,7 +443,7 @@
         "Seam sealer (SilNet / Seam Grip)"
       ],
       "steps": [
-        "Lay a waterproof groundsheet/tarp underneath the tent floor, folding edges 2 inches UNDER the tent perimeter\u2014if the groundsheet sticks out past the tent walls, it acts as a funnel channeling rainwater directly under your tent floor.",
+        "Lay a waterproof groundsheet/tarp underneath the tent floor, folding edges 2 inches UNDER the tent perimeter—if the groundsheet sticks out past the tent walls, it acts as a funnel channeling rainwater directly under your tent floor.",
         "Stake the rainfly vestibule out taut so the fly never touches the inner mesh tent wall (contact transfers condensation straight inside).",
         "Leave roof vents cracked open even in rain so warm humid breath escapes instead of condensing on the ceiling."
       ],
@@ -430,7 +454,9 @@
         "rainproofing",
         "campsite",
         "fieldcraft"
-      ]
+      ],
+      "scenario": "Rain is forecast on the first night with a new tent.",
+      "overview": "Test the fly and keep the footprint inside the floor outline. Even a sound tent can collect water in a depression."
     },
     {
       "id": "trv-115",
@@ -440,7 +466,7 @@
       "diff": "Medium",
       "time": "20 mins",
       "gear": [
-        "50 ft slick 2mm\u20133mm throw cord (Zing-It / paracord)",
+        "50 ft slick 2mm–3mm throw cord (Zing-It / paracord)",
         "Carabiner",
         "Small throw sock / rock pouch",
         "Waterproof dry bag"
@@ -449,9 +475,9 @@
         "Small toggle stick (4 inches long)"
       ],
       "steps": [
-        "Find a sturdy live tree branch at least 15\u201320 feet off the ground extending 6+ feet out from the trunk, located 200 feet downwind of your tent.",
+        "Find a sturdy live tree branch at least 15–20 feet off the ground extending 6+ feet out from the trunk, located 200 feet downwind of your tent.",
         "Put a small rock/dirt in the throw sock, toss over the branch, clip the food dry bag onto the rope with a carabiner, and haul the bag all the way up to the branch.",
-        "PCT Method (impossible for bears to untie from the trunk): Reach as high as possible on the rope, tie a clove hitch around a 4-inch toggle stick, and slowly lower the food bag until the toggle jams against the carabiner\u2014suspending the food 12 feet high and 6 feet out with no rope tied to the tree trunk."
+        "PCT Method (impossible for bears to untie from the trunk): Reach as high as possible on the rope, tie a clove hitch around a 4-inch toggle stick, and slowly lower the food bag until the toggle jams against the carabiner—suspending the food 12 feet high and 6 feet out with no rope tied to the tree trunk."
       ],
       "safety": "Use an approved hard-sided bear canister (BearVault) in treeless alpine zones or parks where bears have learned to break hung branches.",
       "tags": [
@@ -460,7 +486,9 @@
         "camping",
         "backpacking",
         "food-storage"
-      ]
+      ],
+      "scenario": "The campsite is in bear country and storage rules differ between parks.",
+      "overview": "Check the land manager’s requirements. Toiletries and rubbish need the same attention as food."
     },
     {
       "id": "trv-116",
@@ -478,7 +506,7 @@
       ],
       "steps": [
         "Walk at least 200 feet (70 adult paces) away from all trails, campsites, lakes, creeks, and dry washes.",
-        "Dig a cathole 6 to 8 inches deep into dark organic topsoil (where microbes decompose waste rapidly\u2014not deep sterile clay), deposit waste, stir with a stick and dirt, and pack out used toilet paper in a double zip-top bag.",
+        "Dig a cathole 6 to 8 inches deep into dark organic topsoil (where microbes decompose waste rapidly—not deep sterile clay), deposit waste, stir with a stick and dirt, and pack out used toilet paper in a double zip-top bag.",
         "Scatter strained dishwater 200 feet from water sources."
       ],
       "safety": "In fragile desert canyons or alpine snow, use wag-bag pack-out kits as required by park rules.",
@@ -488,7 +516,9 @@
         "sanitation",
         "backpacking",
         "hygiene"
-      ]
+      ],
+      "scenario": "The campsite has no toilet and the group is deciding where waste will go.",
+      "overview": "Local rules determine whether waste can be buried or must be packed out. Decide before leaving the trailhead."
     },
     {
       "id": "trv-117",
@@ -507,18 +537,20 @@
         "1-lb propane cylinder"
       ],
       "steps": [
-        "Isobutane-Propane Canisters (Jetboil / PocketRocket): Fast, clean, zero priming\u2014works great down to ~25\u00b0F (below freezing, keep canister warm in your sleeping bag before cooking).",
+        "Isobutane-Propane Canisters (Jetboil / PocketRocket): Fast, clean, zero priming—works great down to ~25°F (below freezing, keep canister warm in your sleeping bag before cooking).",
         "Liquid White Gas (MSR WhisperLite / Coleman Dual-Fuel): Works in sub-zero cold and high altitude; requires pumping pressure and pre-heating the generator tube.",
-        "1-lb Propane Cylinders: Best for car camping and storm backup\u2014store cylinders UPRIGHT outdoors/garage, never inside living quarters."
+        "1-lb Propane Cylinders: Best for car camping and storm backup—store cylinders UPRIGHT outdoors/garage, never inside living quarters."
       ],
-      "safety": "NEVER wrap a solid windscreen tightly around a screw-on isobutane canister stove\u2014trapped heat overheats the fuel canister and can cause an explosion.",
+      "safety": "NEVER wrap a solid windscreen tightly around a screw-on isobutane canister stove—trapped heat overheats the fuel canister and can cause an explosion.",
       "tags": [
         "camp-stove",
         "fuel",
         "isobutane",
         "propane",
         "cooking-outdoors"
-      ]
+      ],
+      "scenario": "Two fuel canisters look alike but only one matches the stove manual.",
+      "overview": "Verify the fuel connection and operating conditions at home. Pack a meal that can be eaten if the stove fails."
     },
     {
       "id": "trv-118",
@@ -536,7 +568,7 @@
         "Closely spaced brown contour lines = steep cliff/hillside; widely spaced contour lines = gentle flat terrain.",
         "V-shaped contour lines pointing UPHILL (toward higher numbers) = a valley, draw, or creek bed; U- or V-shaped contours pointing DOWNHILL = a ridge spur.",
         "Hourglass shape between two peaks = a mountain saddle/pass (often the easiest route across a ridge).",
-        "Always 'thumb your map'\u2014keep your thumb on your exact current terrain landmark as you hike so you never lose situational awareness."
+        "Always 'thumb your map'—keep your thumb on your exact current terrain landmark as you hike so you never lose situational awareness."
       ],
       "safety": "Check the map's publication date and scale (1:24,000 means 1 inch on map = 2,000 feet on ground).",
       "tags": [
@@ -545,7 +577,9 @@
         "navigation",
         "hiking",
         "fieldcraft"
-      ]
+      ],
+      "scenario": "A straight line on the map crosses tightly packed contours.",
+      "overview": "Read spacing for steepness and shape for ridges and drainages. Both influence how long a route takes."
     },
     {
       "id": "trv-119",
@@ -562,42 +596,49 @@
         "Each finger width equals roughly 15 minutes of remaining daylight (4 fingers = 1 full hand width = 1 hour before sunset).",
         "Stop hiking and start setting up camp or shelter when fewer than 4 fingers (1 hour) remain."
       ],
-      "safety": "In mountain valleys or canyons, the sun drops behind ridge walls 45\u201360 minutes earlier than official flat-horizon sunset.",
+      "safety": "In mountain valleys or canyons, the sun drops behind ridge walls 45–60 minutes earlier than official flat-horizon sunset.",
       "tags": [
         "sunset",
         "daylight",
         "navigation",
         "bushcraft",
         "fieldcraft"
-      ]
+      ],
+      "scenario": "There’s light above the ridge but the return trail is already in shadow.",
+      "overview": "A hand estimate is approximate. Terrain, cloud and tree cover can shorten usable daylight."
     },
     {
       "id": "trv-120",
       "cat": "Travel & Fieldcraft",
       "sub": "Camping & Fieldcraft",
-      "title": "Natural & Improvised Insect / Mosquito Repellents in Camp",
+      "title": "Prevent mosquito and tick bites at camp",
       "diff": "Easy",
-      "time": "10 mins",
+      "time": "5 minutes plus checks",
       "gear": [
-        "Campfire"
+        "Screened shelter",
+        "Tweezers"
       ],
       "supplies": [
-        "Fresh beautyberry leaves (American Beautyberry \u2014 abundant in Texas woods!)",
-        "Rosemary / sage sprigs",
-        "Thermacell repeller"
+        "Labeled insect repellent"
       ],
       "steps": [
-        "American Beautyberry (purple berry clusters common in East/Southeast Texas): Crush fresh leaves firmly in your hands to release callicarpenal oil and rub directly onto exposed arms, neck, and ankles\u2014USDA studies confirm it rivals DEET for repelling mosquitoes and ticks.",
-        "Toss green rosemary, sage, or dry cedar/punkwood onto campfire coals to generate mosquito-repelling aromatic smoke.",
-        "Use a butane-powered Thermacell repeller on still patios or campsites to create a 15-foot mosquito-free zone."
+        "Pack an EPA-registered repellent labeled for the insects and ages of the travelers. Follow its label for application and reapplication.",
+        "Wear sleeves and trousers when practical and use intact tent or cabin screens. If using treated gear, follow its label; permethrin clothing treatments do not go on skin.",
+        "After the outing inspect clothing, gear and skin for ticks. Remove attached ticks promptly with appropriate tweezers."
       ],
-      "safety": "Keep Thermacell devices away from cats and aquariums (allethrin vapor is safe for humans/dogs outdoors but toxic to cats/fish).",
+      "safety": "Avoid eyes and mouths, and have an adult apply repellent to children according to the label.",
       "tags": [
-        "beautyberry",
-        "mosquitoes",
-        "camping",
-        "texas",
-        "fieldcraft"
+        "repellent",
+        "mosquito",
+        "tick"
+      ],
+      "scenario": "The campsite has mosquitoes at dinner and ticks on the path.",
+      "overview": "Choose registered repellent appropriate to the person and insect. Screens, clothing and tick checks complement it.",
+      "sources": [
+        [
+          "CDC · Preventing mosquito bites",
+          "https://www.cdc.gov/mosquitoes/prevention/index.html"
+        ]
       ]
     },
     {
@@ -615,8 +656,8 @@
         "Merino wool hiking socks + thin liner socks"
       ],
       "steps": [
-        "Pre-tape known friction 'hot spots' (back of heels, big-toe side) BEFORE starting a long hike using Leukotape P\u2014unlike slick duct tape or regular Band-Aids, Leukotape's zinc-oxide adhesive stays bonded through sweat and water for days.",
-        "Wear moisture-wicking merino wool socks (never cotton) and stop immediately the second you feel warm rubbing\u2014waiting 10 minutes turns a preventable hot spot into a fluid blister."
+        "Pre-tape known friction 'hot spots' (back of heels, big-toe side) BEFORE starting a long hike using Leukotape P—unlike slick duct tape or regular Band-Aids, Leukotape's zinc-oxide adhesive stays bonded through sweat and water for days.",
+        "Wear moisture-wicking merino wool socks (never cotton) and stop immediately the second you feel warm rubbing—waiting 10 minutes turns a preventable hot spot into a fluid blister."
       ],
       "safety": "Trim toenails short and straight across 2 days before long hikes to prevent bruised 'runner's toenails' on steep downhills.",
       "tags": [
@@ -625,7 +666,9 @@
         "leukotape",
         "boots",
         "foot-care"
-      ]
+      ],
+      "scenario": "A heel feels warm halfway through a practice walk in new boots.",
+      "overview": "Mark the trouble spot and adjust the fit before a long hike. A small rub becomes more difficult to manage after the skin breaks."
     },
     {
       "id": "trv-122",
@@ -643,9 +686,9 @@
         "Heavy-duty aluminum foil"
       ],
       "steps": [
-        "Dutch Oven 350\u00b0F Baking Rule ('Rule of 3s'): Take your Dutch oven diameter in inches (e.g., 12-inch), use twice that number of briquettes (24 total), and place 2/3 on the LID (16 coals) and 1/3 UNDERNEATH (8 coals) for even 350\u00b0F oven baking without burning bottoms.",
+        "Dutch Oven 350°F Baking Rule ('Rule of 3s'): Take your Dutch oven diameter in inches (e.g., 12-inch), use twice that number of briquettes (24 total), and place 2/3 on the LID (16 coals) and 1/3 UNDERNEATH (8 coals) for even 350°F oven baking without burning bottoms.",
         "Rotate the lid 1/4 turn clockwise and the pot 1/4 turn counter-clockwise every 15 minutes to eliminate hot spots.",
-        "Foil Hobo Packets: Double-wrap seasoned protein and thin-sliced veggies in heavy foil with a splash of broth/butter and nestle in glowing white-ash coals (never roaring flames) for 20\u201325 minutes."
+        "Foil Hobo Packets: Double-wrap seasoned protein and thin-sliced veggies in heavy foil with a splash of broth/butter and nestle in glowing white-ash coals (never roaring flames) for 20–25 minutes."
       ],
       "safety": "Always cook over glowing white-ash coals rather than tall yellow flames for controllable, soot-free camp meals.",
       "tags": [
@@ -653,7 +696,9 @@
         "campfire-cooking",
         "charcoal",
         "camping"
-      ]
+      ],
+      "scenario": "The camp dinner includes foil packets and a pot with a longer cooking time.",
+      "overview": "Plan from the slowest item and check actual food temperatures. Coal counts are a starting estimate."
     },
     {
       "id": "trv-123",
@@ -667,8 +712,8 @@
       ],
       "supplies": [],
       "steps": [
-        "Adjust pole length on flat ground so your elbow forms a comfortable 90\u00b0 angle when holding the grip; shorten poles by 5\u201310 cm on steep uphill climbs and lengthen by 5\u201310 cm on steep downhills to take up to 25% of impact off your knees.",
-        "Thread your hand UP through the bottom of the wrist strap and grip down over the strap\u2014this lets your wrist bear downward weight effortlessly without death-gripping the handle.",
+        "Adjust pole length on flat ground so your elbow forms a comfortable 90° angle when holding the grip; shorten poles by 5–10 cm on steep uphill climbs and lengthen by 5–10 cm on steep downhills to take up to 25% of impact off your knees.",
+        "Thread your hand UP through the bottom of the wrist strap and grip down over the strap—this lets your wrist bear downward weight effortlessly without death-gripping the handle.",
         "Trekking poles also double as tent poles for ultralight tarp shelters, snake/brush prodding sticks, and emergency splints."
       ],
       "safety": "Flip locking cams tight and test full body weight on each pole before descending rocky trails.",
@@ -677,7 +722,9 @@
         "hiking",
         "knees",
         "backpacking"
-      ]
+      ],
+      "scenario": "A downhill walk leaves your wrists sore despite using poles.",
+      "overview": "Adjust poles on representative terrain. A pole supporting a tarp may need a different length from one supporting a stride."
     },
     {
       "id": "trv-124",
@@ -694,18 +741,20 @@
         "Customs declaration info (know total purchase value)"
       ],
       "steps": [
-        "Final Evening Rule: Keep an overnight bag with pajamas, tomorrow's outfit, toiletries, passport, and medications\u2014if you set bags outside your door for porter pickup, everything inside is locked away until terminal customs.",
-        "Choose 'Self-Assist / Express Walk-Off' (carrying all your own bags off the ship at 7:00\u20137:30 AM) if you want to clear Galveston/port customs and be on the highway within 20 minutes.",
+        "Final Evening Rule: Keep an overnight bag with pajamas, tomorrow's outfit, toiletries, passport, and medications—if you set bags outside your door for porter pickup, everything inside is locked away until terminal customs.",
+        "Choose 'Self-Assist / Express Walk-Off' (carrying all your own bags off the ship at 7:00–7:30 AM) if you want to clear Galveston/port customs and be on the highway within 20 minutes.",
         "Review your final folio bill on the TV/app the night before disembarkation while guest services lines are short."
       ],
-      "safety": "Declare agricultural items (fruit, plants, wood crafts, honey) honestly at US Customs\u2014undeclared fruit from port buffets carries steep fines.",
+      "safety": "Declare agricultural items (fruit, plants, wood crafts, honey) honestly at US Customs—undeclared fruit from port buffets carries steep fines.",
       "tags": [
         "cruise",
         "disembarkation",
         "customs",
         "galveston",
         "travel"
-      ]
+      ],
+      "scenario": "The ship arrives early but the transfer ashore has a fixed departure time.",
+      "overview": "Choose a luggage plan you can physically manage and confirm the line’s disembarkation instructions before the last night."
     },
     {
       "id": "trv-125",
@@ -721,7 +770,7 @@
       "supplies": [],
       "steps": [
         "Turn off washing machine water supply valves (burst rubber washer hoses are the #1 cause of vacation house floods) and set water heater to 'Vacation / Pilot' mode.",
-        "Set AC thermostat to 78\u00b0F\u201380\u00b0F in summer (never turn AC completely OFF in humid Friendswood summers, or mold grows on drywall/closets within days) or 58\u00b0F\u201360\u00b0F in winter.",
+        "Set AC thermostat to 78°F–80°F in summer (never turn AC completely OFF in humid Friendswood summers, or mold grows on drywall/closets within days) or 58°F–60°F in winter.",
         "Empty kitchen trash and run ice/lemon through the garbage disposal, unplug non-essential electronics, lock sliding-door track bars, and leave detailed vet + emergency contact notes for pet sitters."
       ],
       "safety": "Never post real-time 'We're away on a cruise!' updates on public social media until after you return home.",
@@ -731,7 +780,9 @@
         "cruise-prep",
         "plumbing",
         "security"
-      ]
+      ],
+      "scenario": "You’re leaving for a week and each person assumes the other checked the house.",
+      "overview": "Assign final checks by room. Hand the caretaker a short record of what needs attention."
     },
     {
       "id": "trv-126",
@@ -744,10 +795,10 @@
         "Printed insurance policy & emergency assistance number"
       ],
       "supplies": [
-        "Basic OTC cruise pharmacy kit (sea bands, meclizine, ibuprofen, cold tabs, band-aids, hydrocortisone \u2014 ship gift shops charge $20+ for basic meds)"
+        "Basic OTC cruise pharmacy kit (sea bands, meclizine, ibuprofen, cold tabs, band-aids, hydrocortisone — ship gift shops charge $20+ for basic meds)"
       ],
       "steps": [
-        "Standard US health insurance and Medicare do NOT cover medical evacuation from a ship or foreign port (air ambulance evacuations from the Caribbean cost $30,000\u2013$80,000+)\u2014always buy a travel medical + MedEvac policy before sailing.",
+        "Standard US health insurance and Medicare do NOT cover medical evacuation from a ship or foreign port (air ambulance evacuations from the Caribbean cost $30,000–$80,000+)—always buy a travel medical + MedEvac policy before sailing.",
         "Pack a compact OTC symptom kit (cold/sinus meds, antidiarrheal, motion sickness pills, thermometer, antibiotic ointment) so a minor cough or blister doesn't require an expensive shipboard infirmary visit.",
         "If visiting the ship's medical center, request itemized diagnostic and billing codes immediately so you can submit for insurance reimbursement at home."
       ],
@@ -758,7 +809,9 @@
         "medevac",
         "cruise",
         "packing"
-      ]
+      ],
+      "scenario": "An illness develops at sea and your regular clinic is unreachable.",
+      "overview": "Keep the ship medical number and insurance assistance number handy. Retain medical and payment records for follow-up ashore."
     },
     {
       "id": "trv-127",
@@ -776,7 +829,7 @@
       ],
       "steps": [
         "At tender ports (such as Grand Cayman, Belize, or Cabo San Lucas where ships anchor offshore), collect tender group tickets the moment distribution opens if you have an independent morning excursion.",
-        "Keep both hands completely FREE when stepping across the gangway onto a bobbing tender boat\u2014wear a backpack rather than carrying loose tote bags, and let crew members steady your forearm (never grab railings where fingers can get pinched between boat and platform)."
+        "Keep both hands completely FREE when stepping across the gangway onto a bobbing tender boat—wear a backpack rather than carrying loose tote bags, and let crew members steady your forearm (never grab railings where fingers can get pinched between boat and platform)."
       ],
       "safety": "Sit inside the covered lower deck of tender boats if prone to motion sickness or sea spray.",
       "tags": [
@@ -784,7 +837,9 @@
         "cruise",
         "boating-safety",
         "excursions"
-      ]
+      ],
+      "scenario": "A traveler needs help with steps and the itinerary lists a tender port.",
+      "overview": "Ask about the actual transfer before booking the excursion. Conditions can change whether landing is possible."
     },
     {
       "id": "trv-128",
@@ -812,7 +867,9 @@
         "airlines",
         "luggage",
         "air-travel"
-      ]
+      ],
+      "scenario": "A canceled flight affects a connection and a checked bag.",
+      "overview": "Identify which carrier controls the booking. Keep bag tags and receipts until the new itinerary and bag location are confirmed."
     },
     {
       "id": "trv-129",
@@ -829,18 +886,20 @@
         "Dummy wallet with expired cards + $15 cash (optional decoy)"
       ],
       "steps": [
-        "Never carry a wallet or phone in a back pants pocket or outer backpack pocket in crowded markets, metro trains, or tourist plazas\u2014wear crossbody bags zipped in front of your torso.",
+        "Never carry a wallet or phone in a back pants pocket or outer backpack pocket in crowded markets, metro trains, or tourist plazas—wear crossbody bags zipped in front of your torso.",
         "Be alert to classic team distraction scams: spilled mustard/drink on your jacket, 'dropped gold ring' on the sidewalk, petition signers, or someone bumping you at subway turnstiles.",
-        "Before inserting a debit/credit card into any ATM, tug firmly on the plastic card reader bezel\u2014skimmers are glued over real slots and wiggle loose."
+        "Before inserting a debit/credit card into any ATM, tug firmly on the plastic card reader bezel—skimmers are glued over real slots and wiggle loose."
       ],
-      "safety": "Use Apple Pay / Google Pay tap-to-pay whenever possible\u2014tokenized contactless payments cannot be skimmed.",
+      "safety": "Use Apple Pay / Google Pay tap-to-pay whenever possible—tokenized contactless payments cannot be skimmed.",
       "tags": [
         "pickpockets",
         "scams",
         "atm",
         "travel-security",
         "cities"
-      ]
+      ],
+      "scenario": "You need cash in a busy port market.",
+      "overview": "Use a supervised ATM and keep recovery information separate from the wallet. Report a missing card through a known bank contact."
     },
     {
       "id": "trv-130",
@@ -854,7 +913,7 @@
       ],
       "supplies": [
         "Pepto-Bismol chewables",
-        "Azithromycin (Z-Pak \u2014 travel Rx)",
+        "Azithromycin (Z-Pak — travel Rx)",
         "ORS electrolyte packets"
       ],
       "steps": [
@@ -868,7 +927,9 @@
         "water-safety",
         "travel-health",
         "international"
-      ]
+      ],
+      "scenario": "The destination has uncertain tap water and ice is served in drinks.",
+      "overview": "Choose a known safe water source for drinking and brushing teeth. Freshly cooked food served hot reduces some common exposures."
     },
     {
       "id": "trv-131",
@@ -883,9 +944,9 @@
       ],
       "supplies": [],
       "steps": [
-        "Turn OFF Cruise Control immediately in rain or wet roads\u2014if tires hydroplane, cruise control surges engine RPMs and spins wheels violently.",
-        "If your vehicle starts hydroplaning: do NOT slam the brakes or jerk the steering wheel\u2014ease smoothly off the gas pedal and hold the steering wheel straight until tires regain pavement grip.",
-        "Never drive through flooded Houston/Friendswood underpasses or bayou crossings\u2014water depth is impossible to judge at night, and 12 inches floats a sedan while 18\u201324 inches sweeps away full-size pickups."
+        "Turn OFF Cruise Control immediately in rain or wet roads—if tires hydroplane, cruise control surges engine RPMs and spins wheels violently.",
+        "If your vehicle starts hydroplaning: do NOT slam the brakes or jerk the steering wheel—ease smoothly off the gas pedal and hold the steering wheel straight until tires regain pavement grip.",
+        "Never drive through flooded Houston/Friendswood underpasses or bayou crossings—water depth is impossible to judge at night, and 12 inches floats a sedan while 18–24 inches sweeps away full-size pickups."
       ],
       "safety": "Turn on low-beam headlights (not high beams, which reflect blinding glare off rain sheets) whenever wipers are running.",
       "tags": [
@@ -894,7 +955,9 @@
         "flood",
         "houston",
         "driving-safety"
-      ]
+      ],
+      "scenario": "A Gulf Coast underpass disappears beneath heavy rain.",
+      "overview": "A dry alternate route or a safe place to wait is part of the trip plan. Pavement may have washed away beneath the water."
     },
     {
       "id": "trv-132",
@@ -913,19 +976,21 @@
         "Self-fusing silicone rescue tape"
       ],
       "steps": [
-        "Temperature Gauge Spikes into Red: Pull safely off the road immediately and shut off the engine\u2014driving 2 miles on an overheated engine warps aluminum cylinder heads.",
-        "NEVER open the radiator cap while the engine is hot (superheated pressurized coolant erupts at 240\u00b0F+ causing severe facial/arm burns)\u2014wait at least 30\u201345 minutes until upper radiator hose feels cool and soft to squeeze.",
+        "Temperature Gauge Spikes into Red: Pull safely off the road immediately and shut off the engine—driving 2 miles on an overheated engine warps aluminum cylinder heads.",
+        "NEVER open the radiator cap while the engine is hot (superheated pressurized coolant erupts at 240°F+ causing severe facial/arm burns)—wait at least 30–45 minutes until upper radiator hose feels cool and soft to squeeze.",
         "Emergency Split Hose Fix: Wrap split radiator hose tightly with overlapping layers of self-fusing silicone rescue tape, refill with water, and leave the radiator cap at the first safety click (unpressurized) to limp slowly to the nearest service station.",
         "Brake Pedal Goes to Floor: Pump brakes rapidly, downshift to lower gears (L / 2 / paddle-shift down) to use engine braking, apply the parking brake gradually without locking rear wheels, and steer toward a grassy shoulder or uphill ramp."
       ],
-      "safety": "Never pour cold water into a blazing-hot empty radiator while the engine is off\u2014thermal shock can crack the engine block.",
+      "safety": "Never pour cold water into a blazing-hot empty radiator while the engine is off—thermal shock can crack the engine block.",
       "tags": [
         "overheating",
         "car-breakdown",
         "brake-failure",
         "roadside",
         "auto"
-      ]
+      ],
+      "scenario": "A dashboard temperature warning appears far from an exit.",
+      "overview": "Prioritize a safe stop and record the warning. Leave a hot cooling system closed while arranging help."
     },
     {
       "id": "trv-133",
@@ -941,18 +1006,20 @@
       ],
       "supplies": [],
       "steps": [
-        "Distinguish straps: Static Tow Straps (flat webbing) are for pulling free-rolling vehicles gently with ZERO slack; Kinetic Recovery Ropes stretch 20%\u201330% like a giant rubber band to snatch stuck vehicles out of mud/sand without frame-damaging shock.",
-        "Attach ONLY to factory frame-mounted tow hooks or a receiver hitch shackle block\u2014NEVER hook onto tie-rods, axles, bumper covers, or trailer hitch balls.",
+        "Distinguish straps: Static Tow Straps (flat webbing) are for pulling free-rolling vehicles gently with ZERO slack; Kinetic Recovery Ropes stretch 20%–30% like a giant rubber band to snatch stuck vehicles out of mud/sand without frame-damaging shock.",
+        "Attach ONLY to factory frame-mounted tow hooks or a receiver hitch shackle block—NEVER hook onto tie-rods, axles, bumper covers, or trailer hitch balls.",
         "Drape a heavy jacket, floor mat, or recovery damper over the middle of the tensioned line and stand all bystanders at least 1.5x the rope length away to the side."
       ],
-      "safety": "Never use chains or straps with heavy metal hooks for kinetic snatch recoveries\u2014a snapped strap turns a metal hook into a lethal projectile.",
+      "safety": "Never use chains or straps with heavy metal hooks for kinetic snatch recoveries—a snapped strap turns a metal hook into a lethal projectile.",
       "tags": [
         "recovery",
         "tow-strap",
         "kinetic-rope",
         "off-road",
         "safety"
-      ]
+      ],
+      "scenario": "A vehicle is stuck and someone offers a pull with an unfamiliar strap.",
+      "overview": "Safe recovery requires rated points, suitable equipment and trained operators. Clear bystanders and arrange professional recovery when those are missing."
     },
     {
       "id": "trv-134",
@@ -969,9 +1036,9 @@
       ],
       "supplies": [],
       "steps": [
-        "Select two healthy living trees 12\u201315 feet apart (check overhead for dead widowmaker limbs!) and wrap wide 1-inch tree straps around trunks so bark isn't damaged.",
-        "Hang straps at a 30\u00b0 angle (finger-gun thumb-to-index angle) and set a structural ridgeline at 83% of hammock length so the hammock has a comfortable sag\u2014lie diagonally at 15\u00b0\u201320\u00b0 across the hammock to sleep completely flat like a bed.",
-        "In temperatures below 70\u00b0F, hang an insulated Underquilt BENEATH the outside of the hammock\u2014your body weight crushes a sleeping bag underneath you flat, causing 'Cold Butt Syndrome' even on warm Texas nights."
+        "Select two healthy living trees 12–15 feet apart (check overhead for dead widowmaker limbs!) and wrap wide 1-inch tree straps around trunks so bark isn't damaged.",
+        "Hang straps at a 30° angle (finger-gun thumb-to-index angle) and set a structural ridgeline at 83% of hammock length so the hammock has a comfortable sag—lie diagonally at 15°–20° across the hammock to sleep completely flat like a bed.",
+        "In temperatures below 70°F, hang an insulated Underquilt BENEATH the outside of the hammock—your body weight crushes a sleeping bag underneath you flat, causing 'Cold Butt Syndrome' even on warm Texas nights."
       ],
       "safety": "Never hang a hammock higher than you are willing to fall (keep seat height 18 inches off the ground).",
       "tags": [
@@ -980,7 +1047,9 @@
         "underquilt",
         "backpacking",
         "fieldcraft"
-      ]
+      ],
+      "scenario": "The hammock feels comfortable at dusk but cool air is flowing beneath it.",
+      "overview": "Insulation under the sleeper matters as much as a top cover. Test the hang low before loading it for the night."
     },
     {
       "id": "trv-135",
@@ -990,11 +1059,11 @@
       "diff": "Easy",
       "time": "15 mins",
       "gear": [
-        "Internal-frame backpack (40L\u201365L)"
+        "Internal-frame backpack (40L–65L)"
       ],
       "supplies": [],
       "steps": [
-        "Loosen all straps before putting the pack on, buckle the padded hip belt squarely over the TOP crest of your hip bones (iliac crest\u201480% of pack weight should ride on your hips, NOT hanging from your shoulders), then snug shoulder straps and load-lifters at a 45\u00b0 angle.",
+        "Loosen all straps before putting the pack on, buckle the padded hip belt squarely over the TOP crest of your hip bones (iliac crest—80% of pack weight should ride on your hips, NOT hanging from your shoulders), then snug shoulder straps and load-lifters at a 45° angle.",
         "Pack in 3 zones: Bottom = lightweight bulky sleeping bag/puffy jacket; Middle against spine = heaviest dense items (water, food bear canister, stove); Top/outer pockets = rain jacket, first-aid kit, headlamp, and snacks."
       ],
       "safety": "Keep total loaded backpack weight under 20% of your body weight for multi-day hikes to prevent knee and lower-back strain.",
@@ -1004,7 +1073,9 @@
         "hip-belt",
         "hiking",
         "gear"
-      ]
+      ],
+      "scenario": "Shoulder straps hurt before the first mile with a loaded pack.",
+      "overview": "Fit the torso and hip belt with the real load aboard. Reposition dense gear if the pack pulls backward."
     },
     {
       "id": "trv-136",
@@ -1023,9 +1094,9 @@
         "Silicone tent waterproofing"
       ],
       "steps": [
-        "Close roll-top dry bags by folding the stiffener strip tightly at least 3 full rolls before buckling\u2014fewer than 3 rolls allows water to wick through during submersion.",
+        "Close roll-top dry bags by folding the stiffener strip tightly at least 3 full rolls before buckling—fewer than 3 rolls allows water to wick through during submersion.",
         "When rain jackets stop beading water ('wetting out'), wash with non-detergent Nikwax Tech Wash (regular laundry detergent leaves hydrophilic residue that ruins Gore-Tex breathability), spray with TX.Direct DWR, and tumble dry warm for 20 minutes to reactivate water beading.",
-        "Re-seal aging tent floor and rainfly seams every 2\u20133 years with Seam Grip+WP (for PU-coated nylon) or SilNet (for silnylon)."
+        "Re-seal aging tent floor and rainfly seams every 2–3 years with Seam Grip+WP (for PU-coated nylon) or SilNet (for silnylon)."
       ],
       "safety": "Apply solvent-based seam sealers outdoors and let cure 12 hours before rolling the tent into its stuff sack.",
       "tags": [
@@ -1034,7 +1105,9 @@
         "gore-tex",
         "tent-care",
         "gear"
-      ]
+      ],
+      "scenario": "A jacket sheds water on its shoulders but leaks at a seam.",
+      "overview": "A surface treatment and a seam repair address different problems. Protect critical insulation in a dry bag."
     },
     {
       "id": "trv-137",
@@ -1049,9 +1122,9 @@
       ],
       "supplies": [],
       "steps": [
-        "Switch your headlamp to RED light mode around camp and on smooth trails\u2014red light preserves human rod-cell night vision (which takes 30 minutes to adapt and gets wiped out in 1 second by white light) and attracts 90% fewer flying insects.",
+        "Switch your headlamp to RED light mode around camp and on smooth trails—red light preserves human rod-cell night vision (which takes 30 minutes to adapt and gets wiped out in 1 second by white light) and attracts 90% fewer flying insects.",
         "Always engage the electronic lockout (or reverse one battery) when packing a headlamp inside a bag so accidental button presses don't drain your batteries dead before dark.",
-        "Use Energizer Ultimate Lithium AA/AAA batteries in cold weather and emergency kits\u2014they weigh 33% less, work down to -40\u00b0F, never leak acid, and hold charge for 20 years."
+        "Use Energizer Ultimate Lithium AA/AAA batteries in cold weather and emergency kits—they weigh 33% less, work down to -40°F, never leak acid, and hold charge for 20 years."
       ],
       "safety": "Carry a tiny backup keychain LED light separate from your primary headlamp when hiking after sunset.",
       "tags": [
@@ -1060,7 +1133,9 @@
         "red-light",
         "batteries",
         "fieldcraft"
-      ]
+      ],
+      "scenario": "A day hike may finish in darkness and there’s one headlamp for two people.",
+      "overview": "Plan light and spare power per person. Use sufficient light to see footing on unfamiliar ground."
     },
     {
       "id": "trv-138",
@@ -1090,7 +1165,9 @@
         "tripod",
         "pot-hanger",
         "fieldcraft"
-      ]
+      ],
+      "scenario": "Wet ground makes a low camp seat attractive.",
+      "overview": "Practice a small, ground-level assembly first. Verify stability before placing people or hot cookware near a support."
     },
     {
       "id": "trv-139",
@@ -1106,15 +1183,17 @@
       "steps": [
         "For Galveston cruises: early December (between Thanksgiving and Christmas), late January, and early May offer the lowest fares, mild weather, and uncrowded ships.",
         "Re-price cruises after booking: most major cruise lines allow you to claim price drops or onboard credit upgrades before final payment date (and sometimes cabin upgrades after final payment) if you call or have your travel agent check fare drops.",
-        "Book nonstop morning flights whenever flying to a cruise port\u2014and ALWAYS fly in at least 1 day before embarkation so a weather delay never causes you to miss the ship."
+        "Book nonstop morning flights whenever flying to a cruise port—and ALWAYS fly in at least 1 day before embarkation so a weather delay never causes you to miss the ship."
       ],
-      "safety": "Never book a return flight earlier than 11:30 AM\u201312:00 PM on cruise disembarkation day to allow buffer for fog or customs delays.",
+      "safety": "Never book a return flight earlier than 11:30 AM–12:00 PM on cruise disembarkation day to allow buffer for fog or customs delays.",
       "tags": [
         "cruise-booking",
         "flights",
         "galveston",
         "travel-planning"
-      ]
+      ],
+      "scenario": "A low fare looks attractive until bags, transfers and change fees are added.",
+      "overview": "Compare equivalent itineraries at their total payable price. Save the fare conditions with the booking."
     },
     {
       "id": "trv-140",
@@ -1129,18 +1208,20 @@
       ],
       "supplies": [],
       "steps": [
-        "Download full offline map tiles for your entire destination county/park over Wi-Fi before leaving cell service\u2014your phone's GPS chip receives satellite signals directly with zero cell towers or data required.",
+        "Download full offline map tiles for your entire destination county/park over Wi-Fi before leaving cell service—your phone's GPS chip receives satellite signals directly with zero cell towers or data required.",
         "Drop a 'Parked Car / Trailhead' waypoint pin before stepping onto any trail.",
         "Install the free What3Words app: it divides the entire planet into 3x3-meter squares labeled with three simple words (e.g., ///filled.count.soap) accepted by 911 dispatchers nationwide to pinpoint exact trail or roadside locations."
       ],
-      "safety": "Cold temperatures drain smartphone lithium batteries rapidly\u2014keep your phone in an inside warm pocket when hiking in winter.",
+      "safety": "Cold temperatures drain smartphone lithium batteries rapidly—keep your phone in an inside warm pocket when hiking in winter.",
       "tags": [
         "gps",
         "offline-maps",
         "what3words",
         "navigation",
         "safety"
-      ]
+      ],
+      "scenario": "Cell coverage ends before the trailhead.",
+      "overview": "Test the downloaded map in airplane mode. Write down coordinates and their format so a dispatcher can interpret them."
     },
     {
       "id": "trv-141",
@@ -1158,18 +1239,20 @@
         "Waterproof snap-lock containers"
       ],
       "steps": [
-        "Pre-chill your cooler the night before departure by sacrificing a bag of ice inside\u2014putting cold food into a hot garage cooler wastes half your ice immediately.",
+        "Pre-chill your cooler the night before departure by sacrificing a bag of ice inside—putting cold food into a hot garage cooler wastes half your ice immediately.",
         "Freeze square plastic juice/water bottles solid instead of loose ice cubes: block ice lasts 3x longer, keeps deli meats and cheese bone-dry with zero meltwater flooding, and doubles as cold drinking water as it thaws.",
         "Keep drinks in a separate small cooler from food so frequent drink grabs don't dump warm air onto perishables."
       ],
-      "safety": "Keep perishable meats and dairy strictly below 40\u00b0F; drain meltwater only when replacing ice (cold meltwater actually insulates better than warm air).",
+      "safety": "Keep perishable meats and dairy strictly below 40°F; drain meltwater only when replacing ice (cold meltwater actually insulates better than warm air).",
       "tags": [
         "cooler",
         "road-trip",
         "ice-blocks",
         "food-safety",
         "camping"
-      ]
+      ],
+      "scenario": "A road-trip cooler needs to keep food dry as the ice melts.",
+      "overview": "Leakproof containers protect the food and a thermometer checks the cold chain. Keep frequently requested drinks easy to reach."
     },
     {
       "id": "trv-142",
@@ -1192,7 +1275,9 @@
         "multi-use",
         "gear",
         "fieldcraft"
-      ]
+      ],
+      "scenario": "One large cloth can serve several camp chores.",
+      "overview": "Assign clean and dirty jobs to separate cloths. Fabric can remove debris but cannot make water potable."
     },
     {
       "id": "trv-143",
@@ -1219,7 +1304,9 @@
         "carry-on",
         "rules",
         "packing"
-      ]
+      ],
+      "scenario": "A mending kit and small tools must pass airport screening.",
+      "overview": "Check current rules for the actual item and itinerary. Move restricted items before closing checked luggage."
     },
     {
       "id": "trv-144",
@@ -1233,9 +1320,9 @@
         "Clean glass cleaner + microfiber cloth (inside windshield film)"
       ],
       "steps": [
-        "Clean the INSIDE of your windshield every month\u2014invisible vinyl outgassing film scatters oncoming LED headlights into blinding starburst glare at night.",
-        "Texas Feral Hog / Deer Avoidance: If an animal darts into your headlights on a rural highway, brake firmly in a STRAIGHT LINE\u2014do NOT swerve violently (swerving causes fatal rollover crashes or head-on collisions; hitting a deer straight-on is far more survivable than hitting a tree at 65 mph).",
-        "If eyelids feel heavy or you miss a mile marker, pull into a lit rest stop/gas station for a 20-minute 'coffee nap' (drink a cup of coffee immediately before closing eyes for 20 minutes\u2014caffeine kicks in right as you wake)."
+        "Clean the INSIDE of your windshield every month—invisible vinyl outgassing film scatters oncoming LED headlights into blinding starburst glare at night.",
+        "Texas Feral Hog / Deer Avoidance: If an animal darts into your headlights on a rural highway, brake firmly in a STRAIGHT LINE—do NOT swerve violently (swerving causes fatal rollover crashes or head-on collisions; hitting a deer straight-on is far more survivable than hitting a tree at 65 mph).",
+        "If eyelids feel heavy or you miss a mile marker, pull into a lit rest stop/gas station for a 20-minute 'coffee nap' (drink a cup of coffee immediately before closing eyes for 20 minutes—caffeine kicks in right as you wake)."
       ],
       "safety": "Keep eyes focused slightly toward the white right-hand fog line when facing blinding oncoming high beams.",
       "tags": [
@@ -1244,7 +1331,9 @@
         "deer",
         "safety",
         "road-trip"
-      ]
+      ],
+      "scenario": "A late drive passes wooded road edges and the driver grows tired.",
+      "overview": "Find a safe stopping point early. Clean glass can reduce glare but cannot restore alertness."
     },
     {
       "id": "trv-145",
@@ -1265,14 +1354,16 @@
         "Pack heavy dry bags low and centered near the kayak seat so center of gravity stays stable; tether paddles and dry bags with short quick-release leashes so gear doesn't drift away in a capsize.",
         "If capsized in calm water: stay with the floating boat, flip it upright, slide a paddle float onto one blade, brace the paddle across the rear deck as an outrigger, kick horizontally onto the back deck (belly-first, keeping head low), slide legs into the cockpit, and pump water out."
       ],
-      "safety": "Always wear your PFD buckled on the water\u2014putting on a life jacket while treading water in cold/choppy waves is nearly impossible.",
+      "safety": "Always wear your PFD buckled on the water—putting on a life jacket while treading water in cold/choppy waves is nearly impossible.",
       "tags": [
         "kayak",
         "canoe",
         "paddling",
         "water-safety",
         "rescue"
-      ]
+      ],
+      "scenario": "A new paddler needs to understand how a loaded boat handles.",
+      "overview": "Practice in sheltered conditions with a fitted life jacket and qualified instruction before taking a remote route."
     },
     {
       "id": "trv-146",
@@ -1284,7 +1375,7 @@
       "gear": [],
       "supplies": [],
       "steps": [
-        "Break-Even Drink Package Math: Calculate daily package cost (including automatic 18%\u201320% gratuity) divided by $13\u2013$15 per cocktail\u2014you typically need 5\u20136 alcoholic drinks EVERY single day (including port days when you're off the ship!) just to break even.",
+        "Break-Even Drink Package Math: Calculate daily package cost (including automatic 18%–20% gratuity) divided by $13–$15 per cocktail—you typically need 5–6 alcoholic drinks EVERY single day (including port days when you're off the ship!) just to break even.",
         "Use onboard credit (OBC) to pre-book specialty dining bundles on Day 1 embarkation discounts, or buy discounted shore excursions/photo packages.",
         "Bring an insulated Yeti/RTIC tumbler aboard to keep iced coffee, water, or lemonade cold on pool decks all day."
       ],
@@ -1295,7 +1386,9 @@
         "dining",
         "cruise",
         "planning"
-      ]
+      ],
+      "scenario": "A cruise package is priced per day but several days will be spent in port.",
+      "overview": "Compare the whole-voyage cost with purchases you actually expect, including service charges on each option."
     },
     {
       "id": "trv-147",
@@ -1313,8 +1406,8 @@
         "Tecnu / Dawn soap"
       ],
       "steps": [
-        "Fill a black solar shower bag in the morning and leave in direct sun for 3\u20134 hours (test water temperature before stepping under\u2014black bags can heat water to 115\u00b0F+ in Texas sun!).",
-        "Wash at least 200 feet away from streams and lakes\u2014even 'biodegradable' camp soap harms fish gills and aquatic insects if dumped directly into waterways."
+        "Fill a black solar shower bag in the morning and leave in direct sun for 3–4 hours (test water temperature before stepping under—black bags can heat water to 115°F+ in Texas sun!).",
+        "Wash at least 200 feet away from streams and lakes—even 'biodegradable' camp soap harms fish gills and aquatic insects if dumped directly into waterways."
       ],
       "safety": "Scan trail edges at waist and ankle height for poison ivy vines before stepping off-trail.",
       "tags": [
@@ -1322,7 +1415,9 @@
         "hygiene",
         "leave-no-trace",
         "camping"
-      ]
+      ],
+      "scenario": "One camp water supply must serve cooking, washing and drinking.",
+      "overview": "Keep clean utensils and hands away from used wash water. Follow local disposal rules when placing a shower."
     },
     {
       "id": "trv-148",
@@ -1336,12 +1431,12 @@
         "Vent-mount phone holder + USB cable"
       ],
       "supplies": [
-        "International Driving Permit (IDP \u2014 $20 at AAA)",
+        "International Driving Permit (IDP — $20 at AAA)",
         "Primary auto insurance / credit card CDW coverage verification"
       ],
       "steps": [
-        "Walk around every rental car taking a continuous slow-motion smartphone video (including windshield glass, roof, wheels, and bumper undersides) BEFORE driving out of the lot\u2014this proves pre-existing scratches/chips.",
-        "Check tire pressure, spare tire presence, and fuel type (gasoline vs. diesel\u2014putting unleaded in a diesel or vice versa causes thousands in damage) before leaving.",
+        "Walk around every rental car taking a continuous slow-motion smartphone video (including windshield glass, roof, wheels, and bumper undersides) BEFORE driving out of the lot—this proves pre-existing scratches/chips.",
+        "Check tire pressure, spare tire presence, and fuel type (gasoline vs. diesel—putting unleaded in a diesel or vice versa causes thousands in damage) before leaving.",
         "Obtain a $20 International Driving Permit (IDP) from AAA before renting cars in Europe, Japan, or Latin America."
       ],
       "safety": "Photograph the fuel gauge and odometer at drop-off alongside the return lane sign.",
@@ -1351,7 +1446,9 @@
         "international",
         "travel",
         "checklist"
-      ]
+      ],
+      "scenario": "A rental car already has a scratch and the trip crosses a border.",
+      "overview": "Document damage at collection and confirm permitted areas, coverage and return instructions in writing."
     },
     {
       "id": "trv-149",
@@ -1366,17 +1463,19 @@
       ],
       "supplies": [],
       "steps": [
-        "Never coil long ropes around your elbow and hand (creates figure-8 twists and tangles)\u2014flake rope in figure-8 loops across your thumb and pinky ('figure-8 hank') and wrap the tail neatly around the center so it pulls out tangle-free in 2 seconds.",
+        "Never coil long ropes around your elbow and hand (creates figure-8 twists and tangles)—flake rope in figure-8 loops across your thumb and pinky ('figure-8 hank') and wrap the tail neatly around the center so it pulls out tangle-free in 2 seconds.",
         "Remember each foot of genuine 550 paracord holds 550 lbs AND contains 7 inner 2-ply nylon yarns (14 thin fishing/sewing/snare strands) plus a waterproof tinder core in survival paracord."
       ],
-      "safety": "Do not use 550 paracord for dynamic rock climbing or life-safety rappelling\u2014use rated UIAA climbing rope for life loads.",
+      "safety": "Do not use 550 paracord for dynamic rock climbing or life-safety rappelling—use rated UIAA climbing rope for life loads.",
       "tags": [
         "paracord",
         "rope-coiling",
         "bushcraft",
         "gear",
         "fieldcraft"
-      ]
+      ],
+      "scenario": "Loose cord knots in the pack just as rain begins.",
+      "overview": "Practice opening the bundle in daylight. Keep utility cord separate from any rated life-safety equipment."
     },
     {
       "id": "trv-150",
@@ -1395,15 +1494,15 @@
       "supplies": [
         "Passport + printed docs",
         "Prescription meds + OTC travel kit",
-        "2\u20133 swimsuits + rash guard + cover-up",
+        "2–3 swimsuits + rash guard + cover-up",
         "Walking shoes + sandals + dress shoes",
-        "1\u20132 formal/smart-casual outfits",
+        "1–2 formal/smart-casual outfits",
         "Reef-safe sunscreen + aloe + bug spray",
         "Insulated tumbler + small bills for tips"
       ],
       "steps": [
-        "Lay out everything on the bed 48 hours before departure, then remove 20% of 'just-in-case' outfits\u2014every cruise ship offers mid-cruise laundry specials or self-service laundromats.",
-        "Pack outfits cross-matched between both suitcases if checking two bags with your spouse\u2014if one bag is delayed by an airline, both travelers still have half their wardrobe."
+        "Lay out everything on the bed 48 hours before departure, then remove 20% of 'just-in-case' outfits—every cruise ship offers mid-cruise laundry specials or self-service laundromats.",
+        "Pack outfits cross-matched between both suitcases if checking two bags with your spouse—if one bag is delayed by an airline, both travelers still have half their wardrobe."
       ],
       "safety": "Keep all medications, jewelry, electronics, and passports in your personal under-seat bag.",
       "tags": [
@@ -1411,7 +1510,38 @@
         "cruise",
         "checklist",
         "travel"
-      ]
+      ],
+      "scenario": "The first evening and final morning on a cruise involve different bags.",
+      "overview": "Walk through the trip from door to door. Keep documents, medication and last-morning essentials within reach."
+    },
+    {
+      "id": "trv-151",
+      "sub": "Packing & Air Travel",
+      "title": "Pack one accessible night for a delayed arrival",
+      "scenario": "The bag is checked through but a late connection may leave you in a hotel with only what you carried aboard.",
+      "time": "10 minutes",
+      "diff": "Easy",
+      "gear": [
+        "Small zip pouch"
+      ],
+      "supplies": [
+        "One change of essentials",
+        "Travel documents",
+        "Charging cable",
+        "Personal care essentials"
+      ],
+      "steps": [
+        "Think through arrival, bedtime and the following morning without opening checked luggage. List what you would reach for during those three periods.",
+        "Pack documents, essential medication as prescribed, glasses, a charger and the clothing and hygiene items you actually need. Check current screening requirements for liquids and medical items.",
+        "Put critical items in the personal bag that stays with you if the larger carry-on is gate-checked.",
+        "Test the bag under a chair at home. You should be able to reach medication or documents without unpacking clothing into the aisle."
+      ],
+      "overview": "One accessible night makes delays easier to handle. It also distinguishes what truly has to stay with you from what can travel in checked luggage.",
+      "tags": [
+        "packing",
+        "air travel"
+      ],
+      "cat": "Travel & Fieldcraft"
     }
   ],
   "glossary": {
@@ -1419,7 +1549,7 @@
       "term": "Neodymium Cruise Cabin Magnetic Hooks",
       "aka": "Rare-earth swivel ceiling/wall hooks",
       "svg": "maghook",
-      "def": "Compact rare-earth magnets rated 25\u201350 lbs that attach directly to steel cruise ship cabin walls and ceilings (vertical ceiling pull holds 3x more weight than sideways wall pull) for hanging bags, hats, and wet swimwear."
+      "def": "Compact rare-earth magnets rated 25–50 lbs that attach directly to steel cruise ship cabin walls and ceilings (vertical ceiling pull holds 3x more weight than sideways wall pull) for hanging bags, hats, and wet swimwear."
     },
     "leukotape p": {
       "term": "Leukotape P Rigid Zinc-Oxide Tape",
@@ -1437,7 +1567,9 @@
       "term": "Backcountry Cathole Trowel",
       "aka": "Leave No Trace digging trowel",
       "svg": "trowel",
-      "def": "A lightweight aluminum or titanium digging trowel carried on hikes and camping trips to dig 6\u20138 inch organic-soil catholes 200 feet away from trails and water sources."
+      "def": "A lightweight aluminum or titanium digging trowel carried on hikes and camping trips to dig 6–8 inch organic-soil catholes 200 feet away from trails and water sources."
     }
-  }
+  },
+  "count": 51,
+  "version": "2026.11.15-birthday-r1"
 }

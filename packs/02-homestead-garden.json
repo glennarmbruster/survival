@@ -6,7 +6,7 @@
       "sub": "Soil & Compost",
       "title": "Breaking Up Texas Gulf Coast Gumbo Clay",
       "diff": "Medium",
-      "time": "2\u20133 hours",
+      "time": "2–3 hours",
       "gear": [
         "Broadfork",
         "Wheelbarrow",
@@ -14,16 +14,16 @@
         "Soil pH/moisture meter"
       ],
       "supplies": [
-        "3\u20134 inches aged compost",
+        "3–4 inches aged compost",
         "Expanded shale (1/4-inch)",
         "Elemental sulfur or organic matter",
         "Hardwood mulch"
       ],
       "steps": [
-        "Test soil moisture before working\u2014never till or dig wet gumbo clay, which dries into brick-hard clods.",
+        "Test soil moisture before working—never till or dig wet gumbo clay, which dries into brick-hard clods.",
         "Spread 3 inches of finished compost and 2 inches of expanded shale across the bed surface.",
-        "Drive a broadfork straight down 10\u201312 inches and rock back slightly to fracture subsoil compaction without inverting soil biology.",
-        "Rake amendments into the top 4\u20136 inches and top-dress immediately with 3 inches of shredded hardwood mulch to prevent sun-baking."
+        "Drive a broadfork straight down 10–12 inches and rock back slightly to fracture subsoil compaction without inverting soil biology.",
+        "Rake amendments into the top 4–6 inches and top-dress immediately with 3 inches of shredded hardwood mulch to prevent sun-baking."
       ],
       "safety": "Avoid adding beach or builder's sand to heavy clay; sand plus clay creates a concrete-like hardpan.",
       "tags": [
@@ -33,7 +33,9 @@
         "texas",
         "broadfork",
         "amendment"
-      ]
+      ],
+      "scenario": "A shovel comes up coated in sticky Friendswood clay after rain.",
+      "overview": "The first decision is when the soil is workable. Leave one small strip untreated so you can compare drainage and root growth next season."
     },
     {
       "id": "hom-102",
@@ -54,9 +56,9 @@
       ],
       "steps": [
         "Build a minimum 3x3x3-foot pile alternating thin layers of chopped browns and greens, spraying each layer until it feels like a wrung-out sponge.",
-        "Leave undisturbed for 4 days until the core reaches 135\u00b0F\u2013160\u00b0F (thermophilic phase that kills weed seeds and pathogens).",
+        "Leave undisturbed for 4 days until the core reaches 135°F–160°F (thermophilic phase that kills weed seeds and pathogens).",
         "On Day 4, turn the pile completely inside-out so outer cool material moves to the center, re-moistening dry pockets.",
-        "Turn every 2 days (Days 6, 8, 10, 12, 14, 16) until temperatures drop below 110\u00b0F and the pile smells dark and earthy."
+        "Turn every 2 days (Days 6, 8, 10, 12, 14, 16) until temperatures drop below 110°F and the pile smells dark and earthy."
       ],
       "safety": "Never compost dog/cat feces, meat, dairy, or diseased fire-blight/fungal plant material in backyard piles.",
       "tags": [
@@ -65,7 +67,9 @@
         "fertilizer",
         "zero-waste",
         "berkeley"
-      ]
+      ],
+      "scenario": "Grass clippings are piling up faster than the compost bin breaks them down.",
+      "overview": "A hot pile needs both air spaces and moist material. Its temperature and smell tell you more about when to turn it than a calendar alone."
     },
     {
       "id": "hom-103",
@@ -89,7 +93,7 @@
         "Drill 1/4-inch air holes along the upper rim and lid of the top tote, and 1/8-inch drainage holes in the bottom; nest inside the second tote to catch leachate.",
         "Fill halfway with damp shredded cardboard and coco coir plus a handful of garden soil for grit and pulverized eggshells for pH buffering.",
         "Add red wigglers on top and let them burrow away from light before burying chopped vegetable scraps in one corner.",
-        "Keep bin between 55\u00b0F and 80\u00b0F (in a garage or shaded porch in Friendswood\u2014never in direct summer sun) and harvest castings every 3\u20134 months."
+        "Keep bin between 55°F and 80°F (in a garage or shaded porch in Friendswood—never in direct summer sun) and harvest castings every 3–4 months."
       ],
       "safety": "Avoid citrus peels, onions, garlic, spicy peppers, and oily foods, which irritate worms and cause anaerobic odor.",
       "tags": [
@@ -98,7 +102,9 @@
         "castings",
         "fertilizer",
         "compost"
-      ]
+      ],
+      "scenario": "You’d like to compost vegetable scraps on a shaded porch with little room for a pile.",
+      "overview": "Check beneath the feeding spot before adding scraps. Remaining food and wet bedding tell you when to slow down."
     },
     {
       "id": "hom-104",
@@ -122,19 +128,21 @@
         "Mel's Mix (1/3 compost, 1/3 peat/coir, 1/3 vermiculite)"
       ],
       "steps": [
-        "Cut lumber to 4 feet wide (for easy reach from both sides without stepping on soil) by 8 feet long and 12\u201318 inches deep.",
+        "Cut lumber to 4 feet wide (for easy reach from both sides without stepping on soil) by 8 feet long and 12–18 inches deep.",
         "Pre-drill corners to prevent splitting and fasten boards with corner brackets and 3-inch coated screws.",
         "Level the footprint, lay overlapping layers of plain brown cardboard (tape removed) on the ground to smother Bermuda grass, and soak thoroughly.",
         "Fill with well-draining raised-bed soil mix and water deeply before planting."
       ],
-      "safety": "Use untreated rot-resistant cedar, cypress, or modern ACQ-rated lumber\u2014never old creosote railroad ties or pre-2004 CCA pressure-treated wood.",
+      "safety": "Use untreated rot-resistant cedar, cypress, or modern ACQ-rated lumber—never old creosote railroad ties or pre-2004 CCA pressure-treated wood.",
       "tags": [
         "raised-bed",
         "cedar",
         "soil",
         "construction",
         "gardening"
-      ]
+      ],
+      "scenario": "The hose reaches the planned bed but the wheelbarrow can barely get past it.",
+      "overview": "Lay out the paths before assembling the frame. A bed is easier to maintain when the middle is within reach from the sides."
     },
     {
       "id": "hom-105",
@@ -155,7 +163,7 @@
       "steps": [
         "Pack a 5-gallon bucket half-full with chopped comfrey leaves (rich in potassium, nitrogen, and trace minerals) or non-seeding weeds.",
         "Fill bucket with rainwater, weigh plants down with a brick, and cover loosely so gases escape while mosquitoes stay out.",
-        "Steep 2\u20133 weeks, stirring every few days until leaves break down into a dark liquid.",
+        "Steep 2–3 weeks, stirring every few days until leaves break down into a dark liquid.",
         "Strain solids onto the compost pile and dilute the concentrate 1:10 with water before drenching plant roots."
       ],
       "safety": "Wear gloves when handling nettles and keep bucket covered tightly so pets and children cannot access it.",
@@ -165,7 +173,9 @@
         "organic",
         "liquid-feed",
         "soil"
-      ]
+      ],
+      "scenario": "There are more cut weeds than fit in the compost heap.",
+      "overview": "Treat homemade plant feed as variable in strength. Trial it on a small patch and keep it off the edible portions of crops."
     },
     {
       "id": "hom-106",
@@ -186,7 +196,7 @@
       "steps": [
         "In October, clear spent summer beds and broadcast cover crop seeds evenly over raked soil (coat legume seeds with inoculant first for maximum nitrogen fixation).",
         "Rake lightly to cover seeds 1/4-inch deep and keep moist until sprouted.",
-        "Let crops grow through winter\u2014Daikon radishes drill deep taproots through clay while clover fixes atmospheric nitrogen.",
+        "Let crops grow through winter—Daikon radishes drill deep taproots through clay while clover fixes atmospheric nitrogen.",
         "In early spring (3 weeks before planting), chop plants down at soil level with pruners at first flower and leave as mulch or turn lightly into the top 2 inches."
       ],
       "safety": "Terminate cover crops before they set mature seed, or they will become persistent weeds in spring beds.",
@@ -196,7 +206,9 @@
         "daikon",
         "nitrogen",
         "soil-health"
-      ]
+      ],
+      "scenario": "A bed will sit empty between harvest and spring planting.",
+      "overview": "A cover crop occupies that gap and protects the soil. Its termination date matters as much as its sowing date."
     },
     {
       "id": "hom-107",
@@ -217,10 +229,10 @@
         "Baking soda"
       ],
       "steps": [
-        "Percolation test: Dig a 12-inch-deep hole, fill with water, let drain completely, then refill and time how fast it drops (1\u20132 inches/hour is ideal; under 1/2 inch/hour needs raised beds).",
+        "Percolation test: Dig a 12-inch-deep hole, fill with water, let drain completely, then refill and time how fast it drops (1–2 inches/hour is ideal; under 1/2 inch/hour needs raised beds).",
         "Jar texture test: Fill a mason jar 1/3 with soil and 2/3 with water, shake hard, and measure settled layers at 1 minute (sand), 2 hours (silt), and 24 hours (clay).",
         "Quick fizz pH check: Put 2 tbsp soil in two cups; add 1/2 cup vinegar to one (fizzing = alkaline soil >7.5) and 1/2 cup water + baking soda to the other (fizzing = acidic soil <5.5).",
-        "Confirm exact numbers with a calibrated soil pH/moisture meter across 4\u20135 spots in the bed."
+        "Confirm exact numbers with a calibrated soil pH/moisture meter across 4–5 spots in the bed."
       ],
       "safety": "Use distilled water rather than hard tap water for pH testing so mineral alkalinity does not skew results.",
       "tags": [
@@ -229,7 +241,9 @@
         "drainage",
         "percolation",
         "clay"
-      ]
+      ],
+      "scenario": "One bed stays puddled long after the path has dried.",
+      "overview": "Compare drainage in several spots and record the results on a sketch. A laboratory soil test can narrow down amendment choices."
     },
     {
       "id": "hom-108",
@@ -252,7 +266,7 @@
         "Overflow hose"
       ],
       "steps": [
-        "Build a level cinder-block platform at least 12\u201316 inches high so gravity provides usable water pressure at the bottom spigot.",
+        "Build a level cinder-block platform at least 12–16 inches high so gravity provides usable water pressure at the bottom spigot.",
         "Drill a hole 2 inches above the barrel floor for the brass spigot and a top overflow port routed away from the house foundation.",
         "Cut the downspout at barrel-top height, install the rain barrel diverter, and line the intake lid with fine aluminum screen mesh to block leaves and mosquitoes.",
         "Connect a soaker hose directly to the bottom spigot for passive gravity-fed bed watering."
@@ -264,7 +278,9 @@
         "irrigation",
         "water",
         "hurricane-prep"
-      ]
+      ],
+      "scenario": "Rain runs from the downspout beside a bed you water by hand.",
+      "overview": "The overflow needs somewhere safe to go even when the barrel is full. Captured roof water belongs in the garden water system."
     },
     {
       "id": "hom-109",
@@ -297,7 +313,9 @@
         "mulch",
         "water-saving",
         "raised-bed"
-      ]
+      ],
+      "scenario": "Plants at the far end of the drip line look thirsty.",
+      "overview": "Catch water at the nearest and farthest emitters for the same interval. Their volumes show whether the bed is watered evenly."
     },
     {
       "id": "hom-110",
@@ -319,16 +337,18 @@
         "Seal the bottom drainage hole of one unglazed terracotta pot with waterproof silicone and let cure 24 hours.",
         "Bury the pot up to its neck in the center of a tomato, pepper, or squash planting area.",
         "Fill the pot with water and cover the top with a terracotta saucer to prevent evaporation and mosquitoes.",
-        "Plant roots grow directly around the porous clay wall and draw moisture only as the soil dries, refilling every 3\u20135 days."
+        "Plant roots grow directly around the porous clay wall and draw moisture only as the soil dries, refilling every 3–5 days."
       ],
-      "safety": "Use plain unglazed terracotta only\u2014painted or glazed pots will not seep water through the walls.",
+      "safety": "Use plain unglazed terracotta only—painted or glazed pots will not seep water through the walls.",
       "tags": [
         "olla",
         "terracotta",
         "drought",
         "irrigation",
         "summer"
-      ]
+      ],
+      "scenario": "A patio container dries faster than you can return with the hose.",
+      "overview": "An unglazed buried pot releases water into the surrounding soil. Check moisture at root depth to learn the useful refill interval."
     },
     {
       "id": "hom-111",
@@ -348,9 +368,9 @@
       ],
       "steps": [
         "Squeeze seeds and surrounding gel from ripe heirloom tomatoes or overripe yellow cucumbers into a clean glass jar and add 1/4 cup water.",
-        "Cover jar with a breathable paper towel and let ferment at room temperature for 2\u20134 days until a white mold film forms on top\u2014this dissolves the germination-inhibiting gel sac and kills seed-borne diseases.",
+        "Cover jar with a breathable paper towel and let ferment at room temperature for 2–4 days until a white mold film forms on top—this dissolves the germination-inhibiting gel sac and kills seed-borne diseases.",
         "Swirl the jar, skim off floating pulp and hollow dud seeds, and pour the sunken viable seeds into a fine strainer.",
-        "Rinse well and dry seeds in a single layer on a labeled coffee filter for 1\u20132 weeks until they snap rather than bend."
+        "Rinse well and dry seeds in a single layer on a labeled coffee filter for 1–2 weeks until they snap rather than bend."
       ],
       "safety": "Save seeds only from open-pollinated/heirloom varieties; F1 hybrids will not grow true to type.",
       "tags": [
@@ -359,7 +379,9 @@
         "cucumber",
         "heirloom",
         "ferment"
-      ]
+      ],
+      "scenario": "A particularly good tomato or cucumber has seed inside a wet pulp.",
+      "overview": "Keep the variety name with the seed through cleaning and drying. Cross-pollination can change what appears next season."
     },
     {
       "id": "hom-112",
@@ -390,7 +412,9 @@
         "okra",
         "peppers",
         "storage"
-      ]
+      ],
+      "scenario": "Bean and okra pods are ready to shell before the next stretch of wet weather.",
+      "overview": "Seeds need to finish drying before airtight storage. A paper label travels with the batch from pod to packet."
     },
     {
       "id": "hom-113",
@@ -398,7 +422,7 @@
       "sub": "Seeds & Propagation",
       "title": "Paper Towel Germination Viability Test",
       "diff": "Easy",
-      "time": "5\u201310 days",
+      "time": "5–10 days",
       "gear": [
         "Zip-top plastic bag",
         "Permanent marker"
@@ -410,8 +434,8 @@
       ],
       "steps": [
         "Moisten a paper towel so it is damp but not dripping, and space 10 seeds evenly across half of it.",
-        "Fold the towel over the seeds, slide into a labeled zip-top bag (leave 1 inch unsealed for airflow), and place in a warm spot (70\u00b0F\u201380\u00b0F).",
-        "Check every 2 days and count sprouted seeds after 7\u201310 days: 8\u201310 sprouts means normal sowing; 5\u20137 means sow twice as thickly; under 4 means replace the packet.",
+        "Fold the towel over the seeds, slide into a labeled zip-top bag (leave 1 inch unsealed for airflow), and place in a warm spot (70°F–80°F).",
+        "Check every 2 days and count sprouted seeds after 7–10 days: 8–10 sprouts means normal sowing; 5–7 means sow twice as thickly; under 4 means replace the packet.",
         "Plant sprouted test seeds gently into potting mix immediately so they are not wasted."
       ],
       "safety": "Discard any batch covered in fuzzy black mold rather than clean white root hairs.",
@@ -420,7 +444,9 @@
         "seeds",
         "viability",
         "spring-prep"
-      ]
+      ],
+      "scenario": "Last year’s seed packet still feels full, but you have space for only one sowing.",
+      "overview": "Count sprouted seeds against the original sample to estimate how thickly to sow. Ten seeds make the arithmetic easy to repeat."
     },
     {
       "id": "hom-114",
@@ -428,11 +454,11 @@
       "sub": "Seeds & Propagation",
       "title": "Indoor Seed Starting & Damping-Off Prevention",
       "diff": "Easy",
-      "time": "4\u20136 weeks",
+      "time": "4–6 weeks",
       "gear": [
         "Seed cell trays",
         "Humidity dome",
-        "LED shop light (5000K\u20136500K)",
+        "LED shop light (5000K–6500K)",
         "Small oscillating fan"
       ],
       "supplies": [
@@ -443,7 +469,7 @@
       "steps": [
         "Pre-moisten sterile seed-starting mix (never heavy garden soil) and fill cells firmly.",
         "Plant seeds at a depth equal to 2x their diameter, mist gently, and cover with a dome until the first green loops emerge.",
-        "Immediately remove the dome, position LED lights 2\u20133 inches above seedlings for 14\u201316 hours daily, and run a gentle fan to strengthen stems and stop damping-off fungus.",
+        "Immediately remove the dome, position LED lights 2–3 inches above seedlings for 14–16 hours daily, and run a gentle fan to strengthen stems and stop damping-off fungus.",
         "Water from the bottom tray and dust soil surface lightly with ground cinnamon as a natural antifungal."
       ],
       "safety": "Harden off indoor seedlings in dappled shade for 7 days before transplanting into full Texas sun.",
@@ -452,7 +478,9 @@
         "seedlings",
         "grow-lights",
         "damping-off"
-      ]
+      ],
+      "scenario": "Seedlings have toppled at soil level in a tray by the window.",
+      "overview": "Air circulation, clean equipment and careful watering work together. Mark each sowing date so you can distinguish slow emergence from loss."
     },
     {
       "id": "hom-115",
@@ -460,22 +488,22 @@
       "sub": "Seeds & Propagation",
       "title": "Rooting Softwood Cuttings (Rosemary, Basil, Figs, Tomatoes)",
       "diff": "Easy",
-      "time": "2\u20134 weeks",
+      "time": "2–4 weeks",
       "gear": [
         "Bypass pruners",
         "Clear plastic cup or propagation dome",
         "Glass jar"
       ],
       "supplies": [
-        "4\u20136 inch non-flowering stem tips",
+        "4–6 inch non-flowering stem tips",
         "Rooting hormone powder or honey",
         "Perlite/potting mix"
       ],
       "steps": [
-        "Snip a 4\u20136 inch healthy green stem tip early in the morning using sterilized bypass pruners, cutting just below a leaf node.",
+        "Snip a 4–6 inch healthy green stem tip early in the morning using sterilized bypass pruners, cutting just below a leaf node.",
         "Strip all leaves from the bottom half of the stem and pinch off any flower buds.",
         "Dip the cut end in rooting hormone (or raw honey) and insert 2 inches deep into moist perlite/potting mix (or clean water for basil and tomato suckers).",
-        "Keep in bright indirect light until tug resistance confirms new roots in 2\u20133 weeks."
+        "Keep in bright indirect light until tug resistance confirms new roots in 2–3 weeks."
       ],
       "safety": "Wipe pruner blades with 70% isopropyl alcohol between plants to avoid spreading viral or fungal diseases.",
       "tags": [
@@ -484,7 +512,9 @@
         "herbs",
         "figs",
         "tomatoes"
-      ]
+      ],
+      "scenario": "A favorite rosemary plant or fig needs a backup.",
+      "overview": "New leaves can appear before a cutting has strong roots. Check for rooting before moving it into a less humid spot."
     },
     {
       "id": "hom-116",
@@ -505,8 +535,8 @@
       "steps": [
         "Water the clump (lemongrass, chives, society garlic, mint, or iris) the evening before dividing.",
         "Drive a drain spade straight down around the outer drip line and lift the entire root ball.",
-        "Slice the root mass into 2\u20134 healthy sections with a hori-hori knife, ensuring each division has vigorous shoots and white roots.",
-        "Replant immediately at the original soil depth, water deeply, and shade for 3 days if temperatures exceed 85\u00b0F."
+        "Slice the root mass into 2–4 healthy sections with a hori-hori knife, ensuring each division has vigorous shoots and white roots.",
+        "Replant immediately at the original soil depth, water deeply, and shade for 3 days if temperatures exceed 85°F."
       ],
       "safety": "Always grow aggressive spreaders like mint and lemon balm in containers or sunk pots so they do not overrun beds.",
       "tags": [
@@ -515,7 +545,9 @@
         "herbs",
         "lemongrass",
         "propagation"
-      ]
+      ],
+      "scenario": "A clump of herbs has a crowded center and plenty of growth around its edges.",
+      "overview": "A useful division carries both roots and healthy shoots. Water it in and mark its location while the outline is still visible."
     },
     {
       "id": "hom-117",
@@ -523,7 +555,7 @@
       "sub": "Gulf Coast Crops",
       "title": "Growing Heat-Setting Tomatoes in Southeast Texas",
       "diff": "Medium",
-      "time": "70\u201385 days",
+      "time": "70–85 days",
       "gear": [
         "Heavy-duty tomato cages or cattle-panel trellis",
         "Bypass pruners",
@@ -535,7 +567,7 @@
         "30% shade cloth"
       ],
       "steps": [
-        "Choose heat-set and cherry varieties\u2014standard beefsteaks drop blossoms once night temperatures stay above 75\u00b0F.",
+        "Choose heat-set and cherry varieties—standard beefsteaks drop blossoms once night temperatures stay above 75°F.",
         "Transplant in late February/early March (or August 15 for fall), burying 2/3 of the stripped stem deep so roots sprout along the buried stalk.",
         "Mulch 3 inches thick immediately to stop soil-borne early blight spores from splashing onto lower leaves, and prune bottom 12 inches of foliage.",
         "Water consistently at the base (never overhead) to prevent blossom-end rot, and clip 30% shade cloth over cages by late May."
@@ -547,7 +579,9 @@
         "texas",
         "heat-tolerant",
         "trellis"
-      ]
+      ],
+      "scenario": "Your spring tomato flowers reach the hottest nights before they set fruit.",
+      "overview": "Cultivar choice and transplant timing determine how much mild weather the plant gets. Note the first fruit-set date for next year."
     },
     {
       "id": "hom-118",
@@ -555,7 +589,7 @@
       "sub": "Gulf Coast Crops",
       "title": "Sweet Potatoes: Slip Production & Summer Groundcover",
       "diff": "Easy",
-      "time": "100\u2013120 days",
+      "time": "100–120 days",
       "gear": [
         "Mason jar",
         "Toothpicks",
@@ -567,18 +601,20 @@
       ],
       "steps": [
         "Six weeks before planting (March), suspend half of an organic sweet potato in a jar of water using toothpicks in a sunny window until 6-inch leafy slips sprout.",
-        "Twist off rooted slips and plant 12 inches apart in warm April/May soil\u2014sweet potatoes thrive in 95\u00b0F+ Gulf Coast heat and double as living weed-smothering mulch.",
+        "Twist off rooted slips and plant 12 inches apart in warm April/May soil—sweet potatoes thrive in 95°F+ Gulf Coast heat and double as living weed-smothering mulch.",
         "Water moderately until vines cover the bed, then taper off water in the final 3 weeks so tubers do not split.",
-        "Lift tubers gently with a broadfork before first frost and cure at 80\u00b0F\u201385\u00b0F with high humidity for 10 days to convert starches into sugar."
+        "Lift tubers gently with a broadfork before first frost and cure at 80°F–85°F with high humidity for 10 days to convert starches into sugar."
       ],
-      "safety": "Do not refrigerate raw uncured sweet potatoes\u2014temperatures below 55\u00b0F cause hard-core chilling injury.",
+      "safety": "Do not refrigerate raw uncured sweet potatoes—temperatures below 55°F cause hard-core chilling injury.",
       "tags": [
         "sweet-potatoes",
         "slips",
         "summer",
         "calorie-crop",
         "texas"
-      ]
+      ],
+      "scenario": "Sweet potatoes in the pantry have produced shoots and a sunny bed is open.",
+      "overview": "Rooted slips become the planting material. Reserve enough bed space for the vines as they spread."
     },
     {
       "id": "hom-119",
@@ -586,7 +622,7 @@
       "sub": "Gulf Coast Crops",
       "title": "Okra & Southern Peas: Bulletproof Summer Producers",
       "diff": "Easy",
-      "time": "50\u201365 days",
+      "time": "50–65 days",
       "gear": [
         "Bypass pruners",
         "Gloves"
@@ -596,19 +632,21 @@
         "Purple Hull or Black-Eyed pea seeds"
       ],
       "steps": [
-        "Soak hard okra and pea seeds in warm water overnight before planting in April\u2013July once soil exceeds 70\u00b0F.",
-        "Space okra 18 inches apart in full sun; once plants reach 4 feet tall, harvest pods every 48 hours at 3\u20134 inches long before they turn woody.",
-        "Plant bush southern peas 4 inches apart\u2014they fix their own nitrogen and keep producing in peak August heat when other crops stall.",
+        "Soak hard okra and pea seeds in warm water overnight before planting in April–July once soil exceeds 70°F.",
+        "Space okra 18 inches apart in full sun; once plants reach 4 feet tall, harvest pods every 48 hours at 3–4 inches long before they turn woody.",
+        "Plant bush southern peas 4 inches apart—they fix their own nitrogen and keep producing in peak August heat when other crops stall.",
         "Cut main okra stalks back to 18 inches in August if tired; they will bush out for a heavy fall harvest."
       ],
-      "safety": "Wear long sleeves and gloves when harvesting okra\u2014tiny spines on leaves and pods cause skin itching.",
+      "safety": "Wear long sleeves and gloves when harvesting okra—tiny spines on leaves and pods cause skin itching.",
       "tags": [
         "okra",
         "southern-peas",
         "summer",
         "heat-crop",
         "friendswood"
-      ]
+      ],
+      "scenario": "Summer heat has slowed the spring crops but one bed is still sunny.",
+      "overview": "Okra and southern peas give different harvest cues. Pick a little and often to learn the tender stage for your varieties."
     },
     {
       "id": "hom-120",
@@ -616,20 +654,20 @@
       "sub": "Gulf Coast Crops",
       "title": "Sweet & Hot Peppers Overwintering & Shade Care",
       "diff": "Easy",
-      "time": "65\u201380 days",
+      "time": "65–80 days",
       "gear": [
         "Bypass pruners",
         "5-gallon containers or raised bed",
         "30% shade cloth"
       ],
       "supplies": [
-        "Jalape\u00f1o, Poblano, Shishito, Serrano, or Habanero transplants",
+        "Jalapeño, Poblano, Shishito, Serrano, or Habanero transplants",
         "Epsom salt (magnesium sulfate)",
         "Compost"
       ],
       "steps": [
-        "Plant peppers in March after night temperatures stay above 55\u00b0F; pinch off the very first early flower buds so plants build strong root systems first.",
-        "Side-dress with compost when blossoms open and provide afternoon shade cloth in July\u2013August to prevent sunscald blisters on fruit.",
+        "Plant peppers in March after night temperatures stay above 55°F; pinch off the very first early flower buds so plants build strong root systems first.",
+        "Side-dress with compost when blossoms open and provide afternoon shade cloth in July–August to prevent sunscald blisters on fruit.",
         "Harvest green or let ripen to red/orange on the bush for sweeter flavor and higher vitamin C.",
         "Before a hard freeze, prune potted peppers back to a Y-shaped woody frame, bring into a bright garage/window, and replant in spring for a 2-week head start."
       ],
@@ -640,7 +678,9 @@
         "overwinter",
         "shade-cloth",
         "texas"
-      ]
+      ],
+      "scenario": "A productive pepper plant is heading into its first winter.",
+      "overview": "Choose a manageable plant and a sheltered location before cold weather arrives. Check for pests before moving it near other plants."
     },
     {
       "id": "hom-121",
@@ -659,9 +699,9 @@
       ],
       "steps": [
         "Choose softneck or Creole garlic varieties suited to mild Zone 9 winters (hardneck varieties rarely bulb well without prolonged hard freezes).",
-        "In October\u2013November, separate bulbs into individual cloves (leaving papery wrappers intact) and plant pointed-end up, 2 inches deep and 6 inches apart.",
-        "Mulch 3 inches with shredded leaves and feed lightly with nitrogen in January\u2013February while leaves are growing; stop feeding in March.",
-        "Harvest in May when the lower 3\u20134 leaves turn brown, then cure in a shaded, breezy spot for 3 weeks before braiding or storing."
+        "In October–November, separate bulbs into individual cloves (leaving papery wrappers intact) and plant pointed-end up, 2 inches deep and 6 inches apart.",
+        "Mulch 3 inches with shredded leaves and feed lightly with nitrogen in January–February while leaves are growing; stop feeding in March.",
+        "Harvest in May when the lower 3–4 leaves turn brown, then cure in a shaded, breezy spot for 3 weeks before braiding or storing."
       ],
       "safety": "Plant certified disease-free seed garlic rather than grocery-store garlic treated with sprout inhibitors.",
       "tags": [
@@ -670,15 +710,17 @@
         "fall-planting",
         "storage-crop",
         "zone-9"
-      ]
+      ],
+      "scenario": "You want bulbs for next year and need to reserve a bed this fall.",
+      "overview": "Orient each clove or division and mark the variety. A labeled row stays recognizable well after the original planting details fade."
     },
     {
       "id": "hom-122",
       "cat": "Homestead & Garden",
       "sub": "Gulf Coast Crops",
-      "title": "Cool-Season Brassicas & Root Crops (Oct\u2013March)",
+      "title": "Cool-Season Brassicas & Root Crops (Oct–March)",
       "diff": "Easy",
-      "time": "45\u201375 days",
+      "time": "45–75 days",
       "gear": [
         "Insect netting / row cover",
         "Hori-hori knife"
@@ -688,10 +730,10 @@
         "Bt (Bacillus thuringiensis)"
       ],
       "steps": [
-        "Direct-sow carrots, radishes, turnips, and snap peas in October\u2013November; transplant broccoli, cabbage, and kale seedlings 18 inches apart.",
-        "Cover brassicas immediately with lightweight insect netting or spray Bt every 7\u201310 days to stop green cabbage loopers.",
+        "Direct-sow carrots, radishes, turnips, and snap peas in October–November; transplant broccoli, cabbage, and kale seedlings 18 inches apart.",
+        "Cover brassicas immediately with lightweight insect netting or spray Bt every 7–10 days to stop green cabbage loopers.",
         "Keep carrot seedbeds constantly damp for 14 days until feathery tops emerge, then thin to 2 inches apart.",
-        "Harvest outer kale and collard leaves continuously from the bottom up\u2014light frosts actually make them sweeter."
+        "Harvest outer kale and collard leaves continuously from the bottom up—light frosts actually make them sweeter."
       ],
       "safety": "Avoid planting brassicas in the same spot two winters in a row to prevent clubroot and soil pest buildup.",
       "tags": [
@@ -700,7 +742,9 @@
         "carrots",
         "broccoli",
         "friendswood"
-      ]
+      ],
+      "scenario": "You have room after summer crops and want winter greens and roots.",
+      "overview": "Space above-ground heads and below-ground roots for their mature size. Stagger plantings to avoid one oversized harvest."
     },
     {
       "id": "hom-123",
@@ -731,7 +775,9 @@
         "vertical-garden",
         "cucumbers",
         "squash"
-      ]
+      ],
+      "scenario": "Vines are reaching the path and hiding fruit close to the soil.",
+      "overview": "Match the support to the mature fruit load. A trellis is easiest to anchor before roots occupy its footprint."
     },
     {
       "id": "hom-124",
@@ -755,14 +801,16 @@
         "Pinch basil and mint stems just above a pair of leaf nodes every week to force bushy branching and delay flowering.",
         "Harvest herbs in the morning right after dew dries when essential oil concentration peaks."
       ],
-      "safety": "Keep rosemary, thyme, and oregano sheltered or mulched during rare Texas hard freezes below 20\u00b0F.",
+      "safety": "Keep rosemary, thyme, and oregano sheltered or mulched during rare Texas hard freezes below 20°F.",
       "tags": [
         "herbs",
         "rosemary",
         "basil",
         "cilantro",
         "culinary"
-      ]
+      ],
+      "scenario": "Mint and rosemary are sharing a pot but respond differently to watering.",
+      "overview": "Group herbs by moisture needs. Give spreading plants their own space so a vigorous root system cannot take over the planting."
     },
     {
       "id": "hom-125",
@@ -786,7 +834,7 @@
         "Plant figs and citrus in high-drainage mounds or large half-barrel containers; keep mulch 4 inches away from the trunk flare to prevent collar rot.",
         "Fertilize citrus three times yearly (February, May, September) with balanced slow-release citrus fertilizer containing iron, zinc, and magnesium.",
         "Prune figs lightly in late winter to keep height under 8 feet for easy netting against birds and squirrels.",
-        "Before any freeze below 28\u00b0F, water soil deeply (moist soil radiates heat) and drape frost cloth all the way to the ground\u2014never tying at the trunk."
+        "Before any freeze below 28°F, water soil deeply (moist soil radiates heat) and drape frost cloth all the way to the ground—never tying at the trunk."
       ],
       "safety": "Inspect citrus leaves for Asian citrus psyllid curling; never move citrus plants across quarantine zones.",
       "tags": [
@@ -796,7 +844,9 @@
         "meyer-lemon",
         "fruit-trees",
         "freeze-prep"
-      ]
+      ],
+      "scenario": "You want backyard fruit and are choosing between a fig and citrus.",
+      "overview": "Consider mature size, cold exposure and access for harvesting before digging. A protected planting spot is easier to select than to create later."
     },
     {
       "id": "hom-126",
@@ -816,7 +866,7 @@
         "Sphagnum peat moss & elemental sulfur"
       ],
       "steps": [
-        "For blueberries, acidify soil to pH 4.5\u20135.2 using 50% sphagnum peat moss and elemental sulfur\u2014they will yellow and starve in alkaline Texas soil.",
+        "For blueberries, acidify soil to pH 4.5–5.2 using 50% sphagnum peat moss and elemental sulfur—they will yellow and starve in alkaline Texas soil.",
         "Plant at least two different Rabbiteye blueberry cultivars (such as Premier and Tifblue) for cross-pollination and larger berries.",
         "For blackberries, tie new first-year canes (primocanes) to a two-wire trellis; after second-year canes (floricanes) finish fruiting in June, cut those spent canes to the ground.",
         "Mulch both berries with 4 inches of pine needles or pine bark fines to keep shallow roots cool and acidic."
@@ -828,7 +878,9 @@
         "blueberries",
         "acid-soil",
         "pruning"
-      ]
+      ],
+      "scenario": "Both berry plants look appealing but the available beds have very different soils.",
+      "overview": "Blueberries and blackberries have different soil and pollination needs. Label the variety as well as the species when you plant."
     },
     {
       "id": "hom-127",
@@ -848,7 +900,7 @@
       "steps": [
         "Prune deciduous fruit trees (peaches, plums, pears, figs) in late January/February while dormant before buds swell.",
         "Remove the 3 D's first: Dead, Damaged, and Diseased wood, plus any inward-growing branches or rootstock suckers below the graft union.",
-        "Shape stone fruits (peaches/plums) into an open vase with 3\u20134 outward scaffold limbs so sunlight and coastal breezes dry leaves quickly.",
+        "Shape stone fruits (peaches/plums) into an open vase with 3–4 outward scaffold limbs so sunlight and coastal breezes dry leaves quickly.",
         "Make clean cuts 1/4-inch above an outward-facing bud without leaving stubs or painting wound dressings."
       ],
       "safety": "Sanitize blades between cuts when pruning pear or apple trees suspected of fire blight.",
@@ -857,7 +909,9 @@
         "fruit-trees",
         "dormant",
         "orchard"
-      ]
+      ],
+      "scenario": "Two branches cross in the middle of a fruit tree.",
+      "overview": "Identify the tree and its fruiting wood before removing branches. A photo from the same spot shows how much canopy each cut opens."
     },
     {
       "id": "hom-128",
@@ -879,16 +933,18 @@
         "For aphids, whiteflies, and spider mites: mix 1 tablespoon pure liquid Castile soap per 1 quart warm water (do not use degreasing dish detergents, which strip leaf wax).",
         "For combined fungal + insect control: emulsify 1 teaspoon cold-pressed neem oil with 1/2 teaspoon Castile soap in 1 quart warm water, shaking well.",
         "Spray early in the morning or at dusk, coating both tops and undersides of leaves thoroughly.",
-        "Test on 2\u20133 leaves first and wait 24 hours before spraying the whole plant."
+        "Test on 2–3 leaves first and wait 24 hours before spraying the whole plant."
       ],
-      "safety": "Never spray oils or soaps when temperatures exceed 85\u00b0F or in direct midday sun, or leaves will scorch.",
+      "safety": "Never spray oils or soaps when temperatures exceed 85°F or in direct midday sun, or leaves will scorch.",
       "tags": [
         "pest-control",
         "neem-oil",
         "aphids",
         "organic",
         "spray"
-      ]
+      ],
+      "scenario": "A leaf has pests underneath and you want to treat only the affected plant.",
+      "overview": "Identify the insect first and use a product labeled for the crop. A small leaf trial can reveal damage before a whole-plant treatment."
     },
     {
       "id": "hom-129",
@@ -921,7 +977,9 @@
         "slugs",
         "pest-control",
         "organic"
-      ]
+      ],
+      "scenario": "Seedlings have holes by morning and you have yet to see what ate them.",
+      "overview": "Match the control to the pest you actually observe. A dusk inspection may settle a question that damaged leaves alone cannot."
     },
     {
       "id": "hom-130",
@@ -948,13 +1006,15 @@
         "pollinators",
         "marigolds",
         "beneficial-insects"
-      ]
+      ],
+      "scenario": "The same pest appears each year on the edge of one bed.",
+      "overview": "A trap crop needs regular inspection. Record where insects collect so the extra planting gives you an actionable observation."
     },
     {
       "id": "hom-131",
       "cat": "Homestead & Garden",
       "sub": "Organic Pest & Weather",
-      "title": "Summer Heatwave & Shade Cloth Setup (95\u00b0F\u2013105\u00b0F)",
+      "title": "Summer Heatwave & Shade Cloth Setup (95°F–105°F)",
       "diff": "Easy",
       "time": "1 hour",
       "gear": [
@@ -962,23 +1022,25 @@
         "Spring clamps"
       ],
       "supplies": [
-        "30%\u201340% knitted HDPE shade cloth",
-        "3\u20134 inches hardwood or pine-straw mulch"
+        "30%–40% knitted HDPE shade cloth",
+        "3–4 inches hardwood or pine-straw mulch"
       ],
       "steps": [
         "Bend 10-foot lengths of 1/2-inch Schedule 40 PVC over 4-foot-wide raised beds onto driven rebar pins to form sturdy tunnel hoops.",
-        "Drape 30%\u201340% black or aluminet shade cloth over the hoops and secure with spring clamps, leaving ends open for breeze.",
-        "Maintain a 3\u20134 inch mulch blanket over all bare soil\u2014unmulched Texas soil can hit 115\u00b0F at the surface and cook feeder roots.",
-        "Water deeply in the early morning (6\u20139 AM) so leaves dry quickly and roots stay hydrated through peak afternoon heat."
+        "Drape 30%–40% black or aluminet shade cloth over the hoops and secure with spring clamps, leaving ends open for breeze.",
+        "Maintain a 3–4 inch mulch blanket over all bare soil—unmulched Texas soil can hit 115°F at the surface and cook feeder roots.",
+        "Water deeply in the early morning (6–9 AM) so leaves dry quickly and roots stay hydrated through peak afternoon heat."
       ],
-      "safety": "Use 30%\u201340% shade cloth for fruiting vegetables (tomatoes/peppers); 50%+ blocks too much light for fruit production.",
+      "safety": "Use 30%–40% shade cloth for fruiting vegetables (tomatoes/peppers); 50%+ blocks too much light for fruit production.",
       "tags": [
         "heatwave",
         "shade-cloth",
         "summer",
         "texas",
         "mulch"
-      ]
+      ],
+      "scenario": "Greens wilt each afternoon in a bed exposed to western sun.",
+      "overview": "A raised shade layer can reduce radiant heat while leaving airflow. Check both the soil and the plant again the next morning."
     },
     {
       "id": "hom-132",
@@ -986,7 +1048,7 @@
       "sub": "Organic Pest & Weather",
       "title": "Hurricane & Tropical Storm Garden Prep Checklist",
       "diff": "Easy",
-      "time": "1\u20132 hours",
+      "time": "1–2 hours",
       "gear": [
         "Bypass pruners",
         "Bungee cords",
@@ -1002,20 +1064,22 @@
         "Remove shade cloths, umbrellas, lightweight cold frames, and hanging baskets that could become airborne projectiles.",
         "Fill rain barrels and buckets completely to weigh them down and store emergency flushing/garden water, then clear all yard drains and culverts."
       ],
-      "safety": "Never use black plastic tarps to cover surviving plants after a storm\u2014trapped sun heat will steam foliage in minutes.",
+      "safety": "Never use black plastic tarps to cover surviving plants after a storm—trapped sun heat will steam foliage in minutes.",
       "tags": [
         "hurricane",
         "storm-prep",
         "friendswood",
         "gulf-coast",
         "emergency"
-      ]
+      ],
+      "scenario": "A tropical storm may arrive before the next harvest.",
+      "overview": "Portable pots, loose tools and trellises need attention while weather is still calm. Finish outside work before conditions deteriorate."
     },
     {
       "id": "hom-133",
       "cat": "Homestead & Garden",
       "sub": "Organic Pest & Weather",
-      "title": "Hard Freeze Protection for Beds & Pipes (Below 32\u00b0F)",
+      "title": "Hard Freeze Protection for Beds & Pipes (Below 32°F)",
       "diff": "Easy",
       "time": "1 hour",
       "gear": [
@@ -1027,10 +1091,10 @@
         "Foam pipe insulation"
       ],
       "steps": [
-        "Water garden beds and fruit tree root zones thoroughly 24 hours before the freeze\u2014wet soil absorbs solar heat by day and radiates warmth all night.",
+        "Water garden beds and fruit tree root zones thoroughly 24 hours before the freeze—wet soil absorbs solar heat by day and radiates warmth all night.",
         "Drape breathable frost cloth over hoops or branches all the way to the ground, anchoring edges with bricks so warm earth air is trapped inside.",
-        "For sensitive citrus or tender perennials, weave old-style incandescent C9 Christmas bulbs (not cool LEDs) inside the tented canopy for +6\u00b0F\u201310\u00b0F of radiant warmth.",
-        "Remove covers the next morning once temperatures climb above 36\u00b0F so plants do not overheat."
+        "For sensitive citrus or tender perennials, weave old-style incandescent C9 Christmas bulbs (not cool LEDs) inside the tented canopy for +6°F–10°F of radiant warmth.",
+        "Remove covers the next morning once temperatures climb above 36°F so plants do not overheat."
       ],
       "safety": "Keep incandescent bulbs from touching dry leaves or thin fabric directly, and use outdoor-rated GFCI outlets only.",
       "tags": [
@@ -1039,7 +1103,9 @@
         "winter",
         "texas",
         "citrus"
-      ]
+      ],
+      "scenario": "A freeze is forecast for beds that have been growing through a mild winter.",
+      "overview": "Arrange covers before dark and identify the tender crops first. Monitor the temperature beneath the cover as sunshine returns."
     },
     {
       "id": "hom-134",
@@ -1061,8 +1127,8 @@
       ],
       "steps": [
         "Scrub dirt and sap off blades with a wire brush and wipe with rubbing alcohol.",
-        "For bypass pruners: sharpen ONLY the beveled side of the cutting blade at its factory 20\u00b0 angle with a diamond stone, then lay the flat back side flush on the stone for 2 passes to remove the burr.",
-        "For spades and hoes: clamp blade in a vise and push a mill file forward along the front bevel at 30\u00b0\u201345\u00b0 to restore a crisp digging edge.",
+        "For bypass pruners: sharpen ONLY the beveled side of the cutting blade at its factory 20° angle with a diamond stone, then lay the flat back side flush on the stone for 2 passes to remove the burr.",
+        "For spades and hoes: clamp blade in a vise and push a mill file forward along the front bevel at 30°–45° to restore a crisp digging edge.",
         "Plunge shovels into a 5-gallon bucket of coarse sand mixed with boiled linseed oil after each use to clean, rust-proof, and condition wooden handles."
       ],
       "safety": "Always push files away from your body with a handle fitted on the tang, and wear leather gloves.",
@@ -1072,7 +1138,9 @@
         "pruners",
         "spade",
         "maintenance"
-      ]
+      ],
+      "scenario": "Pruners crush a stem even when the handles are squeezed hard.",
+      "overview": "Clean the blade before inspecting its bevel. A clean test cut tells you more than the shine on the sharpened edge."
     },
     {
       "id": "hom-135",
@@ -1095,16 +1163,18 @@
         "Drive 24-inch rebar stakes 12 inches into the ground along both sides of a 4-foot-wide bed every 4 feet.",
         "Slip 10-foot PVC pipes over opposite rebar stakes to create a 4-foot-tall walk-under tunnel.",
         "Stretch 6-mil greenhouse poly over the hoops, clip with PVC snap clamps, and gather/tie the ends to stakes.",
-        "Vent the ends whenever sunny daytime temperatures exceed 65\u00b0F to prevent overheating."
+        "Vent the ends whenever sunny daytime temperatures exceed 65°F to prevent overheating."
       ],
-      "safety": "Standard hardware-store painter's plastic degrades in Texas UV within 6 weeks\u2014use UV-rated greenhouse film.",
+      "safety": "Standard hardware-store painter's plastic degrades in Texas UV within 6 weeks—use UV-rated greenhouse film.",
       "tags": [
         "cold-frame",
         "hoop-house",
         "winter-garden",
         "pvc",
         "season-extension"
-      ]
+      ],
+      "scenario": "Salad greens need overnight cover but can overheat under plastic after sunrise.",
+      "overview": "A low tunnel is a structure you operate. Plan how to vent and secure it from the accessible side of the bed."
     },
     {
       "id": "hom-136",
@@ -1124,10 +1194,10 @@
         "Potting mix"
       ],
       "steps": [
-        "Drill a 1/2-inch overflow hole in the outer bucket 3.5 inches up from the bottom\u2014this sets the maximum water reservoir depth.",
+        "Drill a 1/2-inch overflow hole in the outer bucket 3.5 inches up from the bottom—this sets the maximum water reservoir depth.",
         "In the inner bucket, cut a 3-inch center hole for a wicking net cup, a 1.5-inch corner hole for the PVC fill pipe, and twenty 1/4-inch air holes across the bottom.",
         "Nest the buckets, pack moist potting mix tightly into the center wicking net cup, fill the bucket with potting mix, and top with a plastic mulch cover.",
-        "Pour water down the PVC fill tube until it runs out the overflow hole\u2014plants draw water upward via capillary action for 5\u20137 days."
+        "Pour water down the PVC fill tube until it runs out the overflow hole—plants draw water upward via capillary action for 5–7 days."
       ],
       "safety": "Use food-grade HDPE (#2) buckets only for growing edibles.",
       "tags": [
@@ -1136,7 +1206,9 @@
         "sip",
         "bucket",
         "patio"
-      ]
+      ],
+      "scenario": "A patio pot dries from the top and you want a reservoir you can refill.",
+      "overview": "The overflow establishes the water level. Check that it drains freely before adding the final layer of mix."
     },
     {
       "id": "hom-137",
@@ -1157,16 +1229,18 @@
         "Cut the top third off a clean 2-liter bottle just below the shoulder, invert it like a funnel into the bottom cylinder, and staple or tape the rim.",
         "For fruit flies & gnats: pour 1/2 cup apple cider vinegar + 1 tbsp sugar + 2 drops dish soap (breaks surface tension) into the bottom.",
         "For wasps/yellowjackets: use fruit juice + vinegar in spring/summer, or a small piece of deli meat/cat food suspended over soapy water in late summer.",
-        "Hang traps 15\u201320 feet away from patio seating so insects are drawn away from people."
+        "Hang traps 15–20 feet away from patio seating so insects are drawn away from people."
       ],
-      "safety": "Never put honey in outdoor traps\u2014honey attracts beneficial honeybees.",
+      "safety": "Never put honey in outdoor traps—honey attracts beneficial honeybees.",
       "tags": [
         "traps",
         "wasps",
         "fruit-flies",
         "diy",
         "patio"
-      ]
+      ],
+      "scenario": "Insects are gathering around ripe fruit and outdoor meals.",
+      "overview": "First locate what attracts them. Traps for small fruit flies and measures around stinging insects serve different situations."
     },
     {
       "id": "hom-138",
@@ -1181,25 +1255,27 @@
         "3-tier rabbit/quail hutch"
       ],
       "supplies": [
-        "Coturnix quail (1 male per 4\u20135 hens)",
-        "24%\u201328% protein gamebird feed",
+        "Coturnix quail (1 male per 4–5 hens)",
+        "24%–28% protein gamebird feed",
         "Crushed oyster shell",
         "Gravity waterer"
       ],
       "steps": [
         "House quail in predator-proof 1/2-inch hardware-cloth hutches (1 sq ft per bird) with solid ceiling height under 14 inches (or padded roof) so startled birds do not injure their heads flushing upward.",
-        "Feed 24%\u201328% high-protein gamebird crumble and offer crushed oyster shell on the side for strong eggshells.",
-        "Coturnix hens begin laying at just 6\u20138 weeks old (roughly 4 quail eggs equal 1 chicken egg) and are quiet enough for suburban backyards.",
+        "Feed 24%–28% high-protein gamebird crumble and offer crushed oyster shell on the side for strong eggshells.",
+        "Coturnix hens begin laying at just 6–8 weeks old (roughly 4 quail eggs equal 1 chicken egg) and are quiet enough for suburban backyards.",
         "Collect eggs daily and compost nutrient-rich droppings with carbon bedding."
       ],
-      "safety": "Use 1/2-inch welded hardware cloth\u2014never chicken wire\u2014to keep raccoons, snakes, and rats out.",
+      "safety": "Use 1/2-inch welded hardware cloth—never chicken wire—to keep raccoons, snakes, and rats out.",
       "tags": [
         "quail",
         "coturnix",
         "eggs",
         "homestead",
         "protein"
-      ]
+      ],
+      "scenario": "You’re estimating how much space and daily care a small quail flock needs.",
+      "overview": "Plan cleaning, water access and egg collection before obtaining birds. Check current local rules for your address."
     },
     {
       "id": "hom-139",
@@ -1220,9 +1296,9 @@
         "Electrolyte powder"
       ],
       "steps": [
-        "Provide 3\u20134 sq ft of coop space and 8\u201310 sq ft of shaded run per hen, enclosed completely in 1/2-inch hardware cloth with an 18-inch outward ground skirt to stop digging predators.",
-        "For Gulf Coast summers, build an open-air southern wall covered in hardware cloth for cross-ventilation and freeze 2-liter water bottles to place in runs on 98\u00b0F+ days.",
-        "Use the deep-litter method (4\u20136 inches of pine shavings turned weekly) to compost manure cleanly in place without odor.",
+        "Provide 3–4 sq ft of coop space and 8–10 sq ft of shaded run per hen, enclosed completely in 1/2-inch hardware cloth with an 18-inch outward ground skirt to stop digging predators.",
+        "For Gulf Coast summers, build an open-air southern wall covered in hardware cloth for cross-ventilation and freeze 2-liter water bottles to place in runs on 98°F+ days.",
+        "Use the deep-litter method (4–6 inches of pine shavings turned weekly) to compost manure cleanly in place without odor.",
         "Keep clean water, layer feed, and crushed oyster shell available at all times."
       ],
       "safety": "Wash hands after handling birds or eggs, and never house chickens inside living quarters.",
@@ -1232,7 +1308,9 @@
         "coop",
         "eggs",
         "predator-proof"
-      ]
+      ],
+      "scenario": "A Gulf Coast coop needs to stay airy at night while keeping predators outside.",
+      "overview": "Examine every opening and latch from outside the enclosure. Ventilation and secure hardware have to work at the same time."
     },
     {
       "id": "hom-140",
@@ -1250,8 +1328,8 @@
         "Mud/clay source nearby"
       ],
       "steps": [
-        "Mount a sheltered bee house facing southeast (morning sun) 4\u20135 feet off the ground on a solid post or wall so wind does not swing it.",
-        "Ensure nesting tubes are 6 inches deep and closed at the back\u2014gentle native mason bees pollinate 100x more efficiently than honeybees and rarely sting.",
+        "Mount a sheltered bee house facing southeast (morning sun) 4–5 feet off the ground on a solid post or wall so wind does not swing it.",
+        "Ensure nesting tubes are 6 inches deep and closed at the back—gentle native mason bees pollinate 100x more efficiently than honeybees and rarely sting.",
         "Keep a small patch of damp clay mud within 30 feet so female bees can seal each egg chamber.",
         "Replace cardboard liners or clean grooved trays each winter to prevent chalkbrood and pollen mites."
       ],
@@ -1261,7 +1339,9 @@
         "mason-bees",
         "pollination",
         "fruit-yield"
-      ]
+      ],
+      "scenario": "Your orchard blooms but has few sheltered nesting places for solitary bees.",
+      "overview": "A nesting house needs dry placement and replaceable or cleanable nesting material. Include that maintenance when choosing the design."
     },
     {
       "id": "hom-141",
@@ -1279,10 +1359,10 @@
         "Newspaper"
       ],
       "steps": [
-        "Cure winter squash (butternut, acorn, kabocha) and pumpkins in a warm, dry 80\u00b0F spot for 10\u201314 days until rinds cannot be dented with a fingernail, then store at 55\u00b0F\u201360\u00b0F.",
-        "Store cured onions and garlic in mesh bags or wire baskets in the coolest dark closet\u2014never in plastic bags or the fridge.",
-        "Pack washed, unpeeled carrots, beets, and turnips in bins of slightly damp sand or coir inside an extra refrigerator crisper drawer for 3\u20135 months.",
-        "Keep potatoes separate from onions\u2014gases released by onions cause potatoes to sprout and spoil rapidly."
+        "Cure winter squash (butternut, acorn, kabocha) and pumpkins in a warm, dry 80°F spot for 10–14 days until rinds cannot be dented with a fingernail, then store at 55°F–60°F.",
+        "Store cured onions and garlic in mesh bags or wire baskets in the coolest dark closet—never in plastic bags or the fridge.",
+        "Pack washed, unpeeled carrots, beets, and turnips in bins of slightly damp sand or coir inside an extra refrigerator crisper drawer for 3–5 months.",
+        "Keep potatoes separate from onions—gases released by onions cause potatoes to sprout and spoil rapidly."
       ],
       "safety": "Discard any potatoes that turn green (solanine) or sprout heavily with soft shriveled skins.",
       "tags": [
@@ -1292,7 +1372,9 @@
         "onions",
         "carrots",
         "harvest"
-      ]
+      ],
+      "scenario": "The house has no cool cellar and a harvest needs sorting.",
+      "overview": "Group crops by curing, temperature and humidity needs. Inspect a few stored pieces regularly to catch losses early."
     },
     {
       "id": "hom-142",
@@ -1311,9 +1393,9 @@
         "Fresh leaf or ripe fruit sample"
       ],
       "steps": [
-        "Calibrate the refractometer to 0.0\u00b0 Brix using 2 drops of distilled water and turning the calibration screw.",
-        "Squeeze 2\u20133 drops of juice from a ripe tomato, melon, citrus fruit, or mature plant leaf using a garlic press onto the prism and close the daylight plate.",
-        "Look through the eyepiece toward bright light: readings above 12\u00b0 Brix indicate high sugar, mineral density, and natural pest resistance.",
+        "Calibrate the refractometer to 0.0° Brix using 2 drops of distilled water and turning the calibration screw.",
+        "Squeeze 2–3 drops of juice from a ripe tomato, melon, citrus fruit, or mature plant leaf using a garlic press onto the prism and close the daylight plate.",
+        "Look through the eyepiece toward bright light: readings above 12° Brix indicate high sugar, mineral density, and natural pest resistance.",
         "Rinse prism with distilled water and dry immediately with a soft cloth."
       ],
       "safety": "Never submerge the refractometer body in water; wipe only the glass prism.",
@@ -1323,7 +1405,9 @@
         "nutrition",
         "harvest",
         "soil-health"
-      ]
+      ],
+      "scenario": "Two melons of the same variety taste different and you want a repeatable comparison.",
+      "overview": "A refractometer measures dissolved solids in the juice. Compare similarly ripe samples and record the reading alongside taste."
     },
     {
       "id": "hom-143",
@@ -1331,7 +1415,7 @@
       "sub": "Harvest & Storage",
       "title": "Harvesting & Drying Culinary Herbs Without Losing Oils",
       "diff": "Easy",
-      "time": "3\u20135 days",
+      "time": "3–5 days",
       "gear": [
         "Bypass pruners",
         "Airtight glass jars",
@@ -1343,18 +1427,20 @@
       ],
       "steps": [
         "Harvest woody herbs (rosemary, thyme, oregano, sage) just before flower buds open.",
-        "Bundle 5\u20136 stems with a rubber band (which tightens as stems shrink) and hang upside down inside a perforated paper bag in a warm, dark, dry closet for 5\u20137 days.",
-        "For high-moisture herbs (basil, mint, cilantro), dry on dehydrator trays at 95\u00b0F\u2013105\u00b0F for 4\u20138 hours so leaves stay bright green instead of turning black.",
+        "Bundle 5–6 stems with a rubber band (which tightens as stems shrink) and hang upside down inside a perforated paper bag in a warm, dark, dry closet for 5–7 days.",
+        "For high-moisture herbs (basil, mint, cilantro), dry on dehydrator trays at 95°F–105°F for 4–8 hours so leaves stay bright green instead of turning black.",
         "Store whole dried leaves in dark glass jars and crumble only right before cooking."
       ],
-      "safety": "Ensure stems snap cleanly before jarring\u2014any residual moisture will mold the entire jar.",
+      "safety": "Ensure stems snap cleanly before jarring—any residual moisture will mold the entire jar.",
       "tags": [
         "herbs",
         "drying",
         "preservation",
         "pantry",
         "dehydrator"
-      ]
+      ],
+      "scenario": "The herb bed is at its best just before a damp stretch of weather.",
+      "overview": "Harvest clean, healthy growth and dry it with airflow. Store leaves whole when possible and crush them as needed."
     },
     {
       "id": "hom-144",
@@ -1362,7 +1448,7 @@
       "sub": "Harvest & Storage",
       "title": "Growing Microgreens & Sprouts in 7 Days (Year-Round Greens)",
       "diff": "Easy",
-      "time": "7\u201310 days",
+      "time": "7–10 days",
       "gear": [
         "Two 1020 shallow trays (one with drainage holes, one solid)",
         "Spray bottle",
@@ -1374,9 +1460,9 @@
       ],
       "steps": [
         "Spread 1 inch of damp coco coir in a slotted 1020 tray, broadcast seeds densely across the surface, and mist well.",
-        "Stack the second solid tray on top with a 3-lb weight (like a brick or paver) for 3 days in the dark\u2014this forces strong downward rooting.",
+        "Stack the second solid tray on top with a 3-lb weight (like a brick or paver) for 3 days in the dark—this forces strong downward rooting.",
         "Uncover and place under a bright window or LED shop light, watering from the bottom tray once daily.",
-        "Snip greens just above the soil line at Day 7\u201310 when the first true leaves appear."
+        "Snip greens just above the soil line at Day 7–10 when the first true leaves appear."
       ],
       "safety": "Use untreated seeds sold specifically for sprouting/microgreens rather than fungicide-treated garden packet seeds.",
       "tags": [
@@ -1385,7 +1471,9 @@
         "nutrition",
         "fast-food",
         "winter"
-      ]
+      ],
+      "scenario": "You want fresh greens from a shallow tray by the window.",
+      "overview": "Microgreens are cut above the growing medium. Sprouts are produced and eaten differently, with separate food-safety considerations."
     },
     {
       "id": "hom-145",
@@ -1393,7 +1481,7 @@
       "sub": "Gulf Coast Crops",
       "title": "Growing Ginger & Turmeric in Containers (Tropical Rhizomes)",
       "diff": "Easy",
-      "time": "8\u201310 months",
+      "time": "8–10 months",
       "gear": [
         "Wide 15-gallon fabric grow bag or half-barrel",
         "Hori-hori knife"
@@ -1404,7 +1492,7 @@
       ],
       "steps": [
         "In March, soak organic ginger or turmeric hands in warm water overnight, then plant 2 inches deep in wide, shallow containers in dappled afternoon shade.",
-        "Keep soil evenly moist and warm\u2014both crops love 85\u00b0F\u201395\u00b0F Gulf Coast humidity and have virtually zero local pests.",
+        "Keep soil evenly moist and warm—both crops love 85°F–95°F Gulf Coast humidity and have virtually zero local pests.",
         "Harvest tender 'baby ginger' (pink tips, no tough skin) starting in August by slicing pieces from the outer edge of the pot.",
         "Dig the remaining clump in November/December when leaves yellow, saving plump pieces to replant in spring."
       ],
@@ -1415,7 +1503,9 @@
         "containers",
         "tropical",
         "friendswood"
-      ]
+      ],
+      "scenario": "There’s space for a pot but no room for ginger to spread through a bed.",
+      "overview": "Choose a wide container and mark the planting date. Harvesting a small portion can show rhizome development before emptying the pot."
     },
     {
       "id": "hom-146",
@@ -1437,14 +1527,16 @@
         "Pinch growing tips regularly to encourage lush side shoots and prevent woody vines.",
         "Root 4-inch stem cuttings in water every autumn to overwinter indoors."
       ],
-      "safety": "Malabar spinach is high in oxalates like regular spinach; blanch or saut\u00e9 if eating large quantities.",
+      "safety": "Malabar spinach is high in oxalates like regular spinach; blanch or sauté if eating large quantities.",
       "tags": [
         "spinach",
         "malabar",
         "summer-greens",
         "heat-tolerant",
         "perennial"
-      ]
+      ],
+      "scenario": "Lettuce has bolted and you still want leaves during summer.",
+      "overview": "Give climbing greens support and compare a small cooked portion before planting an entire bed."
     },
     {
       "id": "hom-147",
@@ -1459,12 +1551,12 @@
       ],
       "supplies": [
         "1-year Jersey Knight or Mary Washington asparagus crowns",
-        "Chandler or Seascape strawberry plugs (planted Oct\u2013Nov)",
+        "Chandler or Seascape strawberry plugs (planted Oct–Nov)",
         "Compost & straw mulch"
       ],
       "steps": [
         "Asparagus: Dig a 6-inch-deep trench in February in a dedicated bed edge, spread octopus-like crown roots over a small soil ridge, cover with 2 inches of compost, and gradually backfill as spears grow. Wait until Year 3 for full harvest.",
-        "Strawberries (Gulf Coast annual/perennial method): Plant plugs in October\u2013November 12 inches apart in raised mounds so crowns sit right at soil level\u2014never buried.",
+        "Strawberries (Gulf Coast annual/perennial method): Plant plugs in October–November 12 inches apart in raised mounds so crowns sit right at soil level—never buried.",
         "Mulch strawberries with clean pine needles or straw to keep berries off damp soil.",
         "Pinch off early winter strawberry runners so energy goes into spring fruit."
       ],
@@ -1475,7 +1567,9 @@
         "perennial",
         "friendswood",
         "fall-planting"
-      ]
+      ],
+      "scenario": "You’re choosing where a crop can stay for several growing seasons.",
+      "overview": "Reserve access for weeding and harvesting. A permanent bed is much harder to relocate once its root systems establish."
     },
     {
       "id": "hom-148",
@@ -1494,10 +1588,10 @@
         "Compost tea, fish emulsion, or aged compost"
       ],
       "steps": [
-        "Burn dry, untreated woody prunings in a cone pit or barrel, adding new thin layers on top as each layer turns to glowing coals\u2014this starves the lower coals of oxygen (pyrolysis) rather than burning to white ash.",
+        "Burn dry, untreated woody prunings in a cone pit or barrel, adding new thin layers on top as each layer turns to glowing coals—this starves the lower coals of oxygen (pyrolysis) rather than burning to white ash.",
         "Quench the entire pit thoroughly with water before coals turn to ash, then crush the brittle charcoal chunks to pea-size.",
-        "CRITICAL STEP: Mix raw biochar 50/50 with finished compost or soak in compost tea for 2\u20134 weeks ('charging') so its microscopic pores absorb nutrients instead of stealing nitrogen from your soil.",
-        "Work charged biochar into raised beds at 5%\u201310% by volume for decades-long water and nutrient retention."
+        "CRITICAL STEP: Mix raw biochar 50/50 with finished compost or soak in compost tea for 2–4 weeks ('charging') so its microscopic pores absorb nutrients instead of stealing nitrogen from your soil.",
+        "Work charged biochar into raised beds at 5%–10% by volume for decades-long water and nutrient retention."
       ],
       "safety": "Perform open-pit charring only when local burn bans are not active, away from structures, with a charged hose ready.",
       "tags": [
@@ -1506,7 +1600,9 @@
         "carbon",
         "fertility",
         "homestead"
-      ]
+      ],
+      "scenario": "You have horticultural biochar and want to test it in one bed.",
+      "overview": "Record the source and amendment rate. Leave a comparison patch so the response in your particular soil is visible."
     },
     {
       "id": "hom-149",
@@ -1529,7 +1625,7 @@
         "Collect dormant pencil-thick scion wood from a healthy parent tree in late winter and store wrapped in damp paper in the fridge until rootstock buds begin to swell.",
         "Make a clean 1.5-inch flat diagonal cut on both the rootstock and the bottom of the 3-bud scion so their green cambium layers (just under the bark) align flush on at least one side.",
         "Bind the union tightly with rubber budding strips so cambium layers press firmly together.",
-        "Wrap the entire scion and union in stretchy Parafilm tape to lock in moisture until buds push through the film in 3\u20134 weeks."
+        "Wrap the entire scion and union in stretchy Parafilm tape to lock in moisture until buds push through the film in 3–4 weeks."
       ],
       "safety": "Always cut away from your hands and body when whittling grafting bevels with a razor-sharp blade.",
       "tags": [
@@ -1538,7 +1634,9 @@
         "citrus",
         "propagation",
         "orchard"
-      ]
+      ],
+      "scenario": "A fruit tree has sound rootstock and you want a compatible variety on top.",
+      "overview": "Successful unions depend on cambium contact and protected healing. Keep a label with both varieties and the grafting date."
     },
     {
       "id": "hom-150",
@@ -1557,10 +1655,10 @@
         "Seasonal seed packs"
       ],
       "steps": [
-        "Q1 (Jan\u2013Mar): Prune fruit trees and blackberries; start warm-season seeds indoors (Jan); plant potatoes, onions, asparagus (Feb); transplant tomatoes, peppers, and herbs after last frost (Mar).",
-        "Q2 (Apr\u2013Jun): Sow okra, southern peas, sweet potatoes, melons, and Malabar spinach; install drip irrigation and 30% shade cloth by late May; harvest spring tomatoes, berries, and garlic.",
-        "Q3 (Jul\u2013Sep): Maintain heavy mulch and morning watering; solarize empty beds; direct-sow fall tomatoes (Aug 15), bush beans, squash, and cucumbers (Sep); prepare hurricane tie-downs.",
-        "Q4 (Oct\u2013Dec): Plant strawberries, garlic, carrots, kale, collards, and broccoli; sow winter cover crops; insulate hose bibs and stage frost cloth for cold fronts."
+        "Q1 (Jan–Mar): Prune fruit trees and blackberries; start warm-season seeds indoors (Jan); plant potatoes, onions, asparagus (Feb); transplant tomatoes, peppers, and herbs after last frost (Mar).",
+        "Q2 (Apr–Jun): Sow okra, southern peas, sweet potatoes, melons, and Malabar spinach; install drip irrigation and 30% shade cloth by late May; harvest spring tomatoes, berries, and garlic.",
+        "Q3 (Jul–Sep): Maintain heavy mulch and morning watering; solarize empty beds; direct-sow fall tomatoes (Aug 15), bush beans, squash, and cucumbers (Sep); prepare hurricane tie-downs.",
+        "Q4 (Oct–Dec): Plant strawberries, garlic, carrots, kale, collards, and broccoli; sow winter cover crops; insulate hose bibs and stage frost cloth for cold fronts."
       ],
       "safety": "Always check local 10-day frost and tropical weather forecasts before major transplanting or pruning.",
       "tags": [
@@ -1569,7 +1667,35 @@
         "texas",
         "planning",
         "seasonal"
-      ]
+      ],
+      "scenario": "Planting and maintenance compete for the same weekend every season.",
+      "overview": "A seasonal calendar is most useful with actual local dates written on it. Add the first harvest, freeze and major pest outbreak as they happen."
+    },
+    {
+      "id": "hom-151",
+      "sub": "Water & Irrigation",
+      "title": "Measure how evenly the sprinkler waters a bed",
+      "scenario": "One end of the row wilts while the other end stays muddy after the same watering cycle.",
+      "time": "20 minutes",
+      "diff": "Easy",
+      "gear": [
+        "Ruler",
+        "Timer",
+        "Several identical straight-sided cups"
+      ],
+      "supplies": [],
+      "steps": [
+        "Set open cups level at the near end, middle, far end and a visibly dry patch of the bed.",
+        "Run the usual watering cycle and record its duration. Measure the water depth in each cup before removing it.",
+        "Sketch the locations and depths. Look for a pattern such as a dry edge or overlapping spray in the middle.",
+        "Change the aim or placement once and repeat for the same interval. Check the soil below the surface before increasing total watering time."
+      ],
+      "overview": "The cups reveal distribution. A longer run will give a wet corner still more water, while repositioning may help the dry end with no increase in total use.",
+      "tags": [
+        "water",
+        "irrigation"
+      ],
+      "cat": "Homestead & Garden"
     }
   ],
   "glossary": {
@@ -1589,25 +1715,33 @@
       "term": "Bypass Pruners",
       "aka": "Secateurs",
       "svg": "pruners",
-      "def": "Hand pruners whose sharp curved blade slices cleanly past a thicker lower hook\u2014just like scissors\u2014without crushing living plant stems (unlike anvil pruners, which are meant only for dead wood)."
+      "def": "Hand pruners whose sharp curved blade slices cleanly past a thicker lower hook—just like scissors—without crushing living plant stems (unlike anvil pruners, which are meant only for dead wood)."
     },
     "soil pH/moisture meter": {
       "term": "Soil pH & Moisture Meter",
       "aka": "3-in-1 soil tester probe",
       "svg": "soilmeter",
-      "def": "A battery-free analog probe inserted 4\u20136 inches into moist root zones to read soil acidity/alkalinity (pH 3.5\u20138) and moisture levels, helping prevent overwatering or nutrient lockup in alkaline clay."
+      "def": "A battery-free analog probe inserted 4–6 inches into moist root zones to read soil acidity/alkalinity (pH 3.5–8) and moisture levels, helping prevent overwatering or nutrient lockup in alkaline clay."
     },
     "refractometer (brix)": {
       "term": "Brix Refractometer",
       "aka": "Optical sugar/sap density meter",
       "svg": "refractometer",
-      "def": "A handheld optical instrument that measures light refraction through a few drops of plant or fruit juice on a glass prism. Higher \u00b0Brix readings correlate with sweeter harvests, higher mineral density, and stronger natural pest resistance."
+      "def": "A handheld optical instrument that measures light refraction through a few drops of plant or fruit juice on a glass prism. Higher °Brix readings correlate with sweeter harvests, higher mineral density, and stronger natural pest resistance."
     },
     "rain barrel diverter": {
       "term": "Downspout Rain Barrel Diverter",
       "aka": "First-flush / overflow downspout kit",
       "svg": "diverter",
       "def": "A fitting installed inside a gutter downspout that channels rainwater through a fill hose into a rain barrel until the barrel is full, then automatically routes excess water back down the downspout so the barrel never overflows against your foundation."
+    },
+    "drain spade": {
+      "term": "Drain Spade (Trenching Shovel)",
+      "aka": "Sharpshooter shovel",
+      "svg": "spade",
+      "def": "A narrow, long-bladed shovel (typically 14–16 inches long and 4–6 inches wide) built for digging narrow irrigation trenches, deep post holes, and transplanting deep-rooted shrubs without disturbing neighboring plants."
     }
-  }
+  },
+  "count": 51,
+  "version": "2026.11.15-birthday-r1"
 }

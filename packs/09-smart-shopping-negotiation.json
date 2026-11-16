@@ -12,19 +12,21 @@
       ],
       "supplies": [],
       "steps": [
-        "Walk past the first two rows of stalls right outside the cruise pier gate\u2014prices drop 30%\u201350% two or three blocks deeper into town or in covered municipal markets.",
-        "Never look overly excited about an item, keep sunglasses/poker face on, and ask casually 'What is your best cash price?' rather than accepting the first sticker/verbal quote (initial tourist asking prices in port stalls are routinely marked up 2x\u20133x).",
-        "Counter at 40%\u201350% of their first asking price (for example, if a vendor asks $28 for a straw hat, counter at $12\u2013$14 cash) so you have room to meet around 55%\u201365% ($15\u2013$18).",
-        "Bundle multiple items ('How much for the hat plus two magnets?') to unlock steep per-item discounts, and always be ready to smile politely, say 'Gracias, no thank you,' and walk away slowly\u2014the real bottom price is almost always called out as you take three steps away."
+        "Walk past the first two rows of stalls right outside the cruise pier gate—prices drop 30%–50% two or three blocks deeper into town or in covered municipal markets.",
+        "Never look overly excited about an item, keep sunglasses/poker face on, and ask casually 'What is your best cash price?' rather than accepting the first sticker/verbal quote (initial tourist asking prices in port stalls are routinely marked up 2x–3x).",
+        "Counter at 40%–50% of their first asking price (for example, if a vendor asks $28 for a straw hat, counter at $12–$14 cash) so you have room to meet around 55%–65% ($15–$18).",
+        "Bundle multiple items ('How much for the hat plus two magnets?') to unlock steep per-item discounts, and always be ready to smile politely, say 'Gracias, no thank you,' and walk away slowly—the real bottom price is almost always called out as you take three steps away."
       ],
-      "safety": "Separate your target cash amount into a front pocket before approaching a stall\u2014pulling out a thick wad of $20s and $100s destroys all bargaining leverage.",
+      "safety": "Separate your target cash amount into a front pocket before approaching a stall—pulling out a thick wad of $20s and $100s destroys all bargaining leverage.",
       "tags": [
         "negotiation",
         "mexico",
         "cruise-ports",
         "bargaining",
         "souvenirs"
-      ]
+      ],
+      "scenario": "A vendor offers a price in a currency you do not normally use.",
+      "overview": "Agree on currency, quantity and total before paying. A good souvenir still fits the budget when the bargaining is over."
     },
     {
       "id": "shp-102",
@@ -39,18 +41,20 @@
       ],
       "supplies": [],
       "steps": [
-        "Mexican Sterling Silver (Taxco): Look for the stamped '925' mark AND test with a pocket magnet\u2014real sterling silver (92.5% silver, 7.5% copper) is completely non-magnetic; if a magnet sticks or pulls, it is plated base metal.",
-        "Pure Mexican Vanilla Extract: Check the ingredient label for 'Coumarin-Free' and real vanilla bean extractives\u2014cheap clear or ultra-dark 'vanilla' sold in plastic bottles often contains synthetic vanillin or banned tonka-bean coumarin.",
+        "Mexican Sterling Silver (Taxco): Look for the stamped '925' mark AND test with a pocket magnet—real sterling silver (92.5% silver, 7.5% copper) is completely non-magnetic; if a magnet sticks or pulls, it is plated base metal.",
+        "Pure Mexican Vanilla Extract: Check the ingredient label for 'Coumarin-Free' and real vanilla bean extractives—cheap clear or ultra-dark 'vanilla' sold in plastic bottles often contains synthetic vanillin or banned tonka-bean coumarin.",
         "Genuine Leather vs. Bonded/Vinyl: Smell the underside (real leather smells earthy/organic, never chemical plastic), look for natural pore irregularities on the suede back, and press lightly with a fingernail (real full-grain leather wrinkles slightly and rebounds)."
       ],
-      "safety": "Avoid buying high-ticket tanzanite, emeralds, or watches at port jewelry shops unless independently appraised\u2014stick to local artisan crafts, textiles, and silver.",
+      "safety": "Avoid buying high-ticket tanzanite, emeralds, or watches at port jewelry shops unless independently appraised—stick to local artisan crafts, textiles, and silver.",
       "tags": [
         "silver-test",
         "vanilla",
         "leather",
         "port-shopping",
         "authenticity"
-      ]
+      ],
+      "scenario": "A silver mark or an attractive vanilla label is the seller’s main proof of quality.",
+      "overview": "Ask for verifiable product details and provenance. A souvenir price limits your exposure if authenticity remains uncertain."
     },
     {
       "id": "shp-103",
@@ -66,9 +70,9 @@
       ],
       "supplies": [],
       "steps": [
-        "Shop in two strategic windows: arrive 15 minutes BEFORE opening on Day 1 for rare tools, cast iron, and collectibles (pay asking price on underpriced gems), or arrive during the FINAL 90 minutes on the last day when sellers want empty tables and accept 50%\u201370% off.",
-        "Use the 'Pile & Bundle' method: gather 4\u20135 items in your hands before asking 'Would you take $25 cash for the whole pile?' rather than haggling item by item.",
-        "Point out flaws neutrally ('This needs a new cord / has a chip\u2014would you take $10?') without insulting the seller's merchandise."
+        "Shop in two strategic windows: arrive 15 minutes BEFORE opening on Day 1 for rare tools, cast iron, and collectibles (pay asking price on underpriced gems), or arrive during the FINAL 90 minutes on the last day when sellers want empty tables and accept 50%–70% off.",
+        "Use the 'Pile & Bundle' method: gather 4–5 items in your hands before asking 'Would you take $25 cash for the whole pile?' rather than haggling item by item.",
+        "Point out flaws neutrally ('This needs a new cord / has a chip—would you take $10?') without insulting the seller's merchandise."
       ],
       "safety": "Inspect upholstered furniture and wooden drawers carefully for bedbug signs or musty mold odor before loading into your vehicle.",
       "tags": [
@@ -77,7 +81,9 @@
         "flea-market",
         "bargaining",
         "thrifting"
-      ]
+      ],
+      "scenario": "One stall has the item you want early and a similar stall may discount later.",
+      "overview": "Decide whether selection or price matters more before choosing when to make an offer."
     },
     {
       "id": "shp-104",
@@ -94,18 +100,20 @@
         "Exact cash"
       ],
       "steps": [
-        "When buying locally: search using common misspellings (e.g., 'DeWalt' / 'Dewalt', 'Glowforge' / 'laser cutter', 'cast iron'), filter by 'Listed in last 24 hours', and message politely with 'Can pick up today with cash\u2014would you take $X?' (sellers prioritize fast, flake-free pickup over slightly higher offers).",
+        "When buying locally: search using common misspellings (e.g., 'DeWalt' / 'Dewalt', 'Glowforge' / 'laser cutter', 'cast iron'), filter by 'Listed in last 24 hours', and message politely with 'Can pick up today with cash—would you take $X?' (sellers prioritize fast, flake-free pickup over slightly higher offers).",
         "Meet at a police department 'Safe Exchange Zone' or busy bank/grocery parking lot during daylight hours, and test electronics/tools plugged into an outlet or inverter before handing over cash.",
-        "When selling: list 15%\u201320% above your true floor price, specify 'Cash only, pickup near [cross streets], no holds without deposit,' and ignore automated scam messages asking for Google Voice verification codes."
+        "When selling: list 15%–20% above your true floor price, specify 'Cash only, pickup near [cross streets], no holds without deposit,' and ignore automated scam messages asking for Google Voice verification codes."
       ],
-      "safety": "Never accept Venmo/Zelle 'business account upgrade' emails or overpaid cashier's checks\u2014insist on cash in person.",
+      "safety": "Never accept Venmo/Zelle 'business account upgrade' emails or overpaid cashier's checks—insist on cash in person.",
       "tags": [
         "marketplace",
         "craigslist",
         "buying",
         "selling",
         "negotiation"
-      ]
+      ],
+      "scenario": "A local listing is priced well and the seller asks for a deposit before meeting.",
+      "overview": "Verify the item in a safe public setting and confirm payment through your own account. A screenshot is easy to misunderstand."
     },
     {
       "id": "shp-105",
@@ -113,7 +121,7 @@
       "sub": "Car Buying & Major Purchases",
       "title": "Out-the-Door (OTD) Car Negotiation: Separating Price, Trade-In & Financing",
       "diff": "Medium",
-      "time": "1\u20132 hours",
+      "time": "1–2 hours",
       "gear": [
         "Smartphone calculator",
         "Pre-approved credit union loan letter"
@@ -122,18 +130,20 @@
         "Written email quotes from 3+ competing dealerships"
       ],
       "steps": [
-        "NEVER negotiate based on 'monthly payment'\u2014dealers stretch loans to 72\u201384 months or pad interest rates to hide thousands in markups. Negotiate strictly the 'Out-the-Door (OTD)' cash price (vehicle price + tax, title, license, and doc fee\u2014nothing else).",
+        "NEVER negotiate based on 'monthly payment'—dealers stretch loans to 72–84 months or pad interest rates to hide thousands in markups. Negotiate strictly the 'Out-the-Door (OTD)' cash price (vehicle price + tax, title, license, and doc fee—nothing else).",
         "Keep the 3 deals strictly separate in order: (1) Lock in the OTD purchase price via email/text from 3 competing dealers before stepping onto a lot; (2) Only AFTER the OTD price is in writing, introduce your trade-in (armed with instant cash offers from CarMax/Carvana as your baseline); (3) Only AFTER both numbers are locked, compare dealer financing against your pre-approved credit union APR.",
-        "Shop during the last 2\u20133 days of the month or quarter (especially Dec 28\u201331) when sales managers push to hit volume bonus tiers."
+        "Shop during the last 2–3 days of the month or quarter (especially Dec 28–31) when sales managers push to hit volume bonus tiers."
       ],
-      "safety": "Never hand over your driver's license or car keys 'for appraisal' until you are ready to walk out if numbers stall\u2014ask for keys back immediately if delayed.",
+      "safety": "Never hand over your driver's license or car keys 'for appraisal' until you are ready to walk out if numbers stall—ask for keys back immediately if delayed.",
       "tags": [
         "car-buying",
         "negotiation",
         "out-the-door",
         "auto",
         "dealership"
-      ]
+      ],
+      "scenario": "The dealer quotes an affordable monthly payment without stating the vehicle price.",
+      "overview": "Get the complete out-the-door amount in writing so trade value and borrowing terms can be assessed independently."
     },
     {
       "id": "shp-106",
@@ -150,7 +160,7 @@
         "Itemized buyer's order"
       ],
       "steps": [
-        "Scrutinize the itemized buyer's order line-by-line and refuse bogus pre-installed add-ons: nitrogen tires ($299), VIN window etching ($399), paint/fabric sealant ($899), 'dealer prep / reconditioning fees' on used cars, and $1,200 GPS trackers\u2014state firmly 'I am not paying for dealer-installed add-ons; remove the charge or I'm buying from [Competitor].'",
+        "Scrutinize the itemized buyer's order line-by-line and refuse bogus pre-installed add-ons: nitrogen tires ($299), VIN window etching ($399), paint/fabric sealant ($899), 'dealer prep / reconditioning fees' on used cars, and $1,200 GPS trackers—state firmly 'I am not paying for dealer-installed add-ons; remove the charge or I'm buying from [Competitor].'",
         "In the Finance & Insurance (F&I) office, decline overpriced extended warranties (if wanted later, OEM factory warranties can be bought online from high-volume dealers at 50% less before 36,000 miles), tire/wheel packages, and dealer GAP insurance (buy GAP through your auto insurer or credit union for ~$5/month instead of $900 rolled into the loan)."
       ],
       "safety": "Verify the interest rate (APR), loan term in months, and 'Total of Payments' box on the final Truth-in-Lending contract before signing.",
@@ -160,7 +170,9 @@
         "add-ons",
         "finance",
         "negotiation"
-      ]
+      ],
+      "scenario": "The finance office adds several products after you agreed on the car price.",
+      "overview": "Compare the final itemized contract with the written quote. Check whether each added item is optional and what it costs over the loan."
     },
     {
       "id": "shp-107",
@@ -180,7 +192,7 @@
       "steps": [
         "Check the physical title in hand before paying: verify the seller's name matches the front of the title (avoid 'title jumpers' flipping cars off-books), and check for 'Salvage', 'Rebuilt', or 'Flood' brands (critical in Houston/Gulf Coast after major hurricanes).",
         "Inspect lower seat-bolt brackets, trunk spare-tire well, and under-dash steel bars for rust lines or silt mud indicating hurricane flood damage, and plug in an OBD-II scanner to verify all emissions monitors are 'Ready' (cleared codes reset monitors to 'Not Ready').",
-        "Pay an independent mechanic $100\u2013$150 for a lift Pre-Purchase Inspection (PPI) before buying any private-party used car."
+        "Pay an independent mechanic $100–$150 for a lift Pre-Purchase Inspection (PPI) before buying any private-party used car."
       ],
       "safety": "Walk away immediately if a private seller refuses to let your independent mechanic inspect the car on a lift.",
       "tags": [
@@ -190,7 +202,9 @@
         "obd2",
         "houston",
         "auto"
-      ]
+      ],
+      "scenario": "A used car looks clean but the title and repair history have gaps.",
+      "overview": "Match the vehicle identity across records and arrange an independent inspection before exchanging money."
     },
     {
       "id": "shp-108",
@@ -207,17 +221,19 @@
       ],
       "steps": [
         "Always collect at least 3 written, line-item quotes specifying exact equipment model numbers (SEER2 rating, shingle brand/warranty, gauge of material) rather than vague lump-sum estimates.",
-        "Ask politely: 'We really liked your company\u2014[Competitor B] quoted $X for the exact same model; if you can match or get close to that number, we can sign today.'",
-        "Ask about off-peak scheduling discounts (booking HVAC installs in February/October rather than July, or tree trimming in winter) and cash/ACH check discounts (2%\u20133% off credit card processing fees)."
+        "Ask politely: 'We really liked your company—[Competitor B] quoted $X for the exact same model; if you can match or get close to that number, we can sign today.'",
+        "Ask about off-peak scheduling discounts (booking HVAC installs in February/October rather than July, or tree trimming in winter) and cash/ACH check discounts (2%–3% off credit card processing fees)."
       ],
-      "safety": "Never pay more than 10%\u201330% upfront deposit (or pay only upon material delivery), and hold final 10%\u201320% retainage until punch-list walkthrough and lien waivers are signed.",
+      "safety": "Never pay more than 10%–30% upfront deposit (or pay only upon material delivery), and hold final 10%–20% retainage until punch-list walkthrough and lien waivers are signed.",
       "tags": [
         "contractors",
         "negotiation",
         "hvac",
         "roofing",
         "home-improvement"
-      ]
+      ],
+      "scenario": "Three contractors quote the same repair at very different prices.",
+      "overview": "Align their scope, materials, permits, disposal and warranty before comparing the bottom lines."
     },
     {
       "id": "shp-109",
@@ -235,19 +251,21 @@
       ],
       "steps": [
         "Stack 4 independent savings layers on every online purchase instead of relying on just one:",
-        "Layer 1 \u2014 Store Sale / Clearance Price: Wait for cyclic promotional markdowns or price-adjustment windows.",
-        "Layer 2 \u2014 Promo Code / Store Rewards: Apply stacked coupon codes (check brand email/SMS welcome 15%\u201320% codes using a dedicated shopping email alias) + store loyalty cash.",
-        "Layer 3 \u2014 Cashback Portal / Browser Extension: Click through Rakuten, TopCashback, or Capital One Shopping BEFORE checkout (2%\u201315% cash back on the subtotal).",
-        "Layer 4 \u2014 Discounted Gift Cards & Credit Card Category Bonus: Buy instant digital gift cards at 5%\u201315% off via GCX/Raise, CardCash, Sam's Club, or Costco (plus 5% back at warehouse clubs/grocery stores on rotating credit cards) and pay at checkout with the discounted gift card."
+        "Layer 1 — Store Sale / Clearance Price: Wait for cyclic promotional markdowns or price-adjustment windows.",
+        "Layer 2 — Promo Code / Store Rewards: Apply stacked coupon codes (check brand email/SMS welcome 15%–20% codes using a dedicated shopping email alias) + store loyalty cash.",
+        "Layer 3 — Cashback Portal / Browser Extension: Click through Rakuten, TopCashback, or Capital One Shopping BEFORE checkout (2%–15% cash back on the subtotal).",
+        "Layer 4 — Discounted Gift Cards & Credit Card Category Bonus: Buy instant digital gift cards at 5%–15% off via GCX/Raise, CardCash, Sam's Club, or Costco (plus 5% back at warehouse clubs/grocery stores on rotating credit cards) and pay at checkout with the discounted gift card."
       ],
-      "safety": "Buy discounted gift cards ONLY for immediate checkout within 24 hours so you are protected by the platform's 45\u201390 day balance guarantee.",
+      "safety": "Buy discounted gift cards ONLY for immediate checkout within 24 hours so you are protected by the platform's 45–90 day balance guarantee.",
       "tags": [
         "coupon-stacking",
         "gift-cards",
         "rakuten",
         "cashback",
         "deals"
-      ]
+      ],
+      "scenario": "A sale, coupon and rewards offer appear to apply to the same purchase.",
+      "overview": "Calculate the amount actually paid and count a rebate only on its own terms. A failed layer can erase the expected saving."
     },
     {
       "id": "shp-110",
@@ -262,7 +280,7 @@
       ],
       "supplies": [],
       "steps": [
-        "Never trust '50% Off MSRP' strike-through prices on Black Friday or Prime Day\u2014retailers routinely inflate list prices in October to fake deep November discounts.",
+        "Never trust '50% Off MSRP' strike-through prices on Black Friday or Prime Day—retailers routinely inflate list prices in October to fake deep November discounts.",
         "Check 12-month price history charts on Keepa or CamelCamelCamel (for Amazon) and set Slickdeals keyword alerts 30 days ahead so you know the true historic all-time low price.",
         "Watch out for 'derivative Black Friday SKU models' on TVs and appliances (model numbers ending in slightly altered letters that strip HDMI ports, local dimming zones, or smart features compared to the standard year-round model)."
       ],
@@ -273,7 +291,9 @@
         "keepa",
         "camelcamelcamel",
         "deals"
-      ]
+      ],
+      "scenario": "A countdown timer claims today is the lowest price of the year.",
+      "overview": "Compare the same model and quantity against its price history and at least one independent seller."
     },
     {
       "id": "shp-111",
@@ -285,20 +305,22 @@
       "gear": [],
       "supplies": [],
       "steps": [
-        "January: Winter coats/boots, fitness equipment, bedding/linens ('White Sales'), and holiday decor/craft blanks at 70%\u201390% off.",
-        "February\u2013March: Big-screen TVs (Super Bowl week), mattresses (Presidents' Day), and winter luggage.",
-        "April\u2013May: Spring home appliances (Memorial Day), cordless power tools, and cookware.",
-        "July\u2013August: Back-to-school laptops/tablets/iPads (Apple/Best Buy student & summer deals), summer patio furniture, and grills.",
-        "September\u2013October: Outgoing-year car models, lawnmowers/garden gear, and major kitchen appliances (Labor Day).",
-        "November\u2013December: Electronics, kitchen small appliances, craft machines (Cricut/3D printers/heat presses on Black Friday), and discounted restaurant/retail gift card bonus promos ('Buy $50, get $10\u2013$15 bonus card')."
+        "January: Winter coats/boots, fitness equipment, bedding/linens ('White Sales'), and holiday decor/craft blanks at 70%–90% off.",
+        "February–March: Big-screen TVs (Super Bowl week), mattresses (Presidents' Day), and winter luggage.",
+        "April–May: Spring home appliances (Memorial Day), cordless power tools, and cookware.",
+        "July–August: Back-to-school laptops/tablets/iPads (Apple/Best Buy student & summer deals), summer patio furniture, and grills.",
+        "September–October: Outgoing-year car models, lawnmowers/garden gear, and major kitchen appliances (Labor Day).",
+        "November–December: Electronics, kitchen small appliances, craft machines (Cricut/3D printers/heat presses on Black Friday), and discounted restaurant/retail gift card bonus promos ('Buy $50, get $10–$15 bonus card')."
       ],
-      "safety": "Verify expiration dates on promotional 'bonus cards' included with holiday gift card bundles\u2014many expire in January or February.",
+      "safety": "Verify expiration dates on promotional 'bonus cards' included with holiday gift card bundles—many expire in January or February.",
       "tags": [
         "buying-calendar",
         "sales-cycles",
         "clearance",
         "shopping-guide"
-      ]
+      ],
+      "scenario": "A working appliance can be replaced now or later in the year.",
+      "overview": "Use seasonal patterns as a planning aid and confirm today’s actual price. The cost of waiting matters if the old item is failing."
     },
     {
       "id": "shp-112",
@@ -314,8 +336,8 @@
         "Dedicated shopping email address"
       ],
       "steps": [
-        "Abandoned Cart Trigger: Log into your store account, add items to your cart, proceed to the shipping screen, and close the tab\u2014many retailers automatically email a 10%\u201320% 'Come back and finish your order' code within 12\u201348 hours.",
-        "Live-Chat Code Request: Open customer service chat before paying and ask politely: 'Hi! I'm placing an order today\u2014do you happen to have an active promo code or free-shipping code I could apply?'",
+        "Abandoned Cart Trigger: Log into your store account, add items to your cart, proceed to the shipping screen, and close the tab—many retailers automatically email a 10%–20% 'Come back and finish your order' code within 12–48 hours.",
+        "Live-Chat Code Request: Open customer service chat before paying and ask politely: 'Hi! I'm placing an order today—do you happen to have an active promo code or free-shipping code I could apply?'",
         "Post-Purchase Price Drop Refund: If an item you bought goes on sale within 14 days (30 days at Costco), contact chat or bring your receipt to the service desk for an instant price-adjustment credit without returning the item."
       ],
       "safety": "Keep a separate email address (e.g., glenn.deals@...) for store loyalty signups so promotional emails never bury important personal messages.",
@@ -324,7 +346,9 @@
         "price-adjustment",
         "abandoned-cart",
         "hacks"
-      ]
+      ],
+      "scenario": "An item remains in an online cart and a price adjustment may be available.",
+      "overview": "Save the offer and the retailer’s current terms. An adjustment has value only if the exact order qualifies."
     },
     {
       "id": "shp-113",
@@ -338,16 +362,18 @@
       "steps": [
         "Costco Price Tag Codes: Prices ending in .99 = full regular price; prices ending in .97 = store-manager clearance markdown (lowest price before sellout); prices ending in .49 / .79 / .89 = special manufacturer promotional deal; an asterisk (*) in the top-right corner = 'Death Star' (item is discontinued and will NOT be restocked).",
         "Sam's Club Price Tag Codes: Prices ending in .91 or .81 = clearance markdown; 'C' in the corner = canceled/discontinued item.",
-        "H-E-B Yellow 'Combo Loco' & Digital Coupons: Clip digital store coupons in the H-E-B app BEFORE scanning at checkout and pair with yellow 'Buy X, Get Y Free' shelf tags\u2014yellow tag freebies require no paper coupon and ring up automatically."
+        "H-E-B Yellow 'Combo Loco' & Digital Coupons: Clip digital store coupons in the H-E-B app BEFORE scanning at checkout and pair with yellow 'Buy X, Get Y Free' shelf tags—yellow tag freebies require no paper coupon and ring up automatically."
       ],
-      "safety": "Check unit price per ounce/count on the small corner tag\u2014bulk warehouse packs aren't always cheaper per ounce than H-E-B store-brand sales.",
+      "safety": "Check unit price per ounce/count on the small corner tag—bulk warehouse packs aren't always cheaper per ounce than H-E-B store-brand sales.",
       "tags": [
         "costco",
         "sams-club",
         "heb",
         "clearance-codes",
         "grocery-savings"
-      ]
+      ],
+      "scenario": "A special shelf tag suggests a markdown but says little about value.",
+      "overview": "Check unit price, quantity you can use and the current store policy before acting on a tag convention."
     },
     {
       "id": "shp-114",
@@ -361,17 +387,19 @@
       ],
       "supplies": [],
       "steps": [
-        "Never pay full retail price at craft stores: Michaels runs 20%\u201340% off single regular-price item coupons almost weekly (and accepts competitor coupons on regular-price items), while Hobby Lobby rotates departments on a predictable 2-week 40%\u201350% off cycle (wood crafts, yarn, framing, jewelry, seasonal).",
-        "For sublimation blanks, HTV, and laser plywood: buy in bulk packs from wholesale craft suppliers (Heat Transfer Warehouse, JPPlus, Conde, MakerFlo, Ocooch Hardwoods) rather than single-sheet retail packs to cut per-unit cost by 50%\u201370%."
+        "Never pay full retail price at craft stores: Michaels runs 20%–40% off single regular-price item coupons almost weekly (and accepts competitor coupons on regular-price items), while Hobby Lobby rotates departments on a predictable 2-week 40%–50% off cycle (wood crafts, yarn, framing, jewelry, seasonal).",
+        "For sublimation blanks, HTV, and laser plywood: buy in bulk packs from wholesale craft suppliers (Heat Transfer Warehouse, JPPlus, Conde, MakerFlo, Ocooch Hardwoods) rather than single-sheet retail packs to cut per-unit cost by 50%–70%."
       ],
-      "safety": "Note that Cricut, Glowforge, and Silhouette hardware/machines are almost always excluded from storewide percentage coupons\u2014buy machines during Black Friday bundles instead.",
+      "safety": "Note that Cricut, Glowforge, and Silhouette hardware/machines are almost always excluded from storewide percentage coupons—buy machines during Black Friday bundles instead.",
       "tags": [
         "craft-supplies",
         "michaels",
         "hobby-lobby",
         "blanks",
         "coupons"
-      ]
+      ],
+      "scenario": "A multipack of craft blanks looks cheap but the job needs only a few.",
+      "overview": "Compare cost per usable finished piece including rejects and shipping. Test one blank before buying for production."
     },
     {
       "id": "shp-115",
@@ -383,9 +411,9 @@
       "gear": [],
       "supplies": [],
       "steps": [
-        "Golden Rule: Credit card rewards ONLY save money if you pay the statement balance 100% in full via autopay every month\u2014carrying a 24% APR balance wipes out 2%\u20135% rewards instantly.",
-        "Assign dedicated cards to top household spend categories: 5%\u20136% on groceries (H-E-B), 5% on rotating quarterly categories (gas, wholesale clubs, Amazon, dining), 3%\u20134% on travel/dining, and a flat 2% catch-all card for everything else.",
-        "When an annual fee posts on a travel/rewards card, call the number on the back and ask 'Are there any retention offers available on my account before I decide whether to keep or downgrade it?'\u2014banks routinely offer 10,000\u201330,000 bonus points or statement credits."
+        "Golden Rule: Credit card rewards ONLY save money if you pay the statement balance 100% in full via autopay every month—carrying a 24% APR balance wipes out 2%–5% rewards instantly.",
+        "Assign dedicated cards to top household spend categories: 5%–6% on groceries (H-E-B), 5% on rotating quarterly categories (gas, wholesale clubs, Amazon, dining), 3%–4% on travel/dining, and a flat 2% catch-all card for everything else.",
+        "When an annual fee posts on a travel/rewards card, call the number on the back and ask 'Are there any retention offers available on my account before I decide whether to keep or downgrade it?'—banks routinely offer 10,000–30,000 bonus points or statement credits."
       ],
       "safety": "Downgrade an unwanted annual-fee card to a no-annual-fee version in the same card family rather than closing your oldest credit line.",
       "tags": [
@@ -394,7 +422,9 @@
         "rewards",
         "retention-offer",
         "finance"
-      ]
+      ],
+      "scenario": "A card bonus has a spending requirement and the annual fee is approaching.",
+      "overview": "Compare benefits you actually use with fees and interest. A reward is valuable only within the spending plan."
     },
     {
       "id": "shp-116",
@@ -406,9 +436,9 @@
       "gear": [],
       "supplies": [],
       "steps": [
-        "Apple Certified Refurbished: Comes with a brand-new outer shell, brand-new battery, and full 1-year Apple warranty (eligible for AppleCare+) at 15% off\u2014indistinguishable from new.",
-        "Best Buy Open-Box ('Excellent' grade) & Costco/Lowe's Appliance Scratch-and-Dent: Save 20%\u201345% on fridges, washers, and TVs with minor side-panel scuffs that get hidden inside cabinetry anyway\u2014inspect all accessories/remotes before leaving the store.",
-        "Factory Reconditioned Power Tools (Direct Tools Outlet / CPO): DeWalt, Milwaukee, and Ryobi factory-blemished tools carry full warranties at 30%\u201350% off."
+        "Apple Certified Refurbished: Comes with a brand-new outer shell, brand-new battery, and full 1-year Apple warranty (eligible for AppleCare+) at 15% off—indistinguishable from new.",
+        "Best Buy Open-Box ('Excellent' grade) & Costco/Lowe's Appliance Scratch-and-Dent: Save 20%–45% on fridges, washers, and TVs with minor side-panel scuffs that get hidden inside cabinetry anyway—inspect all accessories/remotes before leaving the store.",
+        "Factory Reconditioned Power Tools (Direct Tools Outlet / CPO): DeWalt, Milwaukee, and Ryobi factory-blemished tools carry full warranties at 30%–50% off."
       ],
       "safety": "Avoid third-party 'Amazon Renewed' electronics unless the seller offers a 90-day return window and verify battery health immediately upon arrival.",
       "tags": [
@@ -418,7 +448,9 @@
         "appliances",
         "tools",
         "deals"
-      ]
+      ],
+      "scenario": "An open-box tool is cheaper but some accessories may be absent.",
+      "overview": "Price the missing parts and verify the written return window. Inspect the specific unit you would take home."
     },
     {
       "id": "shp-117",
@@ -431,20 +463,22 @@
       "supplies": [],
       "steps": [
         "Calculate all percentage tips on the PRE-TAX food/service subtotal (never on sales tax or delivery/platform fees).",
-        "Sit-Down Full-Service Restaurant: 15% for standard/adequate service; 18%\u201320% for attentive, good service; 10% (or speak with manager) for poor/neglectful service.",
-        "Counter-Service / Coffee / Takeout Pickup: $0 (no tip required for standing at a counter/register handing you a bag or drip coffee), or $1\u2013$2 optional for complex custom barista drinks or large catering orders.",
-        "Food Delivery (DoorDash/UberEats/Pizza): $3\u2013$5 flat for short local runs, or $1\u2013$1.50 per mile from restaurant to door (plus $2 in heavy rain).",
-        "Hotel Housekeeping & Bellhop: $2\u2013$5 per night left daily on the pillow/desk (different housekeepers clean on different days); $1\u2013$2 per bag for bellhops/valets.",
-        "Hair Salon / Barber / Massage: 15%\u201320% of service cost (note: independent booth-renting owners set their own full rates, though 15%\u201320% remains standard)."
+        "Sit-Down Full-Service Restaurant: 15% for standard/adequate service; 18%–20% for attentive, good service; 10% (or speak with manager) for poor/neglectful service.",
+        "Counter-Service / Coffee / Takeout Pickup: $0 (no tip required for standing at a counter/register handing you a bag or drip coffee), or $1–$2 optional for complex custom barista drinks or large catering orders.",
+        "Food Delivery (DoorDash/UberEats/Pizza): $3–$5 flat for short local runs, or $1–$1.50 per mile from restaurant to door (plus $2 in heavy rain).",
+        "Hotel Housekeeping & Bellhop: $2–$5 per night left daily on the pillow/desk (different housekeepers clean on different days); $1–$2 per bag for bellhops/valets.",
+        "Hair Salon / Barber / Massage: 15%–20% of service cost (note: independent booth-renting owners set their own full rates, though 15%–20% remains standard)."
       ],
-      "safety": "Always check the itemized receipt before adding a tip\u2014many POS tablets default to 20%/25%/30% calculated on the post-tax total.",
+      "safety": "Always check the itemized receipt before adding a tip—many POS tablets default to 20%/25%/30% calculated on the post-tax total.",
       "tags": [
         "tipping",
         "etiquette",
         "restaurants",
         "travel",
         "reference"
-      ]
+      ],
+      "scenario": "The bill arrives in an unfamiliar service setting.",
+      "overview": "Read the receipt for included charges and use current local custom to decide any added gratuity."
     },
     {
       "id": "shp-118",
@@ -458,9 +492,9 @@
         "Itemized paper receipt"
       ],
       "steps": [
-        "Always inspect the itemized receipt BEFORE signing the credit card slip\u2014never sign a summary slip without seeing the line-item breakdown.",
-        "Automatic Gratuity ('Auto-Grat 18%\u201320%', common for parties of 5\u20136+ or resort pools): The tip is ALREADY included in your bill. Do NOT add a second tip on the tip line\u2014write 'Included' or '$0' on the additional tip line.",
-        "Mandatory 'Service Charge', 'Kitchen Appreciation Fee', 'Wellness Surcharge', or 'Living Wage Fee' (3%\u201320%): Unlike a true tip, service charges belong to the restaurant rather than directly to servers. If a mandatory service charge is added without clear upfront disclosure on the menu, reduce your discretionary tip dollar-for-dollar by the surcharge amount (or ask a manager to remove an undisclosed fee)\u2014and factor hidden surcharges into whether you return."
+        "Always inspect the itemized receipt BEFORE signing the credit card slip—never sign a summary slip without seeing the line-item breakdown.",
+        "Automatic Gratuity ('Auto-Grat 18%–20%', common for parties of 5–6+ or resort pools): The tip is ALREADY included in your bill. Do NOT add a second tip on the tip line—write 'Included' or '$0' on the additional tip line.",
+        "Mandatory 'Service Charge', 'Kitchen Appreciation Fee', 'Wellness Surcharge', or 'Living Wage Fee' (3%–20%): Unlike a true tip, service charges belong to the restaurant rather than directly to servers. If a mandatory service charge is added without clear upfront disclosure on the menu, reduce your discretionary tip dollar-for-dollar by the surcharge amount (or ask a manager to remove an undisclosed fee)—and factor hidden surcharges into whether you return."
       ],
       "safety": "Watch out for 'Double-Tip' POS prompts where an 18% auto-gratuity is already baked into the total, yet the handheld tablet still prompts for '18% / 20% / 25% Tip' on top of the already-tipped bill.",
       "tags": [
@@ -469,7 +503,9 @@
         "tipping",
         "receipts",
         "restaurants"
-      ]
+      ],
+      "scenario": "A receipt offers preset tip buttons after listing a service charge.",
+      "overview": "Ask how the charge is applied and review the final total before choosing a voluntary addition."
     },
     {
       "id": "shp-119",
@@ -483,18 +519,20 @@
         "Small USD bills ($1s, $5s)"
       ],
       "steps": [
-        "Cruise Daily Service Charge (DSC / Crew Appreciation): Major cruise lines automatically charge $16\u2013$22 per person per day to your folio to cover cabin stewards and main dining room waitstaff\u2014you do NOT need to tip extra at every dinner unless someone provided standout personal service (e.g., $20\u2013$40 cash at the end of the week to a great room steward).",
-        "Cruise Bars & Specialty Dining: Every cruise bar drink and specialty restaurant bill ALREADY includes an automatic 18%\u201320% gratuity\u2014leave the 'Additional Tip' line blank unless you want to reward a specific bartender.",
-        "International Tipping Rules: Japan & South Korea (do NOT tip\u2014tipping is considered insulting or confusing); Europe/UK (check bill for 'Service Compris' or 10%\u201312.5% service charge\u2014if included, leave nothing extra; if not included, round up or leave 5%\u201310% for sit-down meals); Mexico & Caribbean tourist zones (10%\u201315% in pesos or USD, checking carefully that 'Propina' isn't already added)."
+        "Cruise Daily Service Charge (DSC / Crew Appreciation): Major cruise lines automatically charge $16–$22 per person per day to your folio to cover cabin stewards and main dining room waitstaff—you do NOT need to tip extra at every dinner unless someone provided standout personal service (e.g., $20–$40 cash at the end of the week to a great room steward).",
+        "Cruise Bars & Specialty Dining: Every cruise bar drink and specialty restaurant bill ALREADY includes an automatic 18%–20% gratuity—leave the 'Additional Tip' line blank unless you want to reward a specific bartender.",
+        "International Tipping Rules: Japan & South Korea (do NOT tip—tipping is considered insulting or confusing); Europe/UK (check bill for 'Service Compris' or 10%–12.5% service charge—if included, leave nothing extra; if not included, round up or leave 5%–10% for sit-down meals); Mexico & Caribbean tourist zones (10%–15% in pesos or USD, checking carefully that 'Propina' isn't already added)."
       ],
-      "safety": "In Mexico and Caribbean ports, check receipts for the word 'Propina' (Spanish for tip)\u2014some tourist restaurants add 15% Propina automatically and still leave a blank tip line.",
+      "safety": "In Mexico and Caribbean ports, check receipts for the word 'Propina' (Spanish for tip)—some tourist restaurants add 15% Propina automatically and still leave a blank tip line.",
       "tags": [
         "cruise-tipping",
         "international-tipping",
         "propina",
         "etiquette",
         "travel"
-      ]
+      ],
+      "scenario": "A cruise account already shows daily gratuities and the restaurant receipt has a blank tip line.",
+      "overview": "Check which services the existing charge covers. Port customs and onboard policy may differ on the same day."
     },
     {
       "id": "shp-120",
@@ -509,9 +547,9 @@
         "Cash bills"
       ],
       "steps": [
-        "Salaried / Licensed Trades (Plumbers, Electricians, HVAC Techs, Pest Control): Tipping is NOT expected\u2014they earn full professional hourly/flat rates (offering cold bottled water on a hot Texas day is always appreciated).",
-        "Furniture / Heavy Appliance Delivery Crew: $10\u2013$20 per mover if carrying heavy fridges/sofas upstairs or assembling carefully; $0 if dropped at the curb.",
-        "Full-House Movers: $20\u2013$40 per mover for a half-day local move; $40\u2013$60 per mover for a full-day move, handed directly in cash to each crew member rather than the foreman alone."
+        "Salaried / Licensed Trades (Plumbers, Electricians, HVAC Techs, Pest Control): Tipping is NOT expected—they earn full professional hourly/flat rates (offering cold bottled water on a hot Texas day is always appreciated).",
+        "Furniture / Heavy Appliance Delivery Crew: $10–$20 per mover if carrying heavy fridges/sofas upstairs or assembling carefully; $0 if dropped at the curb.",
+        "Full-House Movers: $20–$40 per mover for a half-day local move; $40–$60 per mover for a full-day move, handed directly in cash to each crew member rather than the foreman alone."
       ],
       "safety": "Never tip contractors or movers until all items are placed undamaged and inspected.",
       "tags": [
@@ -520,7 +558,9 @@
         "contractors",
         "tipping",
         "etiquette"
-      ]
+      ],
+      "scenario": "A crew has completed work that involved several employees and an invoice.",
+      "overview": "Check company policy and the invoice before choosing how to thank the workers. Ask how any shared tip is handled."
     },
     {
       "id": "shp-121",
@@ -536,9 +576,9 @@
         "Competitor promotional rate quote"
       ],
       "steps": [
-        "Check your internet/fiber bill once a year\u2014promotional 12-month rates quietly expire and jump $25\u2013$40/month.",
-        "Call customer service, say 'Cancel service' at the automated prompt to reach the Retention Department (frontline agents cannot unlock promotional rates), and say: 'My promotional rate just expired and [Competitor] is offering fiber in my neighborhood for $X/month\u2014I'd prefer to stay with you if you can put me back on a promotional rate.'",
-        "Shop auto and home insurance policies across 3 independent brokers every 2 years\u2014insurers quietly raise rates on loyal non-shopping customers ('price optimization')."
+        "Check your internet/fiber bill once a year—promotional 12-month rates quietly expire and jump $25–$40/month.",
+        "Call customer service, say 'Cancel service' at the automated prompt to reach the Retention Department (frontline agents cannot unlock promotional rates), and say: 'My promotional rate just expired and [Competitor] is offering fiber in my neighborhood for $X/month—I'd prefer to stay with you if you can put me back on a promotional rate.'",
+        "Shop auto and home insurance policies across 3 independent brokers every 2 years—insurers quietly raise rates on loyal non-shopping customers ('price optimization')."
       ],
       "safety": "Verify any new promotional rate does not lock you into a 2-year early-termination contract unless you plan to stay.",
       "tags": [
@@ -547,7 +587,9 @@
         "insurance",
         "retention",
         "savings"
-      ]
+      ],
+      "scenario": "A renewal notice arrives at a higher rate than last year.",
+      "overview": "Write down the full recurring cost, term and cancellation conditions of any offer before agreeing on the call."
     },
     {
       "id": "shp-122",
@@ -561,17 +603,19 @@
         "Digital copy of itemized receipt & credit card statement"
       ],
       "steps": [
-        "Extended Warranty Benefit (included free on many Visa Signature, Mastercard World/World Elite, and Amex cards): Automatically doubles the manufacturer's US warranty up to 1 additional year on electronics, appliances, and tools bought with that card\u2014saving you from buying store extended warranties.",
-        "Purchase Protection (90\u2013120 days): Reimburses theft or accidental damage (like dropping a new phone or tablet) up to $500\u2013$1,000 per claim when paid on an eligible card.",
-        "Cell Phone Protection: Paying your monthly wireless bill with qualifying cards (such as Chase Freedom Flex or Wells Fargo Autograph) provides free cracked-screen/theft coverage up to $600\u2013$800 with a $25\u2013$50 deductible."
+        "Extended Warranty Benefit (included free on many Visa Signature, Mastercard World/World Elite, and Amex cards): Automatically doubles the manufacturer's US warranty up to 1 additional year on electronics, appliances, and tools bought with that card—saving you from buying store extended warranties.",
+        "Purchase Protection (90–120 days): Reimburses theft or accidental damage (like dropping a new phone or tablet) up to $500–$1,000 per claim when paid on an eligible card.",
+        "Cell Phone Protection: Paying your monthly wireless bill with qualifying cards (such as Chase Freedom Flex or Wells Fargo Autograph) provides free cracked-screen/theft coverage up to $600–$800 with a $25–$50 deductible."
       ],
-      "safety": "Save PDF receipts in a dedicated cloud folder for big-ticket electronics/appliances\u2014warranty claims require the original itemized receipt.",
+      "safety": "Save PDF receipts in a dedicated cloud folder for big-ticket electronics/appliances—warranty claims require the original itemized receipt.",
       "tags": [
         "credit-card-perks",
         "extended-warranty",
         "purchase-protection",
         "savings"
-      ]
+      ],
+      "scenario": "A recent purchase broke and the original payment card may provide coverage.",
+      "overview": "Use the benefit guide in effect for the purchase and gather the receipt and claim deadline before paying for repair."
     },
     {
       "id": "shp-123",
@@ -585,16 +629,18 @@
         "Written email proof of cancellation/return attempt"
       ],
       "steps": [
-        "Always pay online merchants, contractors, travel bookings, and unfamiliar vendors with a CREDIT card rather than a debit card\u2014debit cards pull real cash directly from your checking account with weaker dispute protections.",
+        "Always pay online merchants, contractors, travel bookings, and unfamiliar vendors with a CREDIT card rather than a debit card—debit cards pull real cash directly from your checking account with weaker dispute protections.",
         "Under the Fair Credit Billing Act, if a merchant fails to deliver goods, delivers defective/misrepresented items and refuses a refund, or keeps billing after documented cancellation, file a Chargeback dispute with your card issuer within 60 days of the statement date attaching screenshots of your refund request."
       ],
-      "safety": "Attempt to resolve the issue with the merchant in writing first\u2014card issuers require proof you gave the merchant a chance to refund.",
+      "safety": "Attempt to resolve the issue with the merchant in writing first—card issuers require proof you gave the merchant a chance to refund.",
       "tags": [
         "chargeback",
         "consumer-rights",
         "credit-card",
         "fraud-protection"
-      ]
+      ],
+      "scenario": "A statement contains a disputed purchase and the merchant correspondence is in several places.",
+      "overview": "Collect dates, amounts and records and contact the issuer promptly. The procedure and deadlines depend on the account and the dispute."
     },
     {
       "id": "shp-124",
@@ -618,7 +664,9 @@
         "privacy",
         "budgeting",
         "security"
-      ]
+      ],
+      "scenario": "A free trial converted into a monthly bill even after a payment card changed.",
+      "overview": "Cancel with the provider and keep confirmation. Blocking a payment method alone may leave the agreement active."
     },
     {
       "id": "shp-125",
@@ -635,9 +683,9 @@
         "Insurance Explanation of Benefits (EOB)"
       ],
       "steps": [
-        "Never pay the first summary hospital or lab bill without requesting an 'Itemized Statement with CPT/HCPCS Billing Codes' and comparing it line-by-line against your insurer's Explanation of Benefits (EOB)\u2014up to 80% of hospital bills contain duplicate charges or unbundled coding errors.",
-        "Ask the billing department for a 'Prompt-Pay / Lump-Sum Discount' (hospitals routinely knock 20%\u201340% off balances if you offer to settle in full today) or set up a 0% interest monthly payment plan.",
-        "For routine lab tests (bloodwork, imaging/MRI), compare your insurance deductible cost against self-pay cash portals (Ulta Lab Tests, QuestDirect, RadiologyAssist)\u2014cash prices are often 60%\u201380% cheaper than insured deductible rates."
+        "Never pay the first summary hospital or lab bill without requesting an 'Itemized Statement with CPT/HCPCS Billing Codes' and comparing it line-by-line against your insurer's Explanation of Benefits (EOB)—up to 80% of hospital bills contain duplicate charges or unbundled coding errors.",
+        "Ask the billing department for a 'Prompt-Pay / Lump-Sum Discount' (hospitals routinely knock 20%–40% off balances if you offer to settle in full today) or set up a 0% interest monthly payment plan.",
+        "For routine lab tests (bloodwork, imaging/MRI), compare your insurance deductible cost against self-pay cash portals (Ulta Lab Tests, QuestDirect, RadiologyAssist)—cash prices are often 60%–80% cheaper than insured deductible rates."
       ],
       "safety": "Under the federal No Surprises Act, out-of-network emergency room visits and out-of-network anesthesiologists/radiologists at in-network hospitals cannot legally 'balance bill' you above in-network rates.",
       "tags": [
@@ -645,7 +693,9 @@
         "negotiation",
         "cpt-codes",
         "healthcare-savings"
-      ]
+      ],
+      "scenario": "A medical bill includes a balance you cannot reconcile with the insurer’s statement.",
+      "overview": "Match service dates and line items before negotiating. Ask for a corrected statement or written terms for any agreed amount."
     },
     {
       "id": "shp-126",
@@ -657,17 +707,19 @@
       "gear": [],
       "supplies": [],
       "steps": [
-        "The Flinch: React with mild, polite surprise when hearing the first asking price\u2014never nod or say 'That's reasonable' before countering.",
-        "Low Anchor: Always set the first counter-offer lower than your true target price (40%\u201350% of asking in street markets; 10%\u201315% below invoice/comp quotes on big-ticket items) so concessions pull toward your target.",
-        "Power of Silence: State your cash offer clearly ('I can do $16 cash right now'), stop talking completely, and wait\u2014whoever speaks first after a counter-offer usually makes the next concession."
+        "The Flinch: React with mild, polite surprise when hearing the first asking price—never nod or say 'That's reasonable' before countering.",
+        "Low Anchor: Always set the first counter-offer lower than your true target price (40%–50% of asking in street markets; 10%–15% below invoice/comp quotes on big-ticket items) so concessions pull toward your target.",
+        "Power of Silence: State your cash offer clearly ('I can do $16 cash right now'), stop talking completely, and wait—whoever speaks first after a counter-offer usually makes the next concession."
       ],
-      "safety": "Keep negotiations friendly, respectful, and smiling\u2014people give better deals to polite buyers than aggressive ones.",
+      "safety": "Keep negotiations friendly, respectful, and smiling—people give better deals to polite buyers than aggressive ones.",
       "tags": [
         "negotiation-psychology",
         "anchoring",
         "silence",
         "bargaining"
-      ]
+      ],
+      "scenario": "A seller makes the first offer and expects an immediate answer.",
+      "overview": "A prepared limit and a quiet pause give you time to check the terms before naming a price."
     },
     {
       "id": "shp-127",
@@ -683,9 +735,9 @@
         "GIA / IGI lab grading certificate"
       ],
       "steps": [
-        "Skip mall jewelry chains (which mark up stones 200%\u2013400% to cover storefront leases) and buy loose certified stones + custom settings from reputable online wholesalers (James Allen, Blue Nile, Ritani) or local independent estate jewelers.",
-        "Buy just below magic carat-weight price cliffs (e.g., 0.90\u20130.95 ct instead of 1.00 ct, or 1.85\u20131.92 ct instead of 2.00 ct)\u2014visually identical to the naked eye at 20%\u201330% lower cost.",
-        "Never accept 'store-appraised' certificates\u2014require independent GIA or IGI lab reports."
+        "Skip mall jewelry chains (which mark up stones 200%–400% to cover storefront leases) and buy loose certified stones + custom settings from reputable online wholesalers (James Allen, Blue Nile, Ritani) or local independent estate jewelers.",
+        "Buy just below magic carat-weight price cliffs (e.g., 0.90–0.95 ct instead of 1.00 ct, or 1.85–1.92 ct instead of 2.00 ct)—visually identical to the naked eye at 20%–30% lower cost.",
+        "Never accept 'store-appraised' certificates—require independent GIA or IGI lab reports."
       ],
       "safety": "Insure high-value jewelry pieces on a dedicated scheduled personal-articles policy (Jewelers Mutual or homeowner rider) rather than relying on low standard homeowner sub-limits.",
       "tags": [
@@ -694,13 +746,15 @@
         "watches",
         "buying-guide",
         "negotiation"
-      ]
+      ],
+      "scenario": "Two pieces of jewelry look similar but carry very different prices.",
+      "overview": "Compare specifications and independent documentation. A discount percentage says little without a credible starting value."
     },
     {
       "id": "shp-128",
       "cat": "Smart Shopping & Negotiation",
       "sub": "Car Buying & Major Purchases",
-      "title": "Selling a Used Car Privately for $2,000\u2013$4,000 More Than Trade-In",
+      "title": "Selling a Used Car Privately for $2,000–$4,000 More Than Trade-In",
       "diff": "Medium",
       "time": "2 hours",
       "gear": [
@@ -712,18 +766,20 @@
         "Texas VTR-346 Vehicle Transfer Notification"
       ],
       "steps": [
-        "Get instant baseline offers from CarMax, Carvana, and Driveway first\u2014if Texas sales-tax trade-in credit (6.25% on trade-in value) plus dealer offer comes within $800 of private value, trading in is easier; if private value beats it by $2,000+, sell privately.",
+        "Get instant baseline offers from CarMax, Carvana, and Driveway first—if Texas sales-tax trade-in credit (6.25% on trade-in value) plus dealer offer comes within $800 of private value, trading in is easier; if private value beats it by $2,000+, sell privately.",
         "Detail the interior/exterior thoroughly, photograph in soft golden-hour shade from all angles (including clean engine bay and tires), and list on Facebook Marketplace and AutoTrader with maintenance records.",
         "Meet buyers at THEIR bank lobby so the teller issues a verified cashier's check or hands you cash directly, and file the Texas DMV Vehicle Transfer Notification online the exact same day."
       ],
-      "safety": "Remove your Texas license plates and toll tag (EZ TAG / TxTag) upon sale\u2014in Texas, plates stay with the seller, not the car.",
+      "safety": "Remove your Texas license plates and toll tag (EZ TAG / TxTag) upon sale—in Texas, plates stay with the seller, not the car.",
       "tags": [
         "selling-car",
         "private-sale",
         "texas-dmv",
         "auto",
         "finance"
-      ]
+      ],
+      "scenario": "You’re considering a private car sale and several buyers want to take it home immediately.",
+      "overview": "Plan payment verification and title transfer before showing the car. Check the current requirements with the relevant motor vehicle office."
     },
     {
       "id": "shp-129",
@@ -737,32 +793,34 @@
       ],
       "supplies": [],
       "steps": [
-        "Penny Tread Test: Insert a penny head-down into tire grooves\u2014if you can see the top of Lincoln's head (under 2/32\"), replace immediately; replace around 4/32\" before Gulf Coast summer rainstorms.",
+        "Penny Tread Test: Insert a penny head-down into tire grooves—if you can see the top of Lincoln's head (under 2/32\"), replace immediately; replace around 4/32\" before Gulf Coast summer rainstorms.",
         "Buy tires at Discount Tire or Costco (free rotations, flat repairs, balancing, and road-hazard prorating) and check TireRack.com prices for instant price-matching.",
-        "When a mechanic recommends 'fluid flushes' (transmission flush, fuel-injection flush, power-steering flush), check your owner's manual maintenance schedule\u201490% of dealer flushes are unnecessary upsells not required by the manufacturer."
+        "When a mechanic recommends 'fluid flushes' (transmission flush, fuel-injection flush, power-steering flush), check your owner's manual maintenance schedule—90% of dealer flushes are unnecessary upsells not required by the manufacturer."
       ],
-      "safety": "Check the 4-digit DOT tire date code on the sidewall (e.g., '2425' = 24th week of 2025)\u2014never accept 'new' tires sitting in a warehouse over 2 years old.",
+      "safety": "Check the 4-digit DOT tire date code on the sidewall (e.g., '2425' = 24th week of 2025)—never accept 'new' tires sitting in a warehouse over 2 years old.",
       "tags": [
         "tires",
         "auto-repair",
         "upsells",
         "costco",
         "discount-tire"
-      ]
+      ],
+      "scenario": "A repair estimate includes tires, a battery and several additional services.",
+      "overview": "Ask for measured findings and separate immediate safety needs from scheduled maintenance. Compare like-for-like parts and warranties."
     },
     {
       "id": "shp-130",
       "cat": "Smart Shopping & Negotiation",
       "sub": "Car Buying & Major Purchases",
-      "title": "Mattress & Furniture Markup Secrets (Negotiating 30%\u201350% Off)",
+      "title": "Mattress & Furniture Markup Secrets (Negotiating 30%–50% Off)",
       "diff": "Easy",
       "time": "20 mins",
       "gear": [],
       "supplies": [],
       "steps": [
-        "Traditional retail mattresses and furniture carry 50%\u2013100% gross markups, and manufacturers give the exact same mattress different model names at every chain store to prevent price matching.",
-        "Compare foam density/coil counts rather than model names, ask salespeople directly 'What is your best delivered out-the-door price if I buy today, and can you waive delivery/haul-away fees?', or buy direct-to-consumer boxed hybrids with 100\u2013365 night free home trials.",
-        "Check local furniture outlet clearance centers for floor-model sofas and dining sets at 40%\u201360% off."
+        "Traditional retail mattresses and furniture carry 50%–100% gross markups, and manufacturers give the exact same mattress different model names at every chain store to prevent price matching.",
+        "Compare foam density/coil counts rather than model names, ask salespeople directly 'What is your best delivered out-the-door price if I buy today, and can you waive delivery/haul-away fees?', or buy direct-to-consumer boxed hybrids with 100–365 night free home trials.",
+        "Check local furniture outlet clearance centers for floor-model sofas and dining sets at 40%–60% off."
       ],
       "safety": "Verify return/restocking fees in writing before buying any mattress or custom-upholstered sofa.",
       "tags": [
@@ -771,7 +829,9 @@
         "negotiation",
         "markups",
         "home"
-      ]
+      ],
+      "scenario": "A furniture discount looks large but delivery, setup and returns cost extra.",
+      "overview": "Compare the delivered total and the written trial or return conditions. Measure the entry path before ordering."
     },
     {
       "id": "shp-131",
@@ -783,18 +843,20 @@
       "gear": [],
       "supplies": [],
       "steps": [
-        "Before pulling a physical gift card off a grocery/drugstore rack, inspect the back scratch-off PIN strip and packaging edges\u2014scammers record card numbers on racks and drain balances the moment the register activates them.",
+        "Before pulling a physical gift card off a grocery/drugstore rack, inspect the back scratch-off PIN strip and packaging edges—scammers record card numbers on racks and drain balances the moment the register activates them.",
         "Pull cards from the BACK of the peg rather than the front, keep the activation receipt until the balance is spent, and load digital gift cards immediately into your Amazon, Starbucks, Uber, or airline app wallet.",
-        "Stack warehouse gift card deals (e.g., $100 Southwest, Landry's, or movie/restaurant cards sold for $75\u2013$80 at Costco/Sam's) with promo codes and loyalty rewards."
+        "Stack warehouse gift card deals (e.g., $100 Southwest, Landry's, or movie/restaurant cards sold for $75–$80 at Costco/Sam's) with promo codes and loyalty rewards."
       ],
-      "safety": "Never buy gift cards via peer-to-peer social media marketplaces\u2014use only established platforms with buyer balance guarantees (GCX/Raise, CardCash) or major retailers.",
+      "safety": "Never buy gift cards via peer-to-peer social media marketplaces—use only established platforms with buyer balance guarantees (GCX/Raise, CardCash) or major retailers.",
       "tags": [
         "gift-cards",
         "fraud-prevention",
         "costco",
         "stacking",
         "deals"
-      ]
+      ],
+      "scenario": "A discounted gift card has exposed packaging or an unclear balance.",
+      "overview": "Verify the seller, terms and receipt. Limit the purchase to credit you expect to use soon."
     },
     {
       "id": "shp-132",
@@ -810,7 +872,7 @@
       "steps": [
         "Ignore front-of-package 'Family Size' claims and read the small per-ounce or per-count unit price tag on the shelf rail.",
         "Shop weekly front-page 'Loss Leaders' (proteins, berries, butter, cheese priced below store cost to get shoppers in the door) and vacuum-seal/freeze extra meat when prices hit seasonal lows.",
-        "Remember grocery stores run on 6-to-8-week promotional cycles\u2014stock up on non-perishables (coffee, olive oil, canned tomatoes, spices, paper goods) when they hit their 6-week low so you never pay full shelf price."
+        "Remember grocery stores run on 6-to-8-week promotional cycles—stock up on non-perishables (coffee, olive oil, canned tomatoes, spices, paper goods) when they hit their 6-week low so you never pay full shelf price."
       ],
       "safety": "Check expiration dates on clearance/manager-special refrigerated meats and freeze the same day.",
       "tags": [
@@ -819,7 +881,9 @@
         "heb",
         "meal-planning",
         "budgeting"
-      ]
+      ],
+      "scenario": "A bulk package is cheaper per ounce but more than the pantry usually consumes.",
+      "overview": "Compare cost per usable serving and available storage. Waste can reverse an apparent bulk discount."
     },
     {
       "id": "shp-133",
@@ -833,7 +897,7 @@
       ],
       "supplies": [],
       "steps": [
-        "For generic medications, compare your insurance copay against cash discount prices on Mark Cuban Cost Plus Drugs and GoodRx\u2014cash generic prices are frequently cheaper than insured copays.",
+        "For generic medications, compare your insurance copay against cash discount prices on Mark Cuban Cost Plus Drugs and GoodRx—cash generic prices are frequently cheaper than insured copays.",
         "Ask your doctor to write 90-day prescriptions rather than 30-day fills (often costs the same single copay for 3 months of supply) and check manufacturer copay savings cards for brand-name prescriptions."
       ],
       "safety": "Fill all regular prescriptions at a single pharmacy (or linked system) so their pharmacist software checks for drug interactions.",
@@ -842,7 +906,9 @@
         "goodrx",
         "pharmacy",
         "healthcare-savings"
-      ]
+      ],
+      "scenario": "A pharmacy offers a cash price that differs from the insurance copay.",
+      "overview": "Compare the same drug, strength, quantity and fill period and ask how each option affects insurance accounting."
     },
     {
       "id": "shp-134",
@@ -854,19 +920,21 @@
       "gear": [],
       "supplies": [],
       "steps": [
-        "Bar / Pub Drinks: $1 per poured beer/wine; $1\u2013$2 per crafted cocktail (or 15%\u201320% on an open sit-down bar tab, checking first that auto-gratuity isn't already added).",
-        "Uber / Lyft Rideshare: $2\u2013$5 for standard smooth rides, or 10%\u201315% for airport rides with luggage help (tip in the app AFTER exiting safely).",
-        "Valet Parking: $2\u2013$5 when your car is retrieved and delivered to you (no need to tip both at drop-off and pickup).",
-        "Guided Day Tours / Charter Fishing Boats: 15%\u201320% for charter boat deckhands (who clean/fillet your catch and bait hooks all day); $10\u2013$20 per person for full-day guided shore excursions."
+        "Bar / Pub Drinks: $1 per poured beer/wine; $1–$2 per crafted cocktail (or 15%–20% on an open sit-down bar tab, checking first that auto-gratuity isn't already added).",
+        "Uber / Lyft Rideshare: $2–$5 for standard smooth rides, or 10%–15% for airport rides with luggage help (tip in the app AFTER exiting safely).",
+        "Valet Parking: $2–$5 when your car is retrieved and delivered to you (no need to tip both at drop-off and pickup).",
+        "Guided Day Tours / Charter Fishing Boats: 15%–20% for charter boat deckhands (who clean/fillet your catch and bait hooks all day); $10–$20 per person for full-day guided shore excursions."
       ],
-      "safety": "Never feel pressured by default 25%\u201330% tablet prompts\u2014tap 'Custom Tip' calmly and enter the exact dollar or pre-tax percentage amount you intend.",
+      "safety": "Never feel pressured by default 25%–30% tablet prompts—tap 'Custom Tip' calmly and enter the exact dollar or pre-tax percentage amount you intend.",
       "tags": [
         "tipping",
         "etiquette",
         "rideshare",
         "valet",
         "charter-fishing"
-      ]
+      ],
+      "scenario": "Several services on one outing suggest different tip percentages.",
+      "overview": "Check what is already included and decide each transaction separately. Keep a record when an app adds a tip later."
     },
     {
       "id": "shp-135",
@@ -883,17 +951,19 @@
         "Comparable neighborhood sales (comps)"
       ],
       "steps": [
-        "File your Texas Residence Homestead Exemption free through your county appraisal district (Galveston CAD or Harris CAD for Friendswood) as soon as your driver's license matches your home address\u2014this caps annual assessed-value increases at 10% and unlocks school-tax exemptions (plus Over-65 freeze when eligible).",
-        "Protest your appraised value EVERY year before the May 15 deadline (or 30 days after notice): upload photos of foundation cracks, aging roof/HVAC/fence, and 3\u20135 lower-valued comparable homes in your subdivision during informal online settlement."
+        "File your Texas Residence Homestead Exemption free through your county appraisal district (Galveston CAD or Harris CAD for Friendswood) as soon as your driver's license matches your home address—this caps annual assessed-value increases at 10% and unlocks school-tax exemptions (plus Over-65 freeze when eligible).",
+        "Protest your appraised value EVERY year before the May 15 deadline (or 30 days after notice): upload photos of foundation cracks, aging roof/HVAC/fence, and 3–5 lower-valued comparable homes in your subdivision during informal online settlement."
       ],
-      "safety": "Never pay third-party mailers charging $150 to file a Homestead Exemption\u2014filing with your county appraisal district is 100% free.",
+      "safety": "Never pay third-party mailers charging $150 to file a Homestead Exemption—filing with your county appraisal district is 100% free.",
       "tags": [
         "property-tax",
         "texas",
         "friendswood",
         "homestead",
         "savings"
-      ]
+      ],
+      "scenario": "A Texas appraisal notice arrives and the deadline printed on it matters.",
+      "overview": "Use the official appraisal district for the property address. Save the current forms, supporting evidence and filing confirmation."
     },
     {
       "id": "shp-136",
@@ -905,7 +975,7 @@
       "gear": [],
       "supplies": [],
       "steps": [
-        "Refrigerators: Avoid in-door ice makers inside the fresh-food fridge compartment (the #1 source of refrigerator service calls across all brands)\u2014choose models with the ice maker inside the FREEZER drawer instead.",
+        "Refrigerators: Avoid in-door ice makers inside the fresh-food fridge compartment (the #1 source of refrigerator service calls across all brands)—choose models with the ice maker inside the FREEZER drawer instead.",
         "Washers & Dryers: Top-load Speed Queen (mechanical/commercial build, 25-year lifespan) or basic LG front-loaders rank highest in technician reliability; skip Wi-Fi touchscreens and steam dispensers on budget dryers.",
         "Dishwashers: Bosch 300/500/800 series (stainless tub, quiet, condensation drying with no exposed heating element to melt plastics) consistently outlasts competitors."
       ],
@@ -916,7 +986,9 @@
         "refrigerator",
         "washer",
         "bosch"
-      ]
+      ],
+      "scenario": "A replacement appliance has attractive features but local service is uncertain.",
+      "overview": "Check dimensions, parts availability and nearby service before deciding. The installation and disposal costs belong in the comparison."
     },
     {
       "id": "shp-137",
@@ -928,8 +1000,8 @@
       "gear": [],
       "supplies": [],
       "steps": [
-        "Unlock the maximum 15% Subscribe & Save discount by scheduling 5+ low-cost household consumables (trash bags, filters, pet food, coffee, soaps) to deliver on the same monthly date\u2014then cancel or skip any item with one click right after shipment.",
-        "Check 'Amazon Resale' (formerly Amazon Warehouse) under 'Other Sellers on Amazon' for open-box/damaged-box household and craft goods at 15%\u201335% off with standard 30-day returns."
+        "Unlock the maximum 15% Subscribe & Save discount by scheduling 5+ low-cost household consumables (trash bags, filters, pet food, coffee, soaps) to deliver on the same monthly date—then cancel or skip any item with one click right after shipment.",
+        "Check 'Amazon Resale' (formerly Amazon Warehouse) under 'Other Sellers on Amazon' for open-box/damaged-box household and craft goods at 15%–35% off with standard 30-day returns."
       ],
       "safety": "Review your Subscribe & Save delivery email 5 days before ship date each month because item prices can change between deliveries.",
       "tags": [
@@ -937,7 +1009,9 @@
         "subscribe-and-save",
         "coupons",
         "deals"
-      ]
+      ],
+      "scenario": "An online discount changes according to subscription or order conditions.",
+      "overview": "Look at the actual checkout total and the future renewal terms. A first-order coupon need not apply to later deliveries."
     },
     {
       "id": "shp-138",
@@ -952,16 +1026,18 @@
       "supplies": [],
       "steps": [
         "Always filter eBay by 'Sold Items' (green prices) rather than active asking prices to see what used tools, collectibles, or antiques actually sell for.",
-        "In live or online auctions (HiBid, Proxibid, estate auctions): factor in the 15%\u201320% Buyer's Premium + sales tax BEFORE setting your strict maximum bid, and enter your max bid in the final 10 seconds rather than bidding up early."
+        "In live or online auctions (HiBid, Proxibid, estate auctions): factor in the 15%–20% Buyer's Premium + sales tax BEFORE setting your strict maximum bid, and enter your max bid in the final 10 seconds rather than bidding up early."
       ],
-      "safety": "Check auction pickup windows and loading rules\u2014many estate auctions give only a single 4-hour weekday pickup window and provide zero moving help.",
+      "safety": "Check auction pickup windows and loading rules—many estate auctions give only a single 4-hour weekday pickup window and provide zero moving help.",
       "tags": [
         "auctions",
         "ebay",
         "estate-sales",
         "valuation",
         "buying"
-      ]
+      ],
+      "scenario": "An auction lot is close to your limit while another bidder keeps increasing it.",
+      "overview": "Convert the bid to a total including premium, tax and pickup. Set the ceiling before the bidding starts."
     },
     {
       "id": "shp-139",
@@ -975,8 +1051,8 @@
       ],
       "supplies": [],
       "steps": [
-        "Place a free Security Freeze at all three major credit bureaus (Equifax, Experian, TransUnion) plus ChexSystems\u2014it blocks identity thieves from opening credit cards, auto loans, or bank accounts in your name even if your SSN is leaked.",
-        "Keep freezes active 365 days a year and use each bureau's app to temporarily 'thaw' for 24\u201348 hours only on the exact day you apply for a new credit card or auto loan."
+        "Place a free Security Freeze at all three major credit bureaus (Equifax, Experian, TransUnion) plus ChexSystems—it blocks identity thieves from opening credit cards, auto loans, or bank accounts in your name even if your SSN is leaked.",
+        "Keep freezes active 365 days a year and use each bureau's app to temporarily 'thaw' for 24–48 hours only on the exact day you apply for a new credit card or auto loan."
       ],
       "safety": "Security freezes are 100% free by federal law and have zero impact on your credit score or existing cards.",
       "tags": [
@@ -984,7 +1060,9 @@
         "identity-theft",
         "security",
         "finance"
-      ]
+      ],
+      "scenario": "A household member wants to reduce the chance of new accounts being opened in their name.",
+      "overview": "Manage each credit bureau separately and keep its recovery details secure. A future credit application may require a temporary lift."
     },
     {
       "id": "shp-140",
@@ -1000,7 +1078,7 @@
         "Gift tags / sticky notes"
       ],
       "steps": [
-        "Keep a dedicated 'Gift Closet Bin' stocked year-round with deeply discounted (50%\u201380% off) candles, board games, kitchen gadgets, craft kits, and hostess gifts found on post-holiday or end-of-season clearance.",
+        "Keep a dedicated 'Gift Closet Bin' stocked year-round with deeply discounted (50%–80% off) candles, board games, kitchen gadgets, craft kits, and hostess gifts found on post-holiday or end-of-season clearance.",
         "Stick a note on each item with the clearance price paid and who it fits so birthday, teacher, white-elephant, and last-minute hostess gifts never force full-price panic shopping."
       ],
       "safety": "Avoid storing food, chocolates, or batteries inside a long-term gift bin.",
@@ -1009,7 +1087,9 @@
         "clearance",
         "holiday-shopping",
         "organization"
-      ]
+      ],
+      "scenario": "A clearance gift is tempting and the intended recipient already has a nearly identical item.",
+      "overview": "A small recipient inventory prevents duplicate buying. Include return deadlines as well as hiding places."
     },
     {
       "id": "shp-141",
@@ -1023,7 +1103,7 @@
       ],
       "supplies": [],
       "steps": [
-        "Snap a quick photo of paper receipts for electronics, tools, shoes, and clothing right in the parking lot\u2014thermal receipt paper fades blank in hot cars and wallets within months.",
+        "Snap a quick photo of paper receipts for electronics, tools, shoes, and clothing right in the parking lot—thermal receipt paper fades blank in hot cars and wallets within months.",
         "Know standout retailer policies: Costco (unlimited satisfaction return on most items; 90 days on electronics), Target (1 full year on Target-owned brands like Cat & Jack / Threshold with receipt/app), L.L.Bean & REI (1 year)."
       ],
       "safety": "Check 'Final Sale' or restocking-fee fine print before ordering oversized items online.",
@@ -1033,7 +1113,9 @@
         "costco",
         "target",
         "consumer-rights"
-      ]
+      ],
+      "scenario": "You may need to return a purchase after the packaging is gone.",
+      "overview": "Store the order number, receipt and last eligible return date together. Record drop-off or tracking when it leaves your hands."
     },
     {
       "id": "shp-142",
@@ -1045,18 +1127,20 @@
       "gear": [],
       "supplies": [],
       "steps": [
-        "Book hotel stays directly with the hotel chain (Hilton, Marriott, Hyatt) rather than third-party OTAs (Expedia/Hotels.com)\u2014hotels price-match OTA rates AND give elite perks, flexible cancellation, and complimentary room upgrades only to direct bookings.",
-        "At check-in, smile warmly and ask: 'We're celebrating our anniversary/trip\u2014do you happen to have any complimentary corner or higher-floor upgrades available tonight?'",
-        "Use AutoSlash.com to track rental car reservations\u2014it automatically monitors rate drops and coupons until pickup day so you can rebook lower rates free."
+        "Book hotel stays directly with the hotel chain (Hilton, Marriott, Hyatt) rather than third-party OTAs (Expedia/Hotels.com)—hotels price-match OTA rates AND give elite perks, flexible cancellation, and complimentary room upgrades only to direct bookings.",
+        "At check-in, smile warmly and ask: 'We're celebrating our anniversary/trip—do you happen to have any complimentary corner or higher-floor upgrades available tonight?'",
+        "Use AutoSlash.com to track rental car reservations—it automatically monitors rate drops and coupons until pickup day so you can rebook lower rates free."
       ],
-      "safety": "Decline rental counter 'Prepaid Fuel' unless returning on fumes\u2014refilling at a station 3 miles away from the airport saves $2\u2013$3 per gallon.",
+      "safety": "Decline rental counter 'Prepaid Fuel' unless returning on fumes—refilling at a station 3 miles away from the airport saves $2–$3 per gallon.",
       "tags": [
         "hotels",
         "rental-cars",
         "upgrades",
         "travel-deals",
         "negotiation"
-      ]
+      ],
+      "scenario": "A hotel or rental counter offers an upgrade at an unclear price.",
+      "overview": "Ask whether the quoted amount is per day or per stay and request the revised total in writing."
     },
     {
       "id": "shp-143",
@@ -1072,17 +1156,19 @@
         "Electricity Facts Label (EFL)"
       ],
       "steps": [
-        "In Friendswood/Houston (CenterPoint territory), never renew an expiring electric plan automatically\u2014default renewal rates often jump to 18\u00a2\u201322\u00a2/kWh.",
+        "In Friendswood/Houston (CenterPoint territory), never renew an expiring electric plan automatically—default renewal rates often jump to 18¢–22¢/kWh.",
         "Download your exact 12-month kWh usage from SmartMeterTexas.com, open the official PowerToChoose.org site, filter for 'Fixed Rate' plans ONLY (avoid variable or 'free nights/weekends' gimmicks unless your usage matches), and read the PDF Electricity Facts Label (EFL) at 1,000 kWh and 2,000 kWh to avoid plans with punitive bill-credit cliffs."
       ],
-      "safety": "Set a calendar reminder 14 days before your contract end date\u2014Texas lets you lock in a new plan up to 14 days early with zero early-termination fee.",
+      "safety": "Set a calendar reminder 14 days before your contract end date—Texas lets you lock in a new plan up to 14 days early with zero early-termination fee.",
       "tags": [
         "electricity",
         "texas",
         "friendswood",
         "powertochoose",
         "bills"
-      ]
+      ],
+      "scenario": "Two Texas electricity plans advertise the same rate at a usage level unlike your own.",
+      "overview": "Apply each plan’s current fact sheet to several actual bills, including high summer usage. Compare fees and contract terms along with energy charges."
     },
     {
       "id": "shp-144",
@@ -1096,7 +1182,7 @@
         "Written eyeglass prescription + Pupillary Distance (PD)"
       ],
       "steps": [
-        "Eyeglasses: Always request your written prescription AND your Pupillary Distance (PD) measurement at the end of your eye exam\u2014order spare prescription glasses or prescription sunglasses online (Zenni, EyeBuyDirect, Costco Optical) for $30\u2013$90 instead of $450 at optical boutiques.",
+        "Eyeglasses: Always request your written prescription AND your Pupillary Distance (PD) measurement at the end of your eye exam—order spare prescription glasses or prescription sunglasses online (Zenni, EyeBuyDirect, Costco Optical) for $30–$90 instead of $450 at optical boutiques.",
         "Ask dentists and optometrists politely: 'If we pay in full today by cash/card rather than billing insurance or financing, what is your cash discount rate?'"
       ],
       "safety": "Verify prescription lens coatings (anti-reflective, UV400) when ordering online.",
@@ -1106,7 +1192,9 @@
         "cash-discount",
         "savings",
         "healthcare"
-      ]
+      ],
+      "scenario": "Two providers quote different amounts for what sounds like the same equipment or dental work.",
+      "overview": "Request itemized written estimates with specifications, follow-up care and warranty. Confirm clinical suitability with the provider."
     },
     {
       "id": "shp-145",
@@ -1118,7 +1206,7 @@
       "gear": [],
       "supplies": [],
       "steps": [
-        "1. Wait 24\u201348 hours on any non-emergency impulse purchase over $100.",
+        "1. Wait 24–48 hours on any non-emergency impulse purchase over $100.",
         "2. Check Keepa/Slickdeals price history to verify it is a genuine sale.",
         "3. Check Rakuten/TopCashback portal + discounted gift card availability (GCX/Costco/Sam's).",
         "4. Pay with a credit card offering extended warranty + purchase protection, and save the receipt photo."
@@ -1129,7 +1217,9 @@
         "smart-shopping",
         "deals",
         "budgeting"
-      ]
+      ],
+      "scenario": "A large purchase feels urgent and the sales offer is about to close.",
+      "overview": "Write the complete cost and the one unresolved condition on paper. A decision is easier when that uncertainty has a name."
     },
     {
       "id": "shp-146",
@@ -1145,8 +1235,8 @@
         "Mexican Pesos (MXN) or small USD bills"
       ],
       "steps": [
-        "Check the exact live USD-to-Peso exchange rate before stepping off the ship\u2014port vendors often quote an unfavorable in-house exchange rate (e.g., 16 pesos/$1 instead of 19\u201320 pesos/$1) when pricing in US dollars.",
-        "Paying in local Mexican Pesos withdrawn from a bank-affiliated ATM often saves 10%\u201315% immediately before bargaining even begins.",
+        "Check the exact live USD-to-Peso exchange rate before stepping off the ship—port vendors often quote an unfavorable in-house exchange rate (e.g., 16 pesos/$1 instead of 19–20 pesos/$1) when pricing in US dollars.",
+        "Paying in local Mexican Pesos withdrawn from a bank-affiliated ATM often saves 10%–15% immediately before bargaining even begins.",
         "Always inspect stitching, hat weave tightness, and silver clasps in bright sunlight before handing over cash."
       ],
       "safety": "Count change carefully before walking away from street stalls.",
@@ -1156,7 +1246,9 @@
         "pesos",
         "port-shopping",
         "bargaining"
-      ]
+      ],
+      "scenario": "A port artisan quotes dollars but offers a different price in pesos.",
+      "overview": "Convert both complete prices at a known rate and agree on currency before payment. Keep any authenticity claim on the receipt."
     },
     {
       "id": "shp-147",
@@ -1170,7 +1262,7 @@
       ],
       "supplies": [],
       "steps": [
-        "Snap grocery and gas receipts within 7 days into Ibotta (cash back on specific grocery/household items at H-E-B, Walmart, Target), Fetch Rewards (points on every receipt for gift cards), and Upside (10\u00a2\u201325\u00a2/gallon cash back at participating gas stations).",
+        "Snap grocery and gas receipts within 7 days into Ibotta (cash back on specific grocery/household items at H-E-B, Walmart, Target), Fetch Rewards (points on every receipt for gift cards), and Upside (10¢–25¢/gallon cash back at participating gas stations).",
         "Cash out balances to PayPal or Amazon/H-E-B gift cards once you hit $20 rather than letting points sit idle in apps."
       ],
       "safety": "Turn off background location tracking when not actively using gas-rebate apps to save phone battery.",
@@ -1180,7 +1272,9 @@
         "fetch",
         "upside",
         "gas-savings"
-      ]
+      ],
+      "scenario": "A receipt qualifies for several rebate apps and one requires activation before purchase.",
+      "overview": "Save the qualifying offer and verify the exact product. Track pending rewards separately from money received."
     },
     {
       "id": "shp-148",
@@ -1196,8 +1290,8 @@
         "Policy declarations page (note Windstorm/Hurricane % deductible vs. All-Peril deductible)"
       ],
       "steps": [
-        "In Galveston/Harris County, check whether your windstorm coverage is separate through TWIA (Texas Windstorm Insurance Association) and note your named-storm percentage deductible (typically 1%\u20132% of dwelling coverage).",
-        "Never file small claims barely above your deductible\u2014insurers surcharge rates or non-renew policies after multiple minor claims; save homeowner claims for major structural, roof, or water losses."
+        "In Galveston/Harris County, check whether your windstorm coverage is separate through TWIA (Texas Windstorm Insurance Association) and note your named-storm percentage deductible (typically 1%–2% of dwelling coverage).",
+        "Never file small claims barely above your deductible—insurers surcharge rates or non-renew policies after multiple minor claims; save homeowner claims for major structural, roof, or water losses."
       ],
       "safety": "Take dated photos/videos of storm damage BEFORE making temporary tarp repairs, and save every receipt for emergency tarps/lumber for reimbursement.",
       "tags": [
@@ -1206,7 +1300,9 @@
         "twia",
         "claims",
         "friendswood"
-      ]
+      ],
+      "scenario": "A storm damages property and the first repair estimate is already on the table.",
+      "overview": "Photographs, receipts and a dated contact log connect each expense to the claim. Verify the deductible against the actual policy."
     },
     {
       "id": "shp-149",
@@ -1218,8 +1314,8 @@
       "gear": [],
       "supplies": [],
       "steps": [
-        "Boats, RVs, and ATVs lose 25%\u201340% of their value in the first 2\u20133 years\u2014buy 2-to-4-year-old lightly used units from private owners in late autumn/winter (November\u2013January) when storage fees motivate sellers.",
-        "Negotiate 'freight, prep, and rigging fees' aggressively if buying new\u2014dealers frequently pad $1,500\u2013$3,000 in arbitrary prep charges on top of MSRP."
+        "Boats, RVs, and ATVs lose 25%–40% of their value in the first 2–3 years—buy 2-to-4-year-old lightly used units from private owners in late autumn/winter (November–January) when storage fees motivate sellers.",
+        "Negotiate 'freight, prep, and rigging fees' aggressively if buying new—dealers frequently pad $1,500–$3,000 in arbitrary prep charges on top of MSRP."
       ],
       "safety": "Always verify hull/VIN numbers match the title and check for active bank liens before paying cash.",
       "tags": [
@@ -1228,7 +1324,9 @@
         "trailers",
         "buying-guide",
         "negotiation"
-      ]
+      ],
+      "scenario": "A trailer or boat seems affordable from its sticker price alone.",
+      "overview": "Add storage, upkeep, insurance, towing and expected repairs before comparing ownership with occasional rental."
     },
     {
       "id": "shp-150",
@@ -1241,9 +1339,9 @@
       "supplies": [],
       "steps": [
         "Step 1: Inspect the itemized bill for 'Auto Gratuity', 'Propina', or 'Service Charge' BEFORE calculating anything.",
-        "Step 2: If an 18%\u201320% tip/gratuity is already included, write '$0 / Included' on the tip line\u2014never double-tip.",
+        "Step 2: If an 18%–20% tip/gratuity is already included, write '$0 / Included' on the tip line—never double-tip.",
         "Step 3: If an undisclosed 'Service Charge / Kitchen Fee' was added, subtract that exact dollar amount from your intended pre-tax tip (or ask a manager to remove an undisclosed fee).",
-        "Step 4: For standard un-surcharged sit-down dining, tip 15%\u201320% on the pre-tax food subtotal based on actual service quality; leave $0 at counter-pickup registers."
+        "Step 4: For standard un-surcharged sit-down dining, tip 15%–20% on the pre-tax food subtotal based on actual service quality; leave $0 at counter-pickup registers."
       ],
       "safety": "Keep your customer receipt copy until the charge clears your credit card statement to verify no unauthorized tip alteration occurred.",
       "tags": [
@@ -1251,7 +1349,42 @@
         "service-charge",
         "receipt-check",
         "rules"
-      ]
+      ],
+      "scenario": "A payment screen asks for an additional amount while a fee already appears on the bill.",
+      "overview": "Identify the charge, verify the final amount and decide whether an extra gratuity fits the service and your budget."
+    },
+    {
+      "id": "shp-151",
+      "sub": "Bills, Warranties & Consumer Rights",
+      "title": "Compare emergency repair quotes on one page",
+      "scenario": "Two companies quote a storm repair. One includes disposal and temporary weather protection, the other lists only materials and labor.",
+      "time": "20 minutes",
+      "diff": "Easy",
+      "gear": [
+        "Pen",
+        "Phone"
+      ],
+      "supplies": [
+        "Written quotes"
+      ],
+      "steps": [
+        "Copy the exact damaged area and desired repair onto one page. Give each contractor a separate column.",
+        "For each quote enter materials, labor, temporary protection, disposal, permits where applicable, schedule, payment stages and warranty. Mark omitted items as unknown instead of zero.",
+        "Ask each company for a written answer to the gaps. Verify contact and credentials independently, and check claim requirements directly with your insurer.",
+        "Compare the same completed job and save the selected scope with receipts and photographs."
+      ],
+      "overview": "The comparison exposes who is taking responsibility for each part of the work. A lower total with an important blank may need one more phone call before it is a real price.",
+      "sources": [
+        [
+          "FEMA · Documenting storm damage",
+          "https://www.fema.gov/print/pdf/node/694490"
+        ]
+      ],
+      "tags": [
+        "bills, warranties",
+        "consumer rights"
+      ],
+      "cat": "Smart Shopping & Negotiation"
     }
   ],
   "glossary": {
@@ -1271,7 +1404,9 @@
       "term": "Non-Ferrous Metal Testing Magnet",
       "aka": "Sterling silver & brass authenticity magnet",
       "svg": "magnet",
-      "def": "A small neodymium pocket magnet used at flea markets, estate sales, and port stalls to verify solid sterling silver, brass, and copper\u2014genuine precious and non-ferrous metals will not attract a magnet."
+      "def": "A small neodymium pocket magnet used at flea markets, estate sales, and port stalls to verify solid sterling silver, brass, and copper—genuine precious and non-ferrous metals will not attract a magnet."
     }
-  }
+  },
+  "count": 51,
+  "version": "2026.11.15-birthday-r1"
 }

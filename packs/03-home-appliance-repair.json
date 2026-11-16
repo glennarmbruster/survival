@@ -18,7 +18,7 @@
         "Open the main electrical panel and look for a breaker handle sitting in the middle (tripped) position rather than fully ON or OFF.",
         "Unplug high-wattage appliances on that circuit (space heaters, hair dryers, air fryers) before resetting.",
         "Push the tripped breaker handle firmly all the way to the OFF position until it clicks, then flip it back to ON.",
-        "If the breaker trips again immediately with nothing plugged in, leave it OFF and call an electrician\u2014this indicates a hard short circuit or ground fault."
+        "If the breaker trips again immediately with nothing plugged in, leave it OFF and call an electrician—this indicates a hard short circuit or ground fault."
       ],
       "safety": "Stand to the side of the panel (never directly in front) when flipping a breaker back on, and never touch the panel with wet hands.",
       "tags": [
@@ -27,7 +27,9 @@
         "panel",
         "power",
         "troubleshooting"
-      ]
+      ],
+      "scenario": "One room loses power when two heating appliances are running.",
+      "overview": "Identify what was drawing power and whether the protective device trips again. Repeated trips, wet equipment, heat or odors call for an electrician."
     },
     {
       "id": "rep-102",
@@ -41,7 +43,7 @@
       ],
       "supplies": [],
       "steps": [
-        "When a bathroom, kitchen, garage, or outdoor outlet goes dead, check all nearby GFCI outlets\u2014one upstream GFCI often protects several downstream standard outlets.",
+        "When a bathroom, kitchen, garage, or outdoor outlet goes dead, check all nearby GFCI outlets—one upstream GFCI often protects several downstream standard outlets.",
         "Press the TEST button on the GFCI outlet; the RESET button should pop out with a distinct click.",
         "Press the RESET button firmly until it latches flush, then plug in a GFCI tester or lamp to confirm power is restored.",
         "If the RESET button refuses to latch or pops immediately, moisture has entered an exterior box or an appliance has a ground fault."
@@ -53,39 +55,36 @@
         "electrical",
         "bathroom",
         "garage"
-      ]
+      ],
+      "scenario": "Several bathroom outlets have stopped working at once.",
+      "overview": "A single upstream GFCI may protect multiple outlets. Label which ones lose power when its test button is pressed."
     },
     {
       "id": "rep-103",
       "cat": "Home & Appliance Repair",
       "sub": "Electrical & Safety",
-      "title": "Replacing a Dead Standard Wall Outlet or Light Switch",
+      "title": "Isolate a faulty outlet or switch and describe the repair",
       "diff": "Medium",
-      "time": "30 mins",
+      "time": "10 minutes",
       "gear": [
-        "Non-contact voltage tester",
-        "Wire strippers",
-        "Phillips & flathead screwdrivers",
-        "Needle-nose pliers"
+        "Flashlight",
+        "Phone"
       ],
-      "supplies": [
-        "15A or 20A Tamper-Resistant outlet/switch (match breaker amperage)",
-        "Electrical tape"
-      ],
+      "supplies": [],
       "steps": [
-        "Turn off the circuit breaker and verify zero voltage on all wires inside the box using a non-contact voltage tester.",
-        "Photograph the existing wire positions before disconnecting: black (hot) goes to brass screw, white (neutral) goes to silver screw, bare copper/green goes to green ground screw.",
-        "Strip 3/4-inch of insulation, bend clockwise J-hooks with needle-nose pliers, tighten securely under the side screw terminals (avoid push-in backstab holes), and wrap electrical tape around the sides of the device.",
-        "Fold wires neatly into the box, screw in the device, restore breaker power, and verify polarity with an outlet tester."
+        "Stop using the affected device. If there is smoke or fire, leave and call 911 from outside.",
+        "If the panel is dry, undamaged and accessible, switch off the identified branch circuit without removing any panel cover. Leave wet or damaged equipment alone.",
+        "Record the room, what was connected and any discoloration, odor or loose faceplate. Ask a qualified electrician to identify the fault, repair it and verify the circuit."
       ],
-      "safety": "Never assume a wall switch turns off power inside an outlet box\u2014always confirm with a non-contact voltage tester.",
+      "safety": "A non-contact voltage tester cannot establish that conductors are safe to touch.",
       "tags": [
         "outlet",
         "switch",
-        "wiring",
         "electrical",
-        "diy"
-      ]
+        "service"
+      ],
+      "scenario": "An outlet or switch has stopped working and you need the room safe until it is assessed.",
+      "overview": "A useful service note identifies the device, the affected circuit and any heat, odor or visible damage. Internal wiring belongs with a qualified electrician."
     },
     {
       "id": "rep-104",
@@ -103,10 +102,10 @@
         "Microfiber cloth"
       ],
       "steps": [
-        "Turn off the fan and dust the top of every blade\u2014uneven dust buildup alone causes wobbling.",
+        "Turn off the fan and dust the top of every blade—uneven dust buildup alone causes wobbling.",
         "Set the direction switch on the motor housing: counterclockwise (pushing air straight down) for Texas summer wind-chill cooling; clockwise on low speed in winter to push warm ceiling air down walls.",
         "Tighten all blade-bracket screws and canopy mounting screws.",
-        "Clip the plastic balancing clip to the center trailing edge of one blade, run the fan, and test each blade until the wobble stops\u2014then stick the adhesive weight on top of that blade aligned with the clip."
+        "Clip the plastic balancing clip to the center trailing edge of one blade, run the fan, and test each blade until the wobble stops—then stick the adhesive weight on top of that blade aligned with the clip."
       ],
       "safety": "Wait for blades to come to a complete stop before reaching up to flip the direction switch.",
       "tags": [
@@ -115,7 +114,9 @@
         "wobble",
         "summer",
         "maintenance"
-      ]
+      ],
+      "scenario": "The ceiling fan wobbles after cleaning or the room feels drafty in winter.",
+      "overview": "Direction and balance are separate adjustments. Judge the result from below with the fan operating normally after each change."
     },
     {
       "id": "rep-105",
@@ -132,7 +133,7 @@
         "Fresh 9V/AA alkaline batteries or 10-year sealed replacement unit"
       ],
       "steps": [
-        "Check the manufacture date printed on the back of the unit\u2014smoke alarms expire after 10 years and CO sensors expire after 7\u201310 years, chirping permanently at end-of-life.",
+        "Check the manufacture date printed on the back of the unit—smoke alarms expire after 10 years and CO sensors expire after 7–10 years, chirping permanently at end-of-life.",
         "Vacuum dust and cobwebs out of the sensor vents (dust triggers false alarms in high humidity).",
         "Install fresh batteries, hold the TEST button for 5 seconds until the horn sounds, and press and hold TEST for 15 seconds after battery swap to drain residual capacitor charge if chirping persists."
       ],
@@ -142,7 +143,9 @@
         "carbon-monoxide",
         "safety",
         "battery"
-      ]
+      ],
+      "scenario": "A chirp keeps waking the house and nobody knows which alarm made it.",
+      "overview": "Read the pattern and replacement date from the specific unit. An active smoke or CO alarm requires an immediate escape response."
     },
     {
       "id": "rep-106",
@@ -171,7 +174,9 @@
         "emergency",
         "freeze-prep",
         "leak"
-      ]
+      ],
+      "scenario": "A supply line leaks and the fixture shutoff will not turn.",
+      "overview": "Knowing the household shutoff in advance limits the search during a leak. Mark the customer-side valve after locating it."
     },
     {
       "id": "rep-107",
@@ -194,14 +199,16 @@
         "Wipe mineral grime off the flush valve rim with a sponge and snap on a chlorine-resistant silicone flapper with 1/2-inch slack in the chain.",
         "If the fill valve hisses or takes over 60 seconds to fill, unscrew the supply line underneath, swap in a new universal fill valve, and adjust water level 1/2-inch below the overflow rim."
       ],
-      "safety": "Hand-tighten the plastic fill-valve locknut plus 1/4 turn only\u2014over-tightening can crack the porcelain tank.",
+      "safety": "Hand-tighten the plastic fill-valve locknut plus 1/4 turn only—over-tightening can crack the porcelain tank.",
       "tags": [
         "toilet",
         "plumbing",
         "flapper",
         "leak",
         "water-bill"
-      ]
+      ],
+      "scenario": "The toilet refills between uses even when nobody flushes.",
+      "overview": "Observe whether water is passing the flapper or entering the overflow tube. That distinction identifies which part to service first."
     },
     {
       "id": "rep-108",
@@ -222,18 +229,20 @@
       ],
       "steps": [
         "Turn the wall switch OFF (and unplug the unit under the sink for extra safety).",
-        "Shine a flashlight into the chamber and remove any dropped spoon, bone, or glass using long tongs\u2014never put your hand inside.",
+        "Shine a flashlight into the chamber and remove any dropped spoon, bone, or glass using long tongs—never put your hand inside.",
         "Insert a 1/4-inch Allen wrench into the center hex socket on the very bottom exterior of the disposal and crank back and forth until the flywheel spins freely.",
         "Press the small red overload RESET button on the bottom of the motor housing, restore power, run cold water, and grind a cup of ice cubes + salt to scour the impellers."
       ],
-      "safety": "Never pour chemical drain cleaners into a garbage disposal\u2014they corrode seals and splash back when plunging.",
+      "safety": "Never pour chemical drain cleaners into a garbage disposal—they corrode seals and splash back when plunging.",
       "tags": [
         "garbage-disposal",
         "kitchen",
         "plumbing",
         "jam",
         "reset"
-      ]
+      ],
+      "scenario": "The disposal hums but the grinding plate does not turn.",
+      "overview": "A jam and an overload trip can happen together. Keep hands out of the chamber and disconnect power before clearing it."
     },
     {
       "id": "rep-109",
@@ -264,7 +273,9 @@
         "clog",
         "plumbing",
         "drain"
-      ]
+      ],
+      "scenario": "A ring vanished down the sink before the tap was turned on again.",
+      "overview": "Stop using the sink and catch the trap water in a basin. A dry tissue around the reassembled joints reveals a slow leak."
     },
     {
       "id": "rep-110",
@@ -288,14 +299,16 @@
         "Pour 1/2 cup baking soda followed by 1 cup white vinegar down the drain, plug for 15 minutes while it fizzes, and flush with hot water.",
         "Reinsert the pop-up stopper through the pivot rod loop and tighten the retaining nut."
       ],
-      "safety": "Never use boiling water on PVC pipes if joints are old or glued with standard PVC cement\u2014use hot tap water (120\u00b0F\u2013140\u00b0F).",
+      "safety": "Never use boiling water on PVC pipes if joints are old or glued with standard PVC cement—use hot tap water (120°F–140°F).",
       "tags": [
         "drain",
         "clog",
         "bathroom",
         "hair",
         "plumbing"
-      ]
+      ],
+      "scenario": "The bathroom basin drains slowly and hair is visible near the stopper.",
+      "overview": "Work outward from the accessible blockage. Knowing whether chemicals were previously poured in matters before dismantling a drain."
     },
     {
       "id": "rep-111",
@@ -327,7 +340,9 @@
         "cartridge",
         "plumbing",
         "kitchen"
-      ]
+      ],
+      "scenario": "A faucet drips even when the handle is fully closed.",
+      "overview": "Match the cartridge to the model and its orientation before discarding the old one. Test both shutoff and flow after reassembly."
     },
     {
       "id": "rep-112",
@@ -348,14 +363,16 @@
         "Open a hot water faucet inside the house to break the vacuum, then open the bottom drain valve and let sediment flush out.",
         "Briefly open the cold-water inlet valve in 15-second bursts to swirl remaining scale off the tank floor until water runs clear, then close drain, refill tank completely (bleeding air at the indoor faucet), and restore power/gas."
       ],
-      "safety": "Drained water is scalding hot (120\u00b0F\u2013140\u00b0F); keep children and pets away from the hose outlet, and never turn power back on until water flows steadily from an indoor hot tap.",
+      "safety": "Drained water is scalding hot (120°F–140°F); keep children and pets away from the hose outlet, and never turn power back on until water flows steadily from an indoor hot tap.",
       "tags": [
         "water-heater",
         "flushing",
         "maintenance",
         "sediment",
         "plumbing"
-      ]
+      ],
+      "scenario": "The water-heater manual calls for a sediment flush and the tank is still hot.",
+      "overview": "Identify the energy source, drain route and refill procedure before starting. Never energize an empty tank."
     },
     {
       "id": "rep-113",
@@ -384,7 +401,9 @@
         "outdoor",
         "plumbing",
         "freeze-prep"
-      ]
+      ],
+      "scenario": "The outdoor faucet drips after the brief drainage expected on shutoff.",
+      "overview": "Locate where water escapes and under what conditions. Leakage inside a wall needs a different response from a worn exterior seal."
     },
     {
       "id": "rep-114",
@@ -407,7 +426,7 @@
         "Go to the indoor air handler, remove the cap on the vertical PVC cleanout T-fitting, and pour 1 cup of white vinegar down the line to kill algae.",
         "Repeat the vinegar flush every 30 days from April through October."
       ],
-      "safety": "Never pour chlorine bleach into an AC drain line\u2014bleach fumes corrode the copper/aluminum evaporator coil.",
+      "safety": "Never pour chlorine bleach into an AC drain line—bleach fumes corrode the copper/aluminum evaporator coil.",
       "tags": [
         "ac",
         "hvac",
@@ -415,7 +434,9 @@
         "drain-line",
         "summer",
         "friendswood"
-      ]
+      ],
+      "scenario": "The AC stops and water appears near the indoor unit.",
+      "overview": "Locate the drain outlet and check for overflow. Wet electrical parts or water entering a ceiling warrant professional service."
     },
     {
       "id": "rep-115",
@@ -435,48 +456,45 @@
       "steps": [
         "Pull the exterior electrical disconnect block (or turn off the AC breaker) before touching the outdoor unit.",
         "Clear grass clippings, leaves, and vines at least 24 inches back from all four sides of the condenser.",
-        "Spray foaming coil cleaner onto the aluminum fins from the outside, wait 10 minutes, and rinse gently from the inside out (or straight downward) with a regular garden hose\u2014never a pressure washer.",
+        "Spray foaming coil cleaner onto the aluminum fins from the outside, wait 10 minutes, and rinse gently from the inside out (or straight downward) with a regular garden hose—never a pressure washer.",
         "Reinsert the disconnect block and verify cool air returns within 10 minutes."
       ],
-      "safety": "Never use a pressure washer on condenser fins\u2014high pressure bends the thin aluminum fins flat and ruins airflow.",
+      "safety": "Never use a pressure washer on condenser fins—high pressure bends the thin aluminum fins flat and ruins airflow.",
       "tags": [
         "ac",
         "hvac",
         "coils",
         "summer",
         "efficiency"
-      ]
+      ],
+      "scenario": "Grass clippings have collected on the outside of the condenser.",
+      "overview": "Clearing the airflow path is the homeowner’s first check. Bent fins and electrical compartments require different handling from loose yard debris."
     },
     {
       "id": "rep-116",
       "cat": "Home & Appliance Repair",
       "sub": "HVAC & Comfort",
-      "title": "Replacing a Failed AC Run Capacitor (Compressor/Fan Won't Start)",
+      "title": "AC hums but the outdoor fan stays still",
       "diff": "Medium",
-      "time": "30 mins",
+      "time": "5 minutes",
       "gear": [
-        "Insulated screwdriver",
-        "Needle-nose pliers",
-        "1/4-inch nut driver",
-        "Multimeter"
+        "Phone"
       ],
-      "supplies": [
-        "Exact-match dual-run capacitor (e.g., 45/5 \u00b5F 440V)"
-      ],
+      "supplies": [],
       "steps": [
-        "If the outdoor AC fan hums but won't spin (or won't start with a stick push), pull the exterior disconnect switch AND turn off the indoor AC breaker.",
-        "Remove the service panel, take a clear photo of wire colors on HERM, FAN, and C terminals, and discharge the old capacitor by laying an insulated-handle screwdriver shaft across all three terminals simultaneously.",
-        "Transfer wires one-by-one onto the matching terminals of a new dual-run capacitor with identical microfarad (\u00b5F) ratings.",
-        "Reinstall the panel, restore power, and confirm the fan and compressor start immediately."
+        "Switch cooling off at the thermostat. Keep people and tools away from the fan opening.",
+        "From outside the closed enclosure, note the model, any unusual noise and whether the indoor blower had been running. Photograph the label if safely accessible.",
+        "Call qualified HVAC service and leave the unit off. Arrange a cool place to stay if indoor heat is becoming unsafe."
       ],
-      "safety": "Capacitors store lethal high-voltage charge even with power off\u2014always discharge across terminals with an insulated screwdriver before touching.",
+      "safety": "Capacitors can retain a dangerous charge after disconnection. Keep the electrical compartment closed.",
       "tags": [
-        "ac",
+        "AC",
         "capacitor",
-        "hvac",
-        "emergency",
-        "summer"
-      ]
+        "fan",
+        "cooling"
+      ],
+      "scenario": "The outdoor AC hums but the fan is still during a hot afternoon.",
+      "overview": "A stopped fan alone cannot diagnose a capacitor. Record the symptom and keep the unit off while arranging qualified service."
     },
     {
       "id": "rep-117",
@@ -489,11 +507,11 @@
         "Vacuum with brush attachment"
       ],
       "supplies": [
-        "Pleated MERV 8\u201311 air filters"
+        "Pleated MERV 8–11 air filters"
       ],
       "steps": [
-        "Check filter size printed on the cardboard frame and replace every 30\u201360 days during heavy summer cooling.",
-        "Stick to pleated MERV 8 to MERV 11 filters\u2014ultra-dense MERV 13+ filters restrict airflow on residential blowers and can freeze the indoor coil.",
+        "Check filter size printed on the cardboard frame and replace every 30–60 days during heavy summer cooling.",
+        "Stick to pleated MERV 8 to MERV 11 filters—ultra-dense MERV 13+ filters restrict airflow on residential blowers and can freeze the indoor coil.",
         "Align the airflow arrow printed on the filter frame pointing INTO the return duct (toward the blower/attic).",
         "Vacuum dust off the metal return grille louvers before latching."
       ],
@@ -504,7 +522,9 @@
         "merv",
         "maintenance",
         "ac"
-      ]
+      ],
+      "scenario": "A higher-rated filter fits the opening but the system struggles for air.",
+      "overview": "The equipment’s allowed filter range and the arrow showing airflow determine the replacement. Write the actual part size at the return."
     },
     {
       "id": "rep-118",
@@ -522,16 +542,18 @@
       "steps": [
         "Unplug the refrigerator, pull it out (or remove the front bottom kickplate), and vacuum thick dust and pet hair off the black condenser coils underneath or behind.",
         "Verify the condenser fan next to the compressor spins freely when plugged back in.",
-        "If the freezer is cold (0\u00b0F) but the fresh-food fridge section is warm (50\u00b0F+), open the freezer door and listen for the evaporator fan\u2014if silent or frosted solid, manually defrost the freezer with a hair dryer on low for 30 minutes and check the defrost heater/fan."
+        "If the freezer is cold (0°F) but the fresh-food fridge section is warm (50°F+), open the freezer door and listen for the evaporator fan—if silent or frosted solid, manually defrost the freezer with a hair dryer on low for 30 minutes and check the defrost heater/fan."
       ],
-      "safety": "Keep coolers with ice packs ready before unplugging a warm refrigerator so perishables stay below 40\u00b0F.",
+      "safety": "Keep coolers with ice packs ready before unplugging a warm refrigerator so perishables stay below 40°F.",
       "tags": [
         "refrigerator",
         "appliance",
         "cooling",
         "coils",
         "pet-hair"
-      ]
+      ],
+      "scenario": "The refrigerator light is on but the food compartment feels warm.",
+      "overview": "Measure the compartment temperature and move perishables to verified cold storage while checking accessible airflow."
     },
     {
       "id": "rep-119",
@@ -561,7 +583,9 @@
         "seal",
         "energy",
         "appliance"
-      ]
+      ],
+      "scenario": "Condensation keeps forming near one corner of the refrigerator door.",
+      "overview": "Test the seal in several places. A single loose spot suggests a different issue from weak contact all the way around."
     },
     {
       "id": "rep-120",
@@ -592,7 +616,9 @@
         "filter",
         "cleaning",
         "kitchen"
-      ]
+      ],
+      "scenario": "There’s gritty residue on the dishes and water remains after the cycle.",
+      "overview": "Inspect the filter and the drain path as separate clues. Check the appliance manual for what water level is normal below the filter."
     },
     {
       "id": "rep-121",
@@ -611,17 +637,19 @@
       ],
       "steps": [
         "Unplug the washer. On front-loaders, open the small lower-front access door, place a shallow pan and towel underneath, drain water through the small black hose, and unscrew the coin-trap filter to remove socks, coins, or hairpins.",
-        "On top-loaders that fill and agitate but refuse to spin or drain, press the lid switch actuator with a pen\u2014if it does not click, the lid switch assembly has failed.",
-        "Check that the drain hose goes no more than 4\u20136 inches down the standpipe (pushing it too deep causes siphoning) and is free of kinks."
+        "On top-loaders that fill and agitate but refuse to spin or drain, press the lid switch actuator with a pen—if it does not click, the lid switch assembly has failed.",
+        "Check that the drain hose goes no more than 4–6 inches down the standpipe (pushing it too deep causes siphoning) and is free of kinks."
       ],
-      "safety": "Have plenty of towels and a shallow pan ready before unscrewing a front-load pump filter\u2014up to 2 gallons of water may pour out.",
+      "safety": "Have plenty of towels and a shallow pan ready before unscrewing a front-load pump filter—up to 2 gallons of water may pour out.",
       "tags": [
         "washer",
         "laundry",
         "drain-pump",
         "filter",
         "appliance"
-      ]
+      ],
+      "scenario": "The washer has stopped full of water with a load still inside.",
+      "overview": "A drain problem can prevent spinning. Prepare for the stored water before opening any user-serviceable filter."
     },
     {
       "id": "rep-122",
@@ -642,17 +670,19 @@
       "steps": [
         "Unplug the dryer, slide it forward, and disconnect the flexible transition hose from the wall duct.",
         "Run a rotary dryer vent brush all the way from the indoor wall pipe to the exterior exhaust hood while running a leaf blower or shop vac to clear trapped lint.",
-        "Inside the dryer drum near the lint screen, wipe the two metal moisture sensor bars with rubbing alcohol\u2014dryer-sheet residue coats them and causes the dryer to shut off while clothes are still damp.",
+        "Inside the dryer drum near the lint screen, wipe the two metal moisture sensor bars with rubbing alcohol—dryer-sheet residue coats them and causes the dryer to shut off while clothes are still damp.",
         "Reconnect with rigid or semi-rigid aluminum duct sealed with UL-listed foil tape."
       ],
-      "safety": "Never use white vinyl accordion vent hose\u2014it traps lint and melts easily in a dryer fire.",
+      "safety": "Never use white vinyl accordion vent hose—it traps lint and melts easily in a dryer fire.",
       "tags": [
         "dryer",
         "lint",
         "fire-safety",
         "maintenance",
         "laundry"
-      ]
+      ],
+      "scenario": "Towels now take a second dryer cycle although the lint screen looks clean.",
+      "overview": "Check the full exhaust path and outside flap. A sensor issue and restricted airflow can produce similar complaints."
     },
     {
       "id": "rep-123",
@@ -673,7 +703,7 @@
       "steps": [
         "Turn all burner knobs OFF and let grates cool completely.",
         "Lift off the burner grates, round burner caps, and aluminum burner heads; soak in warm soapy water and scrub every slotted gas port clean with a toothbrush and toothpick.",
-        "Scrub the white ceramic spark igniter tip with a dry toothbrush and rubbing alcohol\u2014food splatter grounds out the spark or causes continuous clicking after boil-overs.",
+        "Scrub the white ceramic spark igniter tip with a dry toothbrush and rubbing alcohol—food splatter grounds out the spark or causes continuous clicking after boil-overs.",
         "Dry every piece 100% completely before reassembling (damp caps cause yellow, uneven flames)."
       ],
       "safety": "Never use metal pins or drill bits to enlarge brass gas orifices underneath the burner head.",
@@ -683,7 +713,9 @@
         "burner",
         "kitchen",
         "appliance"
-      ]
+      ],
+      "scenario": "A cleaned gas burner clicks long after it should light.",
+      "overview": "Note which burner was wet or moved during cleaning. A gas odor calls for leaving the building and contacting the gas utility from outside."
     },
     {
       "id": "rep-124",
@@ -706,14 +738,16 @@
         "Remove the two rear mounting screws, gently pull the element forward 2 inches, pull off the two spade wires (keep wires from slipping back into the insulation), and test continuity across the element terminals with a multimeter.",
         "If continuity reads infinite (OL), slide the spade connectors onto the new element and screw it back into place."
       ],
-      "safety": "Verify power is off at the breaker\u2014electric ovens run on 240 volts.",
+      "safety": "Verify power is off at the breaker—electric ovens run on 240 volts.",
       "tags": [
         "oven",
         "bake-element",
         "multimeter",
         "kitchen",
         "appliance"
-      ]
+      ],
+      "scenario": "The oven display works but the food stays cold.",
+      "overview": "Record the model, mode and any error message before arranging service. Gas ignition and electric heating elements use different parts."
     },
     {
       "id": "rep-125",
@@ -735,7 +769,7 @@
       "steps": [
         "For nail pops: drive a new drywall screw 1.5 inches above and below the popped nail to secure the sheetrock, then hammer the popped nail slightly below the paper surface.",
         "For doorknob holes (up to 4 inches): scrape away loose crumbs, stick a self-adhesive aluminum/mesh patch over the hole, and spread joint compound in a thin X-pattern feathering 3 inches past the edges.",
-        "Let dry completely (2\u20134 hours), apply a second wider skim coat, sand smooth with a 120-grit sponge, prime, and touch up paint."
+        "Let dry completely (2–4 hours), apply a second wider skim coat, sand smooth with a 120-grit sponge, prime, and touch up paint."
       ],
       "safety": "Wear a dust mask when sanding dry joint compound.",
       "tags": [
@@ -744,7 +778,9 @@
         "spackle",
         "walls",
         "painting"
-      ]
+      ],
+      "scenario": "A doorknob punched through drywall just above the baseboard.",
+      "overview": "The size and support behind the damaged area determine the patch. Feathering the compound beyond its edge hides the repair under paint."
     },
     {
       "id": "rep-126",
@@ -763,7 +799,7 @@
         "Wooden golf tees or toothpicks + wood glue"
       ],
       "steps": [
-        "Check the top hinge first\u2014gravity pulls the top hinge screws loose over time, dropping the latch side of the door.",
+        "Check the top hinge first—gravity pulls the top hinge screws loose over time, dropping the latch side of the door.",
         "Remove one short screw from the top hinge jamb leaf and drive a 3-inch wood screw straight through into the wall framing stud to pull the door back square.",
         "If screw holes are stripped, dip wooden toothpicks or a golf tee in wood glue, tap them into the hole, snap flush, and drive the screw back in.",
         "If the latch still misses by 1/8-inch, unscrew the strike plate and enlarge the inner edge slightly with a metal file."
@@ -775,7 +811,9 @@
         "latch",
         "carpentry",
         "hardware"
-      ]
+      ],
+      "scenario": "The bedroom door catches at one corner and misses its strike plate.",
+      "overview": "Read the gap around the door before moving the strike. Loose hinge screws can shift the entire latch out of position."
     },
     {
       "id": "rep-127",
@@ -795,9 +833,9 @@
         "Painter's tape"
       ],
       "steps": [
-        "Scrape out 100% of old peeling caulk\u2014new silicone will not bond to old silicone.",
+        "Scrape out 100% of old peeling caulk—new silicone will not bond to old silicone.",
         "Wipe the joint clean with 70% isopropyl alcohol and let dry completely (fill a bathtub halfway with water before caulking so the tub is at maximum weight load).",
-        "Apply parallel strips of painter's tape 1/8-inch from both sides of the seam, cut the caulk nozzle at a 45\u00b0 angle to match the gap width, and run a smooth continuous bead.",
+        "Apply parallel strips of painter's tape 1/8-inch from both sides of the seam, cut the caulk nozzle at a 45° angle to match the gap width, and run a smooth continuous bead.",
         "Tool the bead immediately with a wet finger, pull painter's tape off right away before caulk skins over, and let cure 24 hours before showering."
       ],
       "safety": "Ensure bathroom exhaust fan or window is open while applying 100% silicone caulk.",
@@ -807,7 +845,9 @@
         "shower",
         "silicone",
         "mold-prevention"
-      ]
+      ],
+      "scenario": "Caulk has lifted at the back of the sink and moisture gets beneath it.",
+      "overview": "A clean, dry joint and the product’s full cure time matter to the finished seal. Investigate persistent moisture behind the joint first."
     },
     {
       "id": "rep-128",
@@ -825,17 +865,19 @@
       ],
       "steps": [
         "If the garage door reverses immediately when closing, check the two photo-eye sensors 6 inches above the floor on each track: wipe dust/cobwebs off both lenses and bend the bracket gently until both LEDs glow solid (not blinking).",
-        "Lubricate steel rollers, hinges, and the overhead torsion spring with garage-door silicone spray\u2014NEVER grease the tracks themselves (grease traps grit and makes rollers skid).",
+        "Lubricate steel rollers, hinges, and the overhead torsion spring with garage-door silicone spray—NEVER grease the tracks themselves (grease traps grit and makes rollers skid).",
         "Test the auto-reverse safety feature by placing a 2x4 board flat under the center of the door; the door must reverse within 2 seconds of touching the wood."
       ],
-      "safety": "NEVER loosen or adjust the high-tension overhead torsion springs or bottom corner brackets\u2014they store lethal energy.",
+      "safety": "NEVER loosen or adjust the high-tension overhead torsion springs or bottom corner brackets—they store lethal energy.",
       "tags": [
         "garage-door",
         "sensors",
         "lubrication",
         "safety",
         "maintenance"
-      ]
+      ],
+      "scenario": "The garage door reverses with an empty driveway.",
+      "overview": "Check for an interrupted safety beam from floor level. Leave springs, cables and a crooked or heavy door for a garage-door technician."
     },
     {
       "id": "rep-129",
@@ -864,7 +906,9 @@
         "ac",
         "door",
         "drafts"
-      ]
+      ],
+      "scenario": "Afternoon heat enters along a bright line beneath the door.",
+      "overview": "Match the seal to the moving gap and test the latch afterward. A weather seal does not provide structural storm protection."
     },
     {
       "id": "rep-130",
@@ -888,14 +932,16 @@
         "Start the generator with nothing plugged in, let warm up 3 minutes, then plug in appliances one at a time starting with the largest motor load first (fridge/freezer, then fans/lights/chargers).",
         "Treat stored gasoline with fuel stabilizer on Day 1, rotate cans into your car every 6 months, and run the generator dry (or drain the carburetor bowl) before long-term storage."
       ],
-      "safety": "NEVER run a generator inside a garage\u2014even with the garage door open\u2014and NEVER back-feed power into a wall outlet with a double-male 'suicide cord.'",
+      "safety": "NEVER run a generator inside a garage—even with the garage door open—and NEVER back-feed power into a wall outlet with a double-male 'suicide cord.'",
       "tags": [
         "generator",
         "hurricane",
         "power-outage",
         "fuel",
         "safety"
-      ]
+      ],
+      "scenario": "The power is out and two appliances want more starting power than the generator can deliver.",
+      "overview": "Placement, rated load and startup order are separate decisions. A generator requires outdoor operation at least 20 feet from the home with exhaust directed away."
     },
     {
       "id": "rep-131",
@@ -920,45 +966,47 @@
         "Unscrew the brass main jet hidden inside the center post using a snug-fitting flathead screwdriver.",
         "Poke a single thin strand of copper wire through the tiny pinhole in the brass jet, spray carb cleaner through all passages, reassemble, and turn fuel back ON."
       ],
-      "safety": "Wear safety glasses\u2014pressurized carb cleaner sprays back out of tiny passages unexpectedly.",
+      "safety": "Wear safety glasses—pressurized carb cleaner sprays back out of tiny passages unexpectedly.",
       "tags": [
         "carburetor",
         "generator",
         "lawnmower",
         "small-engine",
         "fuel"
-      ]
+      ],
+      "scenario": "A small engine starts briefly after storage and then dies.",
+      "overview": "Old fuel and restricted passages can look alike. Record the fuel condition and engine model before buying carburetor parts."
     },
     {
       "id": "rep-132",
       "cat": "Home & Appliance Repair",
       "sub": "Exterior & Roof",
-      "title": "Emergency Roof Tarp & Attic Leak Containment After a Storm",
+      "title": "Storm roof leak: protect people and document damage",
       "diff": "Medium",
-      "time": "1 hour",
+      "time": "Immediate",
       "gear": [
-        "Extension ladder",
-        "Hammer",
-        "Utility knife",
-        "Bucket"
+        "Phone"
       ],
-      "supplies": [
-        "Heavy-duty 10-mil+ tarp",
-        "2x4 furring strips",
-        "3-inch cap nails or deck screws"
-      ],
+      "supplies": [],
       "steps": [
-        "Inside the attic: place a plastic tub on a piece of plywood spanning across ceiling joists directly under the drip; if ceiling drywall is bulging with water, poke a small screwdriver hole in the center over a bucket to relieve weight before the whole sheet collapses.",
-        "Once wind and lightning have completely passed, lay a heavy tarp over the damaged roof section extending at least 4 feet past the leak and draping over the ridge peak so water cannot run underneath.",
-        "Wrap the tarp edges twice around 2x4 lumber strips and nail/screw through the wood strips into the roof decking\u2014never nail directly through bare tarp grommets, which rip out in the first gust."
+        "Move people and pets away from bulging ceilings, wet outlets and falling debris. Leave the building if its structure or electrical safety is uncertain.",
+        "From a safe, dry spot photograph the leak and note the affected room and time. Move dry belongings only when this can be done outside the hazard area.",
+        "Call the insurer and an insured roofing professional for temporary weather protection. Save receipts and photos before and after the work."
       ],
-      "safety": "Never climb onto a wet, steep, or wind-swept roof; wait until surfaces are dry and use a spotter at the ladder base.",
+      "safety": "Stay off storm-damaged roofs and out of a wet attic. Do not puncture a sagging ceiling.",
       "tags": [
         "roof",
-        "tarp",
-        "hurricane",
         "leak",
-        "storm-damage"
+        "storm",
+        "tarp"
+      ],
+      "scenario": "A storm left a wet patch on the ceiling and shingles in the yard.",
+      "overview": "Observe damage from a safe, dry location and arrange qualified roof help. Keep people away from sagging ceilings and wet wiring.",
+      "sources": [
+        [
+          "FEMA · Documenting storm damage",
+          "https://www.fema.gov/print/pdf/node/694490"
+        ]
       ]
     },
     {
@@ -982,14 +1030,16 @@
         "Scoop wet leaves and shingle grit into a bucket hung from the ladder rather than throwing debris onto flower beds.",
         "Flush each gutter run toward the downspout with a garden hose; if a downspout is plugged at the elbow, tap the outside with a rubber mallet or snake from the bottom up."
       ],
-      "safety": "Keep your belt buckle between the ladder rails at all times\u2014never lean far to the side; climb down and move the ladder instead.",
+      "safety": "Keep your belt buckle between the ladder rails at all times—never lean far to the side; climb down and move the ladder instead.",
       "tags": [
         "gutters",
         "rain",
         "drainage",
         "ladder",
         "maintenance"
-      ]
+      ],
+      "scenario": "One downspout sends water over the gutter edge during a downpour.",
+      "overview": "Trace the drainage route from the ground. A clear outlet needs a discharge path that carries water away from the building."
     },
     {
       "id": "rep-134",
@@ -1006,19 +1056,21 @@
         "Silicone pool O-ring lube"
       ],
       "steps": [
-        "Check the pool water level first\u2014water must sit halfway up the skimmer opening, and the skimmer weir flap must swing freely without sticking.",
+        "Check the pool water level first—water must sit halfway up the skimmer opening, and the skimmer weir flap must swing freely without sticking.",
         "Turn the pump OFF, unscrew the clear pump strainer lid, empty the basket, and inspect the black rubber lid O-ring for cracks or grit.",
         "Wipe the O-ring and groove clean, coat generously with silicone pool lube (never petroleum Vaseline, which swells rubber), fill the pump pot with a garden hose, and lock the lid.",
         "Turn the pump ON and open the air-relief valve on top of the filter tank until a steady stream of water shoots out, then close it."
       ],
-      "safety": "Never run a pool pump dry for more than 2 minutes\u2014friction heat warps PVC fittings and destroys the shaft seal.",
+      "safety": "Never run a pool pump dry for more than 2 minutes—friction heat warps PVC fittings and destroys the shaft seal.",
       "tags": [
         "pool",
         "pump",
         "prime",
         "maintenance",
         "friendswood"
-      ]
+      ],
+      "scenario": "The pool pump basket has air in it and the returns spit bubbles.",
+      "overview": "The water level and suction-side seals are the first clues. Avoid running a pump that cannot establish prime."
     },
     {
       "id": "rep-135",
@@ -1032,24 +1084,26 @@
         "Pool brush"
       ],
       "supplies": [
-        "Liquid chlorine (10%\u201312.5% sodium hypochlorite)",
+        "Liquid chlorine (10%–12.5% sodium hypochlorite)",
         "Muriatic acid",
         "Baking soda"
       ],
       "steps": [
-        "After heavy rain or dust storms, scoop out leaves immediately and test Free Chlorine (FC), pH (target 7.4\u20137.6), and Total Alkalinity (80\u2013100 ppm).",
-        "Adjust pH to 7.2\u20137.4 first using muriatic acid (always pour acid into water, never water into acid) so chlorine works at peak efficiency.",
-        "Pour liquid chlorine slowly in front of a running return jet after sunset (sunlight destroys unstabilized chlorine within hours) to raise FC to shock level (10\u201315 ppm).",
+        "After heavy rain or dust storms, scoop out leaves immediately and test Free Chlorine (FC), pH (target 7.4–7.6), and Total Alkalinity (80–100 ppm).",
+        "Adjust pH to 7.2–7.4 first using muriatic acid (always pour acid into water, never water into acid) so chlorine works at peak efficiency.",
+        "Pour liquid chlorine slowly in front of a running return jet after sunset (sunlight destroys unstabilized chlorine within hours) to raise FC to shock level (10–15 ppm).",
         "Run the pump continuously for 24 hours and brush walls and steps thoroughly."
       ],
-      "safety": "NEVER mix liquid chlorine and muriatic acid together or store them in the same closed cabinet\u2014mixing releases toxic chlorine gas.",
+      "safety": "NEVER mix liquid chlorine and muriatic acid together or store them in the same closed cabinet—mixing releases toxic chlorine gas.",
       "tags": [
         "pool",
         "chlorine",
         "shock",
         "storm-recovery",
         "chemistry"
-      ]
+      ],
+      "scenario": "The pool is cloudy after a storm and the equipment area has been wet.",
+      "overview": "Confirm the equipment is safe to use before testing water. Dose only from measured results and the exact product label."
     },
     {
       "id": "rep-136",
@@ -1067,18 +1121,20 @@
       ],
       "steps": [
         "Park the booster vehicle close without touching, turn BOTH vehicles OFF, and engage parking brakes.",
-        "Connect clamps in strict order: (1) RED clamp to dead battery (+) positive post; (2) RED clamp to good battery (+) positive post; (3) BLACK clamp to good battery (\u2013) negative post; (4) BLACK clamp to an unpainted metal ground bolt on the dead car's engine block away from the battery.",
+        "Connect clamps in strict order: (1) RED clamp to dead battery (+) positive post; (2) RED clamp to good battery (+) positive post; (3) BLACK clamp to good battery (–) negative post; (4) BLACK clamp to an unpainted metal ground bolt on the dead car's engine block away from the battery.",
         "Start the good car, let idle 2 minutes, then start the dead car.",
-        "Remove clamps in exact reverse order (4, 3, 2, 1) without letting clamps touch each other, and drive 20\u201330 minutes to recharge the battery."
+        "Remove clamps in exact reverse order (4, 3, 2, 1) without letting clamps touch each other, and drive 20–30 minutes to recharge the battery."
       ],
-      "safety": "Never attach the final black clamp directly to the dead battery's negative post\u2014a spark near the battery can ignite hydrogen gas.",
+      "safety": "Never attach the final black clamp directly to the dead battery's negative post—a spark near the battery can ignite hydrogen gas.",
       "tags": [
         "car",
         "battery",
         "jump-start",
         "auto",
         "emergency"
-      ]
+      ],
+      "scenario": "The headlights are dim and someone has offered jumper cables.",
+      "overview": "Use the vehicle manuals to identify approved connection points and battery type. A damaged or frozen battery requires roadside assistance."
     },
     {
       "id": "rep-137",
@@ -1110,7 +1166,9 @@
         "auto",
         "roadside",
         "emergency"
-      ]
+      ],
+      "scenario": "A tire goes flat on a road with a narrow shoulder.",
+      "overview": "A safe work location takes precedence over the spare. If traffic or soft ground prevents safe lifting, call for roadside help."
     },
     {
       "id": "rep-138",
@@ -1132,14 +1190,16 @@
         "Cabin air filter: Open the glovebox, unhook the side damper arm and squeeze the stops inward so the glovebox drops down, unclip the filter door, note the airflow arrow direction, and slide in the fresh filter.",
         "Wiper blades: Lift the wiper arm gently (lay a towel on the glass in case the spring arm snaps down), press the release tab, slide off the old blade, and click the new blade until locked."
       ],
-      "safety": "Never let a bare metal wiper arm rest upright unattended\u2014if bumped, the spring slams it hard enough to crack a windshield.",
+      "safety": "Never let a bare metal wiper arm rest upright unattended—if bumped, the spring slams it hard enough to crack a windshield.",
       "tags": [
         "car",
         "air-filter",
         "wipers",
         "auto",
         "maintenance"
-      ]
+      ],
+      "scenario": "Visibility is poor in rain and the cabin fan seems weaker than it used to be.",
+      "overview": "Check wiper fit and both filter locations against the vehicle manual. These are three separate service items."
     },
     {
       "id": "rep-139",
@@ -1170,7 +1230,9 @@
         "mounting",
         "tv",
         "tools"
-      ]
+      ],
+      "scenario": "A heavy mirror needs to stay secure above a console.",
+      "overview": "Identify the wall material and intended load before choosing fasteners. A stud, hollow wall and masonry call for different mounting systems."
     },
     {
       "id": "rep-140",
@@ -1190,7 +1252,7 @@
       "steps": [
         "Shut off the chrome angle-stop valve at the wall behind the toilet and flush to empty the tank.",
         "Unscrew the existing supply hose from the tank bottom and wall valve; replace any stiff white plastic supply line with a burst-proof braided stainless steel line.",
-        "Do NOT put Teflon tape on compression or rubber-gasket hose threads\u2014the internal rubber cone washer makes the seal. Hand-tighten plus 1/2 turn with a wrench."
+        "Do NOT put Teflon tape on compression or rubber-gasket hose threads—the internal rubber cone washer makes the seal. Hand-tighten plus 1/2 turn with a wrench."
       ],
       "safety": "If the wall shutoff valve stem drips slightly when turned, tighten the packing nut just behind the handle 1/8 turn.",
       "tags": [
@@ -1198,7 +1260,9 @@
         "supply-line",
         "plumbing",
         "leak-prevention"
-      ]
+      ],
+      "scenario": "A bidet attachment was fitted and now the toilet takes much longer to fill.",
+      "overview": "Trace the supply from shutoff to tank and check every added joint. A dry tissue can reveal a small leak after flushing."
     },
     {
       "id": "rep-141",
@@ -1215,7 +1279,7 @@
       ],
       "steps": [
         "If internet fails to return after a power blink, unplug power from BOTH the fiber ONT/cable modem and the Wi-Fi router.",
-        "Plug in the fiber ONT/cable modem FIRST and wait a full 2\u20133 minutes until all upstream/online status lights turn solid.",
+        "Plug in the fiber ONT/cable modem FIRST and wait a full 2–3 minutes until all upstream/online status lights turn solid.",
         "Plug in the primary Wi-Fi router next and wait 2 minutes before powering on mesh nodes or switches.",
         "Keep critical network gear on a UPS battery backup so brief grid flickers never corrupt drives or drop calls."
       ],
@@ -1226,7 +1290,9 @@
         "ups",
         "outage",
         "troubleshooting"
-      ]
+      ],
+      "scenario": "Power is back but the router shows a connection and nothing can reach the internet.",
+      "overview": "Bring equipment up in dependency order. Check one device locally before deciding the provider connection is down."
     },
     {
       "id": "rep-142",
@@ -1253,7 +1319,9 @@
         "safety",
         "tools",
         "diy"
-      ]
+      ],
+      "scenario": "A tester lights near a receptacle and you need to know what the reading establishes.",
+      "overview": "A non-contact indicator is an initial clue. A silent tester or a three-light outlet reading cannot prove wiring is safe to touch."
     },
     {
       "id": "rep-143",
@@ -1273,17 +1341,19 @@
       ],
       "steps": [
         "If a faucet stops flowing during a hard freeze, leave the faucet OPEN so expanding steam/water has an escape path as ice melts.",
-        "Warm the frozen pipe section gradually with a hair dryer or hot wet towels starting from the faucet end and working back toward the wall\u2014NEVER use a propane torch.",
+        "Warm the frozen pipe section gradually with a hair dryer or hot wet towels starting from the faucet end and working back toward the wall—NEVER use a propane torch.",
         "If a pipe splits and sprays once thawed, shut off the main house valve immediately, cut cleanly 1 inch on either side of the split with a PVC/pipe cutter, deburr the edge, and push a SharkBite coupling onto both ends until it clicks."
       ],
-      "safety": "Keep a 1/2-inch or 3/4-inch SharkBite end cap in your emergency toolbox\u2014it stops a burst pipe in 30 seconds without glue or soldering.",
+      "safety": "Keep a 1/2-inch or 3/4-inch SharkBite end cap in your emergency toolbox—it stops a burst pipe in 30 seconds without glue or soldering.",
       "tags": [
         "frozen-pipe",
         "sharkbite",
         "emergency",
         "plumbing",
         "freeze-prep"
-      ]
+      ],
+      "scenario": "A cold snap has stopped one tap and water may escape when the line thaws.",
+      "overview": "Find the shutoff first and keep watch for leaks as flow returns. A split inside a wall needs isolation and repair."
     },
     {
       "id": "rep-144",
@@ -1301,17 +1371,19 @@
         "1 cup water in microwave-safe mug"
       ],
       "steps": [
-        "If the microwave runs and lights up but food stays cold after 60 seconds with a mug of water, check the mica waveguide cover inside the right wall\u2014grease splatters burn holes in it and cause arcing.",
+        "If the microwave runs and lights up but food stays cold after 60 seconds with a mug of water, check the mica waveguide cover inside the right wall—grease splatters burn holes in it and cause arcing.",
         "If the microwave fails to start or trips the breaker when closing the door, inspect the plastic door latch hooks and wipe sticky food off the latch slots.",
         "Replace a scorched mica waveguide cover in 2 minutes by popping out the old card and snapping in a $6 replacement."
       ],
-      "safety": "NEVER remove the outer metal cabinet of a microwave\u2014the high-voltage capacitor inside holds 2,000+ volts even when unplugged.",
+      "safety": "NEVER remove the outer metal cabinet of a microwave—the high-voltage capacitor inside holds 2,000+ volts even when unplugged.",
       "tags": [
         "microwave",
         "appliance",
         "safety",
         "kitchen"
-      ]
+      ],
+      "scenario": "The microwave light comes on but the food stays cold.",
+      "overview": "External observations help arrange a repair. The cabinet can contain lethal stored voltage even with the plug removed."
     },
     {
       "id": "rep-145",
@@ -1340,7 +1412,9 @@
         "stairs",
         "carpentry",
         "home-repair"
-      ]
+      ],
+      "scenario": "A stair squeaks only when weight falls near one edge.",
+      "overview": "Locate the movement before choosing a repair. A loose tread affecting footing needs attention before cosmetic noise reduction."
     },
     {
       "id": "rep-146",
@@ -1350,7 +1424,7 @@
       "diff": "Easy",
       "time": "1 hour",
       "gear": [
-        "Pressure washer with 25\u00b0 (green) and 40\u00b0 (white) nozzles",
+        "Pressure washer with 25° (green) and 40° (white) nozzles",
         "Safety glasses",
         "Closed-toe shoes"
       ],
@@ -1358,9 +1432,9 @@
         "Oxygen bleach / house wash detergent"
       ],
       "steps": [
-        "NEVER use the pinpoint 0\u00b0 red nozzle on concrete, wood, or siding\u2014it carves permanent trenches into concrete and strips paint.",
-        "For driveways/sidewalks: pre-wet plants, apply concrete cleaner, and sweep smoothly with the 25\u00b0 green nozzle held 8\u201310 inches off the surface.",
-        "For painted siding: use low pressure with the 40\u00b0 white nozzle aimed slightly downward so water is never forced upward behind lap siding."
+        "NEVER use the pinpoint 0° red nozzle on concrete, wood, or siding—it carves permanent trenches into concrete and strips paint.",
+        "For driveways/sidewalks: pre-wet plants, apply concrete cleaner, and sweep smoothly with the 25° green nozzle held 8–10 inches off the surface.",
+        "For painted siding: use low pressure with the 40° white nozzle aimed slightly downward so water is never forced upward behind lap siding."
       ],
       "safety": "Never spray near electrical meter boxes, AC disconnects, or exterior outlets, and always wear closed-toe shoes.",
       "tags": [
@@ -1369,7 +1443,9 @@
         "siding",
         "exterior",
         "cleaning"
-      ]
+      ],
+      "scenario": "The pressure washer takes grime off the driveway and may be too aggressive for siding.",
+      "overview": "Test an inconspicuous spot and inspect it after drying. Surface damage can be hard to see while everything is wet."
     },
     {
       "id": "rep-147",
@@ -1400,7 +1476,9 @@
         "patio",
         "diy",
         "summer"
-      ]
+      ],
+      "scenario": "A small tear at a window frame lets insects slip through.",
+      "overview": "Match the mesh and spline to the frame. Even tension keeps the replacement flat without bowing its sides."
     },
     {
       "id": "rep-148",
@@ -1443,7 +1521,9 @@
         "checklist",
         "tools",
         "preparedness"
-      ]
+      ],
+      "scenario": "A leak starts at night and the right wrench is buried in the garage.",
+      "overview": "Build the kit around the fasteners, shutoffs and small repairs in your own home. Both people should be able to find it in the dark."
     },
     {
       "id": "rep-149",
@@ -1460,9 +1540,9 @@
         "Baking soda"
       ],
       "steps": [
-        "For a small pan grease fire: slide a metal lid or baking sheet sideways over the pan to smother oxygen and turn the burner OFF\u2014NEVER throw water or flour on burning oil (water causes an explosive fireball).",
-        "For spreading fires, use the PASS method from 6\u20138 feet back: Pull the pin, Aim low at the base of the flames, Squeeze the lever, Sweep side to side.",
-        "Check the pressure gauge needle monthly\u2014it must sit squarely in the green zone, and invert dry-chemical extinguishers once a year to loosen settled powder."
+        "For a small pan grease fire: slide a metal lid or baking sheet sideways over the pan to smother oxygen and turn the burner OFF—NEVER throw water or flour on burning oil (water causes an explosive fireball).",
+        "For spreading fires, use the PASS method from 6–8 feet back: Pull the pin, Aim low at the base of the flames, Squeeze the lever, Sweep side to side.",
+        "Check the pressure gauge needle monthly—it must sit squarely in the green zone, and invert dry-chemical extinguishers once a year to loosen settled powder."
       ],
       "safety": "If a fire grows taller than your waist or fills the room with smoke, evacuate immediately and call 911 from outside.",
       "tags": [
@@ -1471,7 +1551,9 @@
         "grease-fire",
         "kitchen",
         "emergency"
-      ]
+      ],
+      "scenario": "A pan flares on the stove and the nearest exit is behind you.",
+      "overview": "People need a clear way out first. If the fire is spreading or you are unsure, leave, close the door and call 911 from outside."
     },
     {
       "id": "rep-150",
@@ -1503,7 +1585,37 @@
         "seasonal",
         "homeowner",
         "friendswood"
-      ]
+      ],
+      "scenario": "Maintenance jobs keep being rediscovered after the season they matter most.",
+      "overview": "Put the date and the actual result beside each job. A fault found during a check needs its own follow-up entry."
+    },
+    {
+      "id": "rep-151",
+      "sub": "Plumbing & Water",
+      "title": "Make a shutoff map a guest can use",
+      "scenario": "Someone notices water under the sink while the person who knows the plumbing is away.",
+      "time": "20 minutes",
+      "diff": "Easy",
+      "gear": [
+        "Phone or camera",
+        "Pen"
+      ],
+      "supplies": [
+        "Paper",
+        "Labels"
+      ],
+      "steps": [
+        "While everything is dry, locate each accessible fixture stop and the homeowner’s main water shutoff. If the main is uncertain, ask the utility or a plumber to identify it.",
+        "Photograph each shutoff from normal standing height, then close up. Add a direction from a fixed landmark and note any tool specified by the utility.",
+        "Write the utility and plumber numbers alongside the photos. Mark utility-owned valves clearly and leave them to the utility.",
+        "Hand the map to the other person and ask them to point out the correct control without operating it. Revise any ambiguous label."
+      ],
+      "overview": "The test is whether a visitor can find the right customer-side control in a hurry. A seized valve or one hidden behind stored belongings belongs on the repair list.",
+      "tags": [
+        "plumbing",
+        "water"
+      ],
+      "cat": "Home & Appliance Repair"
     }
   ],
   "glossary": {
@@ -1511,7 +1623,7 @@
       "term": "Non-Contact Voltage Tester",
       "aka": "Volt tick / inductance tester pen",
       "svg": "volttester",
-      "def": "A pocket pen-shaped safety tester that lights up and beeps when its insulated plastic tip detects live 50V\u20131000V AC current inside a wire or outlet\u2014without touching bare metal. Always verify it works on a known live outlet before and after testing."
+      "def": "A pocket pen-shaped safety tester that lights up and beeps when its insulated plastic tip detects live 50V–1000V AC current inside a wire or outlet—without touching bare metal. Always verify it works on a known live outlet before and after testing."
     },
     "water meter curb key": {
       "term": "Water Meter Curb Key",
@@ -1523,19 +1635,39 @@
       "term": "Push-to-Connect Pipe Cap (SharkBite)",
       "aka": "Emergency brass push-fit end stop",
       "svg": "sharkbite",
-      "def": "A brass plumbing fitting with internal stainless-steel teeth and an O-ring that snaps onto cut copper, PEX, or CPVC pipe in seconds without glue, solder, or torches\u2014ideal for capping a burst pipe during a hard freeze."
+      "def": "A brass plumbing fitting with internal stainless-steel teeth and an O-ring that snaps onto cut copper, PEX, or CPVC pipe in seconds without glue, solder, or torches—ideal for capping a burst pipe during a hard freeze."
     },
     "wet/dry shop vac": {
       "term": "Wet/Dry Shop Vacuum",
       "aka": "Utility canister vacuum",
       "svg": "shopvac",
-      "def": "A heavy-duty canister vacuum capable of suctioning both water (when the paper dust filter is removed) and construction debris\u2014indispensable for clearing algae-clogged AC condensate drain lines and containing water leaks."
+      "def": "A heavy-duty canister vacuum capable of suctioning both water (when the paper dust filter is removed) and construction debris—indispensable for clearing algae-clogged AC condensate drain lines and containing water leaks."
     },
     "stud finder": {
       "term": "Electronic Stud Finder",
       "aka": "Wall framing scanner",
       "svg": "studfinder",
       "def": "A handheld density sensor slid flat across drywall to locate the edges and center of hidden wooden 2x4 wall studs (typically spaced 16 inches apart) so heavy TVs, shelves, and cabinets anchor into solid lumber."
+    },
+    "multimeter": {
+      "term": "Digital Multimeter",
+      "aka": "Volt-Ohm-Milliammeter (VOM)",
+      "svg": "meter",
+      "def": "An electronic diagnostic meter that measures voltage (AC/DC), resistance (Ohms Ω), and continuity. Set to continuity/Ohms (with the appliance unplugged), touching its two probes to both terminals of a fuse or heating element confirms whether electricity can flow through it."
+    },
+    "thermal fuse": {
+      "term": "Thermal Fuse",
+      "aka": "One-time high-temperature safety cutoff",
+      "svg": "fuse",
+      "def": "A small, inexpensive safety switch mounted on a dryer’s blower housing or heating duct. If lint buildup causes overheating, an internal pellet melts and permanently opens the circuit to prevent a fire. Once blown, it cannot be reset and must be replaced."
+    },
+    "basin wrench": {
+      "term": "Basin Wrench",
+      "aka": "Sink-faucet nut wrench",
+      "svg": "wrench",
+      "def": "A T-handled plumbing tool with a spring-loaded pivoting jaw at the end of a long shaft, designed specifically to reach behind a sink bowl and loosen or tighten faucet mounting nuts in tight spaces."
     }
-  }
+  },
+  "count": 51,
+  "version": "2026.11.15-birthday-r1"
 }

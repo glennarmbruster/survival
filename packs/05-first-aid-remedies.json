@@ -4,112 +4,143 @@
       "id": "med-101",
       "cat": "First Aid & Remedies",
       "sub": "Emergency Triage & Life Support",
-      "title": "Scene Safety & MARCH Primary Trauma Survey",
+      "title": "First on scene: check, call and give immediate care",
       "diff": "Easy",
-      "time": "2 mins",
+      "time": "Immediate",
       "gear": [
-        "Nitrile exam gloves",
-        "Trauma shears",
-        "Flashlight"
+        "Phone",
+        "AED if available"
       ],
-      "supplies": [],
+      "supplies": [
+        "Gloves",
+        "Gauze or clean cloth"
+      ],
       "steps": [
-        "Check scene safety first (downed power lines, traffic, fire, venomous animals, structural collapse)\u2014do not become a second casualty.",
-        "Run the military/wilderness MARCH assessment in strict priority order so the fastest killers are stopped first:",
-        "M \u2014 Massive Hemorrhage: Scan head-to-toe for arterial spurting or pooling blood and apply direct pressure, wound packing, or a tourniquet immediately.",
-        "A \u2014 Airway: Check responsiveness; if unconscious, open airway using head-tilt/chin-lift (or jaw-thrust if neck/spine injury is suspected) and clear visible obstructions.",
-        "R \u2014 Respiration: Look, listen, and feel for normal breathing for 10 seconds; check chest wall for sucking wounds or uneven rise.",
-        "C \u2014 Circulation: Check radial/carotid pulse, pale/clammy skin, and treat for shock by laying flat and keeping warm.",
-        "H \u2014 Hypothermia / Head Injury: Insulate from cold ground immediately (even injured patients in warm climates go hypothermic from blood loss) and note pupil equality and mental orientation (AVPU: Alert, Verbal, Pain, Unresponsive)."
+        "Look for traffic, electricity, fire and other hazards. Stay clear of danger and summon professional rescue if you cannot approach safely.",
+        "Check responsiveness, normal breathing and life-threatening bleeding. Send someone to call 911 and bring an AED and first-aid kit. If alone, use speakerphone.",
+        "For an unresponsive person who is not breathing normally, start CPR and follow the AED and dispatcher. For life-threatening external bleeding, press firmly and continuously on the wound; assign another helper when available.",
+        "Stay with the person, monitor breathing and tell responders what changed and what care was given."
       ],
-      "safety": "Always put on nitrile gloves before touching blood or bodily fluids.",
+      "safety": "Gasping is abnormal breathing. Do not delay a 911 call for an extended head-to-toe examination.",
       "tags": [
-        "march",
-        "triage",
         "assessment",
+        "triage",
         "trauma",
-        "first-aid"
+        "first aid"
+      ],
+      "scenario": "You arrive first at an injured person and need to tell a dispatcher what is happening.",
+      "overview": "A safe approach, early emergency call and check for normal breathing or life-threatening bleeding establish what help is needed first.",
+      "sources": [
+        [
+          "American Red Cross · First aid guidelines",
+          "https://www.redcross.org/take-a-class/resources/guidelines"
+        ],
+        [
+          "American Heart Association · CPR and choking guidance",
+          "https://newsroom.heart.org/facts/cpr-cardiopulmonary-resuscitation-and-updated-guidelines-2025"
+        ]
       ]
     },
     {
       "id": "med-102",
       "cat": "First Aid & Remedies",
       "sub": "Emergency Triage & Life Support",
-      "title": "Adult, Child & Infant Hands-Only & Rescue CPR",
+      "title": "CPR and AED for an unresponsive person",
       "diff": "Medium",
       "time": "Immediate",
       "gear": [
-        "CPR pocket face shield / mask",
-        "AED (if available)"
+        "Phone",
+        "AED if available"
       ],
       "supplies": [],
       "steps": [
-        "Tap shoulders firmly and shout; if unresponsive and not breathing normally (gasping/agonal breaths are NOT normal breathing), yell for someone to call 911 and bring an AED.",
-        "Place person flat on their back on a firm surface; kneel beside chest and place heel of one hand on the center of the lower half of the breastbone (sternum) with your other hand locked on top.",
-        "Push hard and fast at 100\u2013120 compressions per minute ('Stayin' Alive' tempo) to a depth of 2\u20132.4 inches (about 1.5 inches for infants using 2 fingers/thumbs), allowing full chest recoil between pushes.",
-        "If trained and equipped with a barrier mask (and for drowning, drug overdose, or children), give 30 compressions followed by 2 gentle 1-second breaths just enough to make the chest rise.",
-        "Turn on the AED as soon as it arrives, apply pads to bare dry chest as pictured, clear everyone during rhythm analysis and shock, and immediately resume compressions."
+        "Check the scene. If the person does not respond and is not breathing normally, call 911 on speaker or send a helper. Ask for an AED.",
+        "For an adult or teen who suddenly collapses, push hard and fast in the center of the chest at 100–120 per minute, about 2 inches deep, allowing the chest to rise fully. If trained, give cycles of 30 compressions and 2 breaths.",
+        "For a child or infant, use age-appropriate CPR with breaths if able and follow the dispatcher. Compress about one-third of chest depth. On an infant, use the heel of one hand or the two-thumb encircling technique per training.",
+        "Switch on the AED, attach pads as shown and keep everyone clear for analysis and shock. Resume CPR when prompted until responders take over or normal breathing returns."
       ],
-      "safety": "Do not stop chest compressions for more than 10 seconds at any time until paramedics take over or the person wakes up.",
+      "safety": "If unable to give breaths, give compressions and follow dispatcher instructions.",
       "tags": [
-        "cpr",
-        "aed",
-        "cardiac-arrest",
-        "life-support",
-        "emergency"
+        "CPR",
+        "AED",
+        "gasping",
+        "collapse"
+      ],
+      "scenario": "Someone collapses and only gasps. Another person nearby can fetch an AED.",
+      "overview": "Start emergency response and follow the dispatcher and AED prompts. Children and drowning victims particularly benefit from CPR that includes breaths when the rescuer can give them.",
+      "sources": [
+        [
+          "American Heart Association · CPR and choking guidance",
+          "https://newsroom.heart.org/facts/cpr-cardiopulmonary-resuscitation-and-updated-guidelines-2025"
+        ]
       ]
     },
     {
       "id": "med-103",
       "cat": "First Aid & Remedies",
       "sub": "Emergency Triage & Life Support",
-      "title": "Choking Relief: Heimlich Abdominal Thrusts & Infant Back Blows",
+      "title": "Severe choking in an adult, child or infant",
       "diff": "Easy",
-      "time": "1 min",
-      "gear": [],
+      "time": "Immediate",
+      "gear": [
+        "Phone"
+      ],
       "supplies": [],
       "steps": [
-        "If the person can cough forcefully or speak, encourage them to keep coughing\u2014do NOT slap their back while upright.",
-        "If unable to speak, cough, or breathe (universal hands-at-throat sign): stand behind them, wrap arms around waist, make a fist with thumb side inward just above the navel and well below the breastbone, grasp fist with other hand, and deliver sharp inward-and-upward J-thrusts until the object expels.",
-        "For pregnant or large-abdomen individuals: place fists on the center of the breastbone and perform straight-back chest thrusts.",
-        "For infants under 1 year: support baby face-down along your forearm with head lower than chest, deliver 5 firm back blows between shoulder blades with heel of hand, flip face-up, and give 5 two-finger chest compressions; repeat.",
-        "Self-Heimlich when alone: drive your upper abdomen forcefully over the back of a sturdy chair, porch railing, or kitchen counter edge."
+        "If they can cough forcefully, encourage coughing and watch closely. For someone who cannot cough effectively, speak or breathe, have someone call 911 immediately.",
+        "For a responsive adult or child, lean them forward and give five blows between the shoulder blades, then five abdominal thrusts. Use chest thrusts if pregnant or you cannot encircle the abdomen. Repeat until effective breathing returns or they become unresponsive.",
+        "For an infant under one year, support the head and neck, head lower than chest. Give five back blows, turn face-up and give five chest thrusts with the heel of one hand. Repeat; never use abdominal thrusts on an infant.",
+        "If they become unresponsive, lower them onto a firm surface and begin CPR starting with compressions. Look for a visible object before breaths; remove it only if clearly seen."
       ],
-      "safety": "If a choking victim loses consciousness, lower them gently to the floor and start CPR immediately, checking the mouth for the object before giving breaths.",
+      "safety": "Never sweep the mouth blindly. Follow emergency dispatch instructions.",
       "tags": [
         "choking",
-        "heimlich",
-        "airway",
+        "back blows",
         "infant",
-        "emergency"
+        "thrusts"
+      ],
+      "scenario": "At dinner someone suddenly cannot cough, speak or breathe.",
+      "overview": "Age and responsiveness determine the next action. Tell the dispatcher when the object comes out or if the person becomes unresponsive.",
+      "sources": [
+        [
+          "American Heart Association · CPR and choking guidance",
+          "https://newsroom.heart.org/facts/cpr-cardiopulmonary-resuscitation-and-updated-guidelines-2025"
+        ]
       ]
     },
     {
       "id": "med-104",
       "cat": "First Aid & Remedies",
       "sub": "Emergency Triage & Life Support",
-      "title": "Recognizing & Treating Hypovolemic / Circulatory Shock",
+      "title": "Recognize shock after an injury or illness",
       "diff": "Easy",
-      "time": "10 mins",
+      "time": "Act immediately",
       "gear": [
         "Emergency Mylar blanket",
         "Sleeping pad / wool blanket"
       ],
       "supplies": [],
       "steps": [
-        "Watch for early shock signs after injury, blood loss, severe burns, or dehydration: rapid weak pulse, pale/cool/clammy skin, rapid shallow breathing, anxiety/confusion, nausea, and extreme thirst.",
-        "Control all external bleeding first.",
-        "Lay the person flat on their back (unless having trouble breathing or suspected head/neck injury) and elevate legs 6\u201312 inches if no leg/pelvis fractures exist.",
-        "Slide an insulated pad or folded blankets UNDERNEATH them and wrap them warmly\u2014shock destroys the body's ability to regulate temperature even in warm weather.",
-        "Loosen tight belts/collars, reassure calmly, and do NOT give food or large amounts of water if surgery may be needed or if drowsy/nauseated."
+        "Call 911 immediately if someone looks pale or clammy, is breathing rapidly, or becomes restless, confused or faint after a serious injury or illness. Have a helper call while you attend to the person.",
+        "Control visible life-threatening bleeding with firm direct pressure. Let the dispatcher guide you.",
+        "If comfortable and breathing easily, let the person lie flat. Leave someone with a suspected spine injury in the position found unless safety or lifesaving care requires moving them.",
+        "Keep the person comfortably warm and stay with them. Give nothing to eat or drink. Watch breathing and responsiveness and tell the dispatcher about any change."
       ],
-      "safety": "Never wait for low blood pressure to treat shock\u2014by the time blood pressure drops, shock is already critical.",
+      "safety": "If they become unresponsive and are not breathing normally, start CPR and use an AED as soon as available.",
       "tags": [
         "shock",
         "trauma",
         "circulation",
         "first-aid",
         "hypothermia"
+      ],
+      "scenario": "An injured person grows pale and clammy while you wait for the ambulance.",
+      "overview": "Changes in alertness and breathing are important updates even when you cannot see the source of blood loss.",
+      "sources": [
+        [
+          "American Red Cross · Shock",
+          "https://www.redcross.org/take-a-class/resources/learn-first-aid/shock"
+        ]
       ]
     },
     {
@@ -118,22 +149,30 @@
       "sub": "Emergency Triage & Life Support",
       "title": "Recovery Position & Managing Unconscious Breathing Patients",
       "diff": "Easy",
-      "time": "2 mins",
+      "time": "Act immediately",
       "gear": [],
       "supplies": [],
       "steps": [
-        "Use the recovery position for any unconscious person who is breathing normally and has NO suspected neck or spine injury\u2014it prevents the tongue or vomit from blocking the airway.",
-        "Kneel beside them, place the arm nearest you at a right angle with palm up, and bring their far arm across their chest holding the back of their hand against their near cheek.",
-        "Grasp their far knee, pull it up until the foot is flat, and roll them smoothly toward you onto their side.",
-        "Tilt their head slightly back to keep the airway open and check breathing every 2 minutes."
+        "If someone is unresponsive, call 911 now or send a helper to call and bring an AED. Check for normal breathing. Gasping alone calls for CPR and an AED. Follow the dispatcher.",
+        "If they breathe normally and you do not suspect a head, neck or back injury, kneel beside them. Place the near arm out to the side with the palm up. Bring the back of their far hand against their near cheek and hold it there.",
+        "Bend the far knee with the foot flat. Use that knee to roll them gently toward you while supporting the head. Angle the upper knee to steady them and position their mouth so fluid can drain.",
+        "Stay beside them and watch breathing continuously. If normal breathing stops, turn them onto their back on a firm surface, start CPR and use the AED."
       ],
-      "safety": "If a head, neck, or back injury is suspected (fall, car crash, diving), keep the head and spine aligned in place unless vomit threatens the airway.",
+      "safety": "With a suspected head, neck or back injury, keep them in the position found unless safety, airway protection or lifesaving care requires a move. Follow dispatcher instructions.",
       "tags": [
         "recovery-position",
         "unconscious",
         "airway",
         "vomiting",
         "first-aid"
+      ],
+      "scenario": "A person will not wake but appears to be breathing normally.",
+      "overview": "Airway protection requires ongoing observation. If breathing becomes absent or only gasping, tell the dispatcher immediately and begin CPR.",
+      "sources": [
+        [
+          "American Red Cross · Unresponsive and breathing",
+          "https://www.redcross.org/take-a-class/resources/learn-first-aid/unresponsive-and-breathing-person"
+        ]
       ]
     },
     {
@@ -151,42 +190,51 @@
       ],
       "steps": [
         "Recognize severe allergic anaphylaxis (from bee stings, fire ants, shellfish, peanuts, medications): throat tightness, hoarse voice, wheezing, lip/tongue swelling, widespread hives, dizziness/fainting, or vomiting.",
-        "Remove the safety cap, hold firmly in a fist ('blue to the sky, orange to the thigh'), and press firmly against the outer mid-thigh (works straight through jeans/pants) until it clicks; hold for 3\u201310 seconds per device instructions.",
-        "Call 911 immediately and have the person lie flat with legs elevated (or sit upright if struggling to breathe)\u2014do NOT let them stand or walk suddenly, which can trigger fatal blood-pressure collapse.",
-        "If symptoms do not improve or return after 5\u201315 minutes (biphasic reaction), administer a second auto-injector in the opposite thigh."
+        "Remove the safety cap, hold firmly in a fist ('blue to the sky, orange to the thigh'), and press firmly against the outer mid-thigh (works straight through jeans/pants) until it clicks; hold for 3–10 seconds per device instructions.",
+        "Call 911 immediately and have the person lie flat with legs elevated (or sit upright if struggling to breathe)—do NOT let them stand or walk suddenly, which can trigger fatal blood-pressure collapse.",
+        "If symptoms do not improve or return after 5–15 minutes (biphasic reaction), administer a second auto-injector in the opposite thigh."
       ],
-      "safety": "Antihistamines (Benadryl) are too slow to stop anaphylaxis\u2014epinephrine is the ONLY life-saving first-line treatment.",
+      "safety": "Antihistamines (Benadryl) are too slow to stop anaphylaxis—epinephrine is the ONLY life-saving first-line treatment.",
       "tags": [
         "anaphylaxis",
         "epipen",
         "allergy",
         "bee-sting",
         "emergency"
-      ]
+      ],
+      "scenario": "Soon after a sting or meal, someone develops trouble breathing or feels faint.",
+      "overview": "Rapid epinephrine and emergency care are central. Keep the device and record the time so responders know what has already been given."
     },
     {
       "id": "med-107",
       "cat": "First Aid & Remedies",
       "sub": "Emergency Triage & Life Support",
-      "title": "Heart Attack vs. Stroke (BE-FAST) Recognition & Immediate Action",
+      "title": "Chest pain or sudden stroke symptoms",
       "diff": "Easy",
-      "time": "5 mins",
+      "time": "Act immediately",
       "gear": [],
-      "supplies": [
-        "Regular uncoated 325 mg aspirin (or four 81 mg baby aspirins)"
-      ],
+      "supplies": [],
       "steps": [
-        "Heart Attack signs: chest pressure/squeezing/fullness, pain radiating to left arm, jaw, neck, or back, cold sweat, shortness of breath, or unusual fatigue/nausea (especially in women).",
-        "Call 911 immediately, sit the person upright at rest, and have them CHEW (not swallow whole) one 325 mg uncoated aspirin unless allergic or actively bleeding.",
-        "Stroke BE-FAST check: Balance loss sudden; Eyes blurry/double; Face drooping on one side when smiling; Arm drifting downward when both raised; Speech slurred/confused; Time to call 911 immediately and note the exact minute symptoms started (clot-busting drugs have a strict 3\u20134.5 hour window)."
+        "Call 911 immediately for new chest pressure or squeezing, especially with shortness of breath, sweating, nausea, or discomfort in the jaw, back or arms. Call even if you are unsure.",
+        "For a sudden loss of balance or vision, a drooping face, arm weakness or trouble speaking, call 911 immediately even if symptoms clear. Tell the dispatcher when the person was last known to be well.",
+        "Help the person rest, stay with them and follow the dispatcher. Ask before giving medication. Never give aspirin for a suspected stroke.",
+        "If they become unresponsive and stop breathing normally, start CPR and ask for an AED."
       ],
-      "safety": "NEVER give aspirin for a suspected stroke\u201415% of strokes are hemorrhagic (brain bleeds) where aspirin worsens bleeding.",
+      "safety": "Use EMS for transport. Asking someone to smile or raise an arm must never delay the call.",
       "tags": [
         "heart-attack",
         "stroke",
         "befast",
         "aspirin",
         "emergency"
+      ],
+      "scenario": "A relative suddenly has slurred speech or chest pressure that feels unusual.",
+      "overview": "Call 911 promptly and record when symptoms began or when the person was last known well. That time travels with them to the hospital.",
+      "sources": [
+        [
+          "American Heart Association · Heart attack and stroke symptoms",
+          "https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms"
+        ]
       ]
     },
     {
@@ -203,27 +251,29 @@
         "Glucose tablets, 4 oz regular fruit juice/soda, or 1 tbsp honey/sugar"
       ],
       "steps": [
-        "Recognize low blood sugar (shaking, sweating, irritability, confusion, slurred speech\u2014often mistaken for drunkenness); when in doubt between high and low blood sugar, always treat as LOW because low sugar kills within minutes.",
+        "Recognize low blood sugar (shaking, sweating, irritability, confusion, slurred speech—often mistaken for drunkenness); when in doubt between high and low blood sugar, always treat as LOW because low sugar kills within minutes.",
         "If awake and able to swallow safely, give 15 grams of fast-acting sugar (4 glucose tablets, 4 oz regular juice/soda, or 1 tbsp honey) using the Rule of 15.",
         "Wait 15 minutes and recheck; if still under 70 mg/dL or symptomatic, repeat another 15 grams of fast sugar, then follow with protein + complex carbs (crackers with peanut butter).",
-        "If unconscious or unable to swallow, do NOT force liquids into the mouth\u2014place in recovery position, administer nasal/injectable glucagon if available, and call 911."
+        "If unconscious or unable to swallow, do NOT force liquids into the mouth—place in recovery position, administer nasal/injectable glucagon if available, and call 911."
       ],
-      "safety": "Never give diet soda or chocolate/candy bars first\u2014fat in chocolate slows sugar absorption.",
+      "safety": "Never give diet soda or chocolate/candy bars first—fat in chocolate slows sugar absorption.",
       "tags": [
         "diabetes",
         "hypoglycemia",
         "blood-sugar",
         "emergency",
         "first-aid"
-      ]
+      ],
+      "scenario": "Someone with diabetes becomes shaky and you can reach their glucose meter.",
+      "overview": "Whether the person is alert enough to swallow safely changes the response. Keep their diabetes action plan available to the helper."
     },
     {
       "id": "med-109",
       "cat": "First Aid & Remedies",
       "sub": "Bleeding & Trauma",
-      "title": "Stop-the-Bleed: Direct Pressure, Wound Packing & Tourniquets",
+      "title": "Stop life-threatening external bleeding",
       "diff": "Medium",
-      "time": "3 mins",
+      "time": "Act immediately",
       "gear": [
         "CAT / SOF-T Windlass Tourniquet",
         "Trauma shears",
@@ -234,73 +284,91 @@
         "Elastic pressure bandage (Israeli bandage)"
       ],
       "steps": [
-        "Expose the wound immediately with trauma shears so you see the exact bleeding source.",
-        "For non-limb wounds (neck, armpit, groin) or deep extremity lacerations: pack hemostatic or plain gauze tightly all the way down onto the bleeding vessel at the bottom of the wound cavity, then hold continuous firm two-handed pressure for 3\u20135 full minutes without peeking.",
-        "For life-threatening bright-red spurting or pooling arm/leg bleeding: apply a commercial windlass tourniquet 2\u20133 inches ABOVE the wound (never over a joint) or 'high and tight' near the armpit/groin, pull the strap tight, twist the windlass rod until bright red bleeding stops completely, lock the rod in the clip, and write the exact application time on the strap."
+        "Call 911 or have a helper call while you press directly on the bleeding site. Use gloves if immediately at hand and put a dressing or clean cloth between your hands and the wound.",
+        "Use firm, continuous pressure. Keep the dressing in place. If there is an embedded object, press around it and leave it in place.",
+        "For life-threatening arm or leg bleeding, use a commercial tourniquet if trained, following its directions. Tighten until the bleeding stops, leave it in place, and tell EMS when it was applied. If trained in wound packing, use it only for an appropriate wound. Follow the dispatcher.",
+        "Stay with the person. Watch breathing and responsiveness, prevent chilling and tell EMS what you did and whether bleeding restarted."
       ],
-      "safety": "Once applied for arterial bleeding, NEVER loosen or remove a tourniquet in the field\u2014leave removal to hospital surgeons.",
+      "safety": "Continue direct pressure until the bleeding is controlled, a tourniquet controls it, another helper takes over, or the scene becomes unsafe.",
       "tags": [
         "tourniquet",
         "stop-the-bleed",
         "hemorrhage",
         "wound-packing",
         "trauma"
+      ],
+      "scenario": "Blood is pooling under an injured limb and ordinary first-aid supplies are nearby.",
+      "overview": "A continuous pressure hold and an early emergency call are time-critical. Tell responders what was used and when.",
+      "sources": [
+        [
+          "American Red Cross · Life-threatening bleeding",
+          "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external"
+        ]
       ]
     },
     {
       "id": "med-110",
       "cat": "First Aid & Remedies",
       "sub": "Bleeding & Trauma",
-      "title": "Improvised Windlass Tourniquet (When Commercial Gear Is Absent)",
+      "title": "Severe limb bleeding when the first-aid kit is out of reach",
       "diff": "Medium",
-      "time": "3 mins",
-      "gear": [
-        "Sturdy hardwood stick, wrench, or metal spoon (windlass)"
-      ],
-      "supplies": [
-        "2-inch-wide non-stretch cloth band (triangular bandage, torn shirt strip, belt\u2014NEVER wire, shoelace, or thin cord)"
-      ],
+      "time": "Act immediately",
+      "gear": [],
+      "supplies": [],
       "steps": [
-        "Cut or fold a strong, non-elastic fabric strip at least 2 inches wide (narrow cord cuts into flesh and nerves without compressing deep arteries).",
-        "Wrap the cloth band twice around the limb 2\u20133 inches above the wound and tie a single overhand knot.",
-        "Place a rigid stick or heavy metal spoon on top of the knot and tie a full square knot over the stick.",
-        "Twist the stick like a propeller until arterial bleeding stops completely, then tie the ends of the stick down against the limb with a second cloth strip so it cannot unwind."
+        "Call 911 on speaker if alone, or direct one helper to call. Press firmly on the bleeding site immediately with gauze or a clean cloth if available.",
+        "Keep pressure steady. If another person is free, send them for the trauma kit and have them return directly to you. Stay with the injured person.",
+        "If a commercial tourniquet arrives and you are trained, use it according to its instructions for life-threatening limb bleeding. Tell the dispatcher if bleeding continues, and follow their guidance.",
+        "Have a helper record what was used and when, once care is underway. Give that information to responders."
       ],
-      "safety": "Expect a properly tightened tourniquet to be painful\u2014do not back off twisting just because it hurts if bright red bleeding continues.",
+      "safety": "Avoid interruptions in pressure to search for supplies. Follow the dispatcher if the scene changes or you cannot control the bleeding.",
       "tags": [
-        "improvised-tourniquet",
-        "bleeding",
+        "severe bleeding",
+        "direct pressure",
         "trauma",
-        "sas",
         "emergency"
+      ],
+      "scenario": "Someone has a deep arm or leg wound. The trauma kit is in the vehicle. You are beside the person and the bleeding is heavy.",
+      "overview": "When two people are available, give each a specific job. The person holding pressure can remain in place while the other makes the call or brings the kit.",
+      "sources": [
+        [
+          "American Red Cross · Life-threatening bleeding",
+          "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external"
+        ]
       ]
     },
     {
       "id": "med-111",
       "cat": "First Aid & Remedies",
       "sub": "Bleeding & Trauma",
-      "title": "Sucking Chest Wound & Vented Chest Seal Application",
+      "title": "An open chest wound while waiting for EMS",
       "diff": "Medium",
-      "time": "5 mins",
+      "time": "Immediate",
       "gear": [
-        "Nitrile gloves"
+        "Phone"
       ],
       "supplies": [
-        "Vented commercial chest seal (HyFin) OR heavy plastic sheet + medical/duct tape"
+        "Clean dry gauze",
+        "Gloves"
       ],
       "steps": [
-        "Recognize an open chest wound (gunshot, stab, impalement): air sucking/bubbling through the chest wall, frothy pink sputum, or worsening shortness of breath.",
-        "Wipe blood/sweat off the chest skin quickly, have the patient exhale fully, and slap a vented chest seal directly over the wound (check the back/armpits for an exit wound and seal that too).",
-        "If using improvised plastic (cut zip-top bag or wrapper) with no commercial seal: tape all 4 sides down, OR tape 3 sides leaving the bottom corner open as a flutter valve so trapped air escapes on exhale without sucking in on inhale.",
-        "Watch closely for tension pneumothorax (worsening breathing, bulging neck veins, blue lips): if using a homemade 4-sided seal, briefly lift one corner during exhalation to burp trapped air."
+        "Call 911 immediately and follow the dispatcher. Let the person take a position that makes breathing easiest.",
+        "Leave the open chest wound exposed to air, or use a clean, dry, nonocclusive dressing. A rescuer trained with a purpose-made vented seal can follow that training.",
+        "Watch breathing continuously. If a dressing is followed by worsening breathing, loosen or remove it and update the dispatcher. If breathing stops or becomes only gasping, begin CPR."
       ],
-      "safety": "Keep the patient sitting slightly upright or leaning onto their injured side so the healthy lung can expand freely.",
+      "safety": "Never tape an airtight plastic dressing over a chest wound.",
       "tags": [
-        "chest-wound",
-        "chest-seal",
-        "pneumothorax",
-        "trauma",
-        "tactical-med"
+        "open chest wound",
+        "breathing",
+        "trauma"
+      ],
+      "scenario": "A chest injury bubbles with breathing and the person is struggling for air.",
+      "overview": "An open chest wound needs an ambulance. Report changes in breathing immediately, particularly if a dressing is in place.",
+      "sources": [
+        [
+          "American Red Cross · First aid guidelines",
+          "https://www.redcross.org/take-a-class/resources/guidelines"
+        ]
       ]
     },
     {
@@ -320,7 +388,7 @@
         "Clean plastic wrap / moist sterile dressings"
       ],
       "steps": [
-        "Impaled Object (knife, rebar, glass, branch): NEVER pull the object out\u2014it acts as a plug preventing catastrophic internal hemorrhage (only exception: an object through the cheek blocking the airway).",
+        "Impaled Object (knife, rebar, glass, branch): NEVER pull the object out—it acts as a plug preventing catastrophic internal hemorrhage (only exception: an object through the cheek blocking the airway).",
         "Cut clothing away around the object, build bulky doughnut-shaped pads of rolled gauze around the base on all sides, and tape firmly to stabilize the object from wobbling during transport.",
         "Abdominal Evisceration (protruding organs): Do NOT push organs back inside; cover gently with sterile dressings soaked in clean warm saline/water, cover with plastic wrap to lock in moisture and warmth, and bend knees slightly to relax abdominal muscles."
       ],
@@ -331,7 +399,9 @@
         "trauma",
         "stabilization",
         "first-aid"
-      ]
+      ],
+      "scenario": "An object remains in a wound after a fall onto sharp debris.",
+      "overview": "Keeping the object or exposed tissue protected during the wait limits further injury. Tell rescuers what caused the wound."
     },
     {
       "id": "med-113",
@@ -352,19 +422,21 @@
         "Non-stick sterile gauze pad"
       ],
       "steps": [
-        "Stop bleeding first, then wash hands and flush the wound forcefully with at least 500 mL\u20131 liter of clean drinkable water using an irrigation syringe\u2014high-volume water pressure is the #1 way to prevent infection.",
+        "Stop bleeding first, then wash hands and flush the wound forcefully with at least 500 mL–1 liter of clean drinkable water using an irrigation syringe—high-volume water pressure is the #1 way to prevent infection.",
         "Wash surrounding skin with mild soap and pick out visible dirt/gravel with alcohol-wiped tweezers (avoid pouring harsh rubbing alcohol or hydrogen peroxide straight into deep raw tissue, which kills healing cells).",
         "For clean, shallow straight cuts under 1 inch where edges meet easily: dry surrounding skin, apply Steri-Strips across the cut starting at the center to pull edges gently together without puckering.",
-        "Keep moist with plain petroleum jelly or bacitracin under a clean bandage changed daily\u2014moist wounds heal 2x faster with less scarring than dry scabs."
+        "Keep moist with plain petroleum jelly or bacitracin under a clean bandage changed daily—moist wounds heal 2x faster with less scarring than dry scabs."
       ],
-      "safety": "NEVER glue or tape shut deep puncture wounds, animal/human bites, dirty jagged wounds, or cuts older than 6\u20138 hours\u2014trapping bacteria inside causes severe abscesses.",
+      "safety": "NEVER glue or tape shut deep puncture wounds, animal/human bites, dirty jagged wounds, or cuts older than 6–8 hours—trapping bacteria inside causes severe abscesses.",
       "tags": [
         "wound-care",
         "irrigation",
         "steri-strips",
         "cuts",
         "infection"
-      ]
+      ],
+      "scenario": "A small cut has dirt in it and you’re deciding whether home care is appropriate.",
+      "overview": "Cleaning and assessing the wound come before deciding on a covering. Dirty punctures, deep gaps and bites need clinical advice about infection and tetanus."
     },
     {
       "id": "med-114",
@@ -378,13 +450,13 @@
         "Cold pack"
       ],
       "supplies": [
-        "Oxymetazoline nasal spray (Afrin) \u2014 optional",
+        "Oxymetazoline nasal spray (Afrin) — optional",
         "Whole milk or saliva container"
       ],
       "steps": [
-        "Nosebleed: Sit upright and lean SLIGHTLY FORWARD (never tilt head back, which sends blood down the throat causing vomiting) and pinch the soft lower nostrils firmly together against the septum for 10\u201315 continuous minutes without releasing.",
+        "Nosebleed: Sit upright and lean SLIGHTLY FORWARD (never tilt head back, which sends blood down the throat causing vomiting) and pinch the soft lower nostrils firmly together against the septum for 10–15 continuous minutes without releasing.",
         "Apply a cold compress across the bridge of the nose (optional: 2 sprays of Afrin nasal decongestant constricts bleeding vessels rapidly).",
-        "Knocked-Out Adult Tooth (30-minute critical window): Pick up the tooth ONLY by the white crown\u2014NEVER touch or scrub the root; rinse gently in milk or saliva if dirty, push back into the socket gently and bite on gauze, OR store submerged in cold whole milk or inside the cheek until reaching a dentist within 30\u201360 minutes."
+        "Knocked-Out Adult Tooth (30-minute critical window): Pick up the tooth ONLY by the white crown—NEVER touch or scrub the root; rinse gently in milk or saliva if dirty, push back into the socket gently and bite on gauze, OR store submerged in cold whole milk or inside the cheek until reaching a dentist within 30–60 minutes."
       ],
       "safety": "Never re-implant a knocked-out baby tooth (can damage the permanent tooth bud underneath).",
       "tags": [
@@ -392,7 +464,9 @@
         "tooth",
         "dental-emergency",
         "first-aid"
-      ]
+      ],
+      "scenario": "A fall produces a nosebleed or knocks out a tooth.",
+      "overview": "The source of bleeding, the injury mechanism and whether a tooth is permanent affect the next call. Preserve a knocked-out permanent tooth for urgent dental care."
     },
     {
       "id": "med-115",
@@ -409,7 +483,7 @@
         "Paper cup (for protective shield)"
       ],
       "steps": [
-        "Chemical Splash (bleach, pool acid, cleaner): Flush the open eye immediately with continuous gentle lukewarm water for at least 15\u201320 minutes, tilting head so runoff drains from the inner nose corner outward away from the uninjured eye.",
+        "Chemical Splash (bleach, pool acid, cleaner): Flush the open eye immediately with continuous gentle lukewarm water for at least 15–20 minutes, tilting head so runoff drains from the inner nose corner outward away from the uninjured eye.",
         "Loose Eyelash/Dust: Pull upper eyelid gently down over the lower lashes so tears flush it out, or rinse with clean saline.",
         "Embedded Metal/Wood/Glass in Eye: Do NOT rub or try to pull it out; tape a stiff paper cup or protective shield over the injured eye and cover the uninjured eye lightly (both eyes move together) to stop eye movement during transport."
       ],
@@ -419,37 +493,35 @@
         "chemical-splash",
         "flushing",
         "first-aid"
-      ]
+      ],
+      "scenario": "A splash reaches an eye while cleaning the house.",
+      "overview": "For a chemical splash, start rinsing immediately and have another person seek poison guidance. An embedded or penetrating object needs a different response."
     },
     {
       "id": "med-116",
       "cat": "First Aid & Remedies",
       "sub": "Bleeding & Trauma",
-      "title": "Fishhook Removal (String-Yank Method) & Splinter / Blister Care",
+      "title": "Protect an embedded fishhook and get care",
       "diff": "Easy",
-      "time": "10 mins",
+      "time": "Immediate",
       "gear": [
-        "Heavy braided fishing line or 550 paracord inner strand",
-        "Wire cutters / pliers",
-        "Tweezers"
+        "Phone"
       ],
       "supplies": [
-        "Antiseptic wipes",
-        "Hydrocolloid blister bandage or moleskin"
+        "Clean gauze"
       ],
       "steps": [
-        "Fishhook String-Yank (only for single-barb hooks NOT near eyes, face, arteries, or joints): Loop a 2-ft piece of strong line around the curve of the hook, press the eye of the hook flat against the skin with one finger to disengage the barb, and give one sharp, swift yank parallel to the skin.",
-        "Alternative advance-and-cut method: push the barb completely through the skin, snip the barb off with wire cutters, and back the smooth shank out.",
-        "Friction Blisters: Do NOT pop intact blisters (roof skin is a sterile natural bandage); cut a doughnut-shaped ring of moleskin around the blister or cover directly with a hydrocolloid bandage."
+        "Stop handling the line and keep the hooked area still. Secure loose hooks where they cannot snag another person.",
+        "Support the hook with clean padding around it. Do not yank, push through, twist or press on an embedded hook. For an eye injury, protect the eye without applying pressure and get emergency help.",
+        "Arrange prompt medical removal. Tell the clinician about water exposure and tetanus vaccination history if known."
       ],
-      "safety": "Verify tetanus vaccination is up to date (within 5 years for dirty puncture/hook wounds).",
+      "safety": "For severe bleeding or a hook in the eye, face or neck, call emergency services.",
       "tags": [
         "fishhook",
-        "blister",
-        "splinter",
-        "fishing",
-        "wilderness-med"
-      ]
+        "puncture"
+      ],
+      "scenario": "A fishing hook has caught someone and the barb’s depth is unclear.",
+      "overview": "Prevent further movement and arrange removal by a clinician for a deeply embedded hook or one near the eye, joint or blood vessel."
     },
     {
       "id": "med-117",
@@ -468,9 +540,9 @@
       ],
       "steps": [
         "Check CSM (Circulation, Sensation, Motion) distal to the injury BEFORE and AFTER splinting: feel pulse, check capillary refill (<2 seconds), and ask patient to wiggle fingers/toes.",
-        "Curve a SAM splint into a C-gutter or T-beam fold\u2014bending flat aluminum foam multiplies its structural rigidity 10x.",
+        "Curve a SAM splint into a C-gutter or T-beam fold—bending flat aluminum foam multiplies its structural rigidity 10x.",
         "Immobilize the bone AND the joint above and joint below the fracture (for a forearm break, splint from fingertips past the elbow).",
-        "Pad all bony hollows (wrist, elbow, ankle) with soft cloth and wrap snug\u2014never tight enough to numb fingers or turn nails blue."
+        "Pad all bony hollows (wrist, elbow, ankle) with soft cloth and wrap snug—never tight enough to numb fingers or turn nails blue."
       ],
       "safety": "If a deformed fracture has zero distal pulse and help is hours away, apply gentle inline traction once to restore blood flow; otherwise splint in the position found.",
       "tags": [
@@ -479,7 +551,9 @@
         "fracture",
         "broken-bone",
         "wilderness-med"
-      ]
+      ],
+      "scenario": "An arm looks injured and help will take time to reach you.",
+      "overview": "Supporting the limb where found can reduce movement. Check for color, warmth or sensation changes and report them to responders."
     },
     {
       "id": "med-118",
@@ -498,7 +572,7 @@
       ],
       "steps": [
         "Check Ottawa Ankle Rules to rule out fracture: if the person cannot bear weight for 4 steps OR has sharp bone tenderness on the back edge of either ankle bone (malleolus), splint as a fracture.",
-        "For soft-tissue sprains: Protect (unload 1\u20133 days), Elevate above heart level when resting, Avoid excessive anti-inflammatories in the first 48 hours if mild (natural inflammation starts tissue repair), Compress gently with an elastic figure-8 wrap starting from the toes upward.",
+        "For soft-tissue sprains: Protect (unload 1–3 days), Elevate above heart level when resting, Avoid excessive anti-inflammatories in the first 48 hours if mild (natural inflammation starts tissue repair), Compress gently with an elastic figure-8 wrap starting from the toes upward.",
         "If forced to hike out on a mild ankle sprain, leave the boot ON for support and wrap a figure-8 ankle lock over the boot with athletic tape or triangular bandage."
       ],
       "safety": "Loosen compression wraps immediately if throbbing pain, tingling, or cold toes develop.",
@@ -508,7 +582,9 @@
         "knee",
         "taping",
         "hiking"
-      ]
+      ],
+      "scenario": "An ankle turns on a trail and the return walk is still long.",
+      "overview": "Ability to bear weight, deformity and changes in sensation help determine whether to seek assistance for evacuation."
     },
     {
       "id": "med-119",
@@ -535,7 +611,9 @@
         "spine",
         "neuro",
         "trauma"
-      ]
+      ],
+      "scenario": "After a fall, a companion keeps asking the same question.",
+      "overview": "A time-stamped account of changes in alertness is valuable to emergency clinicians. Avoid unnecessary movement if a neck or spine injury is possible."
     },
     {
       "id": "med-120",
@@ -554,7 +632,7 @@
         "Burn gel / bacitracin"
       ],
       "steps": [
-        "Stop the burning process immediately and cool the burn under cool (NOT ice-cold) running water for 15\u201320 minutes\u2014never apply ice, butter, grease, or toothpaste.",
+        "Stop the burning process immediately and cool the burn under cool (NOT ice-cold) running water for 15–20 minutes—never apply ice, butter, grease, or toothpaste.",
         "Remove rings, watches, and tight clothing BEFORE swelling traps them (leave fabric stuck to deep burns intact and cut around it).",
         "Estimate burn size using the Rule of Nines (adult arm = 9%, front torso = 18%, back torso = 18%, each leg = 18%, head = 9%; patient's palm = ~1%).",
         "Cover 2nd-degree blisters and 3rd-degree white/charred burns loosely with sterile non-stick gauze or clean kitchen plastic wrap to block air pain and infection; seek emergency care for any 3rd-degree burn, burns >10% body area, or burns on face, hands, feet, groin, or major joints."
@@ -566,7 +644,9 @@
         "rule-of-nines",
         "blisters",
         "emergency"
-      ]
+      ],
+      "scenario": "A hot pan, steam or flame has injured the skin.",
+      "overview": "Depth, location, size and the person’s breathing affect urgency. A burn involving the face, hands or airway deserves particular attention."
     },
     {
       "id": "med-121",
@@ -593,61 +673,76 @@
         "chemical-burn",
         "safety",
         "emergency"
-      ]
+      ],
+      "scenario": "A downed wire or an unknown chemical may still be present at the injury site.",
+      "overview": "Isolate the hazard and enlist emergency help before approaching. Identify the product or electrical source from a safe position."
     },
     {
       "id": "med-122",
       "cat": "First Aid & Remedies",
       "sub": "Fractures, Sprains & Burns",
-      "title": "Shoulder Dislocation & Nursemaid's Elbow Field Reduction",
+      "title": "Support a suspected dislocated shoulder or elbow",
       "diff": "Hard",
-      "time": "15 mins",
+      "time": "Immediate",
       "gear": [
-        "Triangular bandage (sling & swathe)"
+        "Phone"
       ],
-      "supplies": [],
+      "supplies": [
+        "Folded garment"
+      ],
       "steps": [
-        "Anterior Shoulder Dislocation (arm held slightly out, squared-off shoulder contour): Check wrist pulse and thumb sensation first.",
-        "Stimson Gravity Technique (safest gentle field method when hours from a hospital): Have the patient lie face-down on a bench/ledge with the injured arm hanging straight down vertically, strap a 5\u201310 lb weight (water bag/pack) to the wrist, and let muscles relax for 15\u201320 minutes until the humeral head glides back into the socket.",
-        "Once reduced (or if unable to reduce), immobilize the arm across the chest in a sling and horizontal swathe bandage."
+        "Keep the arm as still as possible in the position found. Do not pull, rotate or try to put the joint back.",
+        "Support the arm with a cushion or folded garment as tolerated. Observe hand color, warmth and sensation without moving the joint.",
+        "Arrange prompt medical evaluation. Call 911 for severe trauma, numbness, a pale or cold hand or inability to transport safely. For a child refusing to move an arm after a pull, seek prompt pediatric assessment."
       ],
-      "safety": "Never yank or lever a dislocated shoulder forcefully\u2014brachial plexus nerves and axillary arteries run directly under the joint.",
+      "safety": "A dislocation and a fracture can look similar. Leave reduction to a clinician.",
       "tags": [
         "dislocation",
         "shoulder",
-        "wilderness-med",
-        "sling"
+        "elbow",
+        "nursemaid"
+      ],
+      "scenario": "After a fall the shoulder looks out of place, or a child refuses to use an arm after a pull.",
+      "overview": "Support in the position found protects the joint until a clinician can assess it. Do not attempt to put it back in place.",
+      "sources": [
+        [
+          "American Red Cross · Muscle, bone and joint injury",
+          "https://www.redcross.org/take-a-class/resources/learn-first-aid/muscle-bone-joint-injury"
+        ]
       ]
     },
     {
       "id": "med-123",
       "cat": "First Aid & Remedies",
       "sub": "Environmental Emergencies",
-      "title": "Heat Exhaustion vs. Life-Threatening Heat Stroke (Rapid Cooling)",
+      "title": "Recognize heat stroke and start cooling",
       "diff": "Easy",
-      "time": "20 mins",
-      "gear": [
-        "Tarp / tub",
-        "Battery fan",
-        "Thermometer"
-      ],
+      "time": "Act immediately",
+      "gear": [],
       "supplies": [
-        "Ice packs / cold water",
-        "Electrolyte solution"
+        "Cool water and cloths, if available"
       ],
       "steps": [
-        "Distinguish quickly: Heat Exhaustion = heavy sweating, weakness, dizziness, nausea, normal mental clarity. Heat Stroke = core temp >104\u00b0F PLUS central nervous system dysfunction (confusion, slurred speech, staggering, seizures, or collapse; skin may be red/dry OR still drenched in sweat).",
-        "Heat Stroke is a 30-minute medical emergency ('Cool First, Transport Second'): call 911 and immediately immerse the person up to the neck in an ice-water bath/kiddie pool, OR use the Tarp-Assisted Cooling (TACO) method\u2014lay them on a tarp, lift edges, and pour gallons of ice water over them continuously.",
-        "If ice immersion isn't available, pack ice/cold wet towels at the neck, armpits, and groin while spraying mist and fanning aggressively.",
-        "For mild Heat Exhaustion (alert, no vomiting): move to AC/shade, loosen clothing, and sip cool electrolyte solution slowly."
+        "After heat exposure, confusion, slurred speech, collapse or a seizure is an emergency. Call 911 immediately and start cooling. Skin may be wet or dry. A thermometer reading is unnecessary for this decision.",
+        "Move the person into shade or air conditioning if safe. Remove excess outer clothing. Wet the skin with cool water and fan it, or use cool wet cloths, refreshing them often. Follow the dispatcher.",
+        "Stay with the person. Monitor breathing and give nothing by mouth to someone with suspected heat stroke.",
+        "For someone who is fully alert with signs of heat exhaustion, move them to a cool place, loosen clothing and offer small sips of cool water if they can swallow. Seek medical help promptly for vomiting, worsening symptoms or symptoms lasting over an hour. Call 911 for confusion or loss of consciousness."
       ],
-      "safety": "Never force liquids into a confused or semi-conscious heat-stroke patient.",
+      "safety": "A person with heat stroke can still be sweating. Start cooling while emergency help is on the way.",
       "tags": [
         "heat-stroke",
         "heat-exhaustion",
         "summer",
         "texas",
         "cooling"
+      ],
+      "scenario": "A person working in Gulf Coast heat becomes confused or collapses.",
+      "overview": "Being able to answer a familiar question normally matters more here than a dry shirt or a number on a thermometer. A change in behavior after time in the heat changes the urgency.",
+      "sources": [
+        [
+          "CDC · Heat-related illnesses",
+          "https://www.cdc.gov/extreme-heat/media/pdf/Heat_Related_Illness.pdf"
+        ]
       ]
     },
     {
@@ -656,7 +751,7 @@
       "sub": "Environmental Emergencies",
       "title": "Hypothermia Stages & Safe Rewarming (Preventing Afterdrop)",
       "diff": "Medium",
-      "time": "1\u20132 hours",
+      "time": "1–2 hours",
       "gear": [
         "Sleeping bag",
         "Mylar emergency blanket",
@@ -667,17 +762,19 @@
         "Wrapped warm water bottles"
       ],
       "steps": [
-        "Mild Hypothermia (95\u00b0F\u201390\u00b0F \u2014 shivering, clumsy fingers 'the umbles': mumbles, stumbles, fumbles): Get out of wind/wet, strip wet clothes inside shelter, insulate from ground, put in dry sleeping bag, and give warm high-sugar fluids.",
-        "Severe Hypothermia (<90\u00b0F \u2014 shivering STOPS, rigid muscles, confusion/apathy, very slow pulse): Handle GENTLY (rough jostling triggers fatal heart arrhythmia/ventricular fibrillation), keep horizontal, and wrap in a 'hypothermia burrito' (tarp + sleeping bag + warm water bottles wrapped in socks placed on chest/armpits/groin\u2014NEVER on arms/legs).",
-        "Do NOT put a severely hypothermic person in a hot shower or rub their limbs\u2014that rushes cold peripheral blood back to the heart ('afterdrop')."
+        "Mild Hypothermia (95°F–90°F — shivering, clumsy fingers 'the umbles': mumbles, stumbles, fumbles): Get out of wind/wet, strip wet clothes inside shelter, insulate from ground, put in dry sleeping bag, and give warm high-sugar fluids.",
+        "Severe Hypothermia (<90°F — shivering STOPS, rigid muscles, confusion/apathy, very slow pulse): Handle GENTLY (rough jostling triggers fatal heart arrhythmia/ventricular fibrillation), keep horizontal, and wrap in a 'hypothermia burrito' (tarp + sleeping bag + warm water bottles wrapped in socks placed on chest/armpits/groin—NEVER on arms/legs).",
+        "Do NOT put a severely hypothermic person in a hot shower or rub their limbs—that rushes cold peripheral blood back to the heart ('afterdrop')."
       ],
-      "safety": "Check pulse for a full 60 seconds in severe hypothermia before starting CPR, as heart rate may be 10\u201315 beats/minute.",
+      "safety": "Check pulse for a full 60 seconds in severe hypothermia before starting CPR, as heart rate may be 10–15 beats/minute.",
       "tags": [
         "hypothermia",
         "rewarming",
         "cold-weather",
         "wilderness-med"
-      ]
+      ],
+      "scenario": "A wet, cold companion is becoming slow to answer simple questions.",
+      "overview": "Protection from wind, ground and wet clothing limits further cooling. Changes in alertness call for emergency care."
     },
     {
       "id": "med-125",
@@ -691,48 +788,56 @@
         "Clean basin"
       ],
       "supplies": [
-        "Warm water (99\u00b0F\u2013102\u00b0F)",
+        "Warm water (99°F–102°F)",
         "Sterile gauze",
         "Ibuprofen"
       ],
       "steps": [
         "Frostnip (pale, cold, tingling skin still soft): Rewarm immediately via skin-to-skin contact (tucking fingers in armpits).",
         "Deep Frostbite (waxy white/greyish-blue hard frozen tissue): Do NOT thaw if there is ANY chance the limb could refreeze before reaching definitive shelter (refreezing destroys tissue permanently).",
-        "Once safely indoors, immerse the frostbitten part in circulating warm water strictly between 99\u00b0F and 102\u00b0F (test with an uninjured elbow\u2014never hot water or near a fire) for 20\u201330 minutes until flushed and pliable, place dry sterile gauze between toes/fingers, and give ibuprofen."
+        "Once safely indoors, immerse the frostbitten part in circulating warm water strictly between 99°F and 102°F (test with an uninjured elbow—never hot water or near a fire) for 20–30 minutes until flushed and pliable, place dry sterile gauze between toes/fingers, and give ibuprofen."
       ],
-      "safety": "Never rub frostbitten skin with snow or hands\u2014ice crystals inside cells shred tissue.",
+      "safety": "Never rub frostbitten skin with snow or hands—ice crystals inside cells shred tissue.",
       "tags": [
         "frostbite",
         "trench-foot",
         "cold-injury",
         "winter"
-      ]
+      ],
+      "scenario": "After prolonged cold or wet exposure a foot feels numb and looks unusually pale.",
+      "overview": "Protect the tissue from pressure and rubbing. The possibility of refreezing matters when deciding where rewarming can take place."
     },
     {
       "id": "med-126",
       "cat": "First Aid & Remedies",
       "sub": "Environmental Emergencies",
-      "title": "Near-Drowning Rescue & Secondary Dry-Drowning Observation",
+      "title": "Drowning: summon rescue and support breathing",
       "diff": "Easy",
-      "time": "15 mins",
+      "time": "Immediate",
       "gear": [
-        "Throw rope / flotation ring / long pole"
+        "Phone",
+        "Flotation aid",
+        "AED if available"
       ],
-      "supplies": [
-        "Dry blankets"
-      ],
+      "supplies": [],
       "steps": [
-        "Follow Reach-Throw-Row-Go: extend a pole/paddle or throw a floating cooler/life ring from shore first\u2014panicked drowning victims pull untrained swimmers underwater.",
-        "Once out of water, check breathing immediately; if not breathing, start CPR starting with 2 rescue breaths (drowning is an oxygen-starvation arrest) followed by 30 compressions.",
-        "Expect water/vomit regurgitation\u2014turn the head/body to the side to clear the airway and resume CPR.",
-        "Every near-drowning survivor who inhaled water MUST be observed in an ER or watched closely for 24 hours for delayed pulmonary edema (persistent coughing, chest pain, fast breathing, extreme fatigue)."
+        "Call 911 and alert a lifeguard. Reach or throw flotation from safety. Do not enter hazardous water for a rescue you are not trained to make.",
+        "Once the person is safely out, check responsiveness and normal breathing. If unresponsive and not breathing normally, begin CPR. If trained in drowning CPR, start with two breaths, then cycles of 30 compressions and two breaths. Follow the dispatcher and use an AED as soon as possible.",
+        "Stay with the person and follow EMS instructions. Persistent cough, difficulty breathing, unusual sleepiness or any need for rescue breaths or CPR requires emergency evaluation."
       ],
-      "safety": "Drowning is silent\u2014victims cannot wave or shout because their airway is fighting for breath.",
+      "safety": "Never delay breathing support trying to drain water from the lungs.",
       "tags": [
         "drowning",
-        "water-rescue",
-        "pool-safety",
-        "cpr"
+        "rescue",
+        "breathing"
+      ],
+      "scenario": "A swimmer is pulled from the water and is coughing or breathing abnormally.",
+      "overview": "Prompt breathing support and medical evaluation matter after drowning. Tell responders how long the person was underwater if anyone knows.",
+      "sources": [
+        [
+          "American Red Cross · Drowning resuscitation",
+          "https://guidelines.redcross.org/guidelines-database/appendix-b-summary-of-reaffirmed-guidelines-recommendations/"
+        ]
       ]
     },
     {
@@ -746,13 +851,13 @@
         "Pulse oximeter"
       ],
       "supplies": [
-        "Acetazolamide (Diamox \u2014 Rx)",
+        "Acetazolamide (Diamox — Rx)",
         "Ibuprofen"
       ],
       "steps": [
-        "Ascend gradually above 8,000 ft (no more than 1,000\u20131,600 ft sleeping elevation gain per day) and stay well hydrated.",
-        "Acute Mountain Sickness (AMS \u2014 throbbing headache, nausea, dizziness, insomnia): Stop ascending, rest, hydrate, and take ibuprofen or acetazolamide.",
-        "Life-threatening HACE (ataxia/stumbling like drunk, confusion) or HAPE (gurgling cough, pink frothy sputum, breathless at rest): DESCEND immediately at least 1,500\u20133,000 feet\u2014descent is the only definitive cure."
+        "Ascend gradually above 8,000 ft (no more than 1,000–1,600 ft sleeping elevation gain per day) and stay well hydrated.",
+        "Acute Mountain Sickness (AMS — throbbing headache, nausea, dizziness, insomnia): Stop ascending, rest, hydrate, and take ibuprofen or acetazolamide.",
+        "Life-threatening HACE (ataxia/stumbling like drunk, confusion) or HAPE (gurgling cough, pink frothy sputum, breathless at rest): DESCEND immediately at least 1,500–3,000 feet—descent is the only definitive cure."
       ],
       "safety": "Never ascend with unresolved AMS symptoms, and never leave a sick teammate alone to descend.",
       "tags": [
@@ -761,7 +866,9 @@
         "hape",
         "hace",
         "travel"
-      ]
+      ],
+      "scenario": "A hiker develops a headache and nausea after gaining elevation.",
+      "overview": "The relationship to ascent is a clue. Worsening breathing, confusion or difficulty walking needs urgent descent with help and emergency care."
     },
     {
       "id": "med-128",
@@ -775,14 +882,14 @@
         "Basin or bucket"
       ],
       "supplies": [
-        "Hot water (110\u00b0F\u2013113\u00b0F \u2014 as hot as tolerable without scalding)",
+        "Hot water (110°F–113°F — as hot as tolerable without scalding)",
         "Clean gauze",
         "Soap & clean water"
       ],
       "steps": [
         "Always shuffle your feet ('stingray shuffle') when wading in warm Gulf Coast surf (Galveston/Surfside) so rays swim away instead of whipping their barbed tail.",
-        "If stung (usually ankle/foot): get out of the water, control bleeding with gentle direct pressure, and IMMEDIATELY submerge the wound in hot water (110\u00b0F\u2013113\u00b0F / 43\u00b0C\u201345\u00b0C) for 30 to 90 minutes\u2014heat denatures the heat-labile protein venom and stops agonizing pain within minutes.",
-        "Remove loose superficial spine fragments with tweezers, ONLY if protruding easily\u2014NEVER pull out a deeply embedded barb in the chest, abdomen, neck, or near a major joint/artery.",
+        "If stung (usually ankle/foot): get out of the water, control bleeding with gentle direct pressure, and IMMEDIATELY submerge the wound in hot water (110°F–113°F / 43°C–45°C) for 30 to 90 minutes—heat denatures the heat-labile protein venom and stops agonizing pain within minutes.",
+        "Remove loose superficial spine fragments with tweezers, ONLY if protruding easily—NEVER pull out a deeply embedded barb in the chest, abdomen, neck, or near a major joint/artery.",
         "Irrigate thoroughly with clean water and seek urgent medical care: stingray barbs shred tissue and carry marine Vibrio/Aeromonas bacteria requiring X-rays (to check for retained sheath fragments), tetanus update, and marine-specific antibiotics (doxycycline/ciprofloxacin)."
       ],
       "safety": "Test hot water on your own uninjured hand first so a numb/shocked victim doesn't get scalded; NEVER pack a stingray wound in ice (cold locks in the venom and intensifies pain).",
@@ -793,31 +900,30 @@
         "marine",
         "venom",
         "hot-water"
-      ]
+      ],
+      "scenario": "Sudden foot pain follows a step in shallow coastal water.",
+      "overview": "Bleeding, the wound location and any embedded barb guide the emergency response. Saltwater punctures also need assessment for infection."
     },
     {
       "id": "med-129",
       "cat": "First Aid & Remedies",
       "sub": "Marine & Aquatic Stings",
-      "title": "Jellyfish & Portuguese Man-of-War Stings (Vinegar vs. Seawater)",
+      "title": "First aid for a jellyfish sting",
       "diff": "Easy",
       "time": "30 mins",
       "gear": [
-        "Tweezers",
-        "Credit card / dull butter knife"
+        "Gloves or plastic barrier",
+        "Phone"
       ],
       "supplies": [
-        "Household white vinegar (5% acetic acid)",
-        "Seawater (NEVER freshwater)",
-        "Hydrocortisone 1% cream or oral antihistamine"
+        "Comfortably hot water"
       ],
       "steps": [
-        "Get out of the water immediately and do NOT rub the skin with towels, sand, or bare hands\u2014friction triggers millions of unfired microscopic nematocyst venom darts.",
-        "Douse the area generously with household white vinegar for at least 30 seconds to neutralize unfired stinging cells (for Atlantic/Gulf jellyfish & Box Jellyfish; if no vinegar is handy, rinse with SEAWATER only\u2014NEVER use freshwater, urine, or rubbing alcohol, which cause osmotic firing of remaining stingers).",
-        "Pluck off visible tentacles with tweezers or scrape gently with the edge of a credit card after vinegar deactivation.",
-        "Relieve residual pain by soaking in hot water (110\u00b0F\u2013113\u00b0F) for 20\u201340 minutes (or applying an ice pack wrapped in cloth if hot water isn't available) and apply 1% hydrocortisone cream."
+        "Leave the water and alert a lifeguard. Call 911 for breathing difficulty, faintness, a severe reaction, a sting to the face or neck, or an unknown or potentially lethal species.",
+        "Follow the local lifeguard or Poison Control’s species-specific instructions. Carefully lift off visible tentacles with a protected hand or appropriate tool, avoiding rubbing.",
+        "When appropriate for the sting, immerse the area in tolerably hot water for at least 20 minutes or until pain improves. Test the temperature on unaffected skin to avoid burns. Monitor for systemic symptoms."
       ],
-      "safety": "Call 911 immediately if stings cover a large area or cause chest tightness, breathing trouble, muscle cramps, or dizziness (Irukandji / Man-of-War systemic reaction).",
+      "safety": "Do not prescribe one rinse for all species or apply urine, sand or pressure.",
       "tags": [
         "jellyfish",
         "man-of-war",
@@ -825,6 +931,14 @@
         "galveston",
         "vinegar",
         "marine"
+      ],
+      "scenario": "A swimmer reaches shore with painful tentacle marks.",
+      "overview": "Identify the beach and ask the lifeguard for the locally appropriate protocol. Widespread symptoms or breathing trouble need emergency care.",
+      "sources": [
+        [
+          "American Red Cross · Jellyfish stings",
+          "https://www.redcross.org/take-a-class/resources/learn-first-aid/jellyfish-stings"
+        ]
       ]
     },
     {
@@ -839,16 +953,16 @@
         "Magnifying glass"
       ],
       "supplies": [
-        "Hot water (110\u00b0F\u2013113\u00b0F)",
+        "Hot water (110°F–113°F)",
         "White vinegar",
         "Antibiotic ointment"
       ],
       "steps": [
-        "Hardhead Catfish / Gafftopsail Fin Puncture (common in Gulf bays/piers) & Sea Urchin Spines: Submerge the punctured hand/foot in hot water (110\u00b0F\u2013113\u00b0F) for 30\u201360 minutes to neutralize venom proteins and ease throbbing pain.",
+        "Hardhead Catfish / Gafftopsail Fin Puncture (common in Gulf bays/piers) & Sea Urchin Spines: Submerge the punctured hand/foot in hot water (110°F–113°F) for 30–60 minutes to neutralize venom proteins and ease throbbing pain.",
         "Remove large visible spines straight out with tweezers without snapping brittle urchin tips off under the skin (soaking in vinegar helps dissolve tiny superficial calcium spines).",
         "Flush forcefully with clean freshwater and monitor closely for 48 hours for redness, warmth, or red streaks."
       ],
-      "safety": "GULF COAST VIBRIO WARNING: Any cut, scrape, or puncture exposed to warm brackish bay/gulf water that develops rapid swelling, blistering, fever, or severe pain within 12\u201348 hours requires IMMEDIATE emergency IV antibiotics.",
+      "safety": "GULF COAST VIBRIO WARNING: Any cut, scrape, or puncture exposed to warm brackish bay/gulf water that develops rapid swelling, blistering, fever, or severe pain within 12–48 hours requires IMMEDIATE emergency IV antibiotics.",
       "tags": [
         "catfish",
         "sea-urchin",
@@ -856,7 +970,9 @@
         "galveston",
         "fishing",
         "marine"
-      ]
+      ],
+      "scenario": "A fish spine or urchin has punctured skin in warm coastal water.",
+      "overview": "Tell the clinician where and when it happened. Deep retained fragments and saltwater exposure can change the treatment needed."
     },
     {
       "id": "med-131",
@@ -878,7 +994,7 @@
         "Keep the bitten limb immobilized at or slightly below heart level (neutral position) and trace the leading edge of swelling with a pen every 15 minutes with the time written beside it.",
         "STRICTLY DO NOT: cut the wound, suck out venom, use a venom extractor pump, apply ice, apply a tight tourniquet, or give alcohol/aspirin/ibuprofen (CroFab antivenom at the hospital is the only effective treatment)."
       ],
-      "safety": "Even a decapitated snake head can reflex-bite and inject venom for up to an hour\u2014never handle a dead snake.",
+      "safety": "Even a decapitated snake head can reflex-bite and inject venom for up to an hour—never handle a dead snake.",
       "tags": [
         "snakebite",
         "rattlesnake",
@@ -886,32 +1002,39 @@
         "cottonmouth",
         "texas",
         "antivenom"
-      ]
+      ],
+      "scenario": "Someone feels a strike while working in brush and puncture marks are visible.",
+      "overview": "Call for emergency help without trying to catch the snake. The time of the bite and progression of swelling help the treating team."
     },
     {
       "id": "med-132",
       "cat": "First Aid & Remedies",
       "sub": "Bites, Stings & Poisons",
-      "title": "Coral Snake Bites & Pressure-Immobilization Bandage",
+      "title": "Possible coral snake bite in Texas",
       "diff": "Medium",
-      "time": "10 mins",
+      "time": "Immediate",
       "gear": [
-        "Elastic ACE bandage (3\u20134 inch wide)",
-        "Splint"
+        "Phone"
       ],
       "supplies": [],
       "steps": [
-        "Recognize North American Coral Snakes (Texas/Southeast): 'Red on yellow, kill a fellow; red on black, venom lack' (Note: coral snakes have black snouts and small fixed fangs that chew rather than strike, often leaving minimal initial pain/swelling before neurotoxic paralysis starts hours later).",
-        "Call 911 immediately\u2014neurotoxic venom can paralyze diaphragm breathing muscles.",
-        "For neurotoxic elapid bites (Coral snakes, cobras, sea snakes): wrap a wide elastic bandage firmly (like a sprained ankle wrap, NOT cutting off pulse) starting over the bite and wrapping all the way up the limb, then splint the limb still."
+        "Move away from the snake. Call 911 immediately and report the time and location. Do not wait for pain or swelling.",
+        "Keep the person calm and still. Remove constricting jewelry if easily accessible and monitor breathing.",
+        "Let responders identify the exposure from a description or existing photo. Never try to catch or approach the snake. Follow EMS or Poison Control guidance about the limb."
       ],
-      "safety": "Do NOT use tight pressure-immobilization wraps on Pit Vipers (rattlesnakes/copperheads), as trapping tissue-destroying hemotoxin in one spot worsens local necrosis.",
+      "safety": "Do not use a tourniquet, cut or suck the wound, or apply ice. Color rhymes are unreliable.",
       "tags": [
-        "coral-snake",
-        "neurotoxin",
-        "snakebite",
-        "texas",
-        "venom"
+        "coral snake",
+        "Texas",
+        "bite"
+      ],
+      "scenario": "A possible Texas coral snake bite leaves little pain at first.",
+      "overview": "Symptoms can be delayed. Early emergency evaluation is important even when the skin looks nearly normal.",
+      "sources": [
+        [
+          "Poison Control · Snakebites",
+          "https://www.poison.org/articles/snakebites-in-march"
+        ]
       ]
     },
     {
@@ -931,8 +1054,8 @@
       ],
       "steps": [
         "Wash the bite site gently with soap and water and apply a cloth-wrapped ice pack for 15 minutes on / 15 minutes off to slow venom spread and relieve pain.",
-        "Black Widow (shiny black with red hourglass; neurotoxin): Watch for severe abdominal/back muscle cramps, sweating, nausea, and high blood pressure within 1\u20136 hours\u2014seek hospital care for muscle relaxants/antivenom.",
-        "Brown Recluse (violin-shaped mark on cephalothorax; necrotoxin): Elevate the limb, keep cool, avoid heat pads (heat accelerates enzyme tissue breakdown), and see a doctor if a dark purple 'bull's-eye' blister or ulcer develops over 24\u201372 hours."
+        "Black Widow (shiny black with red hourglass; neurotoxin): Watch for severe abdominal/back muscle cramps, sweating, nausea, and high blood pressure within 1–6 hours—seek hospital care for muscle relaxants/antivenom.",
+        "Brown Recluse (violin-shaped mark on cephalothorax; necrotoxin): Elevate the limb, keep cool, avoid heat pads (heat accelerates enzyme tissue breakdown), and see a doctor if a dark purple 'bull's-eye' blister or ulcer develops over 24–72 hours."
       ],
       "safety": "Shake out gardening gloves, garage shoes, and stored blankets before putting them on.",
       "tags": [
@@ -941,7 +1064,9 @@
         "brown-recluse",
         "venom",
         "texas"
-      ]
+      ],
+      "scenario": "A painful skin lesion is being called a spider bite, but nobody saw the spider.",
+      "overview": "Describe the symptoms and their progression. A presumed species identification can distract from an infection or a different exposure."
     },
     {
       "id": "med-134",
@@ -959,18 +1084,26 @@
         "Zip-top bag (to save tick)"
       ],
       "steps": [
-        "Grasp the tick with fine-tipped tweezers as close to the skin's surface as possible (by the head/mouthparts, NEVER squeezing the swollen belly).",
-        "Pull straight upward with steady, even pressure\u2014do NOT twist or jerk, which snaps mouthparts off in the skin.",
-        "NEVER apply petroleum jelly, nail polish, rubbing alcohol, or a hot match to a live attached tick\u2014suffocating a tick causes it to regurgitate infectious saliva straight into your bloodstream.",
-        "Clean the bite with rubbing alcohol/soap, save the tick in a dated bag/tape card, and watch for 30 days for a bull's-eye rash, fever, body aches, or spotted wrist/ankle rash."
+        "Use clean fine-tipped tweezers to grasp the attached tick close to the skin. Reach past its rounded body to avoid squeezing it.",
+        "Pull away from the skin with steady, even pressure. If a mouthpart remains and cannot easily be grasped with tweezers, leave it to heal.",
+        "Clean your hands and the bite with soap and water or rubbing alcohol. Put the tick in a sealed container or wrap it in tape. Check for other ticks.",
+        "Record the date and where you were. Seek medical advice if fever or a rash develops in the following days or weeks. Tell the clinician about the bite."
       ],
-      "safety": "Prompt removal within 24 hours dramatically reduces Lyme disease transmission.",
+      "safety": "Remove an attached tick promptly. Heat, petroleum jelly and nail polish can irritate the tick and delay removal.",
       "tags": [
         "tick",
         "lyme-disease",
         "chiggers",
         "removal",
         "wilderness-med"
+      ],
+      "scenario": "A tick is found attached after a walk through tall grass.",
+      "overview": "Record the removal date and likely location of exposure. New fever or rash after the bite is important information for a clinician.",
+      "sources": [
+        [
+          "CDC - What to do after a tick bite",
+          "https://www.cdc.gov/ticks/after-a-tick-bite/index.html"
+        ]
       ]
     },
     {
@@ -991,9 +1124,9 @@
         "Oral antihistamine"
       ],
       "steps": [
-        "Honeybee: Scrape the barbed venom sac sideways out of the skin immediately with a fingernail or credit card\u2014never pinch the sac with tweezers, which squeezes the remaining venom in.",
+        "Honeybee: Scrape the barbed venom sac sideways out of the skin immediately with a fingernail or credit card—never pinch the sac with tweezers, which squeezes the remaining venom in.",
         "Fire Ants (Texas): Brush off ants rapidly, wash with soap/water, apply a cold compress and baking soda paste or 1% hydrocortisone cream, and leave white pustules intact (popping causes secondary staph infection).",
-        "Puss Caterpillar ('Asp' \u2014 furry teardrop caterpillar dropping from Texas oaks): Press sticky cellophane/duct tape onto the sting and rip off repeatedly to pull out embedded venomous spines before washing.",
+        "Puss Caterpillar ('Asp' — furry teardrop caterpillar dropping from Texas oaks): Press sticky cellophane/duct tape onto the sting and rip off repeatedly to pull out embedded venomous spines before washing.",
         "Scorpion: Wash, apply a cool compress, take acetaminophen/ibuprofen, and monitor children closely for involuntary eye movements or muscle twitching."
       ],
       "safety": "Watch every sting victim for 30 minutes for throat swelling, hives, or wheezing (anaphylaxis).",
@@ -1004,7 +1137,9 @@
         "caterpillar",
         "texas",
         "venom"
-      ]
+      ],
+      "scenario": "A sting starts with pain at one spot and you’re watching for symptoms elsewhere.",
+      "overview": "Breathing problems, faintness or swelling in the mouth shift the situation from local care to an emergency allergy response."
     },
     {
       "id": "med-136",
@@ -1024,46 +1159,52 @@
         "1% hydrocortisone cream"
       ],
       "steps": [
-        "Memorize 'Leaves of three, let it be' (poison ivy climbs hairy vines or grows as a low shrub; poison sumac has 7\u201313 smooth leaflets in wet bogs).",
-        "You have a 30-to-60-minute golden window after brushing the plant to prevent a rash completely: wash exposed skin with dish soap (Dawn) and a WET WASHCLOTH using firm friction in cool water (urushiol binds like invisible axle grease\u2014soap without washcloth friction leaves oil behind; hot water opens pores).",
-        "Wash all clothes, boots, tools, and pet fur that touched the plant\u2014urushiol stays active on gear and boots for up to 5 years.",
+        "Memorize 'Leaves of three, let it be' (poison ivy climbs hairy vines or grows as a low shrub; poison sumac has 7–13 smooth leaflets in wet bogs).",
+        "You have a 30-to-60-minute golden window after brushing the plant to prevent a rash completely: wash exposed skin with dish soap (Dawn) and a WET WASHCLOTH using firm friction in cool water (urushiol binds like invisible axle grease—soap without washcloth friction leaves oil behind; hot water opens pores).",
+        "Wash all clothes, boots, tools, and pet fur that touched the plant—urushiol stays active on gear and boots for up to 5 years.",
         "For an active itchy rash: use cool colloidal oatmeal baths, calamine lotion, cool compresses, and oral antihistamines at night (blister fluid itself does NOT spread the rash)."
       ],
-      "safety": "NEVER burn poison ivy vines in a brush pile or campfire\u2014inhaling aerosolized urushiol smoke causes life-threatening lung inflammation.",
+      "safety": "NEVER burn poison ivy vines in a brush pile or campfire—inhaling aerosolized urushiol smoke causes life-threatening lung inflammation.",
       "tags": [
         "poison-ivy",
         "urushiol",
         "rash",
         "remedy",
         "wilderness-med"
-      ]
+      ],
+      "scenario": "An itchy rash appears after clearing brush and the gloves are still by the back door.",
+      "overview": "Oil can remain on tools and clothing after the walk. Cleaning them helps prevent another exposure."
     },
     {
       "id": "med-137",
       "cat": "First Aid & Remedies",
       "sub": "Bites, Stings & Poisons",
-      "title": "Ingested Poisons, Activated Charcoal Rules & Poison Control Protocol",
+      "title": "Suspected poisoning: what to tell Poison Control",
       "diff": "Medium",
-      "time": "10 mins",
+      "time": "Immediate",
       "gear": [
-        "Phone (Poison Control: 1-800-222-1222)"
+        "Phone",
+        "Product label"
       ],
-      "supplies": [
-        "Activated charcoal powder/liquid (ONLY when directed by Poison Control)"
-      ],
+      "supplies": [],
       "steps": [
-        "Call Poison Control immediately (US: 1-800-222-1222 \u2014 free, 24/7, staffed by toxicology nurses/pharmacists) with the exact container, amount swallowed, victim's weight, and time of ingestion.",
-        "NEVER induce vomiting (no ipecac, salt water, or finger-down-throat)\u2014vomiting caustic cleaners/bleach burns the esophagus a second time, and vomiting hydrocarbons (gasoline, lamp oil) causes fatal chemical pneumonia.",
-        "Activated Charcoal (25\u201350 g adult dose mixed in water): Effective ONLY within 1 hour of swallowing certain pill/plant overdoses AND ONLY if the person is wide awake and alert\u2014charcoal does NOT bind acids, alkalis, bleach, gasoline, alcohols, iron, or lithium.",
-        "For skin or eye poison contact, strip contaminated clothing and flush with water for 15\u201320 minutes while calling Poison Control."
+        "For collapse, seizure, difficulty breathing or inability to wake, call 911 immediately. Otherwise call US Poison Control at 1-800-222-1222 promptly.",
+        "Have the container or a photo ready. Report the person’s age, weight if known, product, possible amount, time and symptoms. Do not delay the call to find a missing detail.",
+        "Follow the specialist’s instructions and keep monitoring the person. Bring the packaging if referred for evaluation."
       ],
-      "safety": "Never give activated charcoal to a drowsy or vomiting patient\u2014aspirating charcoal into the lungs can be fatal.",
+      "safety": "Do not induce vomiting or give activated charcoal or home antidotes on your own.",
       "tags": [
         "poison",
-        "activated-charcoal",
-        "overdose",
-        "poison-control",
-        "remedy"
+        "ingestion",
+        "overdose"
+      ],
+      "scenario": "A child may have swallowed something from an open bottle.",
+      "overview": "Keep the label for Poison Control and call promptly. An unresponsive person or one with trouble breathing needs 911 immediately.",
+      "sources": [
+        [
+          "Poison Control · First aid for poisonings",
+          "https://www.poison.org/first-aid-for-poisonings"
+        ]
       ]
     },
     {
@@ -1080,16 +1221,18 @@
       "steps": [
         "Recognize Carbon Monoxide (CO) poisoning during storms/winter outages (from generators, grills, or blocked vents): simultaneous dull headache, dizziness, nausea, confusion, and flu-like fatigue across multiple people or pets in the house.",
         "Get every person and pet out into fresh outdoor air IMMEDIATELY, leave doors open, and call 911.",
-        "For smoke inhalation in a fire: check for singed nose hairs, soot around mouth/nostrils, or hoarse voice\u2014these signal airway swelling that can close the windpipe within hours and require hospital oxygen/airway monitoring."
+        "For smoke inhalation in a fire: check for singed nose hairs, soot around mouth/nostrils, or hoarse voice—these signal airway swelling that can close the windpipe within hours and require hospital oxygen/airway monitoring."
       ],
-      "safety": "Ordinary pulse oximeters read falsely normal (98%\u2013100%) during carbon monoxide poisoning because they cannot distinguish CO from oxygen on hemoglobin.",
+      "safety": "Ordinary pulse oximeters read falsely normal (98%–100%) during carbon monoxide poisoning because they cannot distinguish CO from oxygen on hemoglobin.",
       "tags": [
         "carbon-monoxide",
         "smoke-inhalation",
         "poisoning",
         "generator",
         "emergency"
-      ]
+      ],
+      "scenario": "Several people have headaches in the same room during an outage.",
+      "overview": "Leave for fresh air immediately and call from outside. Tell responders who was inside and whether an engine, fire or heater was running."
     },
     {
       "id": "med-139",
@@ -1107,49 +1250,53 @@
         "Sterile gauze"
       ],
       "steps": [
-        "Control active bleeding with direct pressure, then scrub and irrigate the bite aggressively with soap and copious running water for 10\u201315 minutes to flush out saliva and bacteria.",
-        "Leave puncture-type animal or human bites OPEN (cover loosely with sterile gauze)\u2014cat bites and human clenched-fist bites carry Pasteurella and anaerobic bacteria that cause rapid deep-space infections if stitched closed.",
-        "Seek medical care within 8 hours for prophylactic antibiotics (amoxicillin-clavulanate), tetanus booster, and rabies post-exposure evaluation (especially after bat, raccoon, skunk, fox, or stray bite\u2014note a bat inside a bedroom with a sleeping person warrants rabies evaluation even without a visible bite mark)."
+        "Control active bleeding with direct pressure, then scrub and irrigate the bite aggressively with soap and copious running water for 10–15 minutes to flush out saliva and bacteria.",
+        "Leave puncture-type animal or human bites OPEN (cover loosely with sterile gauze)—cat bites and human clenched-fist bites carry Pasteurella and anaerobic bacteria that cause rapid deep-space infections if stitched closed.",
+        "Seek medical care within 8 hours for prophylactic antibiotics (amoxicillin-clavulanate), tetanus booster, and rabies post-exposure evaluation (especially after bat, raccoon, skunk, fox, or stray bite—note a bat inside a bedroom with a sleeping person warrants rabies evaluation even without a visible bite mark)."
       ],
-      "safety": "Do not attempt to capture a wild animal bare-handed\u2014note its description and direction of travel for animal control.",
+      "safety": "Do not attempt to capture a wild animal bare-handed—note its description and direction of travel for animal control.",
       "tags": [
         "animal-bite",
         "rabies",
         "cat-bite",
         "dog-bite",
         "infection"
-      ]
+      ],
+      "scenario": "A bite has broken the skin and the animal’s vaccination history is unknown.",
+      "overview": "Wound care and timely professional assessment address separate risks. Record where the bite happened and any available animal information."
     },
     {
       "id": "med-140",
       "cat": "First Aid & Remedies",
       "sub": "Illness & Home Remedies",
-      "title": "WHO Oral Rehydration Salts (ORS) Homemade Ratio for Severe Diarrhea/Vomiting",
+      "title": "Use an oral rehydration packet correctly",
       "diff": "Easy",
-      "time": "5 mins",
+      "time": "5 minutes",
       "gear": [
-        "1-liter / 1-quart measuring pitcher",
-        "Measuring spoons"
+        "Measuring jug"
       ],
       "supplies": [
-        "1 liter (4.25 cups) clean boiled/purified water",
-        "6 level teaspoons granulated white sugar",
-        "1/2 level teaspoon table salt"
+        "Oral rehydration salts packet",
+        "Safe drinking water"
       ],
       "steps": [
-        "Dehydration from gastroenteritis, cholera, or heat illness is the #1 preventable killer in disasters\u2014plain water alone is poorly absorbed when the gut is inflamed.",
-        "Mix the exact World Health Organization ratio: dissolve 6 level teaspoons of sugar and 1/2 level teaspoon of salt into 1 liter (1 quart) of clean safe water until crystal clear (taste check: it should taste no saltier than tears).",
-        "Administer in small frequent sips (1 tablespoon every 5 minutes) even if vomiting\u2014small sips absorb through the stomach lining without triggering stretch vomiting.",
-        "Discard unused solution after 24 hours (or 48 hours if refrigerated)."
+        "For someone awake and able to swallow with mild fluid loss, read the packet for its exact mixing volume. Measure that volume of safe water.",
+        "Mix the entire packet into the specified amount of water without extra sugar or salt. Offer small frequent sips as tolerated and follow label instructions for storage and discard.",
+        "Contact a clinician for ongoing vomiting, poor urine output, marked dizziness or signs of dehydration, especially in infants or frail adults. Severe dehydration or inability to keep down liquids requires urgent care."
       ],
-      "safety": "Measure salt precisely\u2014too much salt worsens dehydration and causes hypernatremia.",
+      "safety": "Do not give oral fluids to a person who is not alert enough to swallow.",
       "tags": [
-        "rehydration",
-        "ors",
-        "diarrhea",
-        "vomiting",
-        "electrolytes",
-        "remedy"
+        "ORS",
+        "dehydration",
+        "vomiting"
+      ],
+      "scenario": "Vomiting or diarrhea makes it hard to replace lost fluids.",
+      "overview": "A properly prepared oral rehydration solution replaces fluid and salts together. Worsening illness or inability to retain fluids calls for care.",
+      "sources": [
+        [
+          "CDC · Norovirus and dehydration",
+          "https://www.cdc.gov/norovirus/about/index.html"
+        ]
       ]
     },
     {
@@ -1168,8 +1315,8 @@
       ],
       "steps": [
         "Normal wound healing shows mild pinkness within 1/4-inch of cut edges that fades after Day 2.",
-        "Infection signs (Days 2\u20135): expanding redness, throbbing warmth, swelling, pus, and red streaks moving up the limb toward lymph nodes (lymphangitis)\u2014trace the outer border of redness with a pen and write the time.",
-        "Sepsis Emergency Warning (TIME): Temperature >100.4\u00b0F or <96.8\u00b0F; Infection signs; Mental decline (confusion, extreme sleepiness); Extremely ill (fast heart rate >90, rapid breathing >22, mottled/clammy skin)\u2014requires immediate emergency hospital IV antibiotics."
+        "Infection signs (Days 2–5): expanding redness, throbbing warmth, swelling, pus, and red streaks moving up the limb toward lymph nodes (lymphangitis)—trace the outer border of redness with a pen and write the time.",
+        "Sepsis Emergency Warning (TIME): Temperature >100.4°F or <96.8°F; Infection signs; Mental decline (confusion, extreme sleepiness); Extremely ill (fast heart rate >90, rapid breathing >22, mottled/clammy skin)—requires immediate emergency hospital IV antibiotics."
       ],
       "safety": "Never squeeze or lance deep facial boils or red-streaking infections in the field.",
       "tags": [
@@ -1178,36 +1325,43 @@
         "cellulitis",
         "wound-care",
         "red-flags"
-      ]
+      ],
+      "scenario": "Yesterday’s cut now has spreading redness and the person feels ill.",
+      "overview": "Note when symptoms changed and seek care promptly. Confusion, rapid breathing or severe systemic illness warrants emergency help."
     },
     {
       "id": "med-142",
       "cat": "First Aid & Remedies",
       "sub": "Illness & Home Remedies",
-      "title": "Fever Management: Safe Acetaminophen / Ibuprofen Alternating & Sponge Cooling",
+      "title": "Fever: track symptoms and prevent double dosing",
       "diff": "Easy",
-      "time": "15 mins",
+      "time": "As needed",
       "gear": [
-        "Digital thermometer",
-        "Notepad (dose log)"
+        "Thermometer",
+        "Pen"
       ],
       "supplies": [
-        "Acetaminophen (Tylenol)",
-        "Ibuprofen (Advil/Motrin)",
-        "Lukewarm washcloth"
+        "Medication label"
       ],
       "steps": [
-        "Remember fever itself is an immune defense\u2014treat discomfort rather than chasing a magic number unless temp exceeds 103\u00b0F\u2013104\u00b0F or in infants/elderly.",
-        "For high stubborn adult fevers, alternate Acetaminophen (500\u2013650 mg every 6 hours; strict max 3,000\u20134,000 mg/24 hrs) and Ibuprofen (400\u2013600 mg every 6 hours with food; max 2,400 mg/24 hrs) staggered 3 hours apart\u2014log every dose time on paper.",
-        "Use lukewarm (NOT cold) sponge baths and light breathable sheets\u2014ice baths or rubbing alcohol rubs cause shivering that actually drives core temperature HIGHER."
+        "Record temperature, how it was taken, time and symptoms. Seek prompt medical advice for fever in an infant under three months, or sooner for anyone very ill. Call 911 for serious breathing difficulty or unresponsiveness.",
+        "Offer fluids if the person can swallow and keep them comfortably dressed. If using a fever medicine, check the active ingredient, age or weight limits and dose on the label or care plan.",
+        "Record the medicine name, dose and time immediately. Check cold remedies for the same ingredient. Consult a pharmacist or clinician before combining or alternating products."
       ],
-      "safety": "NEVER give aspirin to children or teenagers with viral fevers (risk of fatal Reye's syndrome), and check cold/flu combo pills so you don't double-dose acetaminophen.",
+      "safety": "For an extra dose or possible overdose, contact US Poison Control at 1-800-222-1222 promptly.",
       "tags": [
         "fever",
         "acetaminophen",
         "ibuprofen",
-        "dosing",
-        "remedy"
+        "dose"
+      ],
+      "scenario": "Several cold and fever products are on the counter and their ingredients overlap.",
+      "overview": "A written dose record and the active-ingredient list reduce accidental duplication. The age and condition of the sick person govern when to seek care.",
+      "sources": [
+        [
+          "Poison Control · Ibuprofen and medication errors",
+          "https://www.poison.org/articles/ibuprofen"
+        ]
       ]
     },
     {
@@ -1230,11 +1384,11 @@
         "Broadleaf plantain leaves"
       ],
       "steps": [
-        "1. Cough & Sore Throat: Take 1\u20132 teaspoons of raw buckwheat or wildflower honey straight (clinically proven equal or superior to OTC dextromethorphan for nighttime cough) + warm salt-water gargle (1/2 tsp salt in 8 oz warm water).",
-        "2. Nausea & Motion Sickness: Simmer 5\u20136 thin slices of fresh ginger root in 1 cup water for 10 minutes and sip slowly.",
+        "1. Cough & Sore Throat: Take 1–2 teaspoons of raw buckwheat or wildflower honey straight (clinically proven equal or superior to OTC dextromethorphan for nighttime cough) + warm salt-water gargle (1/2 tsp salt in 8 oz warm water).",
+        "2. Nausea & Motion Sickness: Simmer 5–6 thin slices of fresh ginger root in 1 cup water for 10 minutes and sip slowly.",
         "3. Indigestion, Gas & Tension Headache: Steep peppermint tea for gut cramps; rub diluted peppermint essential oil (2 drops in 1 tsp carrier oil) on temples for tension headaches.",
         "4. Insect Bites & Minor Scrapes: Chew or crush fresh clean broadleaf plantain leaves ('Nature's Bandage' growing in most yards) into a green poultice to draw out bee/mosquito sting itch and soothe minor cuts.",
-        "5. Earache / Swimmer's Ear Prevention: Mix 1:1 white vinegar and 70% rubbing alcohol\u2014put 3 drops in each ear after swimming to dry moisture and acidify against bacterial swimmer's ear (ONLY if eardrum is intact and no pain/drainage exists)."
+        "5. Earache / Swimmer's Ear Prevention: Mix 1:1 white vinegar and 70% rubbing alcohol—put 3 drops in each ear after swimming to dry moisture and acidify against bacterial swimmer's ear (ONLY if eardrum is intact and no pain/drainage exists)."
       ],
       "safety": "NEVER give honey to infants under 12 months old (risk of infant botulism), and never put drops in an ear with suspected eardrum rupture or severe pain.",
       "tags": [
@@ -1243,7 +1397,9 @@
         "ginger",
         "plantain",
         "natural-medicine"
-      ]
+      ],
+      "scenario": "A mild symptom has you reaching for the kitchen cupboard.",
+      "overview": "Choose a comfort measure appropriate to the person’s age, allergies and medications. A new or worsening symptom deserves reassessment."
     },
     {
       "id": "med-144",
@@ -1262,7 +1418,7 @@
         "Spare merino wool socks"
       ],
       "steps": [
-        "Wash hands with soap and water (or 60%+ alcohol sanitizer) before EVERY meal prep and after every bathroom trip\u2014fecal-oral transmission causes 80% of disaster camp outbreaks.",
+        "Wash hands with soap and water (or 60%+ alcohol sanitizer) before EVERY meal prep and after every bathroom trip—fecal-oral transmission causes 80% of disaster camp outbreaks.",
         "Perform a daily 'bird bath' wash of high-friction zones (armpits, groin, feet) and change into dry socks before bed to prevent fungal jock itch, athlete's foot, and immersion trench foot.",
         "Treat fungal ringworm/athlete's foot early with topical clotrimazole or terbinafine twice daily for 2 full weeks (continuing 7 days after rash clears).",
         "Prevent urinary tract infections (UTIs) during travel/outages by staying well hydrated, never holding urine for hours, and wiping front-to-back."
@@ -1274,7 +1430,9 @@
         "fungal",
         "uti",
         "wilderness-med"
-      ]
+      ],
+      "scenario": "Damp socks and limited washing facilities are creating problems on a multiday trip.",
+      "overview": "Plan a separate place for drying clothing and a clean source for washing. Early skin changes are easier to address before the next long walk."
     },
     {
       "id": "med-145",
@@ -1305,7 +1463,9 @@
         "clove-oil",
         "filling",
         "emergency"
-      ]
+      ],
+      "scenario": "A filling falls out on a weekend and the tooth starts to hurt.",
+      "overview": "Temporary protection buys time for dental care. Facial swelling, difficulty swallowing or breathing needs urgent attention."
     },
     {
       "id": "med-146",
@@ -1317,21 +1477,23 @@
       "gear": [],
       "supplies": [
         "WHO Oral Rehydration Salts (ORS)",
-        "Bismuth subsalicylate (Pepto-Bismol) \u2014 mild cases only"
+        "Bismuth subsalicylate (Pepto-Bismol) — mild cases only"
       ],
       "steps": [
-        "Standard food poisoning (Staph, Salmonella, Norovirus): Focus on aggressive oral rehydration (ORS sips every 5\u201310 minutes), rest the gut with bland foods (bananas, rice, applesauce, toast) once vomiting stops for 6 hours.",
+        "Standard food poisoning (Staph, Salmonella, Norovirus): Focus on aggressive oral rehydration (ORS sips every 5–10 minutes), rest the gut with bland foods (bananas, rice, applesauce, toast) once vomiting stops for 6 hours.",
         "Avoid anti-diarrheal loperamide (Imodium) if you have a high fever or bloody diarrhea, as slowing the gut traps invasive bacteria inside.",
-        "BOTULISM EMERGENCY RED FLAGS (from improperly home-canned low-acid foods or bulging cans): Descending paralysis starting 12\u201336 hours later\u2014double/blurry vision, drooping eyelids, slurred speech, dry mouth, difficulty swallowing, and muscle weakness\u2014call 911 immediately for botulinum antitoxin."
+        "BOTULISM EMERGENCY RED FLAGS (from improperly home-canned low-acid foods or bulging cans): Descending paralysis starting 12–36 hours later—double/blurry vision, drooping eyelids, slurred speech, dry mouth, difficulty swallowing, and muscle weakness—call 911 immediately for botulinum antitoxin."
       ],
-      "safety": "Never taste-test questionable home-canned vegetables or meats\u2014botulinum toxin is odorless and tasteless.",
+      "safety": "Never taste-test questionable home-canned vegetables or meats—botulinum toxin is odorless and tasteless.",
       "tags": [
         "food-poisoning",
         "botulism",
         "rehydration",
         "canning-safety",
         "illness"
-      ]
+      ],
+      "scenario": "Two people feel ill after the same meal, and one develops blurred vision or trouble swallowing.",
+      "overview": "Neurologic symptoms after eating need emergency care. Save the food’s identity and serving time for the clinicians without tasting it again."
     },
     {
       "id": "med-147",
@@ -1349,16 +1511,18 @@
       "steps": [
         "Solo Ankle/Shoulder Drag (short distance out of immediate fire/traffic danger): Grasp clothing behind the shoulders (supporting head on your forearms) or grasp ankles and pull straight along the spine's axis.",
         "Two-Person Fore-and-Aft Carry: Stronger rescuer stands behind patient reaching under armpits to clasp wrists across chest; second rescuer stands between patient's legs lifting behind knees.",
-        "Improvised Blanket Stretcher: Lay a heavy blanket flat, place Pole #1 one-third across and fold the short flap over it, place Pole #2 on top of the folded edge two-thirds across, and fold the remaining blanket over Pole #2\u2014body weight locks the friction folds tightly."
+        "Improvised Blanket Stretcher: Lay a heavy blanket flat, place Pole #1 one-third across and fold the short flap over it, place Pole #2 on top of the folded edge two-thirds across, and fold the remaining blanket over Pole #2—body weight locks the friction folds tightly."
       ],
-      "safety": "Test every improvised stretcher with a healthy volunteer before lifting an injured person, and lift with legs\u2014not your back.",
+      "safety": "Test every improvised stretcher with a healthy volunteer before lifting an injured person, and lift with legs—not your back.",
       "tags": [
         "carry",
         "stretcher",
         "litter",
         "evacuation",
         "rescue"
-      ]
+      ],
+      "scenario": "An injured person is in an unsafe location and moving them could worsen injuries.",
+      "overview": "Move only for immediate danger or necessary lifesaving care. Tell responders where you found the person and how they were moved."
     },
     {
       "id": "med-148",
@@ -1385,16 +1549,18 @@
       ],
       "steps": [
         "Divide medical gear into two distinct layers: (1) an exterior quick-pull Trauma Pouch (tourniquet, hemostatic gauze, pressure bandage, shears, gloves) reachable in 3 seconds, and (2) an organized Boo-Boo & OTC Medicine kit.",
-        "Label medication bottles with adult dosing and expiration dates, rotating OTC meds every 12\u201318 months.",
+        "Label medication bottles with adult dosing and expiration dates, rotating OTC meds every 12–18 months.",
         "Keep a laminated card inside listing family allergies, blood types, current prescriptions, and Poison Control (1-800-222-1222)."
       ],
-      "safety": "Store medicines in a cool, dry interior closet\u2014high heat in car trunks or garages degrades epinephrine, aspirin, and liquid gels rapidly.",
+      "safety": "Store medicines in a cool, dry interior closet—high heat in car trunks or garages degrades epinephrine, aspirin, and liquid gels rapidly.",
       "tags": [
         "first-aid-kit",
         "trauma-kit",
         "medicine-cabinet",
         "checklist"
-      ]
+      ],
+      "scenario": "A kit is full of bandages but nobody knows whether the medications or gloves are usable.",
+      "overview": "Inspect condition and expiry as well as quantity. A labeled compartment helps a second person find a specific item by phone."
     },
     {
       "id": "med-149",
@@ -1404,14 +1570,14 @@
       "diff": "Easy",
       "time": "20 mins",
       "gear": [
-        "Pet digital thermometer (normal temp: 100.5\u00b0F\u2013102.5\u00b0F)",
+        "Pet digital thermometer (normal temp: 100.5°F–102.5°F)",
         "Soft muzzle or gauze strip (for injured dogs)",
         "Towel (for cat 'purrito' wrap)"
       ],
       "supplies": [
         "Sterile saline",
         "Non-stick gauze + self-adhering vet wrap (Coban)",
-        "Hydrogen peroxide 3% (ONLY for dogs under vet direction\u2014NEVER cats!)"
+        "Hydrogen peroxide 3% (ONLY for dogs under vet direction—NEVER cats!)"
       ],
       "steps": [
         "Safe Restraint: Wrap an injured cat snugly in a thick bath towel ('purrito') leaving only the injured paw/head exposed; even gentle pets bite when terrified or in pain.",
@@ -1419,7 +1585,7 @@
         "Pet Heatstroke (panting excessively, bright red gums, drooling, staggering): Move to AC immediately, wet fur with cool (not ice-cold) water, point a fan on them, and transport to an emergency vet.",
         "DEADLY HOUSEHOLD PET TOXINS (especially toxic to cats!): Lilies (even pollen or vase water causes fatal kidney failure in cats), Acetaminophen/Tylenol (fatal to cats!), Ibuprofen, Onions/Garlic, Grapes/Raisins, Xylitol sweetener, Chocolate, and Permethrin flea products."
       ],
-      "safety": "NEVER give human painkillers (Tylenol, Advil, Aleve, Aspirin) to cats\u2014a single regular Tylenol tablet is fatal to a cat.",
+      "safety": "NEVER give human painkillers (Tylenol, Advil, Aleve, Aspirin) to cats—a single regular Tylenol tablet is fatal to a cat.",
       "tags": [
         "pet-first-aid",
         "cats",
@@ -1427,58 +1593,63 @@
         "lilies",
         "vet-wrap",
         "family"
-      ]
+      ],
+      "scenario": "A pet is ill away from its regular veterinarian.",
+      "overview": "Call the veterinary clinic or emergency animal hospital with the animal’s weight, symptoms and possible exposure. Human medicines can be dangerous for pets."
     },
     {
       "id": "med-150",
       "cat": "First Aid & Remedies",
       "sub": "Emergency Triage & Life Support",
-      "title": "911 / Search & Rescue Medical Report (MIST Handover Card)",
+      "title": "Call 911 and hand care over to responders (MIST)",
       "diff": "Easy",
-      "time": "5 mins",
-      "gear": [
-        "Waterproof notepad & pencil"
-      ],
+      "time": "Call immediately",
+      "gear": [],
       "supplies": [],
       "steps": [
-        "Write down a concise MIST report before calling 911 or handing a patient off to paramedics/SAR so critical details aren't forgotten under stress:",
-        "M \u2014 Mechanism of Injury / Illness (e.g., fall from 10 ft ladder, stingray sting, chest pain at 2:15 PM).",
-        "I \u2014 Injuries Found (head-to-toe list, plus exact tourniquet application time).",
-        "S \u2014 Signs & Vitals (alertness level, pulse rate, breathing rate, skin color/temp, blood pressure/temp if measured).",
-        "T \u2014 Treatment Given (pressure bandage, EpiPen given at 2:20 PM, 325 mg aspirin chewed, hot water soak)."
+        "Call 911 immediately. Give your location, including the entrance or nearest trail landmark, your callback number, and what happened. If a helper is with you, point to them and ask them to call while you give urgent care.",
+        "Answer the dispatcher’s questions, follow their instructions and stay on the line until they tell you to hang up. If you are alone, use speakerphone when possible so your hands are free.",
+        "Once help is on the way and immediate care is underway, a second person can jot down MIST. M is the mechanism or illness: what happened and when. I is injuries or symptoms you actually noticed. S is signs, such as a change in breathing or responsiveness. T is treatment already given, by whom and when. Report what you know and say when a detail is unknown.",
+        "When responders arrive, give a short spoken handover. For example: “She fell from the bottom step about ten minutes ago. Her left arm hurts. She stayed awake and her breathing hasn’t changed. We supported the arm while we waited.” Then answer their questions."
       ],
-      "safety": "Always send someone to the street or trailhead with a flashlight/bright vest to flag down arriving ambulances.",
+      "safety": "Paperwork, measurements and finding a guide must never delay calling or lifesaving care. A spare helper can meet the ambulance if the way is safe and someone stays with the person.",
       "tags": [
         "mist-report",
         "911",
         "handover",
         "vitals",
         "first-aid"
+      ],
+      "scenario": "Someone is seriously hurt and the connection is breaking up. Start the call from a safe spot. The handover can wait until help is on its way.",
+      "overview": "What responders cannot see is what changed before they arrived. Even one observation in your own words, such as “he was speaking when I called,” can be worth passing on.",
+      "sources": [
+        [
+          "National 911 Program · Calling 911",
+          "https://www.911.gov/calling-911/"
+        ],
+        [
+          "American Red Cross · First aid steps",
+          "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps"
+        ]
       ]
     },
     {
       "id": "med-151",
       "cat": "First Aid & Remedies",
       "sub": "Marine & Aquatic Stings",
-      "title": "Portuguese Man-of-War vs. Sea Nettle vs. Fire Coral Stings",
+      "title": "Report an unknown marine sting at the beach",
       "diff": "Easy",
       "time": "25 mins",
       "gear": [
-        "Tweezers",
-        "Credit card"
+        "Phone"
       ],
-      "supplies": [
-        "White vinegar (5% acetic acid)",
-        "Seawater",
-        "Hot water (110\u00b0F\u2013113\u00b0F)",
-        "Hydrocortisone 1% cream"
-      ],
+      "supplies": [],
       "steps": [
-        "Portuguese Man-of-War (floating blue/purple gas bladder with long trailing tentacles common on Galveston beaches): Rinse first with SEAWATER (note: vinegar can trigger nematocyst discharge in some Physalia species\u2014if in doubt, rinse gently with seawater, pluck tentacles with tweezers, then immerse in 110\u00b0F\u2013113\u00b0F hot water for 30 minutes).",
-        "True Jellyfish (Sea Nettles, Moon Jellies, Box Jellies): Flood with household white vinegar for 30 seconds first to lock nematocysts, scrape gently with a credit card, then soak in hot water.",
-        "Fire Coral & Hydroids (snorkeling/reef scrapes): Rinse with vinegar or seawater, wash with soap/water, apply 1% hydrocortisone cream, and watch closely for marine bacterial infection."
+        "Get the swimmer out of the water safely. Call the lifeguard and seek emergency medical help for a sting from unknown marine life or signs of a severe reaction.",
+        "Tell rescuers the exact beach, time, affected area and whether there is breathing trouble, chest pain, faintness or widespread swelling. Do not handle the animal to identify it.",
+        "Avoid rubbing or scraping the skin. Follow the responding lifeguard or poison specialist’s advice for the species and location. Stay with the person and report changes."
       ],
-      "safety": "Never rub sand onto a jellyfish sting or rinse with tap water/bottled drinking water\u2014freshwater causes remaining stingers to fire.",
+      "safety": "Detached tentacles can still sting. Keep children and pets away from marine debris.",
       "tags": [
         "man-of-war",
         "jellyfish",
@@ -1486,6 +1657,14 @@
         "galveston",
         "marine",
         "venom"
+      ],
+      "scenario": "Painful welts follow a swim at a beach where several stinging species occur.",
+      "overview": "Treatment varies with species and region. Report the beach, time and any symptoms beyond the skin when seeking help.",
+      "sources": [
+        [
+          "American Red Cross · Jellyfish stings",
+          "https://www.redcross.org/take-a-class/resources/learn-first-aid/jellyfish-stings"
+        ]
       ]
     },
     {
@@ -1505,7 +1684,7 @@
         "Oral antihistamine"
       ],
       "steps": [
-        "Seabather's Eruption ('sea lice' \u2014 microscopic jellyfish larvae trapped inside swimwear in warm Gulf/Caribbean surf): Remove swimsuit BEFORE showering in freshwater (freshwater bursts trapped larvae under fabric).",
+        "Seabather's Eruption ('sea lice' — microscopic jellyfish larvae trapped inside swimwear in warm Gulf/Caribbean surf): Remove swimsuit BEFORE showering in freshwater (freshwater bursts trapped larvae under fabric).",
         "Wash skin thoroughly with soap and water, and machine-wash swimwear in hot water with detergent before re-wearing (air-drying leaves live stinging cells in fabric).",
         "Soothe itchy red bumps under swimsuit lines with 1% hydrocortisone cream, calamine lotion, and oral cetirizine or diphenhydramine."
       ],
@@ -1516,7 +1695,9 @@
         "beach",
         "rash",
         "marine"
-      ]
+      ],
+      "scenario": "Itchy bumps appear after swimming and are concentrated under swimwear.",
+      "overview": "The water type and rash distribution give the clinician clues. Wash swimwear before wearing it again."
     },
     {
       "id": "med-153",
@@ -1535,7 +1716,7 @@
       "steps": [
         "Gulf Coast Backyard Killers to know: Oleander (all parts contain cardiac glycosides), Sago Palm (seeds/nuts cause severe liver failure in people and dogs), Castor Bean (ricin), Angel's Trumpet / Jimsonweed (anticholinergic delirium), and Wild Mushrooms.",
         "If someone chews or swallows an unknown berry, leaf, or mushroom: sweep remaining plant pieces out of the mouth, rinse mouth with water, save a stem/leaf/cap in a bag for botanical ID, and call Poison Control (1-800-222-1222) immediately.",
-        "Do NOT wait for symptoms to appear\u2014liver-toxic mushrooms (Death Cap / Destroying Angel) cause delayed organ damage 12\u201324 hours after eating."
+        "Do NOT wait for symptoms to appear—liver-toxic mushrooms (Death Cap / Destroying Angel) cause delayed organ damage 12–24 hours after eating."
       ],
       "safety": "Never induce vomiting unless explicitly instructed by Poison Control.",
       "tags": [
@@ -1545,7 +1726,9 @@
         "mushrooms",
         "poison",
         "texas"
-      ]
+      ],
+      "scenario": "A gardener or child tasted an unidentified leaf, berry or mushroom.",
+      "overview": "Contact Poison Control promptly and retain a photo for identification. Waiting for symptoms can delay time-sensitive advice."
     },
     {
       "id": "med-154",
@@ -1558,10 +1741,10 @@
         "Phone (Poison Control: 1-800-222-1222)"
       ],
       "supplies": [
-        "4\u20138 oz cool water or milk (ONLY if awake, alert, and advised by Poison Control)"
+        "4–8 oz cool water or milk (ONLY if awake, alert, and advised by Poison Control)"
       ],
       "steps": [
-        "Bleach Mixed with Ammonia or Toilet Bowl Acid: Produces toxic chloramine or chlorine gas\u2014evacuate the bathroom/room immediately, close the door, turn on exhaust/open exterior windows from outside, and breathe fresh air.",
+        "Bleach Mixed with Ammonia or Toilet Bowl Acid: Produces toxic chloramine or chlorine gas—evacuate the bathroom/room immediately, close the door, turn on exhaust/open exterior windows from outside, and breathe fresh air.",
         "Swallowed Corrosive Cleaners (drain cleaner, oven cleaner, bleach, laundry pods): Do NOT induce vomiting and do NOT give charcoal; if alert with no trouble swallowing, give small sips of water/milk ONLY if directed by Poison Control, and go to the ER for airway/esophageal evaluation."
       ],
       "safety": "Never mix chlorine bleach with vinegar, toilet bowl cleaners, or ammonia.",
@@ -1571,7 +1754,9 @@
         "chloramine",
         "chemical-poison",
         "household"
-      ]
+      ],
+      "scenario": "A strong odor develops after two cleaners are used in one bathroom.",
+      "overview": "Get everyone into fresh air first. From safety, report the exact products and who has eye or breathing symptoms."
     },
     {
       "id": "med-155",
@@ -1589,9 +1774,9 @@
         "1% hydrocortisone cream"
       ],
       "steps": [
-        "Leech Removal: Slide a fingernail or credit card edge flat against the skin under the small head sucker first, then the rear sucker\u2014NEVER burn leeches with a lighter, pour salt, or yank straight off (which causes them to vomit gut bacteria into the wound). Expect harmless oozing for hours due to natural hirudin anticoagulant.",
+        "Leech Removal: Slide a fingernail or credit card edge flat against the skin under the small head sucker first, then the rear sucker—NEVER burn leeches with a lighter, pour salt, or yank straight off (which causes them to vomit gut bacteria into the wound). Expect harmless oozing for hours due to natural hirudin anticoagulant.",
         "Giant Texas Centipede Bite: Wash thoroughly, soak in warm/hot water or apply a cool compress, and take oral pain relievers/antihistamines.",
-        "Millipede & Blister Beetle Skin Contact: Wash skin immediately with soap and water (do NOT crush blister beetles on skin\u2014cantharidin fluid raises painful chemical blisters)."
+        "Millipede & Blister Beetle Skin Contact: Wash skin immediately with soap and water (do NOT crush blister beetles on skin—cantharidin fluid raises painful chemical blisters)."
       ],
       "safety": "Apply firm direct pressure with sterile gauze over oozing leech bites until clotting completes.",
       "tags": [
@@ -1600,7 +1785,9 @@
         "blister-beetle",
         "wilderness-med",
         "bites"
-      ]
+      ],
+      "scenario": "Skin irritation follows contact with an unfamiliar crawling insect.",
+      "overview": "Record the appearance and contact location. Seek help for eye exposure, severe pain or systemic symptoms."
     },
     {
       "id": "med-156",
@@ -1615,17 +1802,19 @@
       "supplies": [],
       "steps": [
         "Recognize opioid overdose triad: unresponsive to firm sternal rub, slow/absent breathing (<8 breaths/min) or snoring/gurgling 'death rattle', and pinpoint pupils with bluish lips/fingernails.",
-        "Call 911 immediately, tilt head back, insert the Narcan nasal nozzle fully into one nostril, and press the plunger firmly (do NOT prime/test spray first\u2014each unit is single-dose).",
-        "Start rescue breathing / CPR immediately while waiting 2\u20133 minutes for Narcan to take effect; if breathing does not return after 2\u20133 minutes, give a second Narcan dose in the OTHER nostril."
+        "Call 911 immediately, tilt head back, insert the Narcan nasal nozzle fully into one nostril, and press the plunger firmly (do NOT prime/test spray first—each unit is single-dose).",
+        "Start rescue breathing / CPR immediately while waiting 2–3 minutes for Narcan to take effect; if breathing does not return after 2–3 minutes, give a second Narcan dose in the OTHER nostril."
       ],
-      "safety": "Narcan wears off in 30\u201390 minutes while long-acting opioids remain in the body\u2014never leave the person alone after they wake up.",
+      "safety": "Narcan wears off in 30–90 minutes while long-acting opioids remain in the body—never leave the person alone after they wake up.",
       "tags": [
         "narcan",
         "naloxone",
         "overdose",
         "airway",
         "emergency"
-      ]
+      ],
+      "scenario": "A person is unresponsive and breathing slowly or only gasping, with possible opioid exposure.",
+      "overview": "Naloxone and breathing support serve different needs. Keep emergency services involved even if the person wakes."
     },
     {
       "id": "med-157",
@@ -1652,60 +1841,75 @@
         "first-aid",
         "neuro",
         "emergency"
-      ]
+      ],
+      "scenario": "A person falls and begins convulsing in a crowded room.",
+      "overview": "Time the episode and make space around the person. Tell responders how long it lasted and whether normal breathing returned."
     },
     {
       "id": "med-158",
       "cat": "First Aid & Remedies",
       "sub": "Emergency Triage & Life Support",
-      "title": "Asthma Attack & Hyperventilation / Panic Attack Differentiation",
+      "title": "Breathing difficulty: follow the asthma plan and call for help",
       "diff": "Easy",
-      "time": "10 mins",
+      "time": "Immediate",
       "gear": [
-        "Albuterol rescue inhaler + spacer"
+        "Phone",
+        "Person’s asthma action plan"
       ],
       "supplies": [
-        "Paper/cup (for sipping water)"
+        "Person’s prescribed rescue medicine"
       ],
       "steps": [
-        "Asthma Attack (audible wheezing on exhale, chest tightness, tripod sitting posture, trouble speaking full sentences): Help the person sit upright leaning slightly forward, shake their Albuterol rescue inhaler, attach a spacer if available, and give 2 puffs spaced 30\u201360 seconds apart (up to 4 puffs every 20 minutes while awaiting EMS).",
-        "Panic / Hyperventilation Attack (rapid shallow chest breathing, tingling fingers/lips, chest tightness, NO wheezing): Coach slow boxed breathing\u2014inhale through nose for 4 seconds, hold 2 seconds, exhale slowly through pursed lips for 6 seconds (do NOT breathe into a paper bag, which risks dangerous hypoxia)."
+        "Help the person sit in their preferred upright position. Call 911 for severe or worsening difficulty, trouble speaking, blue or gray color, exhaustion or reduced alertness.",
+        "If they have a prescribed rescue inhaler, assist them in following their individual asthma action plan or dispatcher instructions.",
+        "Stay with them and monitor breathing. If unresponsive with absent or abnormal breathing, begin CPR and use an AED when available."
       ],
-      "safety": "Silent chest (no air moving at all during a severe asthma attack) or blue lips means imminent respiratory arrest\u2014call 911 immediately.",
+      "safety": "Do not assume panic because wheezing is absent. Never use paper-bag breathing.",
       "tags": [
         "asthma",
-        "inhaler",
         "breathing",
-        "panic-attack",
-        "emergency"
+        "inhaler"
+      ],
+      "scenario": "Someone is breathing quickly and says they cannot catch their breath.",
+      "overview": "Follow a known asthma action plan if available. Severe or uncertain breathing trouble needs emergency help instead of an assumption about anxiety.",
+      "sources": [
+        [
+          "American Red Cross · First aid guidelines",
+          "https://www.redcross.org/take-a-class/resources/guidelines"
+        ]
       ]
     },
     {
       "id": "med-159",
       "cat": "First Aid & Remedies",
       "sub": "Fractures, Sprains & Burns",
-      "title": "Pelvic Binder & Femur Fracture Field Stabilization",
+      "title": "Suspected pelvis or thigh fracture after a fall or crash",
       "diff": "Hard",
-      "time": "15 mins",
+      "time": "Immediate",
       "gear": [
-        "SAM Pelvic Sling or wide bedsheet/tarp strip",
-        "2 long padded splints (for femur)"
+        "Phone"
       ],
       "supplies": [
-        "Cravats / triangular bandages"
+        "Blanket"
       ],
       "steps": [
-        "Suspect pelvic fracture after high-speed crash or fall from height if hips feel unstable or painful on gentle inward press: wrap a wide folded bedsheet or commercial pelvic sling tightly around the GREATER TROCHANTERS (hip bones, NOT the high waist) and tie/clamp snug to close open-book pelvic bleeding.",
-        "Tie knees and ankles gently together with padded cravats to prevent outward leg rotation.",
-        "For a mid-thigh femur break: pad between the legs and splint from armpit to ankle on the outside and groin to ankle on the inside."
+        "Call 911 and describe the mechanism of injury. Ask the person to remain still. Do not press or rock the hips to test for injury.",
+        "Leave the person in the position found unless immediate danger or necessary lifesaving care requires movement. Control life-threatening external bleeding and keep them warm.",
+        "Monitor breathing and alertness while awaiting responders. Report changes and the time of injury."
       ],
-      "safety": "Pelvic and femur fractures can hide 1.5\u20133 liters of internal blood loss\u2014treat aggressively for shock and evacuate urgently.",
+      "safety": "Do not attempt traction, realignment or a makeshift pelvic binder without direction from qualified emergency personnel.",
       "tags": [
         "pelvis",
         "femur",
-        "fracture",
-        "trauma",
-        "wilderness-med"
+        "fracture"
+      ],
+      "scenario": "After a crash or fall, an injured person has severe hip or thigh pain.",
+      "overview": "Keep the person still and call 911. Avoid pressing on the pelvis to test it or attempting to realign the leg.",
+      "sources": [
+        [
+          "American Red Cross · Muscle, bone and joint injury",
+          "https://www.redcross.org/take-a-class/resources/learn-first-aid/muscle-bone-joint-injury"
+        ]
       ]
     },
     {
@@ -1714,7 +1918,7 @@
       "sub": "Fractures, Sprains & Burns",
       "title": "Snow Blindness (UV Keratitis) & Welder's Flash Eye Relief",
       "diff": "Easy",
-      "time": "24\u201348 hours",
+      "time": "24–48 hours",
       "gear": [
         "Dark wrap-around sunglasses or improvised cardboard/bark slit goggles"
       ],
@@ -1725,16 +1929,18 @@
       ],
       "steps": [
         "Prevent UV corneal sunburn on bright snow, water, or white sand by wearing UV-blocking sunglasses or cutting narrow horizontal slits in duct tape/cardboard.",
-        "If gritty burning eye pain, tearing, and light sensitivity strike 6\u201312 hours after bright UV exposure: remove contact lenses immediately, rest in a completely dark room/tent with cool moist cloths over closed eyelids, use preservative-free artificial tears, and take oral ibuprofen.",
-        "Corneal cells usually regenerate within 24\u201348 hours."
+        "If gritty burning eye pain, tearing, and light sensitivity strike 6–12 hours after bright UV exposure: remove contact lenses immediately, rest in a completely dark room/tent with cool moist cloths over closed eyelids, use preservative-free artificial tears, and take oral ibuprofen.",
+        "Corneal cells usually regenerate within 24–48 hours."
       ],
-      "safety": "Never use topical anesthetic eye drops repeatedly\u2014they prevent corneal healing and cause permanent ulcers.",
+      "safety": "Never use topical anesthetic eye drops repeatedly—they prevent corneal healing and cause permanent ulcers.",
       "tags": [
         "snow-blindness",
         "uv",
         "eye-pain",
         "wilderness-med"
-      ]
+      ],
+      "scenario": "Both eyes hurt after bright snow or welding exposure.",
+      "overview": "Tell the clinician about the exposure and timing. Symptoms can develop well after the work or outing has ended."
     },
     {
       "id": "med-161",
@@ -1754,7 +1960,7 @@
       ],
       "steps": [
         "Sunburn: Take ibuprofen within the first 6 hours to blunt UV skin inflammation, take a cool shower, apply pure fragrance-free aloe vera gel or moisturizing lotion while skin is damp, and drink extra water.",
-        "Heat Rash (Prickly Heat \u2014 tiny red bumps in sweaty folds): Move to AC/fan airflow, cool skin with wet cloths, wear loose breathable cotton/linen, and dust lightly with plain cornstarch (avoid heavy greasy ointments that block sweat ducts).",
+        "Heat Rash (Prickly Heat — tiny red bumps in sweaty folds): Move to AC/fan airflow, cool skin with wet cloths, wear loose breathable cotton/linen, and dust lightly with plain cornstarch (avoid heavy greasy ointments that block sweat ducts).",
         "Inner-Thigh / Underarm Chafing: Wash gently with cool water, pat dry, and apply a barrier layer of zinc oxide cream or plain petroleum jelly."
       ],
       "safety": "Seek medical care if sunburn develops large blisters over >20% of the body, fever, chills, or nausea ('sun poisoning').",
@@ -1764,7 +1970,9 @@
         "chafing",
         "summer",
         "remedy"
-      ]
+      ],
+      "scenario": "Skin is sore after a hot day outdoors and several areas rub under clothing.",
+      "overview": "Sunburn, sweat rash and friction affect different skin patterns. Move to a cool place and check for signs of whole-body heat illness."
     },
     {
       "id": "med-162",
@@ -1778,7 +1986,7 @@
       ],
       "supplies": [],
       "steps": [
-        "Appendicitis Red Flags: Pain starting dull around the belly button that migrates over 6\u201324 hours to the LOWER RIGHT abdomen (McBurney's point), worsens with coughing, bumps, or jumping on heels, accompanied by loss of appetite, nausea, and low-grade fever.",
+        "Appendicitis Red Flags: Pain starting dull around the belly button that migrates over 6–24 hours to the LOWER RIGHT abdomen (McBurney's point), worsens with coughing, bumps, or jumping on heels, accompanied by loss of appetite, nausea, and low-grade fever.",
         "Kidney Stone Pattern: Sudden waves of severe flank/back pain radiating down toward the groin, restlessness (unable to lie still), nausea, and pink/red urine.",
         "For suspected appendicitis: keep the person NPO (nothing to eat or drink in case surgery is needed), do NOT apply heating pads (heat increases rupture risk), and transport to an ER immediately."
       ],
@@ -1788,7 +1996,9 @@
         "kidney-stone",
         "abdominal-pain",
         "triage"
-      ]
+      ],
+      "scenario": "New abdominal pain interrupts a trip and its cause is unclear.",
+      "overview": "Where the pain began, how it moved and associated symptoms help clinicians assess urgency. A home comparison cannot confirm the diagnosis."
     },
     {
       "id": "med-163",
@@ -1810,43 +2020,45 @@
         "Acute Heartburn / Acid Reflux: Dissolve 1/2 teaspoon baking soda in 4 oz water for fast temporary neutralization, chew calcium carbonate antacids, avoid lying flat for 3 hours after eating, and elevate head/torso on an incline.",
         "Disaster / Travel Constipation (common when switching to dry rations): Increase water intake + electrolytes first, eat prunes/dried apricots/oats, take psyllium fiber with a full glass of water, or use osmotic polyethylene glycol (MiraLAX)."
       ],
-      "safety": "Never confuse upper-abdominal heartburn with a heart attack\u2014if chest pressure radiates to arm/jaw or causes sweating/shortness of breath, treat as cardiac.",
+      "safety": "Never confuse upper-abdominal heartburn with a heart attack—if chest pressure radiates to arm/jaw or causes sweating/shortness of breath, treat as cardiac.",
       "tags": [
         "heartburn",
         "constipation",
         "gerd",
         "digestion",
         "remedy"
-      ]
+      ],
+      "scenario": "A change in routine has brought familiar mild digestive symptoms.",
+      "overview": "Review fluid intake, food and usual medications. Severe pain, bleeding or persistent symptoms require medical evaluation."
     },
     {
       "id": "med-164",
       "cat": "First Aid & Remedies",
       "sub": "Illness & Home Remedies",
-      "title": "Sinus Congestion, Ear Barotrauma & Steam Inhalation Relief",
+      "title": "Sinus congestion and ear discomfort while traveling",
       "diff": "Easy",
       "time": "15 mins",
       "gear": [
-        "Bowl",
-        "Bath towel"
+        "Phone"
       ],
       "supplies": [
-        "Saline nasal rinse / Neti pot (distilled/boiled water ONLY)",
-        "Pseudoephedrine or oxymetazoline spray (max 3 days)"
+        "Prepared saline nasal spray if desired"
       ],
       "steps": [
-        "Steam Tent: Pour steaming hot water into a bowl, drape a bath towel over your head and the bowl, and breathe deeply through the nose for 10 minutes to thin thick sinus mucus.",
-        "Saline Nasal Irrigation: Flush sinuses using ONLY distilled, sterile, or previously boiled-and-cooled water mixed with buffered saline packets\u2014NEVER straight tap water.",
-        "Limit oxymetazoline (Afrin) nasal spray to 3 consecutive days max to avoid rebound congestion."
+        "For mild congestion use a prepared saline spray according to its label. Avoid bowls of hot water and improvised steam tents.",
+        "For mild ear pressure during descent try swallowing or yawning. Avoid forcing a painful ear to clear.",
+        "Seek medical assessment for severe or persistent pain, drainage, vertigo or sudden hearing loss. Tell the clinician when symptoms began in relation to the flight."
       ],
-      "safety": "CRITICAL: Never use unboiled tap water in a Neti pot or nasal rinse due to rare brain-eating amoeba (Naegleria fowleri) risk in warm climates.",
+      "safety": "Ask a pharmacist before using a decongestant if you take other medicines or have high blood pressure.",
       "tags": [
         "sinus",
         "congestion",
         "neti-pot",
         "steam",
         "remedy"
-      ]
+      ],
+      "scenario": "Ear pressure after a flight feels different from the congestion you had on departure.",
+      "overview": "Record whether pain, hearing changes or discharge persists. Avoid scalding steam or forceful attempts to clear an ear."
     },
     {
       "id": "med-165",
@@ -1864,18 +2076,20 @@
         "Pillows"
       ],
       "steps": [
-        "After lifting heavy storm debris or sandbags, lie flat on your back on a firm floor with calves elevated at 90\u00b0 on a chair seat ('psoas position') for 15 minutes to unload lumbar discs.",
-        "Use ice packs for 15\u201320 minutes during the first 48 hours to calm acute inflammation, then switch to moist heat to relax tight muscle spasms.",
+        "After lifting heavy storm debris or sandbags, lie flat on your back on a firm floor with calves elevated at 90° on a chair seat ('psoas position') for 15 minutes to unload lumbar discs.",
+        "Use ice packs for 15–20 minutes during the first 48 hours to calm acute inflammation, then switch to moist heat to relax tight muscle spasms.",
         "Take short, gentle 5-minute walks on flat ground every few hours rather than strict bedrest, which stiffens back muscles."
       ],
-      "safety": "Numbness in the groin/saddle area or sudden loss of bowel/bladder control with back pain is Cauda Equina Syndrome\u2014a surgical emergency.",
+      "safety": "Numbness in the groin/saddle area or sudden loss of bowel/bladder control with back pain is Cauda Equina Syndrome—a surgical emergency.",
       "tags": [
         "back-pain",
         "muscle-spasm",
         "lifting",
         "storm-cleanup",
         "remedy"
-      ]
+      ],
+      "scenario": "Lifting a box produces back pain and you’re checking for symptoms beyond soreness.",
+      "overview": "New weakness, numbness around the groin or loss of bladder or bowel control requires emergency evaluation."
     },
     {
       "id": "med-166",
@@ -1898,14 +2112,16 @@
         "Fine Cactus Glochids or Fiberglass Fibers: Spread a thin coat of white Elmer's school glue over the area, let dry completely, and peel off in one sheet (or press duct tape gently and peel) to pull out hundreds of invisible hair-like spines at once.",
         "Wood/Glass Splinters: Wipe skin and needle/tweezers with 70% alcohol, gently lift the thin roof skin over the splinter tip with the sterile needle parallel to the skin, and pull the splinter out at the exact angle it entered."
       ],
-      "safety": "Never squeeze a glass splinter straight down\u2014it shatters deeper into tissue.",
+      "safety": "Never squeeze a glass splinter straight down—it shatters deeper into tissue.",
       "tags": [
         "splinter",
         "cactus",
         "glochids",
         "tweezers",
         "first-aid"
-      ]
+      ],
+      "scenario": "A tiny splinter is visible but a deeper shard may still be present.",
+      "overview": "A superficial fragment and a penetrating injury need different handling. Stop if removal requires digging or the fragment is near an eye."
     },
     {
       "id": "med-167",
@@ -1926,11 +2142,11 @@
         "80-proof vodka (for tinctures)"
       ],
       "steps": [
-        "Herbal Infused Oil: Simmer 1/2 cup dried calendula or plantain leaves in 1 cup olive oil over a gentle water bath (120\u00b0F\u2013140\u00b0F) for 2 hours, then strain through butter muslin.",
-        "Healing Skin Salve: Melt 1 oz beeswax pastilles into the warm strained herbal oil (ratio: 1 oz beeswax per 1 cup oil), pour into clean tins, and cool uncovered\u2014soothes chapped hands, minor scrapes, and dry heels.",
+        "Herbal Infused Oil: Simmer 1/2 cup dried calendula or plantain leaves in 1 cup olive oil over a gentle water bath (120°F–140°F) for 2 hours, then strain through butter muslin.",
+        "Healing Skin Salve: Melt 1 oz beeswax pastilles into the warm strained herbal oil (ratio: 1 oz beeswax per 1 cup oil), pour into clean tins, and cool uncovered—soothes chapped hands, minor scrapes, and dry heels.",
         "Alcohol Tincture (shelf-stable 5+ years): Fill a jar halfway with chopped dried herbs (echinacea, ginger, elderberry, chamomile), cover completely with 80-proof vodka, shake daily for 4 weeks in a dark cabinet, and strain into dropper bottles."
       ],
-      "safety": "Use comfrey salves ONLY on closed bruises/sprains\u2014never on deep open puncture wounds, as rapid surface healing can trap bacteria inside.",
+      "safety": "Use comfrey salves ONLY on closed bruises/sprains—never on deep open puncture wounds, as rapid surface healing can trap bacteria inside.",
       "tags": [
         "salve",
         "herbal",
@@ -1938,7 +2154,9 @@
         "tincture",
         "homestead",
         "remedy"
-      ]
+      ],
+      "scenario": "You want a simple skin-care preparation and someone in the household reacts to fragrances.",
+      "overview": "Label every ingredient and its date. Keep homemade preparations away from open wounds and use medical advice for infection."
     },
     {
       "id": "med-168",
@@ -1957,9 +2175,9 @@
         "Hot spoon (thermal itch relief)"
       ],
       "steps": [
-        "For high-disease-risk Gulf Coast mosquitoes (West Nile, Dengue) and ticks, use EPA-proven repellents: Picaridin (20%), DEET (20%\u201330%), or plant-based Oil of Lemon Eucalyptus (30% OLE\u2014not plain lemon eucalyptus essential oil).",
+        "For high-disease-risk Gulf Coast mosquitoes (West Nile, Dengue) and ticks, use EPA-proven repellents: Picaridin (20%), DEET (20%–30%), or plant-based Oil of Lemon Eucalyptus (30% OLE—not plain lemon eucalyptus essential oil).",
         "Treat outer hiking socks, boots, and pant cuffs with 0.5% Permethrin spray and let dry completely before wearing (kills ticks on contact for 6 washes; keep wet permethrin away from cats until dry!).",
-        "Stop mosquito bite itch instantly: press the back of a metal spoon warmed in hot tap water (120\u00b0F \u2014 warm, NOT scalding) onto the fresh bite for 10 seconds to denature histamine proteins."
+        "For a simple itchy bite, wash the area and apply a cool cloth. Seek urgent help for breathing difficulty, faintness or widespread swelling."
       ],
       "safety": "Keep liquid permethrin strictly away from cats while wet; once fully dried on fabric, it is safe.",
       "tags": [
@@ -1968,7 +2186,9 @@
         "repellent",
         "itch-relief",
         "friendswood"
-      ]
+      ],
+      "scenario": "You need bite protection for a humid evening or a walk through brush.",
+      "overview": "Use a registered repellent labeled for the insect, age and use. Clothing and checks after the outing cover gaps in protection."
     },
     {
       "id": "med-169",
@@ -1985,7 +2205,7 @@
         "Preservative-free artificial tears"
       ],
       "steps": [
-        "Eyelid Stye (tender red bump at lash line): Apply a clean warm damp washcloth compress to the closed eyelid for 10\u201315 minutes, 4 times daily, to unclog the oil gland\u2014NEVER squeeze or pop a stye.",
+        "Eyelid Stye (tender red bump at lash line): Apply a clean warm damp washcloth compress to the closed eyelid for 10–15 minutes, 4 times daily, to unclog the oil gland—NEVER squeeze or pop a stye.",
         "Viral/Bacterial Pink Eye: Wash hands constantly, use separate towels/pillowcases, wipe crust gently from inner corner outward with warm damp cotton, and discard eye makeup."
       ],
       "safety": "Seek prompt eye-doctor care if vision blurs, severe eye pain develops, or you wear contact lenses.",
@@ -1995,34 +2215,42 @@
         "eye-care",
         "warm-compress",
         "remedy"
-      ]
+      ],
+      "scenario": "An eyelid has a sore bump, or the eye itself becomes red.",
+      "overview": "Pain inside the eye, vision changes or marked light sensitivity need prompt assessment. Avoid sharing towels or eye products."
     },
     {
       "id": "med-170",
       "cat": "First Aid & Remedies",
       "sub": "Illness & Home Remedies",
-      "title": "Ingrown Toenail & Subungual Hematoma (Smashed Fingernail) Relief",
+      "title": "Care for a crushed fingernail or toenail",
       "diff": "Easy",
-      "time": "15 mins",
+      "time": "Immediate",
       "gear": [
-        "Nail clippers",
-        "Sterile needle / paperclip + lighter"
+        "Cold pack"
       ],
       "supplies": [
-        "Warm Epsom salt water",
-        "Dental floss / tiny cotton wisp",
-        "Antibiotic ointment"
+        "Clean dressing",
+        "Cloth"
       ],
       "steps": [
-        "Mild Ingrown Toenail: Soak foot in warm Epsom salt water for 15 minutes, gently lift the corner of the nail, tuck a tiny wisp of cotton or waxed dental floss underneath to guide nail growth above the skin edge, and trim toenails straight across (never rounded).",
-        "Throbbing Blood Under Smashed Nail (Subungual Hematoma \u2014 within 24 hours): Clean nail with alcohol, heat the tip of an unbent paperclip red-hot in a flame (or spin a sterile needle tip gently), and melt/drill a tiny pinhole straight down through the center of the dark nail bed\u2014trapped blood spurts out and throbbing pain stops instantly."
+        "Remove rings promptly if they slide off easily. For a minor injury, gently clean broken skin and protect it with a clean dressing.",
+        "Elevate the digit and apply a cold pack wrapped in cloth for short intervals. Check for deformity, a torn nail, loss of sensation, persistent bleeding or severe throbbing.",
+        "Seek urgent medical care for these signs or possible fracture. A clinician can assess the nail bed and relieve pressure if indicated."
       ],
-      "safety": "Do NOT attempt nail trephination if the finger is broken or if you have diabetes/poor circulation.",
+      "safety": "Do not drill, burn or pierce the nail at home.",
       "tags": [
-        "ingrown-toenail",
-        "smashed-finger",
         "nail",
-        "first-aid"
+        "finger",
+        "crush"
+      ],
+      "scenario": "A door has closed on a fingertip and blood is collecting under the nail.",
+      "overview": "Protect and elevate the injured digit. A clinician can check for fracture and decide whether pressure under the nail needs relieving.",
+      "sources": [
+        [
+          "MedlinePlus · Nail injuries",
+          "https://medlineplus.gov/ency/patientinstructions/000800.htm"
+        ]
       ]
     },
     {
@@ -2040,7 +2268,7 @@
         "Elastic wrap"
       ],
       "steps": [
-        "Scalp cuts bleed dramatically even when minor due to dense blood vessels\u2014stay calm and press a thick stack of sterile gauze firmly directly onto the cut for 10 full minutes.",
+        "Scalp cuts bleed dramatically even when minor due to dense blood vessels—stay calm and press a thick stack of sterile gauze firmly directly onto the cut for 10 full minutes.",
         "Before pressing hard on a head wound, feel gently around the edges first to make sure there is no soft, spongy depression indicating an underlying skull fracture.",
         "Wrap an elastic bandage horizontally around the forehead/occiput (above ears and eyebrows) to hold the gauze pad in place."
       ],
@@ -2050,7 +2278,9 @@
         "head-cut",
         "bleeding",
         "first-aid"
-      ]
+      ],
+      "scenario": "A scalp cut bleeds heavily after a blow to the head.",
+      "overview": "Describe both the bleeding and the force of impact. New confusion, vomiting or drowsiness needs urgent evaluation."
     },
     {
       "id": "med-172",
@@ -2071,41 +2301,48 @@
       "steps": [
         "Control stump bleeding first with direct pressure, elevation, and a tourniquet only if arterial bleeding won't stop.",
         "Rinse the severed finger/part gently with clean saline/water (do NOT scrub), wrap it in damp sterile gauze, and seal it inside a watertight zip-top bag.",
-        "Place that sealed bag INSIDE a second bag filled with ice and cold water\u2014NEVER put the severed tissue directly on bare ice or submerged loose in water, which freezes and destroys cells."
+        "Place that sealed bag INSIDE a second bag filled with ice and cold water—NEVER put the severed tissue directly on bare ice or submerged loose in water, which freezes and destroys cells."
       ],
-      "safety": "Transport both the patient and the cooled part to a trauma/hand-surgery center immediately (viable window is 6\u201312+ hours when properly cooled).",
+      "safety": "Transport both the patient and the cooled part to a trauma/hand-surgery center immediately (viable window is 6–12+ hours when properly cooled).",
       "tags": [
         "amputation",
         "finger",
         "trauma",
         "preservation",
         "emergency"
-      ]
+      ],
+      "scenario": "A workshop injury has separated part of a finger.",
+      "overview": "Care for the injured person first. Keep the recovered part protected, cool and separate from direct contact with ice for the surgical team."
     },
     {
       "id": "med-173",
       "cat": "First Aid & Remedies",
       "sub": "Illness & Home Remedies",
-      "title": "Croup, Whooping Cough & Nighttime Barking Cough Steam Protocol",
+      "title": "A child wakes with a barking cough",
       "diff": "Easy",
-      "time": "15 mins",
+      "time": "Immediate",
       "gear": [
-        "Bathroom shower / cool-mist humidifier"
+        "Phone"
       ],
-      "supplies": [
-        "Cool night air"
-      ],
+      "supplies": [],
       "steps": [
-        "Viral Croup (seal-like barking cough in young children, worse at night): Sit with the child in a steam-filled bathroom with the hot shower running for 10 minutes, then step outside into cool night air (or open the freezer door for 2 minutes)\u2014alternating warm mist and cool air shrinks airway swelling fast.",
-        "Keep the child calm and upright\u2014crying tightens narrowed vocal cords."
+        "Keep the child calm and upright in a position they find comfortable. Observe breathing while quiet.",
+        "Call 911 for marked breathing difficulty, blue or gray color, drooling with inability to swallow, difficulty waking, or harsh breathing noise at rest with distress.",
+        "Call the child’s clinician promptly for suspected croup, especially with noisy breathing at rest. Offer small drinks only if the child can swallow comfortably."
       ],
-      "safety": "Call 911 immediately if the child makes high-pitched squeaking noises while breathing IN at rest (stridor), drools unable to swallow, or sucks skin in between ribs.",
+      "safety": "Avoid hot steam and bowls of boiling water. They can cause burns and do not treat the airway swelling.",
       "tags": [
         "croup",
-        "cough",
-        "pediatric",
-        "airway",
-        "remedy"
+        "barking cough",
+        "stridor"
+      ],
+      "scenario": "A child wakes with a barking cough and noisy breathing.",
+      "overview": "Breathing effort at rest matters more than how loud the cough sounds. Keep the child calm and seek urgent help for warning signs.",
+      "sources": [
+        [
+          "University College London Hospitals · Croup in children",
+          "https://www.uclh.nhs.uk/patients-and-visitors/patient-information-pages/croup-children"
+        ]
       ]
     },
     {
@@ -2123,19 +2360,21 @@
         "Notepad & pen"
       ],
       "steps": [
-        "Pulse Rate & Quality: Press index and middle fingers (never your thumb) lightly on the radial wrist pulse (thumb side) or carotid neck pulse; count beats for 30 seconds and double (normal resting adult = 60\u2013100 bpm; note if strong/bounding vs. weak/thready).",
-        "Respiratory Rate: Watch chest rise silently for 30 seconds and double without telling the patient (normal adult = 12\u201320 breaths/min; >24 or <8 is abnormal).",
-        "Capillary Refill & Skin: Squeeze a fingernail bed white for 2 seconds and release\u2014pink color should return in under 2 seconds; feel forehead with back of hand for fever/clamminess.",
-        "Pupils (PERRL): Shine a penlight briefly from the side into each eye\u2014both pupils should be equal in size and constrict briskly."
+        "Pulse Rate & Quality: Press index and middle fingers (never your thumb) lightly on the radial wrist pulse (thumb side) or carotid neck pulse; count beats for 30 seconds and double (normal resting adult = 60–100 bpm; note if strong/bounding vs. weak/thready).",
+        "Respiratory Rate: Watch chest rise silently for 30 seconds and double without telling the patient (normal adult = 12–20 breaths/min; >24 or <8 is abnormal).",
+        "Capillary Refill & Skin: Squeeze a fingernail bed white for 2 seconds and release—pink color should return in under 2 seconds; feel forehead with back of hand for fever/clamminess.",
+        "Pupils (PERRL): Shine a penlight briefly from the side into each eye—both pupils should be equal in size and constrict briskly."
       ],
-      "safety": "Record vitals every 15 minutes in unstable patients\u2014a rising pulse combined with falling skin temperature is the earliest warning of hidden shock.",
+      "safety": "Record vitals every 15 minutes in unstable patients—a rising pulse combined with falling skin temperature is the earliest warning of hidden shock.",
       "tags": [
         "vitals",
         "pulse",
         "assessment",
         "triage",
         "first-aid"
-      ]
+      ],
+      "scenario": "You are waiting for an ambulance and have no electronic monitor.",
+      "overview": "A timed series of observations is more informative than one isolated measurement. Use plain descriptions when you cannot measure a sign reliably."
     },
     {
       "id": "med-175",
@@ -2150,7 +2389,7 @@
       ],
       "steps": [
         "Use the 5-4-3-2-1 Sensory Grounding technique to pull someone out of an acute panic spiral: name 5 things you can see, 4 things you can physically touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste.",
-        "Give panicked bystanders a concrete, simple, helpful task (holding a flashlight, timing a bandage, organizing water bottles)\u2014purposeful action immediately restores prefrontal control over amygdala panic.",
+        "Give panicked bystanders a concrete, simple, helpful task (holding a flashlight, timing a bandage, organizing water bottles)—purposeful action immediately restores prefrontal control over amygdala panic.",
         "Keep children close to familiar routines, give honest age-appropriate reassurance, and limit repetitive disaster radio/news loops."
       ],
       "safety": "Never dismiss severe chest pain or shortness of breath as 'just anxiety' until physical causes are ruled out.",
@@ -2160,7 +2399,35 @@
         "grounding",
         "disaster-psychology",
         "first-aid"
-      ]
+      ],
+      "scenario": "After a frightening event someone feels overwhelmed and cannot decide what to do next.",
+      "overview": "A calm presence and one manageable practical task can help. Ask whom they want contacted and stay alert to immediate safety needs."
+    },
+    {
+      "id": "med-176",
+      "sub": "Evacuation & Kits",
+      "title": "Make the 911 location easy to describe",
+      "scenario": "A visitor in the workshop may need to summon help without knowing the street address or gate arrangement.",
+      "time": "10 minutes",
+      "diff": "Easy",
+      "gear": [
+        "Pen"
+      ],
+      "supplies": [
+        "Two index cards"
+      ],
+      "steps": [
+        "Write the street address, city, nearest cross street and the entrance an ambulance can use. Include unit or building details where appropriate.",
+        "Add one plain-language direction from the street to the workshop or garden. Keep sensitive access codes out of public view.",
+        "Place one copy inside by the entrance and one in the workshop. Have a visitor read the directions aloud and point to the correct gate.",
+        "In an actual emergency give the location and callback number first, then answer dispatch questions. Keep someone with the patient and send a second helper to guide responders if available."
+      ],
+      "overview": "The card removes a memory task from the emergency call. Check it after moving a workshop entrance, changing a gate or renumbering a unit.",
+      "tags": [
+        "evacuation",
+        "kits"
+      ],
+      "cat": "First Aid & Remedies"
     }
   ],
   "glossary": {
@@ -2200,5 +2467,7 @@
       "svg": "epipen",
       "def": "A spring-loaded single-dose syringe delivering intramuscular epinephrine into the outer mid-thigh to rapidly reverse airway swelling and blood-pressure collapse during life-threatening anaphylaxis."
     }
-  }
+  },
+  "count": 76,
+  "version": "2026.11.15-birthday-r1"
 }

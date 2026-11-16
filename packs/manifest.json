@@ -1,6 +1,7 @@
 {
-  "version": "2026.11.15-m9",
+  "version": "2026.11.15-birthday-r1",
   "files": [
+    "10-household-preparedness.json",
     "01_kitchen_scratch.json",
     "02-homestead-garden.json",
     "03-home-appliance-repair.json",
@@ -10,5 +11,6 @@
     "07-travel-fieldcraft.json",
     "08-friendswood-greenhouse-garden.json",
     "09-smart-shopping-negotiation.json"
-  ]
+  ],
+  "versionedPacks": true
 }

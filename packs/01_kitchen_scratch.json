@@ -1,7 +1,7 @@
 {
   "pack": "01_kitchen_scratch",
   "category": "Kitchen & From-Scratch",
-  "count": 305,
+  "count": 307,
   "glossary": {
     "butter muslin": {
       "term": "Butter Muslin",
@@ -203,7 +203,9 @@
         "ricotta",
         "dairy",
         "beginner"
-      ]
+      ],
+      "scenario": "Dinner needs a soft cheese and there’s a gallon of milk in the fridge. Decide whether it’s going on toast or into lasagna before you drain it.",
+      "overview": "A spoonful that slumps will spread well. For a filling, leave the curds in the cloth a little longer so they hold their shape and keep the pasta layers intact."
     },
     {
       "id": "kit-002",
@@ -239,7 +241,9 @@
         "rennet",
         "citric-acid",
         "dairy"
-      ]
+      ],
+      "scenario": "You want mozzarella for tonight’s tomatoes. Have the bowl ready before the curd gets warm enough to stretch.",
+      "overview": "A smooth skin signals that the ball has come together. Further working makes the cheese firmer."
     },
     {
       "id": "kit-003",
@@ -272,7 +276,9 @@
         "paneer",
         "pressed-cheese",
         "dairy"
-      ]
+      ],
+      "scenario": "Fresh cheese disappears into the curry as it simmers.",
+      "overview": "Pressing gives the curd enough structure to cut into cubes and lift out of a sauce intact."
     },
     {
       "id": "kit-004",
@@ -306,7 +312,9 @@
         "buttermilk",
         "dairy",
         "fermentation"
-      ]
+      ],
+      "scenario": "The mixer bowl looks like it contains ruined whipped cream. Keep it handy for collecting the liquid as it separates.",
+      "overview": "One batch yields spreadable butter and cultured buttermilk. Rinsing the butter carries out liquid trapped between the grains."
     },
     {
       "id": "kit-005",
@@ -337,7 +345,9 @@
         "mascarpone",
         "dairy",
         "dessert"
-      ]
+      ],
+      "scenario": "You need a mild, thick cheese for tiramisu and have heavy cream on hand.",
+      "overview": "Gentle heat, acid and a cold drain turn the cream into a spoonable base that can carry coffee or fruit without overwhelming it."
     },
     {
       "id": "kit-006",
@@ -369,7 +379,9 @@
         "dairy",
         "apo",
         "fermentation"
-      ]
+      ],
+      "scenario": "Breakfast calls for thick yogurt, but the same batch could become a savory spread.",
+      "overview": "Draining changes the concentration of the yogurt. Stop while it still drops from a spoon for breakfast, or continue until it holds a ridge for labneh."
     },
     {
       "id": "kit-007",
@@ -398,7 +410,9 @@
         "quark",
         "dairy",
         "fermentation"
-      ]
+      ],
+      "scenario": "You’re making both a tangy topping for soup and a soft filling for pastries.",
+      "overview": "The starting dairy and how much whey you drain determine which texture you bring to the table."
     },
     {
       "id": "kit-008",
@@ -427,7 +441,9 @@
         "clarified-butter",
         "dairy",
         "high-heat"
-      ]
+      ],
+      "scenario": "Butter keeps browning before your potatoes crisp.",
+      "overview": "Removing water and milk solids gives you clear cooking fat. Browning the solids first leaves a toasted aroma in the strained ghee."
     },
     {
       "id": "kit-009",
@@ -458,7 +474,9 @@
         "dulce-de-leche",
         "dairy",
         "pantry"
-      ]
+      ],
+      "scenario": "The recipe calls for condensed milk and the can in the pantry is evaporated milk.",
+      "overview": "Sweetened milk thickens as water leaves the pan. Further cooking deepens the color and caramel flavor."
     },
     {
       "id": "kit-010",
@@ -489,7 +507,9 @@
         "queso-fresco",
         "dairy",
         "mexican"
-      ]
+      ],
+      "scenario": "You want a cheese that scatters over tacos in little pieces.",
+      "overview": "Light pressing leaves the curd moist enough to cling to a warm tortilla and firm enough to crumble between your fingers."
     },
     {
       "id": "kit-011",
@@ -520,7 +540,9 @@
         "sourdough",
         "starter",
         "fermentation"
-      ]
+      ],
+      "scenario": "Your starter rose overnight and has already begun to sink. Is it ready for another feeding?",
+      "overview": "A mark on the jar shows how far the culture rose. Watching a few feeds gives you a better baking schedule for your kitchen."
     },
     {
       "id": "kit-012",
@@ -558,7 +580,9 @@
         "artisan-loaf",
         "banneton",
         "dutch-oven"
-      ]
+      ],
+      "scenario": "You want one good loaf and a way to tell where the next one needs work.",
+      "overview": "Let the loaf cool before slicing through the middle. The crumb and the shape together tell you more about fermentation and shaping than the crust color alone."
     },
     {
       "id": "kit-013",
@@ -592,7 +616,9 @@
         "sourdough-discard",
         "crackers",
         "zero-waste"
-      ]
+      ],
+      "scenario": "There’s discard in the fridge and just enough time to bake a snack.",
+      "overview": "Even thickness matters most here. Remove the thin edge pieces first if they brown ahead of the center."
     },
     {
       "id": "kit-014",
@@ -623,7 +649,9 @@
         "no-knead",
         "dutch-oven",
         "beginner"
-      ]
+      ],
+      "scenario": "You have a heavy covered pot and time overnight, but little time to work dough.",
+      "overview": "The long rest develops the dough. Baking under a lid holds steam near the surface while the loaf expands."
     },
     {
       "id": "kit-015",
@@ -657,7 +685,9 @@
         "sandwich-bread",
         "whole-wheat",
         "yeast"
-      ]
+      ],
+      "scenario": "Sandwich slices need to bend around a filling without breaking.",
+      "overview": "A well-hydrated whole-wheat dough and an even roll into the pan give the finished loaf a fine, sliceable crumb."
     },
     {
       "id": "kit-016",
@@ -691,7 +721,9 @@
         "dinner-rolls",
         "yeast",
         "baking"
-      ]
+      ],
+      "scenario": "A tray of dinner rolls needs to finish at the same time.",
+      "overview": "Divide the dough evenly and arrange it with even gaps so the rolls rise together and pull apart along soft sides."
     },
     {
       "id": "kit-017",
@@ -725,7 +757,9 @@
         "brioche",
         "burger-buns",
         "baking"
-      ]
+      ],
+      "scenario": "You’re grilling tomorrow and want buns that will carry the juices.",
+      "overview": "An overnight chill makes enriched dough easier to portion. Matching the dough rounds to the patties gives more useful buns than matching a photograph."
     },
     {
       "id": "kit-018",
@@ -760,7 +794,9 @@
         "cornbread",
         "cast-iron",
         "southern"
-      ]
+      ],
+      "scenario": "The beans are nearly ready and you want cornbread with a crisp bottom.",
+      "overview": "Heat in the skillet starts the crust as the batter goes in. A browned edge that pulls away from the pan makes serving easier."
     },
     {
       "id": "kit-019",
@@ -793,7 +829,9 @@
         "tortillas",
         "flatbread",
         "stovetop"
-      ]
+      ],
+      "scenario": "Store-bought tortillas are gone and the filling is already on the stove.",
+      "overview": "A rested dough rolls thin without springing back. Stack the cooked rounds under a cloth so they stay pliable for folding."
     },
     {
       "id": "kit-020",
@@ -827,7 +865,9 @@
         "bagels",
         "baking",
         "yeast"
-      ]
+      ],
+      "scenario": "Your rolls taste good but lack a bagel’s shiny, chewy outside.",
+      "overview": "Boiling sets a thin outer skin before baking. The ring needs room in both pot and pan to keep its opening."
     },
     {
       "id": "kit-021",
@@ -859,7 +899,9 @@
         "focaccia",
         "olive-oil",
         "baking"
-      ]
+      ],
+      "scenario": "A crowd is coming and you’d rather shape one pan of bread than a dozen rolls.",
+      "overview": "Oil beneath the dough crisps the base while dimples hold the topping. Cut a center piece as well as an edge piece to judge the bake."
     },
     {
       "id": "kit-022",
@@ -885,7 +927,9 @@
         "zero-waste",
         "kitchen-hack",
         "apo"
-      ]
+      ],
+      "scenario": "Yesterday’s baguette is hard on the outside and dry in the middle.",
+      "overview": "Brief moisture and heat revive the crust for one meal. Use sound, mold-free bread and serve it while it is still warm."
     },
     {
       "id": "kit-023",
@@ -918,7 +962,9 @@
         "probiotics",
         "cabbage",
         "airlock"
-      ]
+      ],
+      "scenario": "A large cabbage takes up half the crisper and you want a tangy side.",
+      "overview": "Weighing the cabbage makes the salt calculation repeatable even when the heads vary in size."
     },
     {
       "id": "kit-024",
@@ -953,7 +999,9 @@
         "cucumbers",
         "brine",
         "probiotics"
-      ]
+      ],
+      "scenario": "You’ve picked a basket of small cucumbers and want a sour dill flavor.",
+      "overview": "Similar-sized cucumbers ferment more evenly. Keeping them beneath the brine is the job the weight does throughout the batch."
     },
     {
       "id": "kit-025",
@@ -987,7 +1035,9 @@
         "refrigerator-pickles",
         "quick-pickling",
         "vinegar"
-      ]
+      ],
+      "scenario": "You need a crunchy sandwich pickle for this week’s lunches.",
+      "overview": "Thin slices take up the seasoned vinegar quickly. Date the refrigerated jar so everyone knows where it belongs after lunch."
     },
     {
       "id": "kit-026",
@@ -1021,7 +1071,9 @@
         "hot-sauce",
         "peppers",
         "condiments"
-      ]
+      ],
+      "scenario": "A pepper harvest includes more heat than you can use in one meal.",
+      "overview": "Fermentation builds the sauce’s tart base. The blend of peppers you choose determines most of the heat before the blender ever starts."
     },
     {
       "id": "kit-027",
@@ -1052,7 +1104,9 @@
         "kombucha",
         "scoby",
         "beverages"
-      ]
+      ],
+      "scenario": "You want plain kombucha for one person and flavored bottles for another.",
+      "overview": "The first stage makes the tea base. Separate bottling lets you vary the flavor and requires attention to pressure in each bottle."
     },
     {
       "id": "kit-028",
@@ -1080,7 +1134,9 @@
         "fermentation",
         "sour-cream",
         "dairy"
-      ]
+      ],
+      "scenario": "Taco night is tomorrow and the only dairy on hand is cream and a suitable starter.",
+      "overview": "Culturing develops tang before chilling firms the cream. Judge the finished consistency after it has cooled."
     },
     {
       "id": "kit-029",
@@ -1112,35 +1168,40 @@
         "salsa",
         "tomatoes",
         "probiotics"
-      ]
+      ],
+      "scenario": "The tomatoes are ripe together and you want a tangier salsa for the refrigerator.",
+      "overview": "The vegetables release juice as they stand. A spoonful drained before serving keeps that liquid from soaking the tortilla."
     },
     {
       "id": "kit-030",
       "cat": "Kitchen & From-Scratch",
       "sub": "Fermentation & Cultured Foods",
-      "title": "Fermented Honey Garlic",
+      "title": "Honey-garlic glaze for tonight’s dinner",
       "diff": "Easy",
-      "time": "3-4 weeks",
+      "time": "10 minutes",
       "gear": [
-        "Pint mason jar",
-        "Parchment paper circle"
+        "Small saucepan",
+        "Spoon"
       ],
       "supplies": [
-        "1 cup peeled whole garlic cloves (lightly crushed)",
-        "1 cup raw unpasteurized honey"
+        "1 garlic clove",
+        "2 tbsp honey",
+        "2 tbsp water",
+        "1 tsp vinegar"
       ],
       "steps": [
-        "Place peeled garlic cloves in a clean pint jar and pour raw honey over until completely covered.",
-        "Cap loosely and flip the jar daily for the first week (garlic releases moisture and thins the honey as tiny bubbles form).",
-        "Let mellow for 3-4 weeks; cloves turn mild, savory, and sweet while the infused honey makes an incredible glaze."
+        "For two portions, mince one peeled garlic clove and put it in a small pan with two tablespoons of water. Simmer until the garlic softens.",
+        "Stir in two tablespoons of honey and a teaspoon of vinegar. Simmer gently, stirring, until it lightly coats a spoon. Thin with a little water if necessary.",
+        "Spoon over cooked vegetables or fully cooked meat and serve with the meal."
       ],
-      "safety": "Use raw honey (pasteurized honey lacks wild yeasts) and never feed honey-garlic to infants under 1 year old.",
+      "safety": "Prepare this as a fresh sauce. Never give honey to an infant under one year.",
       "tags": [
-        "fermentation",
-        "honey-garlic",
-        "pantry",
-        "remedy"
-      ]
+        "garlic",
+        "honey",
+        "glaze"
+      ],
+      "scenario": "You want the sweet, savory flavor of honey and garlic for tonight’s glaze.",
+      "overview": "A small cooked batch gives a pourable glaze you can use at dinner without relying on a room-temperature garlic ferment."
     },
     {
       "id": "kit-031",
@@ -1173,6 +1234,14 @@
         "water-bath",
         "preservation",
         "food-safety"
+      ],
+      "scenario": "You’ve chosen a tested preserve. Now you need to organize the jars, bath and timing before the fruit gets hot.",
+      "overview": "The bath is one part of a recipe-specific process. Jar size, altitude and the tested food preparation belong on the same batch note.",
+      "sources": [
+        [
+          "NCHFP · How to Use Boiling Water and Pressure Canners",
+          "https://nchfp.uga.edu/how/can/general-information/recommended-canners/"
+        ]
       ]
     },
     {
@@ -1206,13 +1275,21 @@
         "pressure-canning",
         "low-acid",
         "food-safety"
+      ],
+      "scenario": "You’re deciding whether garden produce can go on a pantry shelf.",
+      "overview": "Start with the tested recipe for the exact food and pack. Its pressure and processing time go together with the canner type and your elevation.",
+      "sources": [
+        [
+          "NCHFP · How to Use Boiling Water and Pressure Canners",
+          "https://nchfp.uga.edu/how/can/general-information/recommended-canners/"
+        ]
       ]
     },
     {
       "id": "kit-033",
       "cat": "Kitchen & From-Scratch",
       "sub": "Water-Bath & Pressure Canning",
-      "title": "Small-Batch Strawberry or Peach Jam (No Commercial Pectin)",
+      "title": "Berry jam without added pectin",
       "diff": "Easy",
       "time": "45 mins",
       "gear": [
@@ -1222,28 +1299,37 @@
         "Jar lifter"
       ],
       "supplies": [
-        "2 lbs ripe berries or peeled diced peaches",
-        "1.5 cups white sugar",
-        "3 tbsp fresh lemon juice"
+        "9 cups crushed washed berries",
+        "6 cups sugar"
       ],
       "steps": [
-        "Mash fruit gently with sugar and lemon juice in a wide pan and let macerate 20 minutes until juices flow.",
-        "Bring to a rapid boil over medium-high heat, stirring constantly so sugars do not scorch, until temperature reaches 220°F (gel point) or a drop wrinkles on a chilled saucer.",
-        "Skim foam, ladle into hot half-pint jars with 1/4-inch headspace, wipe rims, and process 10 minutes in a boiling-water bath."
+        "Prepare sterilized half-pint jars and hold them hot. Combine berries and sugar in a wide pot.",
+        "Warm gradually, stirring until the sugar dissolves. Boil rapidly to a soft or firm jam set, stirring frequently as it thickens. Test a cooled spoonful on a chilled plate for the desired texture.",
+        "Fill hot sterile jars with jam, leaving ¼ inch of headspace.",
+        "Wipe rims, fit lids and process half-pints in a boiling-water canner. Start timing when the full boil returns. Choose by elevation (up to 1,000 ft: 5 minutes, 1,001–6,000 ft: 10 minutes, above 6,000 ft: 15 minutes).",
+        "Turn off heat, uncover the canner and wait five minutes. Lift jars upright and cool undisturbed for 12–24 hours before checking seals."
       ],
-      "safety": "Lemon juice provides essential acidity for both safe water-bath canning and natural pectin gelling.",
+      "safety": "Use the specified ingredients, jar sizes and process. Refrigerate an unsealed jar promptly if found at the initial seal check.",
       "tags": [
         "canning",
         "jam",
         "preserves",
         "water-bath"
+      ],
+      "scenario": "The berry patch has yielded enough to measure nine cups crushed. You want jam using the fruit’s own pectin.",
+      "overview": "Cooking off water concentrates the fruit. A chilled sample shows the set more clearly than the hot mixture in the pan.",
+      "sources": [
+        [
+          "NCHFP · Berry Jams without Pectin",
+          "https://nchfp.uga.edu/how/make-jam-jelly/jams/berry-jams-without-pectin/"
+        ]
       ]
     },
     {
       "id": "kit-034",
       "cat": "Kitchen & From-Scratch",
       "sub": "Water-Bath & Pressure Canning",
-      "title": "Canning Whole or Crushed Tomatoes Safely",
+      "title": "Crushed tomatoes for the pantry",
       "diff": "Easy",
       "time": "1.5 hrs",
       "gear": [
@@ -1253,21 +1339,34 @@
         "Canning funnel"
       ],
       "supplies": [
-        "6 lbs ripe paste tomatoes (Roma/San Marzano)",
-        "Bottled lemon juice (1 tbsp per pint / 2 tbsp per quart) OR citric acid (1/4 tsp per pint / 1/2 tsp per quart)",
-        "1/2 tsp canning salt per pint (optional)"
+        "Sound ripe tomatoes",
+        "Commercial bottled lemon juice",
+        "Hot pint or quart jars and lids"
       ],
       "steps": [
-        "Score an X on tomato bottoms, blanch 45 seconds in boiling water, plunge into ice water, and slip skins off.",
-        "Core and pack tomatoes tightly into hot jars (or crush and simmer 5 minutes for crushed tomatoes), adding bottled lemon juice or citric acid directly to every jar.",
-        "Leave 1/2-inch headspace, remove air bubbles, wipe rims, and process in a boiling-water bath (40 mins for pints, 45 mins for quarts)."
+        "Wash tomatoes, blanch until skins loosen, cool briefly, peel, core and quarter. Trim defects and discard spoiled fruit.",
+        "Heat about one-sixth of the quarters in a large pot, crushing them to release juice. Bring to a boil and add the remaining quarters gradually while stirring. Once all are in, boil gently five minutes.",
+        "Add one tablespoon bottled lemon juice per pint or two tablespoons per quart to hot jars. Fill with hot crushed tomato, leaving ½ inch headspace. Remove air bubbles, correct headspace, clean rims and fit lids.",
+        "In a boiling-water canner at up to 1,000 feet, process pints 35 minutes or quarts 45 minutes from the return to a full boil. At 1,001–3,000 feet add 5 minutes, at 3,001–6,000 add 10, and above 6,000 add 15. Cool and check seals."
       ],
-      "safety": "Modern heirloom tomatoes vary in acidity—always add bottled lemon juice or citric acid (never fresh-squeezed lemon, whose pH varies) even if pressure canning.",
+      "safety": "Use the separate whole-tomato process if you leave tomatoes in halves or pack with water.",
       "tags": [
         "canning",
         "tomatoes",
         "water-bath",
         "pantry"
+      ],
+      "scenario": "Tomatoes are coming in faster than you can use them for dinner.",
+      "overview": "Heating the first quarters provides juice for the rest. Keeping the crushed-tomato preparation and its table together prevents a common mix-up with whole-tomato packs.",
+      "sources": [
+        [
+          "NCHFP · Crushed Tomatoes (with no added liquid)",
+          "https://nchfp.uga.edu/how/can/how-do-i-can-tomatoes/crushed-tomatoes-with-no-added-liquid/"
+        ],
+        [
+          "NCHFP · Whole or Halved Tomatoes (packed in water)",
+          "https://nchfp.uga.edu/how/can/how-do-i-can-tomatoes/whole-or-halved-tomatoes-packed-in-water/"
+        ]
       ]
     },
     {
@@ -1288,17 +1387,26 @@
         "Pint or quart mason jars"
       ],
       "steps": [
+        "Set the processing pressure for your elevation before filling jars. With a weighted gauge use 10 psi through 1,000 feet or 15 psi above. With a dial gauge use 11 psi through 2,000 feet, 12 through 4,000, 13 through 6,000 and 14 through 8,000. Above the listed range consult Extension. Vent a continuous plume of steam for 10 minutes before pressurizing.",
         "Chill finished broth overnight so fat solidifies into a cap on top; lift off and discard all solid fat (excess fat can creep under jar lids and prevent sealing).",
         "Reheat skimmed broth to a rolling boil and ladle into hot jars leaving 1-inch headspace.",
-        "Wipe rims meticulously with a vinegar-damped cloth, apply lids, and pressure can at 10 PSI weighted (11 PSI dial) for 20 minutes (pints) or 25 minutes (quarts)."
+        "Wipe rims meticulously with a vinegar-damped cloth, apply lids, and pressure can at the pressure selected for your elevation for 20 minutes (pints) or 25 minutes (quarts)."
       ],
-      "safety": "Any jar whose lid flexes up and down after 24 hours did not seal—refrigerate immediately and use within 3 days.",
+      "safety": "Any jar whose lid flexes up and down after 24 hours did not seal—refrigerate immediately and use within 3 days. If pressure drops below the required value during processing, return to pressure and restart the full time.",
       "tags": [
         "canning",
         "pressure-canning",
         "broth",
         "turkey",
         "chicken"
+      ],
+      "scenario": "The stock pot is full after a roast and freezer space is tight.",
+      "overview": "Strained broth and broth containing pieces are different canning products. Match what actually goes in the jar to the tested directions.",
+      "sources": [
+        [
+          "NCHFP · Chicken or Turkey Stock",
+          "https://nchfp.uga.edu/how/can/preparing-and-canning-poultry-red-meats-and-seafoods/chicken-or-turkey-stock/"
+        ]
       ]
     },
     {
@@ -1319,16 +1427,26 @@
         "1/2 tsp canning salt per pint (optional)"
       ],
       "steps": [
-        "Pack raw cubed chicken firmly into clean pint jars leaving 1.25-inch headspace (do not add liquid—chicken makes its own broth).",
-        "Add 1/2 tsp salt per pint if desired, wipe rims clean, and apply two-piece lids fingertip-tight.",
-        "Pressure can at 10 PSI weighted (11 PSI dial) for 75 minutes (pints) or 90 minutes (quarts)."
+        "Set the processing pressure for your elevation before filling jars. With a weighted gauge use 10 psi through 1,000 feet or 15 psi above. With a dial gauge use 11 psi through 2,000 feet, 12 through 4,000, 13 through 6,000 and 14 through 8,000. Above the listed range consult Extension. Vent a continuous plume of steam for 10 minutes before pressurizing.",
+        "Use chilled, trimmed, boneless chicken. Cut it into pieces that fit the jars loosely.",
+        "Pack raw chicken into clean jars without added liquid. Leave 1¼ inches of headspace. Wipe rims and fit lids.",
+        "Process in a properly vented pressure canner for 75 minutes for pints or 90 for quarts. Check the linked boneless table for the pressure required by elevation and gauge type.",
+        "Let pressure fall naturally and follow the canner instructions for opening. Cool jars 12–24 hours before testing the seals."
       ],
-      "safety": "Do not pack chicken with flour, butter, noodles, or thickeners—density blocks heat penetration and makes canning unsafe.",
+      "safety": "Do not pack chicken with flour, butter, noodles, or thickeners—density blocks heat penetration and makes canning unsafe. If pressure drops below the required value during processing, return to pressure and restart the full time.",
       "tags": [
         "canning",
         "pressure-canning",
         "chicken",
         "emergency-pantry"
+      ],
+      "scenario": "You want plain chicken ready for soup on a night when defrosting is inconvenient.",
+      "overview": "Cut and pack the chicken as specified in the tested recipe. Record the jar size, pack style and processing schedule with the batch.",
+      "sources": [
+        [
+          "NCHFP · Chicken or Rabbit",
+          "https://nchfp.uga.edu/how/can/preparing-and-canning-poultry-red-meats-and-seafoods/chicken-or-rabbit/"
+        ]
       ]
     },
     {
@@ -1359,7 +1477,9 @@
         "preservation",
         "mylar",
         "pantry"
-      ]
+      ],
+      "scenario": "The center trays still have damp spots when the outer pieces seem dry.",
+      "overview": "A uniform layer gives the machine a more even load. Check the thickest pieces before packaging the batch."
     },
     {
       "id": "kit-038",
@@ -1390,7 +1510,9 @@
         "eggs",
         "emergency-pantry",
         "breakfast"
-      ]
+      ],
+      "scenario": "You’re packing eggs for a trip and need the next cook to know which packets contain raw egg.",
+      "overview": "Mark the original state on every packet. Freeze-drying removes moisture and leaves raw eggs needing thorough cooking."
     },
     {
       "id": "kit-039",
@@ -1417,7 +1539,9 @@
         "herbs",
         "gardening",
         "pantry"
-      ]
+      ],
+      "scenario": "A few spoonfuls of onion, carrot and celery would start a soup without another chopping session.",
+      "overview": "A measured scoop of dried vegetables is easier to use if the package records how much fresh mix went onto the tray."
     },
     {
       "id": "kit-040",
@@ -1445,7 +1569,9 @@
         "meals",
         "cheese",
         "emergency-pantry"
-      ]
+      ],
+      "scenario": "You’d like to take a familiar meal camping and know how much water it will need.",
+      "overview": "Trial-rehydrate a single portion at home. Put the water amount and any cooking directions on the remaining packets."
     },
     {
       "id": "kit-041",
@@ -1468,15 +1594,23 @@
       ],
       "steps": [
         "Partially freeze meat for 45 minutes until firm, then slice across the grain into uniform 1/8-inch strips.",
-        "Marinate strips in the refrigerator for 8-24 hours, pat dry thoroughly with paper towels, and lay flat on wire racks without overlapping.",
-        "Dry at 160°F for 4-6 hours until strips bend and crack without snapping, with white muscle fibers visible."
+        "Marinate covered in the refrigerator. Steam or roast strips to 160°F before drying (165°F for poultry). Check several pieces with a food thermometer.",
+        "Arrange in a single layer. Use a dehydrator capable of maintaining 130–140°F and follow its instructions for the thickness of the strips. Cool and inspect for remaining moisture before packing."
       ],
-      "safety": "USDA food safety requires heating meat strips to 160°F internal temperature during drying to eliminate pathogens before moisture drops.",
+      "safety": "A dehydrator air setting does not measure the meat’s internal temperature. Complete the moist-heat step before dehydration.",
       "tags": [
         "dehydrating",
         "jerky",
         "beef",
         "snacks"
+      ],
+      "scenario": "A lean roast needs to become strips that dry at roughly the same rate.",
+      "overview": "Uniform slicing controls texture. A verified heat treatment is a separate food-safety requirement from drying the strips.",
+      "sources": [
+        [
+          "USDA · Making jerky safely",
+          "https://ask.fsis.usda.gov/article/How-do-I-dry-jerky"
+        ]
       ]
     },
     {
@@ -1507,7 +1641,9 @@
         "sous-vide",
         "steak",
         "beef"
-      ]
+      ],
+      "scenario": "Two steaks of different thicknesses need browned surfaces and evenly cooked centers.",
+      "overview": "The controlled cooking stage sets the interior and the final sear colors the outside. Thickness matters when planning the cooking stage."
     },
     {
       "id": "kit-043",
@@ -1534,7 +1670,9 @@
         "eggs",
         "steam",
         "breakfast"
-      ]
+      ],
+      "scenario": "Breakfast guests want eggs with different yolk textures.",
+      "overview": "Steam timing and the starting temperature of the eggs affect the result. Label a test egg so the timing can be repeated on your appliance."
     },
     {
       "id": "kit-044",
@@ -1565,7 +1703,9 @@
         "chicken",
         "crispy-skin",
         "steam"
-      ]
+      ],
+      "scenario": "The skin is pale even though a chicken quarter is cooking through.",
+      "overview": "Moist cooking and dry finishing solve different parts of the meal. Verify doneness in the thickest meat away from bone."
     },
     {
       "id": "kit-045",
@@ -1597,7 +1737,9 @@
         "chuck-roast",
         "beef",
         "immersion-circulator"
-      ]
+      ],
+      "scenario": "You want to slice an economical chuck roast across the grain for sandwiches.",
+      "overview": "Long, controlled heating changes the texture of the connective tissue. The sear supplies a browned surface just before slicing."
     },
     {
       "id": "kit-046",
@@ -1623,7 +1765,9 @@
         "bread",
         "proofing",
         "steam-baking"
-      ]
+      ],
+      "scenario": "Your bread sets a crust early and splits along the side.",
+      "overview": "Humidity during the first part of baking lets the surface stretch. Dry heat later develops color and a firmer crust."
     },
     {
       "id": "kit-047",
@@ -1654,7 +1798,9 @@
         "condiments",
         "immersion-blender",
         "from-scratch"
-      ]
+      ],
+      "scenario": "The sandwich is ready but the mayonnaise jar is empty.",
+      "overview": "A narrow vessel keeps the egg and oil around the blender head while the emulsion starts. Use pasteurized egg for a sauce served uncooked."
     },
     {
       "id": "kit-048",
@@ -1685,7 +1831,9 @@
         "garlic",
         "sauce",
         "condiments"
-      ]
+      ],
+      "scenario": "Lemon and roasted garlic need a creamy base for vegetables or fish.",
+      "overview": "Mash the garlic smooth before mixing so each spoonful carries its sweetness evenly."
     },
     {
       "id": "kit-049",
@@ -1720,7 +1868,9 @@
         "mahi-mahi",
         "chicken-piccata",
         "pan-sauce"
-      ]
+      ],
+      "scenario": "A fish fillet is ready and the browned bits in the skillet are too good to wash away.",
+      "overview": "Deglazing captures those bits. The cream provides body while lemon and capers balance the richness."
     },
     {
       "id": "kit-050",
@@ -1751,7 +1901,9 @@
         "condiments",
         "pantry",
         "from-scratch"
-      ]
+      ],
+      "scenario": "You want one smooth mustard for dressings and a coarse one for sandwiches.",
+      "overview": "How much of the soaked seed you grind determines the finished texture. Reserve some whole seeds before blending."
     },
     {
       "id": "kit-051",
@@ -1784,7 +1936,9 @@
         "condiments",
         "sauce",
         "pantry"
-      ]
+      ],
+      "scenario": "A stew tastes flat and you want a concentrated savory seasoning on hand.",
+      "overview": "Straining gives a pourable sauce. Test it a few drops at a time in a spoonful of the dish before seasoning the whole pot."
     },
     {
       "id": "kit-052",
@@ -1815,7 +1969,9 @@
         "basil",
         "herbs",
         "sauce"
-      ]
+      ],
+      "scenario": "The basil needs picking and you want a sauce that coats pasta evenly.",
+      "overview": "Brief processing bruises the leaves less. Thin the finished pesto a spoonful at a time to suit pasta, sandwiches or vegetables."
     },
     {
       "id": "kit-053",
@@ -1842,7 +1998,9 @@
         "brown-sugar",
         "pantry",
         "substitutions"
-      ]
+      ],
+      "scenario": "Halfway through baking, you find an empty baking powder tin or a brick of brown sugar.",
+      "overview": "These two pantry mixtures solve different shortages. Measure only the amount the recipe needs before mixing it into the batter."
     },
     {
       "id": "kit-054",
@@ -1870,7 +2028,9 @@
         "vanilla",
         "lemon-extract",
         "pantry"
-      ]
+      ],
+      "scenario": "You’ve saved a vanilla bean or fragrant citrus peel and want its flavor for baking.",
+      "overview": "Label the jar with its ingredient and start date so you can compare the strength of successive infusions."
     },
     {
       "id": "kit-055",
@@ -1897,7 +2057,9 @@
         "taco-seasoning",
         "ranch",
         "pantry"
-      ]
+      ],
+      "scenario": "A seasoning packet is too salty for the dish you’re making.",
+      "overview": "Mixing a dry base gives you control of the salt in each meal. Label the blend so ranch and taco seasoning are easy to distinguish."
     },
     {
       "id": "kit-056",
@@ -1926,7 +2088,9 @@
         "chicken",
         "knife-skills",
         "savings"
-      ]
+      ],
+      "scenario": "A whole chicken costs less per pound and you want pieces for several meals.",
+      "overview": "Following the joints gives neat portions. Reserve the bony frame separately if it will become stock."
     },
     {
       "id": "kit-057",
@@ -1954,7 +2118,9 @@
         "poultry",
         "turkey",
         "roasting"
-      ]
+      ],
+      "scenario": "You want a roast with well-seasoned meat and a surface that browns.",
+      "overview": "Time in the refrigerator lets salt spread inward while exposed skin dries. Count the salt already present in enhanced poultry."
     },
     {
       "id": "kit-058",
@@ -1987,7 +2153,9 @@
         "pork",
         "meat-grinder",
         "breakfast"
-      ]
+      ],
+      "scenario": "Ground sausage needs seasoning before you commit the whole batch.",
+      "overview": "Cook a small test patty to check the mixture. Adjust the remaining cold meat before shaping it into breakfast portions."
     },
     {
       "id": "kit-059",
@@ -2021,7 +2189,9 @@
         "curing",
         "smoking",
         "charcuterie"
-      ]
+      ],
+      "scenario": "You’re planning bacon from a slab of pork belly and need to decide whether your curing setup is suitable.",
+      "overview": "The weight of the meat and the exact curing product govern a validated formula. Never substitute curing salts by color or guess a dose."
     },
     {
       "id": "kit-060",
@@ -2055,7 +2225,9 @@
         "piccata",
         "pan-sauce",
         "dinner"
-      ]
+      ],
+      "scenario": "Thin turkey cutlets are cooked and need a sauce that keeps them moist on the plate.",
+      "overview": "A quick pan sauce loosens the browned coating left in the skillet. Return the cutlets briefly so their breading stays intact."
     },
     {
       "id": "kit-061",
@@ -2088,7 +2260,9 @@
         "cottage-pie",
         "comfort-food",
         "dinner"
-      ]
+      ],
+      "scenario": "There’s cooked turkey to use and tomorrow’s dinner would be easier in one dish.",
+      "overview": "A filling thick enough to mound supports the mashed-potato lid. Leave a little space at the rim for bubbling."
     },
     {
       "id": "kit-062",
@@ -2120,7 +2294,9 @@
         "bone-broth",
         "turkey",
         "chicken"
-      ]
+      ],
+      "scenario": "The roast is carved but the bones still hold flavor.",
+      "overview": "Straining separates the finished broth from splinters and spent vegetables. Shallow containers speed cooling before storage."
     },
     {
       "id": "kit-063",
@@ -2156,7 +2332,9 @@
         "roux",
         "soup",
         "cajun"
-      ]
+      ],
+      "scenario": "You’re at the stove with the flour turning brown and the vegetables still need chopping.",
+      "overview": "Have the vegetables ready before starting the roux. Once the color deepens, the interval between toasted and scorched is short."
     },
     {
       "id": "kit-064",
@@ -2188,7 +2366,9 @@
         "soup",
         "seafood",
         "comfort-food"
-      ]
+      ],
+      "scenario": "A chowder needs body without splitting the dairy or toughening the clams.",
+      "overview": "The potatoes take the longest. Adding the delicate ingredients near the finish preserves both the broth and the bite of the clams."
     },
     {
       "id": "kit-065",
@@ -2218,7 +2398,9 @@
         "black-beans",
         "pantry",
         "quick-meal"
-      ]
+      ],
+      "scenario": "There’s no time to shop and dinner needs to come from cans.",
+      "overview": "Mashing part of the beans thickens the soup while leaving enough whole beans for texture."
     },
     {
       "id": "kit-066",
@@ -2250,7 +2432,9 @@
         "squash",
         "fall-cooking",
         "bisque"
-      ]
+      ],
+      "scenario": "A squash and a couple of apples need to stretch into a smooth soup.",
+      "overview": "Roasting builds sweetness. Hold back some stock during blending so you can choose between a thick bowl and a lighter first course."
     },
     {
       "id": "kit-067",
@@ -2280,7 +2464,9 @@
         "fresh-pasta",
         "italian",
         "from-scratch"
-      ]
+      ],
+      "scenario": "You want fresh noodles but the dough tears as it goes through the rollers.",
+      "overview": "Resting allows the flour to hydrate. A smooth sheet can then be thinned in stages and cut to the width your sauce needs."
     },
     {
       "id": "kit-068",
@@ -2311,7 +2497,9 @@
         "gnocchi",
         "potatoes",
         "italian"
-      ]
+      ],
+      "scenario": "Last time the gnocchi were heavy. This time you have flour ready but want to use less.",
+      "overview": "Dry potato flesh takes less flour to bind. Test one dumpling in the water before shaping the rest."
     },
     {
       "id": "kit-069",
@@ -2343,7 +2531,9 @@
         "chicken-and-dumplings",
         "comfort-food",
         "southern"
-      ]
+      ],
+      "scenario": "You want broad dumplings that hold together in chicken broth.",
+      "overview": "An evenly rolled sheet cooks at a consistent rate. Drop the strips with space between them so the broth can reach both sides."
     },
     {
       "id": "kit-070",
@@ -2370,7 +2560,9 @@
         "coffee",
         "cold-brew",
         "beverages"
-      ]
+      ],
+      "scenario": "The morning coffee needs to be ready before anyone turns on the stove.",
+      "overview": "Strain the steeped concentrate into a clean container. Dilute a sample over ice before deciding the strength of the whole pitcher."
     },
     {
       "id": "kit-071",
@@ -2399,7 +2591,9 @@
         "ginger-beer",
         "soda",
         "beverages"
-      ]
+      ],
+      "scenario": "You want homemade ginger soda and have bottles intended for carbonation.",
+      "overview": "A fermenting bottle can keep building pressure after it tastes right. Bottle selection and temperature management are essential parts of the method."
     },
     {
       "id": "kit-072",
@@ -2427,7 +2621,9 @@
         "beverages",
         "herbs",
         "pantry"
-      ]
+      ],
+      "scenario": "Cold tea needs sweetness that dissolves without a layer of sugar on the bottom.",
+      "overview": "Steeping herbs in a measured syrup gives a consistent flavor. Record the herb and sugar-to-water ratio on the refrigerated bottle."
     },
     {
       "id": "kit-073",
@@ -2455,7 +2651,9 @@
         "drying",
         "gardening",
         "pantry"
-      ]
+      ],
+      "scenario": "You have more garden herbs than one pot of soup can use.",
+      "overview": "Dry leaves should crumble before they go into storage. A cool sample reveals lingering moisture more readily than a warm one."
     },
     {
       "id": "kit-074",
@@ -2481,7 +2679,9 @@
         "toasting",
         "flavor",
         "pantry"
-      ]
+      ],
+      "scenario": "A curry needs a fresh spice aroma and the seeds are still whole.",
+      "overview": "Brief toasting releases aroma. Cool the seeds before grinding so steam stays out of the storage jar."
     },
     {
       "id": "kit-075",
@@ -2510,7 +2710,9 @@
         "citrus",
         "gifts",
         "pantry"
-      ]
+      ],
+      "scenario": "A lemon is about to be juiced and its fragrant zest would otherwise go to waste.",
+      "overview": "Finely distributed zest seasons more evenly. Allow the salt to dry fully before closing the container."
     },
     {
       "id": "kit-076",
@@ -2540,7 +2742,9 @@
         "power-outage",
         "safety",
         "cooking"
-      ]
+      ],
+      "scenario": "The stove is out after a storm and someone suggests bringing the grill into the garage.",
+      "overview": "Choose the cooking location before choosing the meal. A ready-to-eat option lets everyone eat when there is no safe outdoor setup."
     },
     {
       "id": "kit-077",
@@ -2557,10 +2761,9 @@
         "Frozen water bottles, perishable food"
       ],
       "steps": [
-        "Keep refrigerator and freezer doors closed: an unopened fridge holds safe temperatures (<40°F) for ~4 hours; a full freezer holds for ~48 hours (24 hours if half-full).",
-        "Cook and eat fresh meat, dairy, and leftovers first (Hours 0-4) before opening the deep freezer.",
-        "Move pre-frozen 1-gallon water jugs from the freezer into the fridge section at Hour 4 to extend cold storage without opening doors repeatedly.",
-        "Discard any perishable meat, poultry, eggs, or soft dairy that sat above 40°F for more than 2 hours."
+        "Keep the doors closed and mark the time power was lost. An unopened refrigerator generally protects perishables for four hours; a closed full freezer about 48 hours, a half-full one about 24.",
+        "Before the refrigerator window closes, transfer perishables to a cooler with ice if you can maintain 40°F or below. Eat shelf-stable foods while waiting.",
+        "When power returns, use the official chart for each food. Without reliable cold storage, discard refrigerated perishables after four hours without power. Frozen food still containing ice crystals or measuring 40°F or below can generally be cooked or refrozen."
       ],
       "safety": "When in doubt, throw it out—never taste questionable food to test if it is safe.",
       "tags": [
@@ -2568,34 +2771,50 @@
         "power-outage",
         "food-safety",
         "freezer"
+      ],
+      "scenario": "The lights went out before breakfast and the fridge is still closed.",
+      "overview": "The outage start time and the food temperature guide the keep-or-discard decision. Smell and taste cannot establish safety.",
+      "sources": [
+        [
+          "FoodSafety.gov · Power outage food chart",
+          "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
+        ]
       ]
     },
     {
       "id": "kit-078",
       "cat": "Kitchen & From-Scratch",
       "sub": "Grid-Down & Emergency Cooking",
-      "title": "Thermal Haybox / Insulated Pot Retention Cooking (Zero-Fuel Simmer)",
+      "title": "Keep fully cooked soup hot for a short trip",
       "diff": "Easy",
       "time": "2-4 hrs",
       "gear": [
-        "Lidded stockpot",
-        "Heavy wool blankets or insulated cooler"
+        "Food thermos rated for hot contents",
+        "Food thermometer"
       ],
       "supplies": [
-        "Dry beans, rice, stew, or oatmeal",
-        "Water & seasonings"
+        "Freshly cooked soup",
+        "Boiling water"
       ],
       "steps": [
-        "Bring rice, soaked beans, or stew to a full rolling boil on your camp stove for just 5-10 minutes so the entire pot reaches 212°F.",
-        "Lift the covered pot immediately (without removing the lid!) into an insulated cooler packed tightly with dry towels or wool blankets.",
-        "Close the cooler and let residual trapped heat finish cooking rice in 45 minutes or soaked beans/stews in 3-4 hours using 85% less fuel."
+        "Preheat a clean food thermos with boiling water as directed by its manufacturer. Cook the soup completely on the stove; reheat leftover soup to at least 165°F.",
+        "Empty the preheating water. Add the hot soup immediately, close securely and record the packing time.",
+        "Check the soup with a clean thermometer at service. Hot-held food should stay at 140°F or above. If it fell below that temperature for an unknown duration, discard it."
       ],
-      "safety": "Only use retention cooking for foods that stay above 140°F inside an insulated box—re-boil before serving.",
+      "safety": "Do not rely on insulation to cook dry beans, raw meat or other raw ingredients.",
       "tags": [
         "emergency",
         "fuel-saving",
         "off-grid",
         "cooking"
+      ],
+      "scenario": "A pot has come off the heat and you’re deciding whether insulation can finish dinner safely.",
+      "overview": "The thermos buys serving time for a meal that is already cooked. A temperature reading tells you how well this container performed on the actual trip.",
+      "sources": [
+        [
+          "FoodSafety.gov · Safe holding and cooling",
+          "https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety"
+        ]
       ]
     },
     {
@@ -2625,7 +2844,9 @@
         "camp-cooking",
         "bread",
         "emergency"
-      ]
+      ],
+      "scenario": "You want biscuits in camp and the only oven is a lidded iron pot.",
+      "overview": "Distributing heat above and below the pot helps brown the top before the bottom burns."
     },
     {
       "id": "kit-080",
@@ -2653,7 +2874,9 @@
         "indoor-gardening",
         "nutrition",
         "emergency"
-      ]
+      ],
+      "scenario": "A jar on the counter looks like an easy source of fresh greens.",
+      "overview": "Raw sprouts can carry germs even when grown carefully. Plan to cook sprouts thoroughly, especially for anyone at higher risk of foodborne illness."
     },
     {
       "id": "kit-081",
@@ -2680,7 +2903,9 @@
         "maintenance",
         "seasoning",
         "kitchen-gear"
-      ]
+      ],
+      "scenario": "Your iron skillet has a dull patch and food sticks in the same spot.",
+      "overview": "A thin, even coat builds a smoother cooking surface. Sticky patches usually mean excess oil remained on the pan."
     },
     {
       "id": "kit-082",
@@ -2707,7 +2932,9 @@
         "sharpening",
         "whetstone",
         "maintenance"
-      ]
+      ],
+      "scenario": "A favorite kitchen knife slides across a tomato skin.",
+      "overview": "Honing realigns an existing edge. Sharpening removes metal to create one, which is why the two jobs call for different tools."
     },
     {
       "id": "kit-083",
@@ -2732,7 +2959,9 @@
         "descaling",
         "apo",
         "cleaning"
-      ]
+      ],
+      "scenario": "The kettle has a chalky lining and the coffee maker takes longer to brew.",
+      "overview": "Mineral scale and coffee residue require different cleaning methods. Use the descaler and rinse cycle approved for the particular appliance."
     },
     {
       "id": "kit-084",
@@ -2763,7 +2992,9 @@
         "pastry",
         "baking",
         "dessert"
-      ]
+      ],
+      "scenario": "You can see pieces of butter in the pie dough and wonder whether to mix it longer.",
+      "overview": "Small pieces of cold fat create flakes. Resting the dough helps it roll without pulling back from the edge of the pan."
     },
     {
       "id": "kit-085",
@@ -2797,7 +3028,9 @@
         "chocolate-chip",
         "brown-butter",
         "baking"
-      ]
+      ],
+      "scenario": "You want the flavor of browned butter without a greasy, spreading cookie.",
+      "overview": "Cool the butter mixture enough to handle the dough consistently. Bake one test cookie before portioning a full sheet."
     },
     {
       "id": "kit-086",
@@ -2832,7 +3065,9 @@
         "custard",
         "vanilla",
         "dessert"
-      ]
+      ],
+      "scenario": "The ice cream maker is ready but the custard still feels warm.",
+      "overview": "Chilling the base before churning helps it freeze evenly and retain the air incorporated by the machine."
     },
     {
       "id": "kit-087",
@@ -2865,7 +3100,9 @@
         "chocolate",
         "custard",
         "apo"
-      ]
+      ],
+      "scenario": "Dessert needs to be ready ahead and served straight from small cups.",
+      "overview": "A gently set center firms further in the refrigerator. Stop the bake while the custard still moves slightly."
     },
     {
       "id": "kit-088",
@@ -2893,7 +3130,9 @@
         "flour",
         "wheat-berries",
         "bread"
-      ]
+      ],
+      "scenario": "You have wheat berries and need enough flour for a single loaf.",
+      "overview": "Mill what you need and weigh the output. Fresh whole-grain flour can take up water differently from the flour in the original recipe."
     },
     {
       "id": "kit-089",
@@ -2924,7 +3163,9 @@
         "grains",
         "stovetop",
         "basics"
-      ]
+      ],
+      "scenario": "Rice is wet on top but sticking on the bottom of the pan.",
+      "overview": "A fitted lid and a covered rest let moisture redistribute. Fluff once the steam has done its work."
     },
     {
       "id": "kit-090",
@@ -2953,7 +3194,9 @@
         "legumes",
         "pantry",
         "from-scratch"
-      ]
+      ],
+      "scenario": "You want beans tender enough for soup with skins that mostly hold together.",
+      "overview": "Check several beans from different parts of the pot before seasoning the finished dish. Older beans may soften unevenly."
     },
     {
       "id": "kit-091",
@@ -2981,7 +3224,9 @@
         "eggs",
         "breakfast",
         "technique"
-      ]
+      ],
+      "scenario": "The toast is ready and you want small, tender curds for the topping.",
+      "overview": "Gentle stirring limits curd size. Portion the eggs promptly because a hot skillet keeps cooking them after the burner is off."
     },
     {
       "id": "kit-092",
@@ -3009,7 +3254,9 @@
         "eggs",
         "fried-eggs",
         "breakfast"
-      ]
+      ],
+      "scenario": "One person wants a crisp white around their breakfast egg.",
+      "overview": "A shallow pool of oil carries heat to the edges. Keep the yolk intact as you slide the egg onto the plate."
     },
     {
       "id": "kit-093",
@@ -3042,7 +3289,9 @@
         "pancakes",
         "buttermilk",
         "breakfast"
-      ]
+      ],
+      "scenario": "The first pancake is dark on one side and raw in the middle.",
+      "overview": "Use the first cake to set the griddle temperature. Bubbles and a set rim help time the turn on the rest."
     },
     {
       "id": "kit-094",
@@ -3072,7 +3321,9 @@
         "hash-browns",
         "breakfast",
         "cast-iron"
-      ]
+      ],
+      "scenario": "Grated potatoes keep steaming into a cake instead of crisping.",
+      "overview": "Removing rinse water is as important as removing surface starch. A thin layer gives the potatoes room to brown."
     },
     {
       "id": "kit-095",
@@ -3101,7 +3352,9 @@
         "roasting",
         "sheet-pan",
         "sides"
-      ]
+      ],
+      "scenario": "A tray of broccoli came out soft and pale.",
+      "overview": "Dry surfaces and space between pieces let escaping steam leave the pan. Flat sides in contact with metal brown first."
     },
     {
       "id": "kit-096",
@@ -3131,7 +3384,9 @@
         "mashed-potatoes",
         "sous-vide",
         "sides"
-      ]
+      ],
+      "scenario": "You need mashed potatoes that hold gravy and still feel light.",
+      "overview": "Breaking the cooked potatoes down gently keeps excess starch out of the mash. Add warm liquid gradually to set the consistency."
     },
     {
       "id": "kit-097",
@@ -3160,7 +3415,9 @@
         "caramelized-onions",
         "technique",
         "pantry"
-      ]
+      ],
+      "scenario": "You need a rich onion topping and have a burner free while dinner cooks.",
+      "overview": "Slow evaporation lets the onions soften before they brown. A splash of water loosens browned deposits that would otherwise scorch."
     },
     {
       "id": "kit-098",
@@ -3190,7 +3447,9 @@
         "mahi-mahi",
         "snapper",
         "gulf-coast"
-      ]
+      ],
+      "scenario": "A fish fillet stuck last time and broke when you turned it.",
+      "overview": "Dry the surface and give it time to form a crust. A thin spatula helps lift the whole fillet for the turn."
     },
     {
       "id": "kit-099",
@@ -3222,7 +3481,9 @@
         "shrimp",
         "gulf-coast",
         "quick-meal"
-      ]
+      ],
+      "scenario": "A pot of shrimp needs to be ready together for a cold platter.",
+      "overview": "Sort by size where possible. Cooling promptly once cooked keeps the smaller shrimp from continuing to toughen."
     },
     {
       "id": "kit-100",
@@ -3249,7 +3510,9 @@
         "two-zone",
         "outdoor-cooking",
         "technique"
-      ]
+      ],
+      "scenario": "A flare-up starts under the food and the grill has nowhere cooler to move it.",
+      "overview": "A hot side and a cooler side give you control of browning and finishing in a single cook."
     },
     {
       "id": "kit-101",
@@ -3278,7 +3541,9 @@
         "cold-smoke",
         "cheese",
         "outdoor-cooking"
-      ]
+      ],
+      "scenario": "You want smoke flavor on cheese without melting the block.",
+      "overview": "Temperature control governs whether the cheese keeps its shape. Treat the finished cheese as refrigerated food."
     },
     {
       "id": "kit-102",
@@ -3310,7 +3575,9 @@
         "pulled-pork",
         "bbq",
         "outdoor-cooking"
-      ]
+      ],
+      "scenario": "The pork is browned outside but still resists pulling.",
+      "overview": "Browning and tenderness arrive at different times. Probe more than one place before deciding the shoulder is ready to rest."
     },
     {
       "id": "kit-103",
@@ -3336,7 +3603,9 @@
         "baking",
         "pantry",
         "reference"
-      ]
+      ],
+      "scenario": "A recipe is half mixed when you discover one ingredient is missing.",
+      "overview": "Identify what that ingredient does in this recipe. A substitute that supplies fat may still leave the batter short of liquid or leavening."
     },
     {
       "id": "kit-104",
@@ -3362,7 +3631,9 @@
         "temperatures",
         "thermometer",
         "reference"
-      ]
+      ],
+      "scenario": "Color alone leaves you guessing about the center of a roast or burger.",
+      "overview": "Identify the food category before choosing a temperature. Measure the thickest portion and include any required rest."
     },
     {
       "id": "kit-105",
@@ -3388,7 +3659,9 @@
         "troubleshooting",
         "sauces",
         "cooking-rescue"
-      ]
+      ],
+      "scenario": "Dinner is almost ready and the sauce separates, the soup tastes salty or the custard turns grainy.",
+      "overview": "Try the correction on a ladleful first. If the texture or seasoning improves, use the same proportion in the pan."
     },
     {
       "id": "kit-106",
@@ -3412,7 +3685,9 @@
         "cheese",
         "troubleshooting",
         "dairy"
-      ]
+      ],
+      "scenario": "The milk is hot, the acid is in, and the pot still looks like milk.",
+      "overview": "What the whey looks like helps distinguish incomplete separation from fine curds lost during draining."
     },
     {
       "id": "kit-107",
@@ -3435,7 +3710,9 @@
         "sourdough",
         "troubleshooting",
         "baking"
-      ]
+      ],
+      "scenario": "A sourdough loaf has one huge tunnel above a dense base.",
+      "overview": "Read a slice through the center alongside your fermentation and shaping notes. Change one variable on the next loaf."
     },
     {
       "id": "kit-108",
@@ -3456,7 +3733,9 @@
         "fermentation",
         "food-safety",
         "troubleshooting"
-      ]
+      ],
+      "scenario": "An unfamiliar film has developed on a ferment.",
+      "overview": "Appearance alone cannot confirm safety. Discard a moldy or doubtful batch without tasting and review the preparation before starting again."
     },
     {
       "id": "kit-109",
@@ -3483,7 +3762,9 @@
         "infusions",
         "pantry",
         "food-safety"
-      ]
+      ],
+      "scenario": "The garden herbs are ready and you want their flavor in a dressing.",
+      "overview": "Vinegar and oil have different storage requirements. Fresh garlic or herbs under oil need a tested handling method and strict temperature control."
     },
     {
       "id": "kit-110",
@@ -3509,7 +3790,9 @@
         "zero-waste",
         "cheese",
         "gardening"
-      ]
+      ],
+      "scenario": "A bowl of whey is left after draining cheese.",
+      "overview": "Identify whether it came from an acid-set or cultured batch before choosing how to use its acidity in bread or soup."
     },
     {
       "id": "kit-111",
@@ -3539,7 +3822,9 @@
         "apple-cider-vinegar",
         "zero-waste",
         "fermentation"
-      ]
+      ],
+      "scenario": "Apple peels are abundant after pie-making day.",
+      "overview": "Homemade vinegar has variable acidity. Reserve it for culinary uses that do not depend on a measured acid strength for preservation."
     },
     {
       "id": "kit-112",
@@ -3569,7 +3854,9 @@
         "rendering",
         "fats",
         "pantry"
-      ]
+      ],
+      "scenario": "A butcher’s bag of fat trimmings can supply several future cooks.",
+      "overview": "Slow rendering separates liquid fat from solids. Strain carefully so the stored fat contains as little residue as possible."
     },
     {
       "id": "kit-113",
@@ -3601,7 +3888,9 @@
         "cream-cheese",
         "dairy",
         "fermentation"
-      ]
+      ],
+      "scenario": "Bagels need a tangy spread and you have time for a cold drain.",
+      "overview": "The spread thickens as whey leaves. Check a chilled spoonful before deciding it needs more draining."
     },
     {
       "id": "kit-114",
@@ -3630,7 +3919,9 @@
         "probiotics",
         "dairy",
         "fermentation"
-      ]
+      ],
+      "scenario": "Milk kefir grains have arrived and you want to keep some for another batch.",
+      "overview": "Straining separates the drink from its reusable grains. Keep track of which jar contains the active culture."
     },
     {
       "id": "kit-115",
@@ -3658,7 +3949,9 @@
         "dairy",
         "apo",
         "scones"
-      ]
+      ],
+      "scenario": "A pot of tea and scones needs a topping with more body than whipped cream.",
+      "overview": "The slow heating and cooling allow a rich layer to collect. Lift that layer gently to keep its texture."
     },
     {
       "id": "kit-116",
@@ -3686,7 +3979,9 @@
         "dairy",
         "lemon",
         "no-bake"
-      ]
+      ],
+      "scenario": "There’s no gelatin in the cupboard but you have cream and lemons for dessert.",
+      "overview": "Acid sets the concentrated cream as it cools. Portion while pourable to preserve a smooth top."
     },
     {
       "id": "kit-117",
@@ -3715,7 +4010,9 @@
         "baking",
         "dairy",
         "frosting"
-      ]
+      ],
+      "scenario": "The cake must travel and plain whipped cream tends to slump.",
+      "overview": "Choose the stabilization method before whipping. Stop while the cream still spreads smoothly without looking grainy."
     },
     {
       "id": "kit-118",
@@ -3745,7 +4042,9 @@
         "caramel",
         "goat-milk",
         "dairy"
-      ]
+      ],
+      "scenario": "A bottle of goat’s milk needs a use and you’d like a caramel for ice cream.",
+      "overview": "As water cooks away, the sugars concentrate and the milk needs closer attention. Check the cooled consistency on a spoon."
     },
     {
       "id": "kit-119",
@@ -3775,7 +4074,9 @@
         "oat-milk",
         "beverages",
         "from-scratch"
-      ]
+      ],
+      "scenario": "Breakfast needs a dairy-free milk for cereal.",
+      "overview": "Fine straining controls the mouthfeel. Stir the chilled drink before pouring because the solids can settle."
     },
     {
       "id": "kit-120",
@@ -3809,7 +4110,9 @@
         "english-muffins",
         "griddle",
         "breakfast"
-      ]
+      ],
+      "scenario": "There’s no room in the oven but you want bread with a craggy surface for butter.",
+      "overview": "A griddle cooks the flat faces. Split a cooled muffin with a fork to expose the pockets."
     },
     {
       "id": "kit-121",
@@ -3845,7 +4148,9 @@
         "pretzels",
         "baking",
         "snacks"
-      ]
+      ],
+      "scenario": "You want a tray of snack bites and a few full-size pretzels.",
+      "overview": "Keep the two sizes on separate trays so the small pieces can come out first."
     },
     {
       "id": "kit-122",
@@ -3876,7 +4181,9 @@
         "pita",
         "flatbread",
         "baking"
-      ]
+      ],
+      "scenario": "A pita needs a pocket large enough to hold a filling.",
+      "overview": "Uniform thickness lets steam separate the layers. Keep the cooked rounds covered so the edges fold without cracking."
     },
     {
       "id": "kit-123",
@@ -3910,7 +4217,9 @@
         "naan",
         "flatbread",
         "cast-iron"
-      ]
+      ],
+      "scenario": "Dinner is on the stove and you want a flatbread to scoop the sauce.",
+      "overview": "A hot skillet sets the underside while the surface blisters. Stack the cooked breads under a towel until the table is ready."
     },
     {
       "id": "kit-124",
@@ -3943,7 +4252,9 @@
         "buttermilk",
         "quick-bread",
         "breakfast"
-      ]
+      ],
+      "scenario": "Breakfast is in a hurry and you want biscuits without clearing the counter.",
+      "overview": "Scoops of similar size bake evenly and leave craggy tops to catch butter."
     },
     {
       "id": "kit-125",
@@ -3975,7 +4286,9 @@
         "southern",
         "baking",
         "breakfast"
-      ]
+      ],
+      "scenario": "You want a biscuit that can be split cleanly for a sandwich.",
+      "overview": "Folding creates layers. A straight cut leaves their edges free to expand as the biscuits rise."
     },
     {
       "id": "kit-126",
@@ -4005,7 +4318,9 @@
         "masa-harina",
         "mexican",
         "gluten-free"
-      ]
+      ],
+      "scenario": "Taco fillings are ready but fresh masa dough cracks around the press.",
+      "overview": "The edge of a pressed round shows whether the dough needs a little more water before the whole batch is shaped."
     },
     {
       "id": "kit-127",
@@ -4033,7 +4348,9 @@
         "croutons",
         "breadcrumbs",
         "zero-waste"
-      ]
+      ],
+      "scenario": "Half a loaf has gone stale and soup is on the menu.",
+      "overview": "Cube some for topping soup and grind some for a coating. Cool the toasted bread fully before putting it away."
     },
     {
       "id": "kit-128",
@@ -4066,7 +4383,9 @@
         "cinnamon",
         "baking",
         "gifts"
-      ]
+      ],
+      "scenario": "You want a cinnamon loaf without waiting for yeast to rise.",
+      "overview": "A quick bread is ready for the oven as soon as it is mixed. A light swirl keeps the cinnamon ribbon distinct."
     },
     {
       "id": "kit-129",
@@ -4097,15 +4416,17 @@
         "dough",
         "baking",
         "fermentation"
-      ]
+      ],
+      "scenario": "Friday’s pizza dough can start while Thursday’s kitchen is already in use.",
+      "overview": "A covered cold rest develops flavor and gives the dough time to relax. Bring each portion to a workable temperature before stretching."
     },
     {
       "id": "kit-130",
       "cat": "Kitchen & From-Scratch",
       "sub": "Water-Bath & Pressure Canning",
-      "title": "Bread-and-Butter Pickles (Shelf-Stable Canned)",
+      "title": "Bread-and-butter cucumber pickles",
       "diff": "Easy",
-      "time": "1.5 hrs",
+      "time": "4–5 hours plus cooling",
       "gear": [
         "Water bath canner",
         "Jar lifter",
@@ -4113,31 +4434,43 @@
         "Bubble popper"
       ],
       "supplies": [
-        "4 lbs pickling cucumbers, sliced 1/4-inch",
-        "2 medium onions, thinly sliced",
-        "1/3 cup pickling salt",
-        "3 cups apple cider vinegar (5% acidity)",
-        "2 cups sugar",
-        "1 tbsp mustard seed + 1 tsp celery seed + 1 tsp turmeric"
+        "6 lb pickling cucumbers",
+        "8 cups sliced onions",
+        "½ cup pickling salt",
+        "4 cups 5% vinegar",
+        "4½ cups sugar",
+        "2 tbsp mustard seed",
+        "1½ tbsp celery seed",
+        "1 tbsp ground turmeric",
+        "Crushed ice"
       ],
       "steps": [
-        "Layer sliced cucumbers and onions with pickling salt and ice cubes for 2 hours, then drain and rinse thoroughly with cold water.",
-        "Bring vinegar, sugar, and spices to a boil, add drained cucumbers and onions, and return just to a simmer.",
-        "Pack hot into pint jars leaving 1/2-inch headspace, remove air bubbles, wipe rims, and process 10 minutes in a boiling-water bath."
+        "Remove a thin slice from each blossom end and cut cucumbers into 3/16-inch rounds. Mix with onions and salt. Cover with two inches of ice and refrigerate three to four hours, replenishing ice as needed. Drain.",
+        "Boil the vinegar, sugar and spices together for ten minutes. Add drained vegetables and bring them slowly back to a boil. Pack hot slices and syrup with ½ inch headspace.",
+        "Wipe rims, fit lids and process pints or quarts in a boiling-water canner. Start timing when the full boil returns. Choose by elevation (up to 1,000 ft: 10 minutes, 1,001–6,000 ft: 15 minutes, above 6,000 ft: 20 minutes).",
+        "Turn off heat, uncover the canner and wait five minutes. Lift jars upright and cool undisturbed for 12–24 hours before checking seals."
       ],
-      "safety": "Always use 5% acidity vinegar (check bottle label)—diluted 4% vinegar is unsafe for shelf-stable canning.",
+      "safety": "Use the specified ingredients, jar sizes and process. Refrigerate an unsealed jar promptly if found at the initial seal check.",
       "tags": [
         "canning",
         "pickles",
         "water-bath",
         "pantry"
+      ],
+      "scenario": "The family likes refrigerator pickles and now wants jars for the cupboard.",
+      "overview": "A shelf-stable pickle needs the tested vinegar strength, quantities and processing schedule for that specific pack.",
+      "sources": [
+        [
+          "NCHFP · Bread-and-Butter Pickles",
+          "https://nchfp.uga.edu/how/can/canning-pickles-and-fermented-foods/bread-and-butter-pickles"
+        ]
       ]
     },
     {
       "id": "kit-131",
       "cat": "Kitchen & From-Scratch",
       "sub": "Water-Bath & Pressure Canning",
-      "title": "Sweet & Spicy Cowboy Candy (Candied Jalapeños)",
+      "title": "Candied jalapeños for the pantry",
       "diff": "Easy",
       "time": "1 hr",
       "gear": [
@@ -4147,22 +4480,36 @@
         "Jar lifter"
       ],
       "supplies": [
-        "3 lbs fresh jalapeños, sliced into 1/4-inch rings",
-        "2 cups apple cider vinegar (5%)",
-        "4 cups white sugar",
-        "1/2 tsp turmeric + 1/2 tsp celery seed + 1 tsp garlic powder"
+        "4 lb jalapeños",
+        "3 cups 5% cider or white vinegar",
+        "4 cups sugar",
+        "2 tsp salt",
+        "6 sliced garlic cloves",
+        "2 tsp turmeric",
+        "½ tsp cayenne",
+        "2 tsp mustard seeds"
       ],
       "steps": [
-        "Wear gloves while slicing jalapeños into uniform 1/4-inch rings.",
-        "Bring vinegar, sugar, and spices to a boil, simmer 5 minutes, add jalapeño rings, and simmer 4 minutes.",
-        "Slotted-spoon peppers into half-pint jars, boil remaining syrup 5 minutes to thicken, pour over peppers with 1/4-inch headspace, and process 10 minutes in a boiling-water bath."
+        "Put on gloves and slice washed jalapeños into ¼-inch rings. Heat clean pint jars and prepare their lids.",
+        "Bring all the other ingredients to a boil, dissolving the sugar. Add the sliced peppers and simmer about 15 minutes until dark green and absorbing brine.",
+        "Distribute hot peppers and syrup into hot pints, leaving ½ inch headspace. Release air bubbles and correct the headspace.",
+        "Wipe rims, fit lids and process pints in a boiling-water canner. Start timing when the full boil returns. Choose by elevation (up to 1,000 ft: 15 minutes, 1,001–3,000 ft: 20 minutes, 3,001–6,000 ft: 25 minutes, 6,001–8,000 ft: 30 minutes, above 8,000 ft: 35 minutes).",
+        "Turn off heat, uncover the canner and wait five minutes. Lift jars upright and cool undisturbed for 12–24 hours before checking seals."
       ],
-      "safety": "Save leftover spiced jalapeño syrup in a jar—it makes an incredible glaze for grilled pork chops or chicken.",
+      "safety": "Use the specified ingredients, jar sizes and process. Refrigerate an unsealed jar promptly if found at the initial seal check.",
       "tags": [
         "canning",
         "jalapenos",
         "cowboy-candy",
         "water-bath"
+      ],
+      "scenario": "The jalapeño harvest would make a sweet-hot topping for sandwiches.",
+      "overview": "Keep rings evenly sliced to give a consistent bite. Use a tested preservation recipe for any batch destined for the shelf.",
+      "sources": [
+        [
+          "Candied Jalapeños Recipe | Ball® Mason Jars",
+          "https://www.ballmasonjars.com/blog?cid=candied-jalapenos"
+        ]
       ]
     },
     {
@@ -4195,13 +4542,21 @@
         "applesauce",
         "food-mill",
         "water-bath"
+      ],
+      "scenario": "A box of bruised but sound apples needs sorting before it softens.",
+      "overview": "Saucing accepts a mix of firm and soft varieties. A tested pack and jar size determine the canning process after milling.",
+      "sources": [
+        [
+          "NCHFP · Applesauce",
+          "https://nchfp.uga.edu/how/can/canning-fruits-and-fruit-products/applesauce/"
+        ]
       ]
     },
     {
       "id": "kit-133",
       "cat": "Kitchen & From-Scratch",
       "sub": "Water-Bath & Pressure Canning",
-      "title": "Canning Peaches or Pears in Light Honey Syrup",
+      "title": "Hot-pack yellow peaches in light syrup",
       "diff": "Easy",
       "time": "1.5 hrs",
       "gear": [
@@ -4211,21 +4566,34 @@
         "Canning funnel"
       ],
       "supplies": [
-        "6 lbs ripe freestone peaches or Bartlett pears",
-        "6 cups water + 1.5 cups honey (or 2 cups sugar)",
-        "1/4 cup lemon juice + 4 cups water (anti-browning bowl)"
+        "Ripe firm yellow-fleshed freestone peaches",
+        "Light syrup made with 5¾ cups water and 1½ cups sugar"
       ],
       "steps": [
-        "Blanch peaches 45 seconds in boiling water, chill in ice water, slip skins off, halve, and drop into lemon-water bowl to prevent browning.",
-        "Bring water and honey/sugar to a boil for light syrup.",
-        "Pack fruit halves cavity-side down into hot jars, cover with boiling syrup leaving 1/2-inch headspace, debubble, and process in a boiling-water bath (20 mins pints, 25 mins quarts)."
+        "Wash peaches, blanch briefly to loosen skins, cool, peel and halve. Remove pits. Keep cut fruit from browning while preparing the rest.",
+        "Dissolve sugar in water and heat the syrup. Add the drained peach halves and bring fruit and syrup to a boil.",
+        "Place hot peach halves cut-side down in hot pint jars and top with hot syrup. Leave ½ inch headspace and remove air bubbles.",
+        "Wipe rims, fit lids and process pints in a boiling-water canner. Start timing when the full boil returns. Choose by elevation (up to 1,000 ft: 20 minutes, 1,001–3,000 ft: 25 minutes, 3,001–6,000 ft: 30 minutes, above 6,000 ft: 35 minutes).",
+        "Turn off heat, uncover the canner and wait five minutes. Lift jars upright and cool undisturbed for 12–24 hours before checking seals."
       ],
-      "safety": "Check seals after 24 hours by pressing the center of each lid—a properly sealed lid stays concave and does not flex.",
+      "safety": "Use yellow-fleshed peaches for this process. White-fleshed peaches have different acidity. Check the separate fruit directions before canning pears.",
       "tags": [
         "canning",
         "peaches",
         "pears",
         "water-bath"
+      ],
+      "scenario": "You want canned fruit that will hold its shape for dessert.",
+      "overview": "Heating the fruit in its syrup makes this a hot pack. Keep that distinction with the jar size when choosing the processing time.",
+      "sources": [
+        [
+          "NCHFP · Peaches-Halved or Sliced",
+          "https://nchfp.uga.edu/how/can/canning-fruits-and-fruit-products/peaches-halved-or-sliced/"
+        ],
+        [
+          "NCHFP · Pears-Halved",
+          "https://nchfp.uga.edu/how/can/canning-fruits-and-fruit-products/pears-halved/"
+        ]
       ]
     },
     {
@@ -4246,16 +4614,25 @@
         "Fresh boiling water"
       ],
       "steps": [
+        "Set the processing pressure for your elevation before filling jars. With a weighted gauge use 10 psi through 1,000 feet or 15 psi above. With a dial gauge use 11 psi through 2,000 feet, 12 through 4,000, 13 through 6,000 and 14 through 8,000. Above the listed range consult Extension. Vent a continuous plume of steam for 10 minutes before pressurizing.",
         "Soak dried beans overnight in cold water, drain, rinse, and boil in fresh water for 30 minutes.",
         "Fill hot jars 3/4 full with hot beans and cooking liquid, leaving 1 full inch of headspace so beans can expand.",
-        "Pressure can at 10 PSI weighted (11 PSI dial) for 75 minutes (pints) or 90 minutes (quarts)."
+        "Pressure can at the pressure selected for your elevation for 75 minutes (pints) or 90 minutes (quarts)."
       ],
-      "safety": "Never dry-pack unsoaked dried beans directly into jars—they swell rapidly and can shatter glass jars inside the canner.",
+      "safety": "Never dry-pack unsoaked dried beans directly into jars—they swell rapidly and can shatter glass jars inside the canner. If pressure drops below the required value during processing, return to pressure and restart the full time.",
       "tags": [
         "canning",
         "pressure-canning",
         "beans",
         "emergency-pantry"
+      ],
+      "scenario": "You use beans in small amounts and want to open one meal’s worth.",
+      "overview": "Choose a jar size listed for the tested bean recipe. Hydration before packing matters to how the heat reaches the center.",
+      "sources": [
+        [
+          "NCHFP · Beans or Peas – Shelled, Dried, All Varieties",
+          "https://nchfp.uga.edu/how/can/canning-vegetables-and-vegetable-products/beans-or-peas-shelled-dried-all-varieties/"
+        ]
       ]
     },
     {
@@ -4277,16 +4654,25 @@
         "1/2 tsp canning salt per pint (optional)"
       ],
       "steps": [
+        "Set the processing pressure for your elevation before filling jars. With a weighted gauge use 10 psi through 1,000 feet or 15 psi above. With a dial gauge use 11 psi through 2,000 feet, 12 through 4,000, 13 through 6,000 and 14 through 8,000. Above the listed range consult Extension. Vent a continuous plume of steam for 10 minutes before pressurizing.",
         "Brown ground beef in a skillet until pinkness is gone, drain fat thoroughly, and rinse meat briefly in hot water to remove remaining grease.",
         "Pack hot drained beef loosely into hot jars, cover with boiling broth or water leaving 1-inch headspace, and debubble.",
-        "Pressure can at 10 PSI weighted (11 PSI dial) for 75 minutes (pints) or 90 minutes (quarts)."
+        "Pressure can at the pressure selected for your elevation for 75 minutes (pints) or 90 minutes (quarts)."
       ],
-      "safety": "Do not pack ground beef tightly or use high-fat 73/27 beef—excess fat interferes with lid seals.",
+      "safety": "Do not pack ground beef tightly or use high-fat 73/27 beef—excess fat interferes with lid seals. If pressure drops below the required value during processing, return to pressure and restart the full time.",
       "tags": [
         "canning",
         "pressure-canning",
         "ground-beef",
         "emergency-pantry"
+      ],
+      "scenario": "Weeknight tacos would be easier if the ground beef were already cooked.",
+      "overview": "Browning, draining and packing are part of the tested process. Keep thickeners and extra taco ingredients for serving day.",
+      "sources": [
+        [
+          "NCHFP · Meat, Ground or Chopped",
+          "https://nchfp.uga.edu/how/can/preparing-and-canning-poultry-red-meats-and-seafoods/meat-ground-or-chopped/"
+        ]
       ]
     },
     {
@@ -4310,6 +4696,14 @@
         "food-safety",
         "pantry",
         "storage"
+      ],
+      "scenario": "Yesterday’s jars are cool and one lid lifts when you check it.",
+      "overview": "Checking without the ring distinguishes a vacuum seal from a lid merely held in place. Record any failed jar separately.",
+      "sources": [
+        [
+          "NCHFP · Cooling Jars and Testing Jar Seals",
+          "https://nchfp.uga.edu/how/can/general-information/cooling-jars-and-testing-jar-seals/"
+        ]
       ]
     },
     {
@@ -4338,7 +4732,9 @@
         "milk",
         "yogurt",
         "emergency-pantry"
-      ]
+      ],
+      "scenario": "You want dried dairy for baking or small trail portions.",
+      "overview": "Check the thickest piece and note the original dairy on the packet. Fat content affects storage quality."
     },
     {
       "id": "kit-138",
@@ -4366,7 +4762,9 @@
         "fruit",
         "snacks",
         "preservation"
-      ]
+      ],
+      "scenario": "Your fruit trays contain both thin citrus and larger berries.",
+      "overview": "Prepare like-sized pieces together so the wettest center is easy to find during the final check."
     },
     {
       "id": "kit-139",
@@ -4393,7 +4791,9 @@
         "freeze-drying",
         "meat",
         "emergency-pantry"
-      ]
+      ],
+      "scenario": "Raw meat is going through the dryer alongside a future plan for camp meals.",
+      "overview": "Separate raw-meat handling from ready-to-eat food. Mark each packet as raw so the person rehydrating it cooks it thoroughly."
     },
     {
       "id": "kit-140",
@@ -4421,7 +4821,9 @@
         "tomatoes",
         "pantry",
         "zero-waste"
-      ]
+      ],
+      "scenario": "Tomatoes are ripening faster than the sauce pot can handle.",
+      "overview": "A dry sheet can stay as leather or be ground into powder. A small measured portion makes later reconstitution easier."
     },
     {
       "id": "kit-141",
@@ -4452,7 +4854,9 @@
         "teriyaki",
         "condiments",
         "pantry"
-      ]
+      ],
+      "scenario": "Stir-fry vegetables are ready and you want a glossy coating.",
+      "overview": "The glaze thickens further as it cools. Add it toward the finish so the sugar does not catch on the pan."
     },
     {
       "id": "kit-142",
@@ -4479,7 +4883,9 @@
         "condiments",
         "grilling",
         "pantry"
-      ]
+      ],
+      "scenario": "Two people want different barbecue sauces for the same roast.",
+      "overview": "A mustard base and a tomato base carry sweetness and acidity differently. Taste each with a bite of the meat it will season."
     },
     {
       "id": "kit-143",
@@ -4510,7 +4916,9 @@
         "mexican",
         "sauce",
         "pantry"
-      ]
+      ],
+      "scenario": "You need sauce for a pan of enchiladas and want to set the chile heat yourself.",
+      "overview": "Blooming the spices gives depth before the liquid goes in. Thin the sauce enough to coat the tortillas without tearing them."
     },
     {
       "id": "kit-144",
@@ -4538,7 +4946,9 @@
         "salad-dressing",
         "caesar",
         "condiments"
-      ]
+      ],
+      "scenario": "A Caesar salad needs a creamy dressing the whole table can share.",
+      "overview": "Choose the egg-free or pasteurized base before blending. Taste the seasoned dressing on a leaf to judge its strength."
     },
     {
       "id": "kit-145",
@@ -4565,7 +4975,9 @@
         "salad-dressing",
         "ratio",
         "basics"
-      ]
+      ],
+      "scenario": "A small salad does not need a full bottle of dressing.",
+      "overview": "A ratio scales down to a spoonful. Taste it with the greens because salt and acidity seem stronger on their own."
     },
     {
       "id": "kit-146",
@@ -4598,7 +5010,9 @@
         "dutch-oven",
         "braising",
         "comfort-food"
-      ]
+      ],
+      "scenario": "Root vegetables are ready at different times from the stew meat.",
+      "overview": "A gentle braise tenderizes beef. Adjust the vegetable size and timing so the pieces survive until serving."
     },
     {
       "id": "kit-147",
@@ -4629,7 +5043,9 @@
         "turkey",
         "white-beans",
         "dinner"
-      ]
+      ],
+      "scenario": "One pot of chili needs to suit both mild and hot palates.",
+      "overview": "Build a mild base and add hotter toppings by the bowl so everyone shares the same dinner."
     },
     {
       "id": "kit-148",
@@ -4659,7 +5075,9 @@
         "cast-iron",
         "pan-gravy",
         "dinner"
-      ]
+      ],
+      "scenario": "You want crisp chicken and enough pan drippings for gravy.",
+      "overview": "Remove the cooked thighs before making gravy. Keeping the skin above the sauce preserves the crust."
     },
     {
       "id": "kit-149",
@@ -4689,7 +5107,9 @@
         "reverse-sear",
         "cast-iron",
         "dinner"
-      ]
+      ],
+      "scenario": "Thick pork chops brown before their centers are ready.",
+      "overview": "A gentle first stage evens the interior. A short, hot finish adds color with less chance of overshooting doneness."
     },
     {
       "id": "kit-150",
@@ -4721,7 +5141,9 @@
         "chocolate",
         "baking",
         "dessert"
-      ]
+      ],
+      "scenario": "You need a simple pan dessert and want fudgy centers.",
+      "overview": "Check the center separately from the edge. Cooling the pan before cutting gives the squares time to set."
     },
     {
       "id": "kit-151",
@@ -4750,7 +5172,9 @@
         "peaches",
         "berries",
         "dessert"
-      ]
+      ],
+      "scenario": "Ripe fruit is juicy enough to soak a pastry base.",
+      "overview": "Cobbler puts the crust on top. Leave space above the filling for bubbling as the fruit gives off juice."
     },
     {
       "id": "kit-152",
@@ -4784,7 +5208,9 @@
         "custard",
         "baking",
         "dessert"
-      ]
+      ],
+      "scenario": "A tart shell is ready and needs a cream filling that will slice.",
+      "overview": "Thickening on the stove gives the filling structure. Chill it promptly with the surface covered to keep a skin from forming."
     },
     {
       "id": "kit-153",
@@ -4809,7 +5235,9 @@
         "measurements",
         "scale",
         "reference"
-      ]
+      ],
+      "scenario": "One recipe lists ounces and another uses fluid ounces.",
+      "overview": "Weight and volume answer different questions. Identify which the recipe means before reaching for a scale or jug."
     },
     {
       "id": "kit-154",
@@ -4835,7 +5263,9 @@
         "storage",
         "shelf-life",
         "reference"
-      ]
+      ],
+      "scenario": "New groceries are pushing older packages out of sight.",
+      "overview": "A date and a place for opened goods make rotation easier. Check the product’s own storage instructions each time its packaging changes."
     },
     {
       "id": "kit-155",
@@ -4869,7 +5299,9 @@
         "curtido",
         "cabbage",
         "probiotics"
-      ]
+      ],
+      "scenario": "You want something sharp and crunchy beside a plate of pupusas.",
+      "overview": "A mix of cabbage and carrot gives contrasting textures. Keep the vegetables evenly distributed when packing the jar."
     },
     {
       "id": "kit-156",
@@ -4898,35 +5330,40 @@
         "green-beans",
         "dilly-beans",
         "brine"
-      ]
+      ],
+      "scenario": "Green beans are ready together and you want a crunchy refrigerated side.",
+      "overview": "Slender beans pack more evenly. Label a fermented batch clearly so it is handled according to its own recipe."
     },
     {
       "id": "kit-157",
       "cat": "Kitchen & From-Scratch",
       "sub": "Fermentation & Cultured Foods",
-      "title": "Fermented Honey-Ginger Lemon Throat & Tea Tonic",
+      "title": "Fresh honey, ginger and lemon tea",
       "diff": "Easy",
-      "time": "1-2 weeks",
+      "time": "10 minutes",
       "gear": [
-        "Pint mason jar"
+        "Saucepan",
+        "Strainer",
+        "Mug"
       ],
       "supplies": [
-        "1 organic lemon, thinly sliced and seeded",
-        "2-inch piece fresh ginger, thinly sliced",
-        "1 cup raw unpasteurized honey"
+        "Fresh ginger",
+        "Lemon",
+        "Water",
+        "Honey"
       ],
       "steps": [
-        "Layer lemon slices and ginger slices in a clean pint jar and pour raw honey over to submerge completely.",
-        "Cap and invert the jar once daily for a week as fruit juices thin the honey into a fragrant syrup, then store refrigerated."
+        "Wash the lemon and ginger. Cut two thin ginger slices per cup and simmer them in drinking water for five minutes.",
+        "Strain into a mug, add a squeeze of lemon and sweeten to taste with honey. Allow it to cool to a comfortable temperature."
       ],
-      "safety": "Stir 1-2 tbsp into warm water or tea; never give raw honey to infants under 12 months.",
+      "safety": "Never give honey to infants under one year.",
       "tags": [
-        "fermentation",
-        "honey",
+        "tea",
         "ginger",
-        "lemon",
-        "remedy"
-      ]
+        "honey"
+      ],
+      "scenario": "You want a honey, ginger and lemon drink on a chilly evening.",
+      "overview": "A small freshly prepared mixture gives warmth and sweetness. Honey is unsuitable for infants under one year."
     },
     {
       "id": "kit-158",
@@ -4956,7 +5393,9 @@
         "rice",
         "koji",
         "beverages"
-      ]
+      ],
+      "scenario": "You have a rice starter and want to understand how a fermented rice drink develops.",
+      "overview": "The starter influences both starch conversion and fermentation. Label the finished beverage as alcoholic."
     },
     {
       "id": "kit-159",
@@ -4987,15 +5426,17 @@
         "tepache",
         "pineapple",
         "zero-waste"
-      ]
+      ],
+      "scenario": "There’s fragrant rind left from cutting a pineapple.",
+      "overview": "A spiced rind ferment can continue producing gas after straining. Treat carbonation as a separate handling step."
     },
     {
       "id": "kit-160",
       "cat": "Kitchen & From-Scratch",
       "sub": "Water-Bath & Pressure Canning",
-      "title": "Classic Dill Pickles (Water-Bath Canned with Crispness Tips)",
+      "title": "Dill pickles with an overnight brine",
       "diff": "Easy",
-      "time": "1.5 hrs",
+      "time": "Overnight plus processing",
       "gear": [
         "Water bath canner",
         "Jar lifter",
@@ -5003,62 +5444,86 @@
         "Bubble popper"
       ],
       "supplies": [
-        "4 lbs unwaxed pickling cucumbers (blossom ends trimmed 1/8-inch)",
-        "3 cups white distilled vinegar (5%)",
-        "3 cups water",
-        "3 tbsp pickling salt",
-        "Per quart jar: 2 cloves garlic, 2 heads fresh dill, 1 tsp mustard seed, 1/4 tsp calcium chloride (Pickle Crisp)"
+        "8 lb pickling cucumbers, 3–5 inches long",
+        "1¼ cups pickling salt, divided",
+        "2 gallons water for soaking",
+        "1½ quarts 5% vinegar",
+        "2 quarts water for pickling",
+        "¼ cup sugar",
+        "2 tbsp mixed pickling spice",
+        "Mustard seed and fresh dill"
       ],
       "steps": [
-        "Pack trimmed cucumbers and spices tightly into hot quart jars.",
-        "Bring vinegar, water, and salt to a rolling boil; pour over cucumbers leaving 1/2-inch headspace.",
-        "Debubble, wipe rims, apply two-piece lids, and process in a boiling-water bath (10 mins pints, 15 mins quarts)."
+        "Wash cucumbers, remove 1/16 inch from each blossom end and retain a short stem. Cover with two gallons water containing ¾ cup salt. Stand 12 hours and drain.",
+        "Tie the mixed spice into a clean spice bag. Boil it with vinegar, two quarts water, sugar and the remaining ½ cup salt.",
+        "Fill pint jars with cucumbers. Add one teaspoon mustard seed and 1½ fresh dill heads to each pint. Cover with boiling pickling liquid, leaving ½ inch headspace.",
+        "Wipe rims, fit lids and process pints in a boiling-water canner. Start timing when the full boil returns. Choose by elevation (up to 1,000 ft: 10 minutes, 1,001–6,000 ft: 15 minutes, above 6,000 ft: 20 minutes).",
+        "Turn off heat, uncover the canner and wait five minutes. Lift jars upright and cool undisturbed for 12–24 hours before checking seals."
       ],
-      "safety": "Adding food-grade calcium chloride (Pickle Crisp) keeps heat-processed pickles crunchy without alum.",
+      "safety": "Use the specified ingredients, jar sizes and process. Refrigerate an unsealed jar promptly if found at the initial seal check.",
       "tags": [
         "canning",
         "pickles",
         "dill-pickles",
         "water-bath"
+      ],
+      "scenario": "You want a pantry pickle that still has some crunch.",
+      "overview": "Fresh, firm cucumbers matter before the brine is mixed. Keep the tested vinegar proportion and processing schedule intact.",
+      "sources": [
+        [
+          "NCHFP · Quick Fresh-Pack Dill Pickles",
+          "https://nchfp.uga.edu/how/can/canning-pickled-products/quick-fresh-pack-dill-pickles/"
+        ]
       ]
     },
     {
       "id": "kit-161",
       "cat": "Kitchen & From-Scratch",
-      "sub": "Water-Bath & Pressure Canning",
-      "title": "Homemade Marinara / Spaghetti Sauce (Safely Acidified)",
+      "sub": "Freezer Meals",
+      "title": "Make a tomato sauce base for the freezer",
       "diff": "Medium",
-      "time": "2.5 hrs",
+      "time": "About 1 hour plus chilling",
       "gear": [
-        "Large stockpot",
-        "Food mill or immersion blender",
-        "Water bath canner",
-        "Jar lifter"
+        "Stockpot",
+        "Food mill",
+        "Freezer containers"
       ],
       "supplies": [
-        "10 lbs ripe Roma tomatoes, cored and quartered",
-        "1 cup finely diced onion + 4 cloves minced garlic + 2 tbsp olive oil",
-        "1 tbsp dried oregano + 1 tbsp dried basil + 1 tsp black pepper + 1 tbsp canning salt",
-        "Bottled lemon juice (2 tbsp per quart / 1 tbsp per pint)"
+        "Ripe tomatoes",
+        "Onion",
+        "Garlic",
+        "Oil",
+        "Dried herbs"
       ],
       "steps": [
-        "Simmer tomatoes until soft, run through a food mill to remove skins and seeds, and simmer puree until reduced by one-third.",
-        "Sauté onion and garlic in olive oil, add to tomato puree with dried herbs and salt, and simmer 20 minutes.",
-        "Add bottled lemon juice directly to each hot jar, ladle in hot sauce leaving 1/2-inch headspace, and process in a boiling-water bath (35 mins pints, 40 mins quarts)."
+        "Cook sound washed tomatoes until soft and pass them through a food mill. Simmer the purée until it coats a spoon.",
+        "Soften chopped onion and garlic in a small amount of oil. Stir them into the sauce with dried herbs to taste and simmer until the onion is tender.",
+        "Divide into shallow containers and refrigerate promptly. When chilled, label and freeze meal-sized portions with expansion space; reheat leftovers to 165°F."
       ],
-      "safety": "Never add fresh celery, mushrooms, or meat to a water-bath tomato sauce—low-acid vegetables and meats require pressure canning.",
+      "safety": "An onion-and-garlic sauce cannot be made shelf-stable by adding an arbitrary splash of lemon juice. Use the linked tested pressure-canning recipe for that separate preparation.",
       "tags": [
-        "canning",
         "marinara",
-        "tomatoes",
-        "water-bath"
+        "tomato sauce",
+        "freezing"
+      ],
+      "scenario": "You want a tomato base today and a richer finished pasta sauce later.",
+      "overview": "A freezer sauce leaves the seasonings up to the cook. The linked pressure-canning recipe has its own ingredients and process if pantry storage is the goal.",
+      "sources": [
+        [
+          "NCHFP · Spaghetti sauce without meat",
+          "https://nchfp.uga.edu/how/can/how-do-i-can-tomatoes/spaghetti-sauce-without-meat/"
+        ],
+        [
+          "FoodSafety.gov · Four steps to food safety",
+          "https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety"
+        ]
       ]
     },
     {
       "id": "kit-162",
       "cat": "Kitchen & From-Scratch",
       "sub": "Water-Bath & Pressure Canning",
-      "title": "Canning Cranberry-Orange Relish or Whole Berry Sauce",
+      "title": "Whole-berry cranberry sauce",
       "diff": "Easy",
       "time": "45 mins",
       "gear": [
@@ -5068,22 +5533,30 @@
         "Jar lifter"
       ],
       "supplies": [
-        "4 cups (12 oz) fresh cranberries",
-        "1.5 cups white sugar",
-        "1 cup water + juice and zest of 1 navel orange",
-        "1 cinnamon stick"
+        "4 cups fresh cranberries",
+        "1 cup water",
+        "2 cups sugar"
       ],
       "steps": [
-        "Simmer water, sugar, orange juice, zest, and cinnamon stick 5 minutes until sugar dissolves.",
-        "Add cranberries and boil gently 10 minutes until skins pop and sauce thickens.",
-        "Remove cinnamon stick, ladle into hot half-pint jars with 1/4-inch headspace, and process 15 minutes in a boiling-water bath."
+        "Wash and sort the berries. Cook them in the water until soft. For a smooth sauce pass the softened fruit through a fine sieve.",
+        "Add sugar to the fruit and bring back to a boil, stirring until dissolved. Boil three minutes. Fill hot jars immediately, leaving ½ inch headspace.",
+        "Wipe rims, fit lids and process half-pints or pints in a boiling-water canner. Start timing when the full boil returns. Choose by elevation (up to 1,000 ft: 15 minutes, 1,001–3,000 ft: 20 minutes, 3,001–6,000 ft: 20 minutes, above 6,000 ft: 25 minutes).",
+        "Turn off heat, uncover the canner and wait five minutes. Lift jars upright and cool undisturbed for 12–24 hours before checking seals."
       ],
-      "safety": "Cranberries are naturally high in both acid and pectin, making them foolproof for beginner water-bath canning.",
+      "safety": "Use the specified ingredients, jar sizes and process. Refrigerate an unsealed jar promptly if found at the initial seal check.",
       "tags": [
         "canning",
         "cranberries",
         "holiday",
         "water-bath"
+      ],
+      "scenario": "Holiday cranberries are plentiful enough for more than one meal.",
+      "overview": "Keep the berries whole or sieve them after softening. Add orange zest or other family flavors at the table.",
+      "sources": [
+        [
+          "NCHFP · Cranberry Sauce",
+          "https://nchfp.uga.edu/how/can/canning-fruits-and-fruit-products/cranberry-sauce/"
+        ]
       ]
     },
     {
@@ -5105,15 +5578,26 @@
         "Salt & black pepper"
       ],
       "steps": [
-        "Simmer all soup ingredients together in broth for 10 minutes (USDA hot-pack soup rule: fill jars halfway with solids and halfway with hot liquid).",
-        "Leave 1-inch headspace, debubble, wipe rims, and pressure can at 10 PSI weighted (11 PSI dial) for 60 minutes (pints) or 75 minutes (quarts) — 100 minutes if seafood is included."
+        "Set the processing pressure for your elevation before filling jars. With a weighted gauge use 10 psi through 1,000 feet or 15 psi above. With a dial gauge use 11 psi through 2,000 feet, 12 through 4,000, 13 through 6,000 and 14 through 8,000. Above the listed range consult Extension. Vent a continuous plume of steam for 10 minutes before pressurizing.",
+        "Choose only ingredients for which a separate USDA canning recommendation exists. Prepare each according to its own hot-pack directions. Cook meats until tender and remove bones. Fully rehydrate dried beans before use.",
+        "Add broth, water or tomatoes to cover the prepared ingredients and boil five minutes. Keep flour, cream, pasta, rice and other thickeners out.",
+        "Fill jars only halfway with solids. Add hot liquid to leave one inch headspace, remove bubbles, clean rims and fit lids.",
+        "Pressure-can pints for 60 minutes and quarts for 75. If the soup includes seafood, process 100 minutes. Use the source table for gauge type and altitude and cool naturally."
       ],
-      "safety": "Never thicken canned soups with flour, cornstarch, cream, rice, or pasta before canning—add thickeners or noodles when reheating.",
+      "safety": "Never thicken canned soups with flour, cornstarch, cream, rice, or pasta before canning—add thickeners or noodles when reheating. If pressure drops below the required value during processing, return to pressure and restart the full time.",
       "tags": [
         "canning",
         "pressure-canning",
         "soup",
         "emergency-pantry"
+      ],
+      "scenario": "You want jars that can become several kinds of soup on a busy night.",
+      "overview": "A tested soup base leaves room to add noodles, cream or thickening after opening.",
+      "sources": [
+        [
+          "NCHFP · Soups",
+          "https://nchfp.uga.edu/how/can/canning-vegetables-and-vegetable-products/soups/"
+        ]
       ]
     },
     {
@@ -5135,16 +5619,25 @@
         "1/2 tsp canning salt per pint (optional)"
       ],
       "steps": [
+        "Set the processing pressure for your elevation before filling jars. With a weighted gauge use 10 psi through 1,000 feet or 15 psi above. With a dial gauge use 11 psi through 2,000 feet, 12 through 4,000, 13 through 6,000 and 14 through 8,000. Above the listed range consult Extension. Vent a continuous plume of steam for 10 minutes before pressurizing.",
         "Blanch ears 3 minutes in boiling water, cool, and slice kernels off the cob at 3/4 kernel depth (do not scrape cob).",
         "Simmer kernels with boiling water 3 minutes, pack loosely into hot pint jars with cooking liquid leaving 1-inch headspace.",
-        "Pressure can at 10 PSI weighted (11 PSI dial) for 55 minutes (pints) or 85 minutes (quarts)."
+        "Pressure can at the pressure selected for your elevation for 55 minutes (pints) or 85 minutes (quarts)."
       ],
-      "safety": "Corn is a dense low-acid vegetable—always pressure can and leave a full 1-inch headspace for heat circulation.",
+      "safety": "Corn is a dense low-acid vegetable—always pressure can and leave a full 1-inch headspace for heat circulation. If pressure drops below the required value during processing, return to pressure and restart the full time.",
       "tags": [
         "canning",
         "pressure-canning",
         "corn",
         "vegetables"
+      ],
+      "scenario": "Fresh corn has a short harvest window and a dense pack in the jar.",
+      "overview": "The kernel cut and pack style are part of the validated process. Record the recipe along with the batch date.",
+      "sources": [
+        [
+          "NCHFP · Corn – Whole Kernel",
+          "https://nchfp.uga.edu/how/can/canning-vegetables-and-vegetable-products/corn-whole-kernel/"
+        ]
       ]
     },
     {
@@ -5178,7 +5671,9 @@
         "cinnamon-rolls",
         "baking",
         "breakfast"
-      ]
+      ],
+      "scenario": "You want cinnamon rolls in the morning without starting from scratch at dawn.",
+      "overview": "A cold overnight stage shifts work to the evening. Judge the final rise by the dough’s appearance before baking."
     },
     {
       "id": "kit-166",
@@ -5210,7 +5705,9 @@
         "pan-pizza",
         "baking",
         "dinner"
-      ]
+      ],
+      "scenario": "Everyone wants a corner piece of pan pizza.",
+      "overview": "Cheese against the pan edge makes the browned border. Let the crust release before lifting it out to cut."
     },
     {
       "id": "kit-167",
@@ -5241,7 +5738,9 @@
         "breakfast",
         "brioche",
         "make-ahead"
-      ]
+      ],
+      "scenario": "The brioche is a day old and you want breakfast ready for guests.",
+      "overview": "An even soak gives the center time to absorb custard. Check the middle of the dish before removing it from the oven."
     },
     {
       "id": "kit-168",
@@ -5269,7 +5768,9 @@
         "soda-bread",
         "no-yeast",
         "quick-bread"
-      ]
+      ],
+      "scenario": "You need bread for soup and there’s no yeast in the cupboard.",
+      "overview": "Acid and soda start working on contact. Have the oven ready before the dough is mixed."
     },
     {
       "id": "kit-169",
@@ -5301,36 +5802,44 @@
         "graham-crackers",
         "whole-wheat",
         "baking"
-      ]
+      ],
+      "scenario": "A cheesecake base needs crumbs and you have whole-wheat flour and honey.",
+      "overview": "Even rolling and docking make uniformly crisp crackers that crush without chewy pieces."
     },
     {
       "id": "kit-170",
       "cat": "Kitchen & From-Scratch",
       "sub": "Sous Vide & APO Precision Cooking",
-      "title": "APO Crispy-Skin Salmon Fillets (122°F Tender Center)",
+      "title": "Oven salmon with crisp skillet skin",
       "diff": "Easy",
-      "time": "25 mins",
+      "time": "About 20 minutes",
       "gear": [
-        "Anova Precision Oven (APO)",
-        "Cast-iron or stainless skillet",
-        "Fish spatula"
+        "Oven-safe skillet",
+        "Food thermometer"
       ],
       "supplies": [
-        "4 skin-on salmon fillets (6 oz each)",
-        "Kosher salt & black pepper",
-        "1 tbsp avocado oil"
+        "Skin-on salmon",
+        "Oil",
+        "Salt"
       ],
       "steps": [
-        "Season salmon fillets with salt and place skin-side down on a parchment-lined pan.",
-        "Cook in APO Sous Vide Mode at 122°F, 100% steam for 18-22 minutes (zero albumin white protein squeeze-out).",
-        "Pat skin bone-dry and sear skin-side down in a hot oiled skillet for 60-90 seconds until glass-crisp."
+        "Heat the oven to 400°F. Pat a skin-on salmon fillet dry, season it and heat a little oil in an oven-safe skillet.",
+        "Set the fillet skin-side down and cook until the skin browns and releases readily. Transfer the pan to the oven, keeping the skin against the pan.",
+        "Check the thickest portion with a clean thermometer. Remove the fish when it reaches 145°F and serve skin-side up."
       ],
-      "safety": "122°F yields silky, restaurant-style medium salmon; increase to 130°F if firmer flaky texture is preferred.",
+      "safety": "Use an oven mitt for the skillet handle even after it returns to the stovetop.",
       "tags": [
-        "apo",
-        "sous-vide",
         "salmon",
-        "seafood"
+        "fish",
+        "crisp skin"
+      ],
+      "scenario": "A salmon fillet has a thick end and a thin tail but both need to reach the table together.",
+      "overview": "Use the thickest section for the temperature check. A dry surface gives the skin the best chance to crisp.",
+      "sources": [
+        [
+          "FoodSafety.gov · Minimum cooking temperatures",
+          "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+        ]
       ]
     },
     {
@@ -5360,7 +5869,9 @@
         "sous-vide",
         "pork-belly",
         "immersion-circulator"
-      ]
+      ],
+      "scenario": "Pork belly for a later meal needs tender layers and a crisp face.",
+      "overview": "The long cook softens the layers. Cooling before portioning makes clean squares that brown more evenly."
     },
     {
       "id": "kit-172",
@@ -5385,32 +5896,41 @@
         "reheating",
         "steam",
         "kitchen-hack"
-      ]
+      ],
+      "scenario": "Yesterday’s rice or casserole dries out before the middle gets hot.",
+      "overview": "Steam preserves moisture while reheating. Check the center of each portion before serving."
     },
     {
       "id": "kit-173",
       "cat": "Kitchen & From-Scratch",
       "sub": "Sous Vide & APO Precision Cooking",
-      "title": "Sous Vide Pasteurized Eggs in Shell (for Safe Raw-Egg Sauces & Cookie Dough)",
+      "title": "Choose pasteurized eggs for uncooked sauces",
       "diff": "Easy",
-      "time": "1 hr 15 mins",
+      "time": "5 minutes",
       "gear": [
-        "Immersion circulator or APO"
+        "Measuring spoon"
       ],
       "supplies": [
-        "Whole raw shell eggs"
+        "Pasteurized eggs or suitable pasteurized egg product"
       ],
       "steps": [
-        "Place cold whole eggs in a 135°F water bath (or APO set to 135°F, 100% steam, Sous Vide Mode ON) for exactly 75 minutes.",
-        "Transfer immediately to an ice bath for 10 minutes, mark shells with a 'P', and refrigerate."
+        "For mayonnaise, Caesar dressing or another raw-egg dish, choose eggs or an egg product explicitly labeled pasteurized. Check suitability and equivalents on the package.",
+        "Keep the product refrigerated, use clean equipment and measure the quantity the recipe calls for.",
+        "After mixing, refrigerate the finished sauce promptly and follow the product’s handling guidance."
       ],
-      "safety": "135°F for 75 minutes pasteurizes yolks and whites without cooking them, making Caesar dressing, tiramisu, and mayo safe for everyone.",
+      "safety": "Raw flour is a separate hazard in uncooked dough. Changing the eggs does not make ordinary raw dough safe.",
       "tags": [
-        "sous-vide",
-        "apo",
-        "eggs",
-        "food-safety",
-        "pasteurization"
+        "egg",
+        "pasteurized",
+        "mayonnaise"
+      ],
+      "scenario": "You want an uncooked egg sauce and need a reliable way to choose the eggs.",
+      "overview": "Commercially pasteurized shell eggs or pasteurized egg products provide a dependable starting point for uncooked dishes.",
+      "sources": [
+        [
+          "FDA · Foodborne illness risk",
+          "https://www.fda.gov/food/consumers/people-risk-foodborne-illness"
+        ]
       ]
     },
     {
@@ -5442,18 +5962,21 @@
         "condiments",
         "tomatoes",
         "pantry"
-      ]
+      ],
+      "scenario": "The burgers need ketchup and you’d like a less sweet version.",
+      "overview": "Reducing the tomatoes changes sweetness and body together. Taste a cooled spoonful before the final seasoning."
     },
     {
       "id": "kit-175",
       "cat": "Kitchen & From-Scratch",
       "sub": "Sauces, Condiments & Pantry Staples",
-      "title": "Sweet Pickle Relish (Quick Fridge or Canned)",
+      "title": "Sweet pickle relish for the refrigerator",
       "diff": "Easy",
       "time": "35 mins",
       "gear": [
         "Saucepan",
-        "Pint mason jars"
+        "Knife and cutting board",
+        "Clean shallow refrigerator containers"
       ],
       "supplies": [
         "2 cups finely diced pickling cucumbers",
@@ -5465,14 +5988,23 @@
       ],
       "steps": [
         "Toss diced vegetables with pickling salt and cold water for 1 hour, then drain and squeeze dry in a towel.",
-        "Simmer vinegar, sugar, and spices 3 minutes, add drained vegetables, simmer 10 minutes, and jar (refrigerate up to 2 months, or water-bath process 10 mins for shelf storage)."
+        "Simmer the vinegar, sugar and spices for three minutes. Add the drained vegetables and simmer ten minutes.",
+        "Divide the cooked condiment into clean shallow containers and refrigerate promptly. Use within three to four days or freeze portions for later."
       ],
-      "safety": "Squeezing moisture out of the diced vegetables keeps relish thick rather than watery.",
+      "safety": "This preparation requires cold storage. The reference describes a separate preservation method.",
       "tags": [
         "relish",
         "pickles",
         "condiments",
         "pantry"
+      ],
+      "scenario": "A few cucumbers would make a small jar of relish for sandwiches.",
+      "overview": "Draining the diced vegetables gives a relish thick enough to stay on a sandwich. Make a small refrigerated batch for the meals where you plan to use it.",
+      "sources": [
+        [
+          "NCHFP · Pickle Relish",
+          "https://nchfp.uga.edu/how/pickle/relishes-salads/pickle-relish/"
+        ]
       ]
     },
     {
@@ -5504,7 +6036,9 @@
         "substitutions",
         "pantry",
         "from-scratch"
-      ]
+      ],
+      "scenario": "A casserole calls for condensed soup but you want to choose the salt and mushrooms.",
+      "overview": "Cook the base thick enough to carry extra liquid in the casserole. Thin only the portion you plan to serve as soup."
     },
     {
       "id": "kit-177",
@@ -5532,7 +6066,9 @@
         "almond-butter",
         "pantry",
         "from-scratch"
-      ]
+      ],
+      "scenario": "The nut mixture looks sandy in the processor and you’re tempted to add liquid.",
+      "overview": "Released nut oils gradually bring the crumbs together. Pause for the machine to cool if it strains."
     },
     {
       "id": "kit-178",
@@ -5563,7 +6099,9 @@
         "mornay",
         "cheese-sauce",
         "basics"
-      ]
+      ],
+      "scenario": "You want a single white sauce for both lasagna and macaroni cheese.",
+      "overview": "The flour-thickened milk is the base. Portion it before adding cheese if some needs to stay plain."
     },
     {
       "id": "kit-179",
@@ -5593,7 +6131,9 @@
         "remoulade",
         "seafood",
         "condiments"
-      ]
+      ],
+      "scenario": "Two platters of seafood need different cold accompaniments.",
+      "overview": "A mild tartar sauce favors pickles and herbs. Season the remoulade separately to give it more bite."
     },
     {
       "id": "kit-180",
@@ -5621,7 +6161,9 @@
         "chicken",
         "turkey",
         "roasting"
-      ]
+      ],
+      "scenario": "A whole bird cooks unevenly and the breasts finish first.",
+      "overview": "Flattening changes how the bird sits against the heat. Check both breast and thigh with a thermometer."
     },
     {
       "id": "kit-181",
@@ -5653,7 +6195,9 @@
         "ribeye",
         "cast-iron",
         "butter-basting"
-      ]
+      ],
+      "scenario": "The steak has a good crust and needs a brief butter finish.",
+      "overview": "Add the butter after searing so it can foam around the herbs without burning during the hottest part."
     },
     {
       "id": "kit-182",
@@ -5681,7 +6225,9 @@
         "brining",
         "dinner",
         "basics"
-      ]
+      ],
+      "scenario": "Several chicken breasts differ in thickness and need to cook together.",
+      "overview": "Evening the thickness reduces the difference between ends. Check each piece before resting and slicing."
     },
     {
       "id": "kit-183",
@@ -5713,7 +6259,9 @@
         "italian",
         "dinner",
         "baking"
-      ]
+      ],
+      "scenario": "Meatballs keep turning dense even when the sauce is good.",
+      "overview": "Hydrated bread helps the mixture retain moisture. Gentle shaping avoids packing each ball too tightly."
     },
     {
       "id": "kit-184",
@@ -5741,7 +6289,9 @@
         "crispy",
         "baking-powder",
         "game-day"
-      ]
+      ],
+      "scenario": "You want crisp wings from the oven and have a rack that fits the tray.",
+      "overview": "A dry surface and air circulation help the coating brown. Baking powder and baking soda are different ingredients."
     },
     {
       "id": "kit-185",
@@ -5772,7 +6322,9 @@
         "cacio-e-pepe",
         "italian",
         "technique"
-      ]
+      ],
+      "scenario": "Grated cheese keeps clumping in your pepper pasta.",
+      "overview": "Starchy water helps the cheese coat the strands. Control the heat as the sauce comes together."
     },
     {
       "id": "kit-186",
@@ -5804,7 +6356,9 @@
         "rice",
         "italian",
         "dinner"
-      ]
+      ],
+      "scenario": "You want a creamy risotto without standing over the pot every second.",
+      "overview": "Finish with enough liquid for the rice to spread gently on a plate. It continues to absorb broth on the way to the table."
     },
     {
       "id": "kit-187",
@@ -5834,7 +6388,9 @@
         "smashed-potatoes",
         "sides",
         "roasting"
-      ]
+      ],
+      "scenario": "Small potatoes need crisp edges but soft centers.",
+      "overview": "Cook them tender before flattening. Space between each piece gives the broken edges room to brown."
     },
     {
       "id": "kit-188",
@@ -5863,7 +6419,9 @@
         "blanching",
         "technique",
         "sides"
-      ]
+      ],
+      "scenario": "The green vegetables are for a later meal and should keep some snap.",
+      "overview": "A cold bath stops the initial cook. Drain thoroughly before chilling or the vegetables will water down the finished dish."
     },
     {
       "id": "kit-189",
@@ -5894,7 +6452,9 @@
         "dessert",
         "custard",
         "apo"
-      ]
+      ],
+      "scenario": "Guests are arriving tomorrow and you want a dessert with a crackling top.",
+      "overview": "Chill the set custards ahead. Caramelize the sugar close to serving so it stays brittle."
     },
     {
       "id": "kit-190",
@@ -5924,7 +6484,9 @@
         "chocolate",
         "truffles",
         "baking"
-      ]
+      ],
+      "scenario": "One bowl of chocolate needs to become either a glaze or a filling.",
+      "overview": "Ganache changes as it cools. Check the texture at serving temperature before adding more chocolate or cream."
     },
     {
       "id": "kit-191",
@@ -5956,7 +6518,9 @@
         "candy",
         "baking",
         "gifts"
-      ]
+      ],
+      "scenario": "You want marshmallows that cut cleanly for cocoa.",
+      "overview": "Prepare the pan before whipping. The mixture becomes hard to spread as it cools and sets."
     },
     {
       "id": "kit-192",
@@ -5987,7 +6551,9 @@
         "tea",
         "beverages",
         "spices"
-      ]
+      ],
+      "scenario": "Morning chai needs to be quick and different people prefer different amounts of milk.",
+      "overview": "Strain the concentrated spice tea and dilute by the cup. Record the dilution you like on the bottle."
     },
     {
       "id": "kit-193",
@@ -6016,7 +6582,9 @@
         "limeade",
         "beverages",
         "citrus"
-      ]
+      ],
+      "scenario": "A bowl of lemons needs juicing and the peels are especially fragrant.",
+      "overview": "Rubbing zest with sugar captures aromatic oils. Dilute one glass first to establish a serving ratio for the pitcher."
     },
     {
       "id": "kit-194",
@@ -6044,7 +6612,9 @@
         "pantry-meals",
         "hurricane",
         "grid-down"
-      ]
+      ],
+      "scenario": "Dinner must come from the shelf and the fridge is unavailable.",
+      "overview": "A starch, a protein and a flavor ingredient make a workable meal. Mark which combinations can be eaten with no cooking or added water."
     },
     {
       "id": "kit-195",
@@ -6070,34 +6640,39 @@
         "bread",
         "stovetop",
         "emergency"
-      ]
+      ],
+      "scenario": "The oven is out but a working stove and skillet are available.",
+      "overview": "Small, flat portions cook through before the outside darkens. A test piece lets you set the heat for the batch."
     },
     {
       "id": "kit-196",
       "cat": "Kitchen & From-Scratch",
       "sub": "Grid-Down & Emergency Cooking",
-      "title": "Cold-Soaking Grains & Oats (Zero-Fuel Meal Prep)",
+      "title": "Refrigerated overnight oats for a no-stove breakfast",
       "diff": "Easy",
       "time": "4-8 hrs",
       "gear": [
         "Wide-mouth mason jar with lid"
       ],
       "supplies": [
-        "1/2 cup old-fashioned rolled oats or couscous",
-        "1/2 to 3/4 cup water, shelf-stable milk, or broth",
-        "Chia seeds, dried fruit, nuts, or freeze-dried veggies"
+        "½ cup oats labeled suitable for overnight oats",
+        "½ to ¾ cup pasteurized milk or safe water",
+        "Dried fruit"
       ],
       "steps": [
-        "Combine rolled oats (or instant couscous) with liquid and add-ins in a sealed mason jar.",
-        "Let soak 4-8 hours (overnight) until grains absorb liquid and soften completely—ready to eat with zero stove fuel required."
+        "Check that the oats are suitable for overnight preparation. Mix oats, liquid and fruit in a clean covered container.",
+        "Refrigerate immediately at 40°F or below overnight. Stir and adjust the thickness just before eating.",
+        "For travel use an iced cooler that holds 40°F or below. Without cold storage choose a shelf-stable ready-to-eat breakfast."
       ],
-      "safety": "Works with rolled oats, instant oats, and couscous; steel-cut oats and raw rice require boiling.",
+      "safety": "Do not soak grains or milk at room temperature overnight.",
       "tags": [
         "off-grid",
         "zero-fuel",
         "emergency",
         "breakfast"
-      ]
+      ],
+      "scenario": "You are leaving early with a cooler and would like breakfast prepared the night before.",
+      "overview": "Overnight oats exchange stove time for refrigerator time. Pack the cold chain along with breakfast when you leave home."
     },
     {
       "id": "kit-197",
@@ -6126,7 +6701,9 @@
         "cheese",
         "queso-blanco",
         "dairy"
-      ]
+      ],
+      "scenario": "You want pieces of cheese that brown in a skillet for tacos.",
+      "overview": "A well-drained, pressed block holds together when sliced. Pat the faces dry before they touch the pan."
     },
     {
       "id": "kit-198",
@@ -6154,7 +6731,9 @@
         "compound-butter",
         "honey-butter",
         "dairy"
-      ]
+      ],
+      "scenario": "One butter will go on hot rolls and one on grilled vegetables.",
+      "overview": "Divide softened butter before adding sweet or savory ingredients. Label each portion for the table."
     },
     {
       "id": "kit-199",
@@ -6180,7 +6759,9 @@
         "dairy",
         "substitutions",
         "pantry"
-      ]
+      ],
+      "scenario": "The recipe wants unsweetened evaporated milk and the store is closed.",
+      "overview": "Reduction concentrates the milk without adding sugar. Measure the final volume after simmering."
     },
     {
       "id": "kit-200",
@@ -6205,7 +6786,9 @@
         "dairy",
         "baking",
         "zero-waste"
-      ]
+      ],
+      "scenario": "You have sweet milk and lemon, or liquid left from churning butter, and a recipe calling for buttermilk.",
+      "overview": "Choose the substitution for the role it serves. An acidified baking substitute does not provide a live starter."
     },
     {
       "id": "kit-201",
@@ -6238,7 +6821,9 @@
         "crescent-rolls",
         "baking",
         "holiday"
-      ]
+      ],
+      "scenario": "A batch of rolls needs a shape that tears into soft layers.",
+      "overview": "Roll wedges from the broad end and tuck the tip underneath so the crescent stays wound while rising."
     },
     {
       "id": "kit-202",
@@ -6269,7 +6854,9 @@
         "ciabatta",
         "italian",
         "baking"
-      ]
+      ],
+      "scenario": "A wet ciabatta dough spreads whenever you try to shape it.",
+      "overview": "Gentle handling preserves the bubbles. A well-floured surface helps move the portions without working in extra flour."
     },
     {
       "id": "kit-203",
@@ -6302,7 +6889,9 @@
         "oats",
         "breakfast",
         "snacks"
-      ]
+      ],
+      "scenario": "Granola keeps crumbling into loose oats in the jar.",
+      "overview": "Let the baked sheet cool before breaking it. The binder firms into clusters as the temperature falls."
     },
     {
       "id": "kit-204",
@@ -6333,7 +6922,9 @@
         "pretzel-buns",
         "baking",
         "burgers"
-      ]
+      ],
+      "scenario": "A juicy burger needs a bun with more bite than a dinner roll.",
+      "overview": "The bath gives the roll its pretzel skin. A shallow score gives the top a controlled place to open."
     },
     {
       "id": "kit-205",
@@ -6364,7 +6955,9 @@
         "scallion-pancakes",
         "stovetop",
         "asian"
-      ]
+      ],
+      "scenario": "You want a savory flatbread with visible layers and scallions throughout.",
+      "overview": "Rolling, coiling and flattening create the layers. Let the dough relax if it springs back during the final roll."
     },
     {
       "id": "kit-206",
@@ -6394,13 +6987,15 @@
         "pantry",
         "biscuits",
         "pancakes"
-      ]
+      ],
+      "scenario": "Breakfast goes faster when the dry ingredients are already measured.",
+      "overview": "Write the wet additions and yield on the container. The fat used determines how the mix should be stored."
     },
     {
       "id": "kit-207",
       "cat": "Kitchen & From-Scratch",
       "sub": "Water-Bath & Pressure Canning",
-      "title": "Spicy Pickled Okra (Gulf Coast Garden Favorite)",
+      "title": "Pickled dilled okra",
       "diff": "Easy",
       "time": "1 hr",
       "gear": [
@@ -6410,31 +7005,42 @@
         "Canning funnel"
       ],
       "supplies": [
-        "2 lbs small tender okra pods (3-4 inches long, stems trimmed without cutting pods open)",
-        "2.5 cups white distilled vinegar (5%)",
-        "2.5 cups water",
-        "1/4 cup pickling salt",
-        "Per pint: 1 clove garlic, 1/2 tsp dill seed, 1/2 tsp mustard seed, 1 whole cayenne or jalapeño pod"
+        "7 lb small okra pods",
+        "6 small hot peppers",
+        "4 tsp dill seed",
+        "1 garlic clove per pint (8–9 cloves)",
+        "⅔ cup pickling salt",
+        "6 cups water",
+        "6 cups 5% vinegar"
       ],
       "steps": [
-        "Pack whole small okra pods tightly alternating stems up and down into hot pint jars with spices.",
-        "Boil vinegar, water, and pickling salt; pour over okra leaving 1/2-inch headspace.",
-        "Debubble, wipe rims, and process 10 minutes in a boiling-water bath; wait 3 weeks before opening for peak flavor."
+        "Wash and trim okra. Stand whole pods snugly in hot pint jars with a garlic clove in each, leaving ½ inch free at the top.",
+        "Bring the vinegar, water, salt, hot peppers and dill seed to a boil. Pour the boiling pickling liquid over the pods and adjust to ½ inch headspace.",
+        "Wipe rims, fit lids and process pints in a boiling-water canner. Start timing when the full boil returns. Choose by elevation (up to 1,000 ft: 10 minutes, 1,001–6,000 ft: 15 minutes, above 6,000 ft: 20 minutes).",
+        "Turn off heat, uncover the canner and wait five minutes. Lift jars upright and cool undisturbed for 12–24 hours before checking seals."
       ],
-      "safety": "Leave okra pods intact (do not slice)—whole pods stay crisp and never turn slimy.",
+      "safety": "Use the specified ingredients, jar sizes and process. Refrigerate an unsealed jar promptly if found at the initial seal check.",
       "tags": [
         "canning",
         "okra",
         "pickles",
         "gulf-coast",
         "water-bath"
+      ],
+      "scenario": "You have a basket of tender okra pods and want them whole for a relish tray.",
+      "overview": "Trim without opening the seed cavity and follow a tested pickled-okra process for cupboard storage.",
+      "sources": [
+        [
+          "NCHFP · Pickled Dilled Okra",
+          "https://nchfp.uga.edu/how/pickle/vegetable-pickles/pickled-dilled-okra/"
+        ]
       ]
     },
     {
       "id": "kit-208",
       "cat": "Kitchen & From-Scratch",
       "sub": "Water-Bath & Pressure Canning",
-      "title": "Hot Pepper Jelly (Sweet Heat Glaze for Cream Cheese & Meats)",
+      "title": "Golden pepper jelly",
       "diff": "Easy",
       "time": "45 mins",
       "gear": [
@@ -6444,23 +7050,33 @@
         "Jar lifter"
       ],
       "supplies": [
-        "1 cup finely minced red bell pepper",
-        "1/2 cup finely minced jalapeño or Fresno peppers (seeded for mild-medium)",
-        "1.5 cups apple cider vinegar (5%)",
-        "5 cups white sugar",
-        "1 pouch (3 oz) liquid pectin"
+        "5 cups chopped sweet bell pepper",
+        "½ cup chopped serrano",
+        "1½ cups 5% distilled white vinegar",
+        "5 cups sugar",
+        "3 oz liquid pectin"
       ],
       "steps": [
-        "Simmer minced peppers, vinegar, and sugar for 10 minutes.",
-        "Bring to a full rolling boil, stir in liquid pectin, boil hard for exactly 1 minute, skim foam, and ladle into hot half-pint jars with 1/4-inch headspace.",
-        "Process 10 minutes in a boiling-water bath."
+        "Wear gloves. Wash, stem and seed the peppers. Purée with part of the vinegar, add the remaining vinegar and boil ten minutes in a large pot. Strain through a jelly bag.",
+        "Measure 2¼ cups strained juice. Stir in the sugar, bring to a boil, add liquid pectin and boil hard one minute while stirring. Skim foam.",
+        "Fill hot half-pints immediately with ¼ inch headspace. This version uses the source’s longer processing option.",
+        "Wipe rims, fit lids and process half-pints in a boiling-water canner. Start timing when the full boil returns. Choose by elevation (up to 1,000 ft: 10 minutes, 1,001–6,000 ft: 15 minutes, above 6,000 ft: 20 minutes).",
+        "Turn off heat, uncover the canner and wait five minutes. Lift jars upright and cool undisturbed for 12–24 hours before checking seals."
       ],
-      "safety": "Spoon over a block of homemade cream cheese with crackers, or brush onto grilled pork tenderloin.",
+      "safety": "Use the specified ingredients, jar sizes and process. Refrigerate an unsealed jar promptly if found at the initial seal check.",
       "tags": [
         "canning",
         "pepper-jelly",
         "jam",
         "water-bath"
+      ],
+      "scenario": "Some peppers are sweet and some are hot, and you want a jelly for cheese.",
+      "overview": "Choose the tested pepper mixture first. Alter serving portions to vary the heat while keeping the preserving formula intact.",
+      "sources": [
+        [
+          "NCHFP · Golden Pepper Jelly",
+          "https://nchfp.uga.edu/how/make-jam-jelly/jelly-with-added-pectin/golden-pepper-jelly/"
+        ]
       ]
     },
     {
@@ -6489,6 +7105,14 @@
         "berries",
         "blueberries",
         "water-bath"
+      ],
+      "scenario": "A berry harvest would be handy for topping pancakes later in the year.",
+      "overview": "Sort the fruit by ripeness so the pack holds together. Use the tested syrup and processing directions for the selected berry.",
+      "sources": [
+        [
+          "NCHFP · Berries-Whole",
+          "https://nchfp.uga.edu/how/can/canning-fruits-and-fruit-products/berries-whole/"
+        ]
       ]
     },
     {
@@ -6509,16 +7133,25 @@
         "Boiling water"
       ],
       "steps": [
+        "Set the processing pressure for your elevation before filling jars. With a weighted gauge use 10 psi through 1,000 feet or 15 psi above. With a dial gauge use 11 psi through 2,000 feet, 12 through 4,000, 13 through 6,000 and 14 through 8,000. Above the listed range consult Extension. Vent a continuous plume of steam for 10 minutes before pressurizing.",
         "Pack raw snapped green beans tightly into hot jars leaving 1-inch headspace (or boil 5 minutes first for hot-pack).",
         "Add salt, cover with boiling water leaving 1-inch headspace, debubble, and wipe rims.",
-        "Pressure can at 10 PSI weighted (11 PSI dial) for 20 minutes (pints) or 25 minutes (quarts)."
+        "Pressure can at the pressure selected for your elevation for 20 minutes (pints) or 25 minutes (quarts)."
       ],
-      "safety": "Green beans are low-acid—never process them in a boiling-water bath.",
+      "safety": "Green beans are low-acid—never process them in a boiling-water bath. If pressure drops below the required value during processing, return to pressure and restart the full time.",
       "tags": [
         "canning",
         "pressure-canning",
         "green-beans",
         "vegetables"
+      ],
+      "scenario": "The bean plants have yielded more than you can blanch for dinner.",
+      "overview": "Keep the raw-pack and hot-pack directions with their respective packing methods. They produce different densities in the jar.",
+      "sources": [
+        [
+          "NCHFP · Beans, Snap and Italian – Pieces, Green and Wax",
+          "https://nchfp.uga.edu/how/can/canning-vegetables-and-vegetable-products/beans-snap-and-italian-pieces-green-and-wax/"
+        ]
       ]
     },
     {
@@ -6541,16 +7174,25 @@
         "1/2 tsp canning salt per pint"
       ],
       "steps": [
+        "Set the processing pressure for your elevation before filling jars. With a weighted gauge use 10 psi through 1,000 feet or 15 psi above. With a dial gauge use 11 psi through 2,000 feet, 12 through 4,000, 13 through 6,000 and 14 through 8,000. Above the listed range consult Extension. Vent a continuous plume of steam for 10 minutes before pressurizing.",
         "Brown beef cubes quickly in a hot skillet until seared on outside (rare inside).",
         "Pack hot beef loosely into hot jars, add salt, and cover with boiling broth leaving 1-inch headspace.",
-        "Pressure can at 10 PSI weighted (11 PSI dial) for 75 minutes (pints) or 90 minutes (quarts)."
+        "Pressure can at the pressure selected for your elevation for 75 minutes (pints) or 90 minutes (quarts)."
       ],
-      "safety": "Opened jars of canned beef turn into 10-minute beef stroganoff, beef tacos, or shepherd's pie.",
+      "safety": "Opened jars of canned beef turn into 10-minute beef stroganoff, beef tacos, or shepherd's pie. If pressure drops below the required value during processing, return to pressure and restart the full time.",
       "tags": [
         "canning",
         "pressure-canning",
         "beef",
         "emergency-pantry"
+      ],
+      "scenario": "You want chunks of beef ready to finish as stew.",
+      "overview": "Can the plain meat using its tested pack. Flour, potatoes and gravy can go in the serving pot after opening.",
+      "sources": [
+        [
+          "NCHFP · Meat, Strips, Cubes or Chunks",
+          "https://nchfp.uga.edu/how/can/preparing-and-canning-poultry-red-meats-and-seafoods/meat-strips-cubes-or-chunks/"
+        ]
       ]
     },
     {
@@ -6579,7 +7221,9 @@
         "air-fryer",
         "vegetables",
         "sides"
-      ]
+      ],
+      "scenario": "You want a browned vegetable side and the large oven is already in use.",
+      "overview": "Spread the pieces so air can reach the cut surfaces. Apply cheese where it can brown without falling through the rack."
     },
     {
       "id": "kit-213",
@@ -6609,7 +7253,9 @@
         "sous-vide",
         "pork-tenderloin",
         "dinner"
-      ]
+      ],
+      "scenario": "A lean pork tenderloin has a narrow tail that cooks earlier than the center.",
+      "overview": "Measure the thickest section and use a validated time and temperature combination. The color of pork is an unreliable doneness check."
     },
     {
       "id": "kit-214",
@@ -6640,7 +7286,9 @@
         "apo",
         "air-fryer",
         "sausage"
-      ]
+      ],
+      "scenario": "You’d like the sausage coating browned around a cooked egg.",
+      "overview": "Check the meat layer with a thermometer without pushing the tip into the egg. A browned coating alone cannot confirm doneness."
     },
     {
       "id": "kit-215",
@@ -6670,7 +7318,9 @@
         "short-ribs",
         "beef",
         "immersion-circulator"
-      ]
+      ],
+      "scenario": "Short ribs need to be portionable but tender for a later dinner.",
+      "overview": "A controlled long cook softens connective tissue. Drying the surface before searing helps each piece brown."
     },
     {
       "id": "kit-216",
@@ -6700,7 +7350,9 @@
         "mustard",
         "sauce",
         "german"
-      ]
+      ],
+      "scenario": "Scotch eggs need a warm sauce with enough body to cling to the crust.",
+      "overview": "Mustard goes further in a warm gravy than it does straight from the jar. Taste a bite of the full dish before adding more."
     },
     {
       "id": "kit-217",
@@ -6729,7 +7381,9 @@
         "sauce",
         "eggs",
         "immersion-blender"
-      ]
+      ],
+      "scenario": "Poached eggs are ready and the butter sauce must come together quickly.",
+      "overview": "An emulsion forms when the fat disperses through the yolk mixture. Start with pasteurized eggs if the sauce will be served undercooked."
     },
     {
       "id": "kit-218",
@@ -6759,7 +7413,9 @@
         "steak-sauce",
         "herbs",
         "condiments"
-      ]
+      ],
+      "scenario": "A bunch of parsley needs to become a bright sauce for grilled meat.",
+      "overview": "Chop to a texture that will cling to a slice. Treat fresh garlic in oil as a perishable mixture."
     },
     {
       "id": "kit-219",
@@ -6790,7 +7446,9 @@
         "turkey",
         "sauce",
         "pantry"
-      ]
+      ],
+      "scenario": "Leftover roast turkey needs a sauce with enough acidity to balance its richness.",
+      "overview": "Choose cranberry for a tart base or the darker spice blend for a deeper one. Add heat in small increments."
     },
     {
       "id": "kit-220",
@@ -6819,7 +7477,9 @@
         "relish",
         "turkey",
         "holiday"
-      ]
+      ],
+      "scenario": "The holiday plate has soft, rich foods and could use a fresh crunch.",
+      "overview": "Pulse just enough to leave small pieces and taste after the citrus juices have dispersed."
     },
     {
       "id": "kit-221",
@@ -6851,7 +7511,9 @@
         "turkey",
         "chicken",
         "comfort-food"
-      ]
+      ],
+      "scenario": "A bowl of cooked poultry needs a second meal under a pastry lid.",
+      "overview": "A thick filling supports the crust. Vent the lid so steam can escape while it browns."
     },
     {
       "id": "kit-222",
@@ -6883,7 +7545,9 @@
         "soup",
         "bacon",
         "comfort-food"
-      ]
+      ],
+      "scenario": "You want a potato soup with some chunks and a creamy base.",
+      "overview": "Mash only part of the potatoes and keep the crisp toppings separate until serving."
     },
     {
       "id": "kit-223",
@@ -6916,7 +7580,9 @@
         "soup",
         "onions",
         "gruyere"
-      ]
+      ],
+      "scenario": "The onions have reduced to a small mound and guests expect a full pot of soup.",
+      "overview": "Concentrated onions flavor the broth. Float the cheese toast at the end to preserve a little crunch."
     },
     {
       "id": "kit-224",
@@ -6945,7 +7611,9 @@
         "dal",
         "pantry",
         "one-pot"
-      ]
+      ],
+      "scenario": "Red lentils and a can of coconut milk are the backbone of tonight’s meal.",
+      "overview": "The lentils break down as they simmer. Adjust the final liquid depending on whether the dal will go over rice or into bowls."
     },
     {
       "id": "kit-225",
@@ -6974,7 +7642,9 @@
         "apples",
         "dessert",
         "baking"
-      ]
+      ],
+      "scenario": "The apples are juicy and the topping must stay crisp.",
+      "overview": "Keep the streusel in loose clumps and spread it across the fruit. Bubbling juice at the edges helps judge the bake."
     },
     {
       "id": "kit-226",
@@ -7007,7 +7677,9 @@
         "chocolate",
         "dessert",
         "stovetop"
-      ]
+      ],
+      "scenario": "There’s cocoa in the cupboard but no pudding mix.",
+      "overview": "Starch thickens the milk on the stove and the pudding firms further as it chills. Portion it while still fluid."
     },
     {
       "id": "kit-227",
@@ -7039,7 +7711,9 @@
         "citrus",
         "spreads",
         "dessert"
-      ]
+      ],
+      "scenario": "You have leftover yolks and want a tart spread for toast.",
+      "overview": "Gentle heat thickens the yolks without scrambling them. Straining catches stray bits before chilling."
     },
     {
       "id": "kit-228",
@@ -7060,7 +7734,9 @@
         "troubleshooting",
         "kitchen-rescue",
         "technique"
-      ]
+      ],
+      "scenario": "A dish has scorched on the bottom and dinner is nearly due.",
+      "overview": "Transfer the unburned portion before stirring. Test any flavor adjustment on a small serving first."
     },
     {
       "id": "kit-229",
@@ -7086,7 +7762,9 @@
         "meal-prep",
         "chamber-sealer",
         "storage"
-      ]
+      ],
+      "scenario": "A big batch of food is going into the freezer and you want portions that thaw predictably.",
+      "overview": "Flat, meal-sized packages cool and thaw more evenly. Label the contents, date and serving size before stacking."
     },
     {
       "id": "kit-230",
@@ -7115,7 +7793,9 @@
         "cheese",
         "appetizer",
         "bread-pairing"
-      ]
+      ],
+      "scenario": "There’s ricotta left after filling pasta and you want a starter for guests.",
+      "overview": "Whipping changes its texture. Add the honey and thyme at serving so the contrast remains clear."
     },
     {
       "id": "kit-231",
@@ -7142,7 +7822,9 @@
         "cheese",
         "marinated",
         "appetizer"
-      ]
+      ],
+      "scenario": "Small mozzarella balls need an easy presentation for a picnic.",
+      "overview": "Drain wet ingredients before threading or dressing. Keep the finished cheese chilled until serving."
     },
     {
       "id": "kit-232",
@@ -7172,7 +7854,9 @@
         "thin-crust",
         "no-yeast",
         "baking"
-      ]
+      ],
+      "scenario": "The pizza craving arrives too late to start a yeast dough.",
+      "overview": "A thin, evenly rolled base bakes like a crisp cracker. Keep toppings light enough for the center to dry."
     },
     {
       "id": "kit-233",
@@ -7203,7 +7887,9 @@
         "cinnamon-raisin",
         "breakfast",
         "baking"
-      ]
+      ],
+      "scenario": "Your cinnamon loaf often opens into a tunnel along the swirl.",
+      "overview": "An even filling and a snug roll reduce gaps. Slice the cooled center to see how the swirl held."
     },
     {
       "id": "kit-234",
@@ -7235,7 +7921,9 @@
         "sourdough-discard",
         "chocolate",
         "zero-waste"
-      ]
+      ],
+      "scenario": "The starter jar needs feeding and there is enough discard for cookies.",
+      "overview": "Discard adds water as well as flour. Chill a test portion and judge its spread before baking the whole tray."
     },
     {
       "id": "kit-235",
@@ -7264,7 +7952,9 @@
         "giardiniera",
         "vegetables",
         "condiments"
-      ]
+      ],
+      "scenario": "The crisper holds odds and ends of several firm vegetables.",
+      "overview": "Cut dense vegetables smaller so each spoonful of the relish has a similar crunch."
     },
     {
       "id": "kit-236",
@@ -7293,13 +7983,15 @@
         "carrots",
         "snacks",
         "probiotics"
-      ]
+      ],
+      "scenario": "A bag of carrots could become a cool, tart accompaniment to sandwiches.",
+      "overview": "Uniform sticks fit below the brine more readily. The lemon and garlic season the liquid around them."
     },
     {
       "id": "kit-237",
       "cat": "Kitchen & From-Scratch",
       "sub": "Water-Bath & Pressure Canning",
-      "title": "Canning Spiced Pickled Beets (Ruby Red Pantry Classic)",
+      "title": "Spiced pickled beets",
       "diff": "Easy",
       "time": "1.5 hrs",
       "gear": [
@@ -7309,52 +8001,73 @@
         "Canning funnel"
       ],
       "supplies": [
-        "4 lbs fresh red beets (stems trimmed to 1 inch so color doesn't bleed)",
-        "2 cups apple cider vinegar (5%)",
-        "1 cup water + 1 cup sugar",
-        "1 tsp pickling salt + 1 cinnamon stick + 6 whole cloves"
+        "7 lb small beets",
+        "4 cups 5% vinegar",
+        "1½ tsp pickling salt",
+        "2 cups sugar",
+        "2 cups fresh water",
+        "2 cinnamon sticks",
+        "12 whole cloves"
       ],
       "steps": [
-        "Boil whole trimmed beets 25-30 minutes until tender, chill in cold water, slip skins off, and slice 1/4-inch thick.",
-        "Boil vinegar, water, sugar, salt, and spices 5 minutes; pack beets into hot pint jars, pour hot brine over leaving 1/2-inch headspace, debubble, and process 30 minutes in a boiling-water bath."
+        "Leave an inch of stem and root on washed beets. Boil until tender, discard cooking water, cool, trim and slip off skins. Cut ¼-inch slices.",
+        "Tie spices in a clean bag and boil with the vinegar, fresh water, salt and sugar. Add beets, simmer five minutes, then lift out the spices.",
+        "Pack beets and hot pickling liquid into prepared jars with ½ inch headspace.",
+        "Wipe rims, fit lids and process pints or quarts in a boiling-water canner. Start timing when the full boil returns. Choose by elevation (up to 1,000 ft: 30 minutes, 1,001–3,000 ft: 35 minutes, 3,001–6,000 ft: 40 minutes, above 6,000 ft: 45 minutes).",
+        "Turn off heat, uncover the canner and wait five minutes. Lift jars upright and cool undisturbed for 12–24 hours before checking seals."
       ],
-      "safety": "Beets are low-acid on their own, so never reduce the 2:1 vinegar-to-water acidity ratio.",
+      "safety": "Use the specified ingredients, jar sizes and process. Refrigerate an unsealed jar promptly if found at the initial seal check.",
       "tags": [
         "canning",
         "beets",
         "pickles",
         "water-bath"
+      ],
+      "scenario": "Garden beets need a use beyond one dinner’s side dish.",
+      "overview": "Choose a tested pickled-beet recipe with the stated vinegar strength. Plain beets require a different process.",
+      "sources": [
+        [
+          "NCHFP · Pickled Beets",
+          "https://nchfp.uga.edu/how/pickle/pickled-vegetables/pickled-beets/"
+        ]
       ]
     },
     {
       "id": "kit-238",
       "cat": "Kitchen & From-Scratch",
-      "sub": "Water-Bath & Pressure Canning",
-      "title": "Pressure-Canning Homemade Chili Con Carne (Without Beans)",
+      "sub": "Freezer Meals",
+      "title": "Freeze a beanless chili base in meal portions",
       "diff": "Medium",
-      "time": "2.5 hrs",
+      "time": "15 minutes plus chilling",
       "gear": [
-        "Pressure canner",
-        "Dutch oven",
-        "Jar lifter",
-        "Canning funnel"
+        "Food thermometer",
+        "Freezer containers"
       ],
       "supplies": [
-        "3 lbs lean ground beef (browned and drained)",
-        "1.5 cups diced onion + 1 diced bell pepper + 3 cloves garlic",
-        "2 cups crushed tomatoes + 2 cups beef broth",
-        "3 tbsp chili powder + 1 tbsp cumin + 1 tsp oregano + 1.5 tsp canning salt"
+        "Cooked beanless chili"
       ],
       "steps": [
-        "Brown beef and drain fat thoroughly; simmer beef, vegetables, tomatoes, broth, and spices for 15 minutes.",
-        "Ladle hot chili into hot pint jars leaving 1-inch headspace, debubble, wipe rims, and pressure can at 10 PSI weighted (11 PSI dial) for 75 minutes (pints) or 90 minutes (quarts)."
+        "Prepare your favorite cooked beanless chili. Check ground beef reaches 160°F and any ground poultry reaches 165°F.",
+        "Divide promptly into shallow containers. Refrigerate within two hours of cooking, or one hour if the room or outdoor temperature exceeds 90°F.",
+        "Once chilled, transfer meal-sized portions into freezer containers, leaving room for expansion. Mark the date and contents. Thaw in the refrigerator and reheat to 165°F."
       ],
-      "safety": "Omit beans and thickeners when canning chili—stir in a can of drained beans when reheating for serving.",
+      "safety": "This preparation belongs in the freezer. A shelf-stable chili needs an exact tested canning formula.",
       "tags": [
-        "canning",
-        "pressure-canning",
         "chili",
-        "emergency-pantry"
+        "freezing",
+        "make-ahead"
+      ],
+      "scenario": "There’s a pot of beanless chili on the stove and more than the household can eat this week.",
+      "overview": "Shallow portions cool quickly and freeze in quantities you can use. Label the container with enough detail to reheat a single dinner.",
+      "sources": [
+        [
+          "FoodSafety.gov · Minimum cooking temperatures",
+          "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+        ],
+        [
+          "National Center for Home Food Preservation · Tested recipes",
+          "https://nchfp.uga.edu/newsflash/safe-home-canning-the-importance-of-using-tested-recipes"
+        ]
       ]
     },
     {
@@ -7383,7 +8096,9 @@
         "rice",
         "pasta",
         "emergency-pantry"
-      ]
+      ],
+      "scenario": "You need a lightweight starch that can be portioned at camp.",
+      "overview": "Record the cooked weight and test rehydration at home so each packet has practical serving directions."
     },
     {
       "id": "kit-240",
@@ -7411,7 +8126,9 @@
         "zucchini",
         "garden-surplus",
         "snacks"
-      ]
+      ],
+      "scenario": "The garden has produced more squash than the refrigerator can hold.",
+      "overview": "Thin, even slices dry more uniformly. Let a sample cool before deciding whether the center is still pliable."
     },
     {
       "id": "kit-241",
@@ -7437,7 +8154,9 @@
         "honey-mustard",
         "dill-sauce",
         "condiments"
-      ]
+      ],
+      "scenario": "One tray of vegetables needs a sweet dip and an herby one.",
+      "overview": "Mix small portions separately and adjust thickness to match what will be dipped."
     },
     {
       "id": "kit-242",
@@ -7462,7 +8181,9 @@
         "rubs",
         "cajun",
         "pantry"
-      ]
+      ],
+      "scenario": "The poultry and beef jars look identical on the shelf.",
+      "overview": "Mark each rub with its salt content and intended use. Portion it into a dish before handling raw meat."
     },
     {
       "id": "kit-243",
@@ -7492,7 +8213,9 @@
         "crab-cakes",
         "gulf-coast",
         "dinner"
-      ]
+      ],
+      "scenario": "Good crabmeat deserves cakes that hold together without hiding the lumps.",
+      "overview": "A gentle fold preserves the larger pieces. Chill shaped cakes so the first turn is easier."
     },
     {
       "id": "kit-244",
@@ -7521,7 +8244,9 @@
         "chicken-tortilla-soup",
         "mexican",
         "dinner"
-      ]
+      ],
+      "scenario": "The household likes different heat levels in tortilla soup.",
+      "overview": "A mild broth handles the cooking while separate bowls of lime, chile and crisp tortilla let each diner finish a serving."
     },
     {
       "id": "kit-245",
@@ -7543,7 +8268,9 @@
         "thawing",
         "freezer",
         "reference"
-      ]
+      ],
+      "scenario": "Dinner is still frozen and there’s less time than a refrigerator thaw would take.",
+      "overview": "The thawing method changes how soon the food must be cooked. Choose it before taking the package out."
     },
     {
       "id": "kit-246",
@@ -7572,7 +8299,9 @@
         "dairy",
         "dessert",
         "no-cook"
-      ]
+      ],
+      "scenario": "You want ice cream without preparing an egg custard.",
+      "overview": "The cream-and-milk base relies on chilling and churning for its texture. Start with cold, pasteurized dairy."
     },
     {
       "id": "kit-247",
@@ -7600,7 +8329,9 @@
         "butter",
         "dairy",
         "seafood"
-      ]
+      ],
+      "scenario": "One bowl of melted butter is for cooking and the other is for dipping.",
+      "overview": "Separate the plain cooking fat before adding fresh garlic and herbs. Keep the flavored portion refrigerated after service."
     },
     {
       "id": "kit-248",
@@ -7628,7 +8359,9 @@
         "beer-cheese",
         "appetizer",
         "baking"
-      ]
+      ],
+      "scenario": "The snack table needs pretzels and a dip that will stay smooth long enough to serve.",
+      "overview": "Time the cheese dip near the end of baking so the twists and sauce reach the table together."
     },
     {
       "id": "kit-249",
@@ -7659,7 +8392,9 @@
         "brioche",
         "breakfast",
         "baking"
-      ]
+      ],
+      "scenario": "There’s pearl sugar on the shelf and you want crisp caramel spots on the waffles.",
+      "overview": "A yeast dough carries the sugar pieces through the iron. Let the hot caramel cool briefly before handling."
     },
     {
       "id": "kit-250",
@@ -7690,33 +8425,39 @@
         "pastry",
         "baking",
         "technique"
-      ]
+      ],
+      "scenario": "A pie or turnover needs flaky pastry without a full day of folding.",
+      "overview": "Visible pieces of cold butter are useful here. Rolling and folding arrange them into the layers that separate in the oven."
     },
     {
       "id": "kit-251",
       "cat": "Kitchen & From-Scratch",
       "sub": "Fermentation & Cultured Foods",
-      "title": "Fermented Honey-Fermented Cranberries or Blueberries",
+      "title": "Warm berry and honey topping",
       "diff": "Easy",
-      "time": "2 weeks",
+      "time": "10 minutes",
       "gear": [
-        "Pint mason jar"
+        "Small saucepan",
+        "Spoon"
       ],
       "supplies": [
-        "1.5 cups fresh cranberries (pricked) or blueberries",
-        "1 cup raw unpasteurized honey"
+        "1 cup berries",
+        "Honey",
+        "Water"
       ],
       "steps": [
-        "Place berries in a pint jar, pour raw honey over to submerge, and flip daily for 1-2 weeks as berry juices ferment into a ruby-red probiotic syrup.",
-        "Spoon over baked brie, yogurt, pancakes, or roasted pork."
+        "Wash one cup of berries and place in a small saucepan with a tablespoon of water. Cook over gentle heat until the fruit softens.",
+        "Mash a few berries to release juice. Stir in a teaspoon of honey, taste and simmer briefly until the liquid coats a spoon.",
+        "Serve warm or cool promptly in a shallow covered container in the refrigerator."
       ],
-      "safety": "Never feed raw honey ferments to infants under 12 months.",
+      "safety": "Keep the topping refrigerated after cooling. Honey is unsuitable for infants under one year.",
       "tags": [
-        "fermentation",
-        "honey",
         "berries",
-        "holiday"
-      ]
+        "honey",
+        "topping"
+      ],
+      "scenario": "You want a fruit-and-honey topping for yogurt.",
+      "overview": "A small refrigerated fruit topping gives you control of sweetness and avoids guessing about the safety of a sealed fruit ferment."
     },
     {
       "id": "kit-252",
@@ -7744,13 +8485,15 @@
         "radishes",
         "pickles",
         "probiotics"
-      ]
+      ],
+      "scenario": "Radishes are abundant and their bite is sharper than you want for a salad.",
+      "overview": "Similar-sized pieces take up the dill and garlic seasoning evenly. Label the jar to track changes in texture."
     },
     {
       "id": "kit-253",
       "cat": "Kitchen & From-Scratch",
       "sub": "Water-Bath & Pressure Canning",
-      "title": "Canning Spiced Apple Pie Filling (ClearJel Thickened)",
+      "title": "One quart of spiced apple pie filling",
       "diff": "Medium",
       "time": "1.5 hrs",
       "gear": [
@@ -7760,29 +8503,42 @@
         "Jar lifter"
       ],
       "supplies": [
-        "6 lbs firm tart apples (Granny Smith/Honeycrisp), peeled, cored, sliced 1/2-inch",
-        "2.75 cups sugar + 3/4 cup ClearJel (cook-type modified food starch)",
-        "1.5 tsp cinnamon + 1/4 tsp nutmeg + 1/2 tsp salt",
-        "2.5 cups apple juice + 1 cup water + 1/2 cup bottled lemon juice"
+        "3½ cups blanched tart apple slices",
+        "¾ cup plus 2 tbsp sugar",
+        "¼ cup regular cook-type Clear Jel",
+        "½ tsp cinnamon",
+        "½ cup cold water",
+        "¾ cup apple juice",
+        "2 tbsp bottled lemon juice"
       ],
       "steps": [
-        "Blanch apple slices in boiling water 1 minute, drain, and keep warm.",
-        "Whisk sugar, ClearJel, spices, and salt; stir in apple juice and water, cook over medium heat until thick and bubbly, then stir in bottled lemon juice and boil 1 minute.",
-        "Fold in blanched apples, pack into hot quart jars leaving 1-inch headspace, debubble, and process 25 minutes in a boiling-water bath."
+        "Peel, core and slice firm apples ½ inch wide. Blanch in boiling water one minute after the boil returns. Drain, measure the hot slices and keep covered.",
+        "Combine sugar, starch and cinnamon with cold water and apple juice. Stir over medium-high heat until bubbling and thickened. Add bottled lemon juice and boil for a full minute, stirring.",
+        "Fold in the hot fruit immediately. Fill a hot quart jar without delay, leaving one inch headspace. Remove bubbles and recheck the level.",
+        "Wipe rims, fit lids and process quarts in a boiling-water canner. Start timing when the full boil returns. Choose by elevation (up to 1,000 ft: 25 minutes, 1,001–3,000 ft: 30 minutes, 3,001–6,000 ft: 35 minutes, above 6,000 ft: 40 minutes).",
+        "Turn off heat, uncover the canner and wait five minutes. Lift jars upright and cool undisturbed for 12–24 hours before checking seals."
       ],
-      "safety": "Use ONLY cook-type ClearJel for canning pie filling—cornstarch, flour, and tapioca break down or block heat penetration during canning.",
+      "safety": "Use the specified ingredients, jar sizes and process. Refrigerate an unsealed jar promptly if found at the initial seal check.",
       "tags": [
         "canning",
         "apple-pie",
         "clearjel",
         "water-bath"
+      ],
+      "scenario": "Apple pie filling needs to thicken without interfering with canning heat transfer.",
+      "overview": "Use the exact thickener specified by a tested pie-filling recipe. Ordinary flour or cornstarch changes the process.",
+      "sources": [
+        [
+          "NCHFP · Apple Pie Filling",
+          "https://nchfp.uga.edu/how/can/canning-fills-extracts/apple-pie-filling/"
+        ]
       ]
     },
     {
       "id": "kit-254",
       "cat": "Kitchen & From-Scratch",
       "sub": "Water-Bath & Pressure Canning",
-      "title": "Pressure-Canning Pulled Pork or Carnitas in Broth",
+      "title": "Pressure-can pork chunks for pulled pork at serving time",
       "diff": "Medium",
       "time": "2.5 hrs",
       "gear": [
@@ -7797,15 +8553,24 @@
         "1/2 tsp canning salt per pint"
       ],
       "steps": [
+        "Set the processing pressure for your elevation before filling jars. With a weighted gauge use 10 psi through 1,000 feet or 15 psi above. With a dial gauge use 11 psi through 2,000 feet, 12 through 4,000, 13 through 6,000 and 14 through 8,000. Above the listed range consult Extension. Vent a continuous plume of steam for 10 minutes before pressurizing.",
         "Brown pork cubes lightly, pack loosely into hot jars, add salt, and cover with boiling broth leaving 1-inch headspace.",
-        "Pressure can at 10 PSI weighted (11 PSI dial) for 75 minutes (pints) or 90 minutes (quarts); crisp drained meat in a hot skillet when ready to serve."
+        "Pressure can at the pressure selected for your elevation for 75 minutes (pints) or 90 minutes (quarts); crisp drained meat in a hot skillet when ready to serve."
       ],
-      "safety": "Trim thick exterior fat caps before canning so grease does not compromise jar seals.",
+      "safety": "Trim thick exterior fat caps before canning so grease does not compromise jar seals. If pressure drops below the required value during processing, return to pressure and restart the full time.",
       "tags": [
         "canning",
         "pressure-canning",
         "pork",
         "carnitas"
+      ],
+      "scenario": "You want meat that will pull apart for tacos after opening a pantry jar.",
+      "overview": "The tested process heats chunks of meat. Shred and season the pork after opening so the pack density in the canner stays as specified.",
+      "sources": [
+        [
+          "NCHFP · Meat, Strips, Cubes or Chunks",
+          "https://nchfp.uga.edu/how/can/preparing-and-canning-poultry-red-meats-and-seafoods/meat-strips-cubes-or-chunks/"
+        ]
       ]
     },
     {
@@ -7834,7 +8599,9 @@
         "bone-broth",
         "pantry",
         "emergency-pantry"
-      ]
+      ],
+      "scenario": "A tray of stock needs to take up much less space.",
+      "overview": "Package small measured portions and note the original volume so the next cook can restore the desired strength."
     },
     {
       "id": "kit-256",
@@ -7860,7 +8627,9 @@
         "citrus",
         "tea",
         "crafts"
-      ]
+      ],
+      "scenario": "You want dried citrus for drinks and a separate batch for decorations.",
+      "overview": "Sort slices by thickness and keep edible slices away from glue, string treatments or decorative coatings."
     },
     {
       "id": "kit-257",
@@ -7889,7 +8658,9 @@
         "sauce",
         "peppers",
         "spanish"
-      ]
+      ],
+      "scenario": "A jar of peppers and a handful of nuts can become a sauce for vegetables.",
+      "overview": "Blending in stages lets you keep some texture. Taste with the food it will accompany before adding more acid."
     },
     {
       "id": "kit-258",
@@ -7915,7 +8686,9 @@
         "grilling",
         "sauce",
         "food-safety"
-      ]
+      ],
+      "scenario": "Two cuts of meat need different marinades before grilling.",
+      "overview": "Set aside clean sauce for serving before any raw meat touches the batch."
     },
     {
       "id": "kit-259",
@@ -7946,7 +8719,9 @@
         "cutlets",
         "milanese",
         "dinner"
-      ]
+      ],
+      "scenario": "Chicken cutlets need to cook in the short time their crumbs take to brown.",
+      "overview": "Uniform thickness keeps the center and coating on a similar schedule. Check doneness at the thickest point."
     },
     {
       "id": "kit-260",
@@ -7975,7 +8750,9 @@
         "tuscan-chicken",
         "one-pan",
         "dinner"
-      ]
+      ],
+      "scenario": "You want a creamy skillet supper without washing a second pan.",
+      "overview": "The browned bits season the cream. Return the chicken to the sauce to finish and check the thickest piece."
     },
     {
       "id": "kit-261",
@@ -7999,7 +8776,9 @@
         "temperatures",
         "resting",
         "technique"
-      ]
+      ],
+      "scenario": "Two roasts come out of the oven at the same temperature but rise by different amounts.",
+      "overview": "Shape and mass affect the rise during resting. Record both readings for a cut you cook often."
     },
     {
       "id": "kit-262",
@@ -8031,7 +8810,9 @@
         "halloumi",
         "grilling-cheese",
         "dairy"
-      ]
+      ],
+      "scenario": "You want cheese that keeps its shape next to vegetables on a grill.",
+      "overview": "The pressed curd’s structure permits browning. Test a small slice before committing the whole block."
     },
     {
       "id": "kit-263",
@@ -8061,7 +8842,9 @@
         "quark",
         "kolaches",
         "dairy"
-      ]
+      ],
+      "scenario": "A tray of pastries needs a filling that stays put when folded.",
+      "overview": "Drain the cheese until a spoonful holds a mound before adding sweetener or fruit."
     },
     {
       "id": "kit-264",
@@ -8093,7 +8876,9 @@
         "whey",
         "zero-waste",
         "cheese"
-      ]
+      ],
+      "scenario": "You have fresh cheesemaking whey and wonder whether it can give a second yield.",
+      "overview": "The original cheesemaking method affects how much protein remains. Expect a smaller, finer curd than the first batch."
     },
     {
       "id": "kit-265",
@@ -8124,7 +8909,9 @@
         "sauce",
         "dairy",
         "dessert"
-      ]
+      ],
+      "scenario": "Sugar is dissolving for caramel and the cream needs to be within reach.",
+      "overview": "Color changes quickly near the finish. Prepare the other ingredients first so you can stop browning at the shade you want."
     },
     {
       "id": "kit-266",
@@ -8158,7 +8945,9 @@
         "bread",
         "sausage",
         "baking"
-      ]
+      ],
+      "scenario": "The breakfast crowd wants savory pastries that can be eaten out of hand.",
+      "overview": "A sealed seam keeps the sausage and cheese enclosed. Let the center cool slightly before serving."
     },
     {
       "id": "kit-267",
@@ -8191,7 +8980,9 @@
         "gulf-coast",
         "frying",
         "breakfast"
-      ]
+      ],
+      "scenario": "You want warm beignets and the dough needs time to rise before breakfast.",
+      "overview": "Cut similar pieces so the centers cook at the same rate. Dust with sugar after draining."
     },
     {
       "id": "kit-268",
@@ -8221,7 +9012,9 @@
         "ice-cream",
         "baking",
         "dessert"
-      ]
+      ],
+      "scenario": "You have ice cream ready and need a crisp cone that holds its shape.",
+      "overview": "Shape each wafer while warm and pliable. It becomes rigid as it cools."
     },
     {
       "id": "kit-269",
@@ -8251,7 +9044,9 @@
         "bread",
         "pizza-dough",
         "dinner"
-      ]
+      ],
+      "scenario": "There’s spare pizza dough and the table needs a side for pasta.",
+      "overview": "Loose, evenly sized knots rise and bake together. Season while warm so the garlic butter coats the surface."
     },
     {
       "id": "kit-270",
@@ -8283,7 +9078,9 @@
         "oatmeal",
         "sourdough-discard",
         "baking"
-      ]
+      ],
+      "scenario": "There’s a small portion of discard and you want a cookie with more texture.",
+      "overview": "The oats take up moisture while the dough rests. A test cookie shows the spread before you commit a tray."
     },
     {
       "id": "kit-271",
@@ -8312,7 +9109,9 @@
         "cornmeal",
         "cast-iron",
         "breakfast"
-      ]
+      ],
+      "scenario": "You want cornbread flavor but the oven is occupied.",
+      "overview": "A small griddle cake fits a short cook and gives each serving its own crisp edges."
     },
     {
       "id": "kit-272",
@@ -8344,7 +9143,9 @@
         "kimchi",
         "cabbage",
         "probiotics"
-      ]
+      ],
+      "scenario": "A whole napa cabbage is awkward to pack in a small home jar.",
+      "overview": "Cutting it into pieces helps the seasoning coat the leaves and the cabbage fit evenly below its liquid."
     },
     {
       "id": "kit-273",
@@ -8375,7 +9176,9 @@
         "jalapenos",
         "escabeche",
         "mexican"
-      ]
+      ],
+      "scenario": "Taco night could use a mixed vegetable topping with varying levels of heat.",
+      "overview": "Even slices let each forkful contain pepper, carrot and onion. Mark fermented jars separately from vinegar pickles."
     },
     {
       "id": "kit-274",
@@ -8405,7 +9208,9 @@
         "beet-kvass",
         "probiotics",
         "beverages"
-      ]
+      ],
+      "scenario": "You have beets and ginger and would like a tart drink.",
+      "overview": "Strain a small sample to judge flavor and keep handling and storage instructions with the finished drink."
     },
     {
       "id": "kit-275",
@@ -8435,55 +9240,61 @@
         "vegan-cheese",
         "cashews",
         "probiotics"
-      ]
+      ],
+      "scenario": "You want a dairy-free spread with enough body to hold on a cracker.",
+      "overview": "The soaked nut or seed provides the body. Add liquid in small amounts when blending to preserve spreadability."
     },
     {
       "id": "kit-276",
       "cat": "Kitchen & From-Scratch",
       "sub": "Water-Bath & Pressure Canning",
-      "title": "Canning Homemade Salsa (USDA Tested Safe Ratio)",
+      "title": "Choice Salsa with a tested canning process",
       "diff": "Medium",
-      "time": "2 hrs",
+      "time": "About 6 pints plus cooling",
       "gear": [
-        "Water bath canner",
-        "Large stockpot",
+        "Boiling-water canner with rack",
         "Jar lifter",
-        "Canning funnel",
-        "Bubble popper"
+        "Measuring cups"
       ],
       "supplies": [
-        "5 lbs ripe paste tomatoes (peeled, cored, chopped)",
-        "2 cups chopped onion",
-        "1.5 cups chopped bell pepper + 1/2 cup chopped jalapeño",
-        "4 cloves minced garlic + 1/2 cup chopped cilantro",
-        "1/2 cup bottled lemon or lime juice (5% acidity — mandatory)",
-        "1 tbsp canning salt + 1 tsp ground cumin"
+        "6 cups prepared tomato",
+        "9 cups combined diced peppers and onions",
+        "1½ cups commercially bottled lemon juice",
+        "3 tsp canning salt",
+        "Pint or half-pint canning jars and lids"
       ],
       "steps": [
-        "Combine chopped tomatoes, onion, peppers, garlic, bottled lemon/lime juice, salt, and cumin in a large pot; bring to a boil and simmer 10 minutes, stirring in cilantro at the end.",
-        "Ladle hot salsa into hot pint jars leaving 1/2-inch headspace, debubble, wipe rims, and process 15 minutes in a boiling-water bath."
+        "Prepare hot pint or half-pint jars, lids and a boiling-water canner. Peel, core and seed tomatoes, then chop to ¼–½ inch. Dice peeled onions and trimmed peppers to ¼ inch. Wear gloves for hot peppers.",
+        "Measure six level cups of prepared tomato and nine level cups of prepared peppers and onions combined. Add 1½ cups commercially bottled lemon juice and three teaspoons canning salt. Bring to a boil, stirring, then simmer three minutes.",
+        "Fill hot jars with hot salsa, leaving ½ inch headspace. Remove trapped air, correct headspace, clean rims and fit lids. Cover jars with boiling water and start timing when the full boil returns.",
+        "For pints or half-pints, process 15 minutes through 1,000 feet, 20 minutes at 1,001–6,000 feet or 25 minutes above 6,000 feet. Maintain the boil throughout. Cool undisturbed 12–24 hours and check the seals."
       ],
-      "safety": "Never increase the ratio of low-acid onions/peppers or reduce the 1/2 cup bottled citrus juice in canned salsa—doing so raises pH into unsafe botulism territory.",
+      "safety": "Keep the stated proportions and jar sizes. Add fresh garlic, cilantro or other family seasonings after opening.",
       "tags": [
-        "canning",
         "salsa",
-        "tomatoes",
-        "water-bath",
-        "food-safety"
+        "tested recipe",
+        "canning"
+      ],
+      "scenario": "You want to preserve salsa and have your own favorite fresh recipe.",
+      "overview": "A tested salsa specifies the amounts of tomatoes, low-acid ingredients and acid. Make family flavor adjustments after opening.",
+      "sources": [
+        [
+          "NCHFP · Choice Salsa",
+          "https://nchfp.uga.edu/how/can/salsa/choice-salsa/"
+        ]
       ]
     },
     {
       "id": "kit-277",
       "cat": "Kitchen & From-Scratch",
-      "sub": "Water-Bath & Pressure Canning",
-      "title": "Canning Sweet Peach & Ginger Chutney",
+      "sub": "Sauces, Condiments & Pantry Staples",
+      "title": "Peach and ginger chutney for the refrigerator",
       "diff": "Easy",
       "time": "1.5 hrs",
       "gear": [
-        "Wide preserving pan",
-        "Water bath canner",
-        "Half-pint jars",
-        "Jar lifter"
+        "Saucepan",
+        "Knife and cutting board",
+        "Clean shallow refrigerator containers"
       ],
       "supplies": [
         "4 lbs peeled, diced ripe peaches",
@@ -8494,14 +9305,22 @@
       ],
       "steps": [
         "Simmer all ingredients together over medium heat for 35-45 minutes, stirring frequently, until thick and jammy.",
-        "Ladle hot chutney into hot half-pint jars leaving 1/2-inch headspace, debubble, wipe rims, and process 10 minutes in a boiling-water bath."
+        "Divide the cooked condiment into clean shallow containers and refrigerate promptly. Use within three to four days or freeze portions for later."
       ],
-      "safety": "Pairs brilliantly with roasted pork, grilled chicken, or sharp cheddar.",
+      "safety": "This preparation requires cold storage. The reference describes a separate preservation method.",
       "tags": [
         "canning",
         "chutney",
         "peaches",
         "water-bath"
+      ],
+      "scenario": "The peaches are ripe and you want a savory condiment to go with roast meat.",
+      "overview": "Cooking the peaches with ginger produces a sweet-sour relish. Chilling or freezing this family mixture lets you choose the fruit and seasoning to taste.",
+      "sources": [
+        [
+          "NCHFP · Preservation Principles in Chutney",
+          "https://nchfp.uga.edu/resources/entry/preservation-principles-in-chutney"
+        ]
       ]
     },
     {
@@ -8522,15 +9341,24 @@
         "1/2 tsp canning salt per pint (optional)"
       ],
       "steps": [
+        "Set the processing pressure for your elevation before filling jars. With a weighted gauge use 10 psi through 1,000 feet or 15 psi above. With a dial gauge use 11 psi through 2,000 feet, 12 through 4,000, 13 through 6,000 and 14 through 8,000. Above the listed range consult Extension. Vent a continuous plume of steam for 10 minutes before pressurizing.",
         "Pack raw sliced carrots tightly into hot jars leaving 1-inch headspace (or boil 5 minutes first for hot-pack).",
-        "Add salt, cover with boiling water leaving 1-inch headspace, debubble, and pressure can at 10 PSI weighted (11 PSI dial) for 25 minutes (pints) or 30 minutes (quarts)."
+        "Add salt, cover with boiling water leaving 1-inch headspace, debubble, and pressure can at the pressure selected for your elevation for 25 minutes (pints) or 30 minutes (quarts)."
       ],
-      "safety": "Always peel carrots before canning—soil bacteria cling tightly to carrot skins.",
+      "safety": "Always peel carrots before canning—soil bacteria cling tightly to carrot skins. If pressure drops below the required value during processing, return to pressure and restart the full time.",
       "tags": [
         "canning",
         "pressure-canning",
         "carrots",
         "vegetables"
+      ],
+      "scenario": "A basket of carrots has many different sizes.",
+      "overview": "Cut to the size specified in the tested pack so the jar heats as intended.",
+      "sources": [
+        [
+          "NCHFP · Carrots – Sliced or Diced",
+          "https://nchfp.uga.edu/how/can/canning-vegetables-and-vegetable-products/carrots-sliced-or-diced/"
+        ]
       ]
     },
     {
@@ -8552,15 +9380,24 @@
         "1/2 tsp canning salt per pint (optional)"
       ],
       "steps": [
+        "Set the processing pressure for your elevation before filling jars. With a weighted gauge use 10 psi through 1,000 feet or 15 psi above. With a dial gauge use 11 psi through 2,000 feet, 12 through 4,000, 13 through 6,000 and 14 through 8,000. Above the listed range consult Extension. Vent a continuous plume of steam for 10 minutes before pressurizing.",
         "Soak peeled cubed potatoes in cold water while prepping so they don't brown, then boil in fresh water for 2 minutes (or 10 minutes for whole small potatoes).",
-        "Drain and pack hot potatoes into hot jars, cover with fresh boiling water (not the starchy blanching water) leaving 1-inch headspace, debubble, and pressure can at 10 PSI weighted (11 PSI dial) for 35 minutes (pints) or 40 minutes (quarts)."
+        "Drain and pack hot potatoes into hot jars, cover with fresh boiling water (not the starchy blanching water) leaving 1-inch headspace, debubble, and pressure can at the pressure selected for your elevation for 35 minutes (pints) or 40 minutes (quarts)."
       ],
-      "safety": "Use fresh boiling water rather than starchy cooking liquid so jars stay clear and heat circulates properly.",
+      "safety": "Use fresh boiling water rather than starchy cooking liquid so jars stay clear and heat circulates properly. If pressure drops below the required value during processing, return to pressure and restart the full time.",
       "tags": [
         "canning",
         "pressure-canning",
         "potatoes",
         "emergency-pantry"
+      ],
+      "scenario": "Weekday breakfasts would be easier with potatoes already prepared.",
+      "overview": "Peel and cut to the validated dimensions for canning. Drain and brown the finished pieces at serving time.",
+      "sources": [
+        [
+          "NCHFP · Potatoes, White – Cubed or Whole",
+          "https://nchfp.uga.edu/how/can/canning-vegetables-and-vegetable-products/potatoes-white-cubed-or-whole/"
+        ]
       ]
     },
     {
@@ -8587,7 +9424,9 @@
         "vegetables",
         "mirepoix",
         "emergency-pantry"
-      ]
+      ],
+      "scenario": "The garden has yielded a little of each aromatic vegetable.",
+      "overview": "Measure the mix before drying and label the ratio. That lets a future cook choose the right base for a particular soup."
     },
     {
       "id": "kit-281",
@@ -8615,7 +9454,9 @@
         "avocado",
         "guacamole",
         "preservation"
-      ]
+      ],
+      "scenario": "Several avocados ripened together and you want portions for later.",
+      "overview": "Air exposure affects color and the fruit’s fat affects storage quality. Test one rehydrated portion before packing a large batch."
     },
     {
       "id": "kit-282",
@@ -8643,7 +9484,9 @@
         "apples",
         "snacks",
         "preservation"
-      ]
+      ],
+      "scenario": "Some apple slices have leathery centers while the thin ones snap.",
+      "overview": "Slice to consistent thickness and examine cooled samples from different trays before storage."
     },
     {
       "id": "kit-283",
@@ -8671,7 +9514,9 @@
         "fruit-leather",
         "snacks",
         "kids"
-      ]
+      ],
+      "scenario": "Soft ripe fruit needs to become a packable snack.",
+      "overview": "Spread the purée evenly, especially at the center. Roll individual pieces only after they release cleanly from the liner."
     },
     {
       "id": "kit-284",
@@ -8700,7 +9545,9 @@
         "potatoes",
         "roasting",
         "sides"
-      ]
+      ],
+      "scenario": "You need a side with crisp skins and creamy centers on the same tray.",
+      "overview": "Moist heat cooks the interior and a dry finish browns the exterior. Group potatoes by size."
     },
     {
       "id": "kit-285",
@@ -8730,7 +9577,9 @@
         "ribs",
         "pork",
         "bbq"
-      ]
+      ],
+      "scenario": "You want ribs tender enough to bite through but firm enough to lift to the grill.",
+      "overview": "Controlled cooking develops texture. Dry the surface before the final hot finish."
     },
     {
       "id": "kit-286",
@@ -8757,7 +9606,9 @@
         "salmon",
         "cedar-plank",
         "seafood"
-      ]
+      ],
+      "scenario": "Dinner features a delicate fillet that tends to stick to grill bars.",
+      "overview": "The plank supports the fish and carries smoke aroma. Check the fish itself for doneness."
     },
     {
       "id": "kit-287",
@@ -8785,7 +9636,9 @@
         "queso",
         "cast-iron",
         "appetizer"
-      ]
+      ],
+      "scenario": "The grill is already hot and the snacks need to serve several people.",
+      "overview": "A heavy skillet buffers the heat as the cheese melts. Stir before serving so the smoky top mixes through."
     },
     {
       "id": "kit-288",
@@ -8812,7 +9665,9 @@
         "buffalo",
         "sauce",
         "condiments"
-      ]
+      ],
+      "scenario": "One batch of wings needs two distinct sauces.",
+      "overview": "Portion the wings after cooking. Toss only what you will serve immediately to protect the crisp surface."
     },
     {
       "id": "kit-289",
@@ -8842,7 +9697,9 @@
         "yogurt",
         "greek",
         "sauce"
-      ]
+      ],
+      "scenario": "A yogurt dip keeps turning watery on the table.",
+      "overview": "Removing liquid from the cucumber before mixing preserves the body of the yogurt."
     },
     {
       "id": "kit-290",
@@ -8872,7 +9729,9 @@
         "beef",
         "mushrooms",
         "dinner"
-      ]
+      ],
+      "scenario": "You want browned mushrooms and a smooth sour-cream sauce in one pan.",
+      "overview": "Brown the mushrooms before adding liquid. Finish the dairy gently so the sauce stays smooth."
     },
     {
       "id": "kit-291",
@@ -8901,7 +9760,9 @@
         "one-pot",
         "dinner",
         "rice"
-      ]
+      ],
+      "scenario": "The rice and chicken need to finish in the same covered pot.",
+      "overview": "Rice depends on the liquid ratio while chicken needs a temperature check. Verify each before serving."
     },
     {
       "id": "kit-292",
@@ -8930,7 +9791,9 @@
         "baking",
         "dessert",
         "apo"
-      ]
+      ],
+      "scenario": "A cheesecake cracked last time even though the edges looked done.",
+      "overview": "A humid bake and gradual cooling limit temperature swings. Chill fully before cutting a clean slice."
     },
     {
       "id": "kit-293",
@@ -8961,7 +9824,9 @@
         "chocolate",
         "no-bake",
         "gifts"
-      ]
+      ],
+      "scenario": "You need a make-ahead sweet that can be portioned without a knife.",
+      "overview": "Chill the peanut-butter centers before dipping so they hold their shape in warm chocolate."
     },
     {
       "id": "kit-294",
@@ -8988,7 +9853,9 @@
         "calibration",
         "food-safety",
         "reference"
-      ]
+      ],
+      "scenario": "Two thermometers disagree and the next cooking decision depends on the reading.",
+      "overview": "An ice slurry gives one known reference point. Record an offset or replace an inaccurate instrument according to its instructions."
     },
     {
       "id": "kit-295",
@@ -9019,7 +9886,9 @@
         "fromage-blanc",
         "french",
         "dairy"
-      ]
+      ],
+      "scenario": "You need a mild cheese that will take either fresh herbs or jam.",
+      "overview": "Drain the cultured curd only as far as the intended use requires. Divide it before adding contrasting flavors."
     },
     {
       "id": "kit-296",
@@ -9046,7 +9915,9 @@
         "coffee-cake",
         "baking",
         "breakfast"
-      ]
+      ],
+      "scenario": "A brunch cake needs a crumb layer substantial enough to pick up with a fork.",
+      "overview": "Pinch the streusel into varied pieces for a distinct topping. Check the cake below it for doneness."
     },
     {
       "id": "kit-297",
@@ -9074,7 +9945,9 @@
         "zero-waste",
         "snacks",
         "baking"
-      ]
+      ],
+      "scenario": "A few pitas and bagels are going stale at different speeds.",
+      "overview": "Slice and bake each type separately. Let them cool before deciding whether they need another minute to crisp."
     },
     {
       "id": "kit-298",
@@ -9103,13 +9976,15 @@
         "vinegar",
         "beverages",
         "fermentation"
-      ]
+      ],
+      "scenario": "Summer fruit could flavor a drink without buying a syrup.",
+      "overview": "Vinegar gives a shrub its sharpness. Dilute a spoonful in water to judge the finished balance."
     },
     {
       "id": "kit-299",
       "cat": "Kitchen & From-Scratch",
       "sub": "Water-Bath & Pressure Canning",
-      "title": "Canning Pickled Jalapeño Rings (Nacho & Burger Ready)",
+      "title": "Pickled hot peppers for sandwiches and nachos",
       "diff": "Easy",
       "time": "45 mins",
       "gear": [
@@ -9119,28 +9994,42 @@
         "Jar lifter"
       ],
       "supplies": [
-        "2 lbs firm fresh jalapeños, sliced 1/4-inch rings",
-        "2.5 cups white distilled vinegar (5%)",
-        "1/2 cup water + 1.5 tbsp pickling salt + 1 tbsp sugar",
-        "4 smashed garlic cloves + 1/4 tsp calcium chloride (Pickle Crisp) per pint"
+        "4 lb hot peppers",
+        "3 lb sweet peppers",
+        "5 cups 5% vinegar",
+        "1 cup water",
+        "4 tsp pickling salt",
+        "2 tbsp sugar",
+        "2 cloves garlic"
       ],
       "steps": [
-        "Pack raw sliced jalapeño rings and garlic tightly into hot jars with Pickle Crisp.",
-        "Boil vinegar, water, salt, and sugar; pour over peppers leaving 1/2-inch headspace, debubble, wipe rims, and process 10 minutes in a boiling-water bath."
+        "Wear gloves. Wash peppers. Quarter large peppers and cut two to four slits in any small ones left whole. Blister skins at 400°F for six to eight minutes, cool and peel. Flatten small peppers.",
+        "Fill pint or half-pint jars with prepared peppers. Bring vinegar, water, salt, sugar and garlic to a boil, simmer ten minutes and remove garlic.",
+        "Pour hot pickling liquid over the peppers, leaving ½ inch headspace. Slice into serving pieces after opening.",
+        "Wipe rims, fit lids and process half-pints or pints in a boiling-water canner. Start timing when the full boil returns. Choose by elevation (up to 1,000 ft: 10 minutes, 1,001–6,000 ft: 15 minutes, above 6,000 ft: 20 minutes).",
+        "Turn off heat, uncover the canner and wait five minutes. Lift jars upright and cool undisturbed for 12–24 hours before checking seals."
       ],
-      "safety": "Wear nitrile gloves when slicing bulk jalapeños.",
+      "safety": "Use the specified ingredients, jar sizes and process. Refrigerate an unsealed jar promptly if found at the initial seal check.",
       "tags": [
         "canning",
         "jalapenos",
         "pickles",
         "water-bath"
+      ],
+      "scenario": "You need pepper rings that sit flat on nachos or burgers.",
+      "overview": "Peeling and flattening prepare the peppers for the tested pack. Slicing them at serving time gives strips for a sandwich or smaller pieces for nachos.",
+      "sources": [
+        [
+          "NCHFP · Pickled Hot Peppers",
+          "https://nchfp.uga.edu/how/can/pickled-and-fermented/pickled-hot-peppers/"
+        ]
       ]
     },
     {
       "id": "kit-300",
       "cat": "Kitchen & From-Scratch",
       "sub": "Water-Bath & Pressure Canning",
-      "title": "Pressure-Canning Sweet Potatoes or Winter Squash Cubes",
+      "title": "Pressure-can cubed winter squash",
       "diff": "Medium",
       "time": "2 hrs",
       "gear": [
@@ -9150,20 +10039,35 @@
         "Canning funnel"
       ],
       "supplies": [
-        "5 lbs orange sweet potatoes or butternut squash, peeled and cubed 1-inch",
+        "Hard-rind mature winter squash or pumpkin",
         "Boiling water",
-        "1/2 tsp canning salt per pint (optional)"
+        "Canning jars and lids"
       ],
       "steps": [
-        "Boil cubed sweet potatoes or squash in water for 2 minutes (do not mash—pureed squash/pumpkin cannot be safely home-canned due to density).",
-        "Pack hot cubes loosely into hot jars, cover with fresh boiling water leaving 1-inch headspace, debubble, and pressure can at 10 PSI weighted (11 PSI dial) for 55 minutes (pints) or 90 minutes (quarts)."
+        "Set the processing pressure for your elevation before filling jars. With a weighted gauge use 10 psi through 1,000 feet or 15 psi above. With a dial gauge use 11 psi through 2,000 feet, 12 through 4,000, 13 through 6,000 and 14 through 8,000. Above the listed range consult Extension. Vent a continuous plume of steam for 10 minutes before pressurizing.",
+        "Wash, halve, remove seeds, slice and peel the squash. Cut flesh into one-inch cubes.",
+        "Boil the cubes for two minutes. Fill hot jars with cubes and cooking liquid, leaving one inch headspace. Do not mash. Remove bubbles, wipe rims and apply lids.",
+        "In a properly vented pressure canner process pints 55 minutes or quarts 90 minutes. Set pressure for your gauge and elevation according to the winter squash table. Allow natural depressurization.",
+        "Cool undisturbed and test seals after 12–24 hours. Label the jars and purée only after opening."
       ],
-      "safety": "Always can sweet potatoes and winter squash in 1-inch cubes—never mashed or pureed.",
+      "safety": "Sweet potatoes need their own preparation and timing. Use the separate sweet-potato reference for that crop. If pressure drops below the required value during processing, return to pressure and restart the full time.",
       "tags": [
         "canning",
         "pressure-canning",
         "sweet-potatoes",
         "food-safety"
+      ],
+      "scenario": "You want a base for future squash soup that fits a tested canning process.",
+      "overview": "Keep cubes intact during processing. Mash or purée after opening because density affects heat penetration.",
+      "sources": [
+        [
+          "NCHFP · Pumpkins and Winter Squash – Cubed",
+          "https://nchfp.uga.edu/how/can/canning-vegetables-and-vegetable-products/pumpkins-and-winter-squash-cubed/"
+        ],
+        [
+          "NCHFP · Potatoes, Sweet – Pieces or Whole",
+          "https://nchfp.uga.edu/how/can/canning-vegetables-and-vegetable-products/potatoes-sweet-pieces-or-whole/"
+        ]
       ]
     },
     {
@@ -9191,7 +10095,9 @@
         "breakfast",
         "emergency-pantry",
         "camping"
-      ]
+      ],
+      "scenario": "A camp breakfast needs to pack into individual servings.",
+      "overview": "Test one portion with the amount of water you expect to carry. Mark the packet with the preparation state and cooking instructions."
     },
     {
       "id": "kit-302",
@@ -9218,7 +10124,9 @@
         "chipotle",
         "mexican",
         "sauce"
-      ]
+      ],
+      "scenario": "The taco filling is ready and you want a cool topping with some heat.",
+      "overview": "Divide a plain crema base before adding different chiles so each bowl can be adjusted independently."
     },
     {
       "id": "kit-303",
@@ -9247,7 +10155,9 @@
         "pan-sauce",
         "apple-cider",
         "dinner"
-      ]
+      ],
+      "scenario": "A small tenderloin needs to feed the table as slices with sauce.",
+      "overview": "Sear evenly cut medallions and finish the cider sauce in the same pan. Taste after reduction because sweetness concentrates."
     },
     {
       "id": "kit-304",
@@ -9278,7 +10188,9 @@
         "chicken",
         "ricotta",
         "dinner"
-      ]
+      ],
+      "scenario": "Lasagna flavors sound good but you have time for one pot.",
+      "overview": "Pasta continues taking up broth as it stands. Save some liquid to adjust leftovers when reheating."
     },
     {
       "id": "kit-305",
@@ -9309,7 +10221,79 @@
         "texas",
         "baking",
         "dessert"
-      ]
+      ],
+      "scenario": "You want pecan pie without corn syrup and need the filling to slice cleanly.",
+      "overview": "A gently set center finishes firming as it cools. Give the pie time to cool before judging the texture."
+    },
+    {
+      "id": "kit-306",
+      "sub": "Grid-Down & Emergency Cooking",
+      "title": "A no-cook supper for two from one shelf",
+      "scenario": "Dinner is due now, the power is off and opening the refrigerator would start warming the food you hope to save.",
+      "time": "10 minutes",
+      "diff": "Easy",
+      "gear": [
+        "Manual can opener",
+        "Two bowls",
+        "Fork"
+      ],
+      "supplies": [
+        "One 15-ounce can ready-to-eat chickpeas or white beans",
+        "One small can ready-to-eat corn",
+        "Olive oil and vinegar packets",
+        "Crackers",
+        "Safe water for handwashing"
+      ],
+      "steps": [
+        "Clean your hands and utensils with safe water. Set out only intact shelf-stable packages. Discard swollen, leaking or flood-exposed containers.",
+        "Drain the beans and corn. Mash half the beans with a fork and mix with the whole beans and corn. Start with one tablespoon oil and one teaspoon vinegar, then season to taste.",
+        "Serve with crackers. With no verified refrigeration, open only what you can finish and discard perishable leftovers within two hours, or one hour above 90°F."
+      ],
+      "overview": "Mashing part of the beans makes a cohesive meal without heating water or dirtying a pan. Divide your usual brand between two bowls once at home to see if the portions suit you.",
+      "sources": [
+        [
+          "FoodSafety.gov · Four steps to food safety",
+          "https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety"
+        ]
+      ],
+      "tags": [
+        "grid-down",
+        "emergency cooking"
+      ],
+      "cat": "Kitchen & From-Scratch"
+    },
+    {
+      "id": "kit-307",
+      "sub": "Kitchen Reference & Troubleshooting",
+      "title": "Label leftovers so either person can finish dinner",
+      "scenario": "Three tubs in the freezer look identical. One is cooked soup, one is raw chicken and one needs water added.",
+      "time": "5 minutes",
+      "diff": "Easy",
+      "gear": [
+        "Permanent marker"
+      ],
+      "supplies": [
+        "Freezer labels"
+      ],
+      "steps": [
+        "Before filling a container, write the dish, preparation date, number of servings and whether the food is raw or cooked.",
+        "Add the one instruction that cannot be inferred from the contents, such as “add one cup broth” or “bake from thawed.” Include important allergens for shared meals.",
+        "Place the label on a visible surface with food-safe packaging between ink and food. Put the oldest safely stored meals at the front.",
+        "When reheating leftovers, use a thermometer to check the center reaches 165°F."
+      ],
+      "overview": "A good label lets the second cook make dinner safely without calling the first. Dates also make rotating meals a quick visual task.",
+      "sources": [
+        [
+          "FoodSafety.gov · Minimum cooking temperatures",
+          "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+        ]
+      ],
+      "tags": [
+        "kitchen reference",
+        "troubleshooting"
+      ],
+      "cat": "Kitchen & From-Scratch"
     }
-  ]
+  ],
+  "version": "2026.11.15-birthday-r1"
 }

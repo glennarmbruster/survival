@@ -12,18 +12,20 @@
       ],
       "supplies": [],
       "steps": [
-        "Friendswood (Galveston/Harris County border, USDA Zone 9b) averages a last spring frost around February 15\u201322 and a first autumn freeze around December 5\u201315, giving ~295 frost-free growing days\u2014split into two distinct prime vegetable seasons (Spring: Feb\u2013May; Fall: Sep\u2013Dec) separated by an intense 100-day humid heatwave (Jun\u2013Aug).",
-        "Manage the 3 local soil & climate realities: (1) heavy alkaline Beaumont/Lake Charles gumbo clay (pH 7.2\u20138.0) that holds standing water after 4-inch Gulf downpours; (2) 75%\u201395% coastal humidity driving early blight and powdery mildew; and (3) warm 76\u00b0F+ summer nights that halt tomato/pepper pollination.",
+        "Friendswood (Galveston/Harris County border, USDA Zone 9b) averages a last spring frost around February 15–22 and a first autumn freeze around December 5–15, giving ~295 frost-free growing days—split into two distinct prime vegetable seasons (Spring: Feb–May; Fall: Sep–Dec) separated by an intense 100-day humid heatwave (Jun–Aug).",
+        "Manage the 3 local soil & climate realities: (1) heavy alkaline Beaumont/Lake Charles gumbo clay (pH 7.2–8.0) that holds standing water after 4-inch Gulf downpours; (2) 75%–95% coastal humidity driving early blight and powdery mildew; and (3) warm 76°F+ summer nights that halt tomato/pepper pollination.",
         "Place a wireless dual-probe thermometer/hygrometer inside your greenhouse and garden to track night lows and daytime humidity spikes."
       ],
-      "safety": "Always keep freeze cloth and pipe covers staged by November 15\u2014Gulf Coast blue northers can drop temperatures from 78\u00b0F to 24\u00b0F in 12 hours.",
+      "safety": "Always keep freeze cloth and pipe covers staged by November 15—Gulf Coast blue northers can drop temperatures from 78°F to 24°F in 12 hours.",
       "tags": [
         "friendswood",
         "zone-9b",
         "microclimate",
         "frost-dates",
         "texas"
-      ]
+      ],
+      "scenario": "The forecast says the night will stay above freezing, but the lowest corner of the yard often feels colder.",
+      "overview": "Compare overnight readings at plant height inside and outside. A few marked cold spots make the regional calendar much more useful for Cindy’s own beds."
     },
     {
       "id": "fwg-102",
@@ -40,11 +42,11 @@
       "supplies": [
         "4x4 pressure-treated timber base frame",
         "18-inch ground auger anchors + steel cables",
-        "Twin-wall UV-stabilized polycarbonate panels (6mm\u20138mm)"
+        "Twin-wall UV-stabilized polycarbonate panels (6mm–8mm)"
       ],
       "steps": [
         "Orient your greenhouse ridge East-to-West in Friendswood so the long south-facing wall captures maximum low-angle winter sun from November through February.",
-        "Choose twin-wall polycarbonate panels (6mm\u20138mm) over single-layer glass or thin film\u2014twin-wall channels trap insulating air for winter freezes AND diffuse harsh Texas sunlight to reduce leaf scorch.",
+        "Choose twin-wall polycarbonate panels (6mm–8mm) over single-layer glass or thin film—twin-wall channels trap insulating air for winter freezes AND diffuse harsh Texas sunlight to reduce leaf scorch.",
         "Hurricane Anchoring (Mandatory on the Gulf Coast): Bolt the aluminum frame onto a heavy 4x4 timber perimeter sill anchored into the ground with 18-inch spiral earth augers at every corner, and seal polycarbonate panels into channels with neutral-cure silicone so 80+ mph gusts cannot pop panels out."
       ],
       "safety": "Before a named hurricane makes landfall, latch all roof vents shut (or remove lightweight vents) so wind cannot pressurize and lift the roof.",
@@ -54,7 +56,9 @@
         "friendswood",
         "polycarbonate",
         "setup"
-      ]
+      ],
+      "scenario": "You can still move the greenhouse on paper before the base is built.",
+      "overview": "Consider drainage, prevailing wind and room to reach the anchors. Use the manufacturer’s rated anchoring system for the actual site."
     },
     {
       "id": "fwg-103",
@@ -69,13 +73,13 @@
         "Oscillating circulation fans"
       ],
       "supplies": [
-        "40%\u201350% Aluminet reflective shade cloth",
+        "40%–50% Aluminet reflective shade cloth",
         "Misting line kit"
       ],
       "steps": [
-        "A closed Friendswood greenhouse hits 130\u00b0F+ by April\u2014size your exhaust fan to exchange the entire air volume of the greenhouse once every 1 to 2 minutes (Length x Width x Avg Height = total CFM needed) with intake louvers on the opposite lower wall.",
-        "Drape 40%\u201350% Aluminet reflective shade cloth OVER THE EXTERIOR roof from May through September\u2014blocking sunlight outside the roof drops interior temps by 12\u00b0F\u201318\u00b0F (hanging shade cloth inside still traps solar heat).",
-        "Install wax-cylinder automatic roof vent openers (require zero electricity) that push roof vents open automatically at 70\u00b0F and close at 60\u00b0F."
+        "A closed Friendswood greenhouse hits 130°F+ by April—size your exhaust fan to exchange the entire air volume of the greenhouse once every 1 to 2 minutes (Length x Width x Avg Height = total CFM needed) with intake louvers on the opposite lower wall.",
+        "Drape 40%–50% Aluminet reflective shade cloth OVER THE EXTERIOR roof from May through September—blocking sunlight outside the roof drops interior temps by 12°F–18°F (hanging shade cloth inside still traps solar heat).",
+        "Install wax-cylinder automatic roof vent openers (require zero electricity) that push roof vents open automatically at 70°F and close at 60°F."
       ],
       "safety": "Keep interior oscillating fans running 24/7 even in summer to prevent stagnant humid fungal outbreaks.",
       "tags": [
@@ -84,7 +88,9 @@
         "aluminet",
         "ventilation",
         "texas"
-      ]
+      ],
+      "scenario": "The fan runs but the greenhouse is hotter than the shaded yard.",
+      "overview": "Trace the air’s path from intake to exhaust at plant height. Shade, unobstructed airflow and measured temperatures help identify the limiting factor."
     },
     {
       "id": "fwg-104",
@@ -102,18 +108,20 @@
         "Bubble wrap insulation (UV-rated)"
       ],
       "steps": [
-        "Line the north interior wall of your greenhouse with black-painted 55-gallon water barrels\u2014water absorbs daytime solar heat and radiates steady warmth all night without electricity.",
-        "Insulate the north wall and lower knee-walls with large-bubble greenhouse bubble wrap (mist glass/polycarbonate with water and press flat side on\u2014clings via static without tape).",
-        "Set a waterproof electric greenhouse heater with a built-in thermostat to kick on at 42\u00b0F\u201345\u00b0F for tropical citrus, orchids, and winter seedlings."
+        "Line the north interior wall of your greenhouse with black-painted 55-gallon water barrels—water absorbs daytime solar heat and radiates steady warmth all night without electricity.",
+        "Insulate the north wall and lower knee-walls with large-bubble greenhouse bubble wrap (mist glass/polycarbonate with water and press flat side on—clings via static without tape).",
+        "Set a waterproof electric greenhouse heater with a built-in thermostat to kick on at 42°F–45°F for tropical citrus, orchids, and winter seedlings."
       ],
-      "safety": "Use ONLY IPX4 splash-proof heaters rated for damp greenhouses plugged directly into a dedicated GFCI outlet\u2014never household indoor heaters or extension cords.",
+      "safety": "Use ONLY IPX4 splash-proof heaters rated for damp greenhouses plugged directly into a dedicated GFCI outlet—never household indoor heaters or extension cords.",
       "tags": [
         "greenhouse-heating",
         "thermal-mass",
         "winter",
         "freeze-protection",
         "friendswood"
-      ]
+      ],
+      "scenario": "A cold night is forecast and the thermostat sits close to the heater.",
+      "overview": "Place a separate thermometer among the most vulnerable pots. Its minimum reading shows what the plants actually experienced."
     },
     {
       "id": "fwg-105",
@@ -132,9 +140,9 @@
         "Fish/kelp liquid fertilizer"
       ],
       "steps": [
-        "Spring Batch (Start indoors/greenhouse Dec 26 \u2013 Jan 15): Sow tomatoes, sweet/hot peppers, eggplant, and basil on a 75\u00b0F\u201380\u00b0F heat mat so sturdy 8-inch transplants are ready to plant outdoors in Friendswood by February 20\u2013March 1.",
-        "Early Cucurbits (Start Feb 1 \u2013 Feb 15 in biodegradable pots): Sow cucumbers, zucchini, cantaloupe, and watermelon 3 weeks before outdoor planting so they beat May squash vine borers.",
-        "Fall Batch (Start in shaded cool greenhouse Jul 15 \u2013 Aug 1): Sow fall tomatoes, broccoli, cauliflower, cabbage, and kale under 50% shade cloth so tender seedlings survive August heat for September transplanting."
+        "Spring Batch (Start indoors/greenhouse Dec 26 – Jan 15): Sow tomatoes, sweet/hot peppers, eggplant, and basil on a 75°F–80°F heat mat so sturdy 8-inch transplants are ready to plant outdoors in Friendswood by February 20–March 1.",
+        "Early Cucurbits (Start Feb 1 – Feb 15 in biodegradable pots): Sow cucumbers, zucchini, cantaloupe, and watermelon 3 weeks before outdoor planting so they beat May squash vine borers.",
+        "Fall Batch (Start in shaded cool greenhouse Jul 15 – Aug 1): Sow fall tomatoes, broccoli, cauliflower, cabbage, and kale under 50% shade cloth so tender seedlings survive August heat for September transplanting."
       ],
       "safety": "Keep a clean footbath mat or dedicated greenhouse shoes to avoid tracking outdoor soil-borne spider mites and whiteflies into your greenhouse.",
       "tags": [
@@ -143,7 +151,9 @@
         "friendswood",
         "calendar",
         "transplants"
-      ]
+      ],
+      "scenario": "The spring tomatoes outgrew their trays before the bed was ready.",
+      "overview": "Work backward from the intended transplant window and include hardening-off time. A second, smaller sowing spreads the risk of a late cold snap."
     },
     {
       "id": "fwg-106",
@@ -157,23 +167,25 @@
         "Yellow sticky traps"
       ],
       "supplies": [
-        "Mosquito Bits (BTI \u2014 Bacillus thuringiensis israelensis)",
+        "Mosquito Bits (BTI — Bacillus thuringiensis israelensis)",
         "Insecticidal soap",
         "Predatory mites / lacewing larvae"
       ],
       "steps": [
-        "Fungus Gnats (from warm damp potting trays): Soak 2 tablespoons of Mosquito Bits (BTI) in 1 gallon of watering-can water for 30 minutes, strain, and drench seedling trays\u2014kills gnat larvae within 48 hours without chemicals.",
+        "Fungus Gnats (from warm damp potting trays): Soak 2 tablespoons of Mosquito Bits (BTI) in 1 gallon of watering-can water for 30 minutes, strain, and drench seedling trays—kills gnat larvae within 48 hours without chemicals.",
         "Spider Mites & Whiteflies (thrive in dry/warm greenhouse air): Mist plant undersides weekly with water, hang yellow sticky cards at canopy height to monitor early outbreaks, and spray insecticidal soap at dusk.",
         "Quarantine any newly purchased nursery plant outside the greenhouse for 10 days before bringing it inside."
       ],
-      "safety": "Never use sulfur burners inside polycarbonate greenhouses\u2014sulfur vapor degrades polycarbonate panels and rusts aluminum frames.",
+      "safety": "Never use sulfur burners inside polycarbonate greenhouses—sulfur vapor degrades polycarbonate panels and rusts aluminum frames.",
       "tags": [
         "greenhouse-pests",
         "fungus-gnats",
         "spider-mites",
         "whiteflies",
         "bti"
-      ]
+      ],
+      "scenario": "Leaves look mottled and tiny insects lift when the bench is bumped.",
+      "overview": "Inspect leaf undersides and the potting surface separately. Matching the pest to its habitat narrows the treatment and avoids disturbing healthy trays."
     },
     {
       "id": "fwg-107",
@@ -187,8 +199,8 @@
         "Texas A&M AgriLife / Galveston County Master Gardener recommended seeds"
       ],
       "steps": [
-        "Tomatoes: Celebrity (determinate, disease-resistant), Solar Fire & Phoenix (sets fruit in 90\u00b0F+ heat), Sungold & Juliette (crack-resistant cherries).",
-        "Peppers: Jalape\u00f1o M, TAM Mild Jalape\u00f1o, Poblano/Ancho, Shishito, Tabasco, and Sweet Banana.",
+        "Tomatoes: Celebrity (determinate, disease-resistant), Solar Fire & Phoenix (sets fruit in 90°F+ heat), Sungold & Juliette (crack-resistant cherries).",
+        "Peppers: Jalapeño M, TAM Mild Jalapeño, Poblano/Ancho, Shishito, Tabasco, and Sweet Banana.",
         "Greens & Brassicas: Lacinato (Dinosaur) Kale, Georgia Southern Collards, Redbor Kale, Malabar Spinach (summer vine), and Swiss Chard (Bright Lights).",
         "Root & Summer Staples: Clemson Spineless Okra, Texas 1015Y Sweet Onions (plant sets in January), Beauregard Sweet Potatoes, Contender Bush Beans, and Celeste or Brown Turkey Figs + Owari Satsuma Mandarin."
       ],
@@ -199,7 +211,9 @@
         "galveston-county",
         "texas-am",
         "seeds"
-      ]
+      ],
+      "scenario": "Two seed catalogs offer very different tomatoes for the Gulf Coast.",
+      "overview": "Choose a small comparison planting and mark the cultivars. Fruit set and harvest dates in your own yard are useful evidence for the next order."
     },
     {
       "id": "fwg-108",
@@ -212,7 +226,7 @@
         "Soil pH meter"
       ],
       "supplies": [
-        "Chelated Iron (EDDHA \u2014 specifically for high pH)",
+        "Chelated Iron (EDDHA — specifically for high pH)",
         "Elemental sulfur",
         "Gypsum (calcium sulfate)",
         "Kelp meal"
@@ -222,20 +236,22 @@
         "Apply EDDHA-chelated iron (the ONLY iron chelate that stays soluble above pH 7.2) as a root drench for fast green-up within 10 days, and work elemental sulfur + pine bark fines into soil for gradual long-term pH lowering.",
         "For tomato/pepper Blossom-End Rot (dark leathery bottom spots): add gypsum (provides calcium without raising pH like lime does) and keep soil moisture steady with mulch and drip lines."
       ],
-      "safety": "Avoid agricultural lime in Friendswood soils unless a soil test proves pH is below 6.0\u2014our native clay is already alkaline.",
+      "safety": "Avoid agricultural lime in Friendswood soils unless a soil test proves pH is below 6.0—our native clay is already alkaline.",
       "tags": [
         "iron-chlorosis",
         "alkaline-soil",
         "friendswood",
         "citrus",
         "blossom-end-rot"
-      ]
+      ],
+      "scenario": "Leaves are yellow between their veins while fruit on another plant has a dark blossom end.",
+      "overview": "These symptoms have different causes. Record watering and obtain a soil test before making broad nutrient or pH changes."
     },
     {
       "id": "fwg-109",
       "cat": "Homestead & Garden",
       "sub": "Friendswood Greenhouse & Climate",
-      "title": "Solarizing Beds in July\u2013August to Wipe Out Nematodes & Bermuda Grass",
+      "title": "Solarizing Beds in July–August to Wipe Out Nematodes & Bermuda Grass",
       "diff": "Easy",
       "time": "6 weeks passive",
       "gear": [
@@ -247,17 +263,19 @@
       ],
       "steps": [
         "In mid-July, clear weeds from an empty garden bed, rake smooth, and soak the soil deeply with water (wet soil conducts lethal solar heat far deeper than dry soil).",
-        "Stretch CLEAR plastic tightly over the damp bed and bury all 4 edges in a 4-inch trench so superheated air cannot escape\u2014clear plastic acts like a greenhouse trapping 130\u00b0F\u2013150\u00b0F heat down 6 inches deep, killing root-knot nematodes, fungal wilt, and Bermuda grass rhizomes.",
+        "Stretch CLEAR plastic tightly over the damp bed and bury all 4 edges in a 4-inch trench so superheated air cannot escape—clear plastic acts like a greenhouse trapping 130°F–150°F heat down 6 inches deep, killing root-knot nematodes, fungal wilt, and Bermuda grass rhizomes.",
         "Leave sealed for 6 weeks through August, remove plastic, and plant fall tomatoes or brassicas directly without deep tilling."
       ],
-      "safety": "Use CLEAR plastic rather than black plastic\u2014black plastic absorbs heat at the surface instead of heating the soil underneath.",
+      "safety": "Use CLEAR plastic rather than black plastic—black plastic absorbs heat at the surface instead of heating the soil underneath.",
       "tags": [
         "solarization",
         "nematodes",
         "bermuda-grass",
         "summer",
         "friendswood"
-      ]
+      ],
+      "scenario": "A bed can sit empty during the hottest weeks and has a persistent weed problem.",
+      "overview": "Good contact between clear covering and moist soil helps trap heat. Document treated edges because weeds can return from just outside the bed."
     },
     {
       "id": "fwg-110",
@@ -280,14 +298,16 @@
         "Stop fertilizing overwintered plants from November through January so they rest semi-dormant rather than pushing tender frost-sensitive new growth.",
         "Water sparingly (only when top 2 inches of potting mix dry out) until bright warm February days return."
       ],
-      "safety": "Acclimate greenhouse-wintered plants back to full outdoor sun gradually over 7\u201310 days in March so leaves don't sunburn.",
+      "safety": "Acclimate greenhouse-wintered plants back to full outdoor sun gradually over 7–10 days in March so leaves don't sunburn.",
       "tags": [
         "overwintering",
         "greenhouse",
         "citrus",
         "tropicals",
         "friendswood"
-      ]
+      ],
+      "scenario": "A cold front is approaching and greenhouse floor space is limited.",
+      "overview": "Group pots by cold sensitivity and light needs. Inspect new arrivals for insects before fitting them among established plants."
     },
     {
       "id": "fwg-111",
@@ -307,7 +327,7 @@
       "steps": [
         "Use fine overhead micro-misters ONLY for germinating seedling flats and raising humidity for tropicals/orchids in the morning.",
         "Run 1/4-inch drip emitters directly to the base of potted tomatoes, peppers, and citrus inside the greenhouse so leaves stay dry and free of gray mold (Botrytis) and powdery mildew.",
-        "Schedule watering for 7:00 AM\u20138:00 AM so excess moisture evaporates before evening."
+        "Schedule watering for 7:00 AM–8:00 AM so excess moisture evaporates before evening."
       ],
       "safety": "Install a 25 PSI pressure regulator on city water spigots so high Friendswood water pressure doesn't blow barbed drip fittings apart.",
       "tags": [
@@ -316,7 +336,9 @@
         "watering",
         "automation",
         "friendswood"
-      ]
+      ],
+      "scenario": "Propagation trays and large pots share a timer but dry at different rates.",
+      "overview": "Check water at root depth and group containers with similar demand. Mist in the air does not prove the root ball is wet."
     },
     {
       "id": "fwg-112",
@@ -331,7 +353,7 @@
       "supplies": [],
       "steps": [
         "Inside a screened greenhouse without wind or bees, blossoms drop unpollinated unless you pollinate manually.",
-        "Tomatoes & Peppers (self-fertile buzz-pollinated flowers): Gently touch the back of an electric toothbrush to the flower stem for 2 seconds between 10 AM and 2 PM\u2014the vibration releases a visible puff of pollen onto the stigma.",
+        "Tomatoes & Peppers (self-fertile buzz-pollinated flowers): Gently touch the back of an electric toothbrush to the flower stem for 2 seconds between 10 AM and 2 PM—the vibration releases a visible puff of pollen onto the stigma.",
         "Squash, Melons & Cucumbers (separate male and female flowers): Pluck a male flower (thin straight stem), peel back petals, and dab its pollen-covered anther directly onto the center of the female flower (which has a tiny baby fruit behind the petals)."
       ],
       "safety": "Pollinate squash and melon flowers in the morning before noon while blossoms are open and receptive.",
@@ -341,7 +363,9 @@
         "tomatoes",
         "squash",
         "electric-toothbrush"
-      ]
+      ],
+      "scenario": "Flowers open in the greenhouse but little fruit follows.",
+      "overview": "Identify the flower structure first. A tomato flower and a squash vine require different pollination motions."
     },
     {
       "id": "fwg-113",
@@ -361,7 +385,7 @@
         "10% pine bark fines + slow-release organic fertilizer"
       ],
       "steps": [
-        "NEVER put native Friendswood clay soil into greenhouse pots or raised trays\u2014clay turns into airless mud in containers and suffocates roots.",
+        "NEVER put native Friendswood clay soil into greenhouse pots or raised trays—clay turns into airless mud in containers and suffocates roots.",
         "Mix 4 parts coco coir/peat, 3 parts finished compost/worm castings, 2 parts coarse perlite, and 1 part pine bark fines for fast drainage with high nutrient holding.",
         "Sterilize and reuse old container soil between seasons by solarizing in black bags in summer sun and re-amending with 25% fresh worm castings."
       ],
@@ -372,7 +396,9 @@
         "containers",
         "soil",
         "recipe"
-      ]
+      ],
+      "scenario": "A pot filled with garden clay stays wet long after watering.",
+      "overview": "A container mix needs pore space after repeated watering. Test drainage in the pot you actually plan to use."
     },
     {
       "id": "fwg-114",
@@ -391,10 +417,10 @@
         "Self-fertile dragon fruit cutting"
       ],
       "steps": [
-        "Choose cold-hardy Mexican avocado cultivars ('Lila', 'Joey', or 'Fantastic'\u2014hardy down to 18\u00b0F\u201320\u00b0F once mature) grafted onto rootstock, planted in ultra-fast-draining sandy/bark mound mix (avocados die rapidly in wet Friendswood clay).",
-        "Grow dwarf mangoes and dragon fruit in large wheeled containers so you can roll them straight into your heated greenhouse whenever winter forecasts drop below 32\u00b0F."
+        "Choose cold-hardy Mexican avocado cultivars ('Lila', 'Joey', or 'Fantastic'—hardy down to 18°F–20°F once mature) grafted onto rootstock, planted in ultra-fast-draining sandy/bark mound mix (avocados die rapidly in wet Friendswood clay).",
+        "Grow dwarf mangoes and dragon fruit in large wheeled containers so you can roll them straight into your heated greenhouse whenever winter forecasts drop below 32°F."
       ],
-      "safety": "Avocado leaves, bark, and pits contain persin\u2014keep pruned branches away from pets and livestock.",
+      "safety": "Avocado leaves, bark, and pits contain persin—keep pruned branches away from pets and livestock.",
       "tags": [
         "avocado",
         "mango",
@@ -402,7 +428,9 @@
         "friendswood",
         "greenhouse",
         "tropical-fruit"
-      ]
+      ],
+      "scenario": "Tropical fruit needs to fit both the patio in summer and sheltered space in winter.",
+      "overview": "Choose container size, support and a moving route together. A productive plant can become too heavy to relocate safely."
     },
     {
       "id": "fwg-115",
@@ -420,18 +448,20 @@
         "Ammonium sulfate or blood meal (high nitrogen)"
       ],
       "steps": [
-        "Plant ONLY 'Short-Day' onion varieties (Texas 1015Y, Red Creole, Yellow Granex) in Southeast Texas\u2014long-day northern onions will never bulb at our latitude.",
-        "Plant pencil-thick transplants in mid-January 1 inch deep and 4\u20136 inches apart, and feed every 3 weeks with nitrogen until bulbs begin swelling in April (each leaf ring equals one onion layer\u2014more leaves = bigger onions!).",
+        "Plant ONLY 'Short-Day' onion varieties (Texas 1015Y, Red Creole, Yellow Granex) in Southeast Texas—long-day northern onions will never bulb at our latitude.",
+        "Plant pencil-thick transplants in mid-January 1 inch deep and 4–6 inches apart, and feed every 3 weeks with nitrogen until bulbs begin swelling in April (each leaf ring equals one onion layer—more leaves = bigger onions!).",
         "Stop watering when tops fall over in May, pull bulbs, cure in shade for 2 weeks, and enjoy sweet onions all summer."
       ],
-      "safety": "Discard any onion plants that send up a thick central flower stalk ('bolting')\u2014use those immediately in the kitchen as they won't store.",
+      "safety": "Discard any onion plants that send up a thick central flower stalk ('bolting')—use those immediately in the kitchen as they won't store.",
       "tags": [
         "texas-1015",
         "onions",
         "friendswood",
         "short-day",
         "january"
-      ]
+      ],
+      "scenario": "You want bulb onions and have one winter bed to spare.",
+      "overview": "A locally suitable day-length variety and enough leaf growth before bulbing affect the final harvest."
     },
     {
       "id": "fwg-116",
@@ -452,7 +482,7 @@
       "steps": [
         "Early Blight (brown bull's-eye spots on lower tomato leaves in humid May/June): Mulch bare soil 3 inches thick, strip bottom 12 inches of leaves, water strictly at the base, and spray copper fungicide or biofungicide (Serenade) early.",
         "Powdery Mildew (white talcum dust on squash/cucumber leaves): Spray 1 tbsp potassium bicarbonate + 1/2 tsp Castile soap in 1 quart water at dusk, and plant mildew-resistant cultivars.",
-        "Summer Blossom Drop: When daytime temps top 92\u00b0F and nights stay above 75\u00b0F, tomato pollen clumps\u2014install 30% shade cloth and switch to cherry/heat-set tomatoes until August fall planting."
+        "Summer Blossom Drop: When daytime temps top 92°F and nights stay above 75°F, tomato pollen clumps—install 30% shade cloth and switch to cherry/heat-set tomatoes until August fall planting."
       ],
       "safety": "Disinfect pruners with 70% alcohol after trimming blighted leaves so you don't carry spores to healthy plants.",
       "tags": [
@@ -461,7 +491,9 @@
         "humidity",
         "friendswood",
         "tomatoes"
-      ]
+      ],
+      "scenario": "Your tomatoes show spotted leaves while unblemished flowers drop from another plant.",
+      "overview": "Separate foliage symptoms from pollination problems before treating. Photos of both the upper and lower leaves preserve clues that fade as tissue dies."
     },
     {
       "id": "fwg-117",
@@ -490,7 +522,9 @@
         "mulch",
         "friendswood",
         "weed-control"
-      ]
+      ],
+      "scenario": "Bermuda runners keep entering a carefully weeded bed from the lawn.",
+      "overview": "Trace stems back to the boundary and check it repeatedly. A one-time clearing leaves the neighboring source in place."
     },
     {
       "id": "fwg-118",
@@ -510,8 +544,8 @@
         "pH down"
       ],
       "steps": [
-        "Zero-electricity Kratky Hydroponics: Cut 2-inch holes in an opaque tote lid, insert sprouted lettuce/basil/bok choy in rockwool net cups, and fill tote with nutrient solution (pH 5.8\u20136.2) touching ONLY the bottom 1/4-inch of the net cup.",
-        "As plants drink water over 4 weeks, the water level drops and leaves an air gap for upper oxygen roots\u2014growing crisp salad heads in 28 days with zero pumps or timers."
+        "Zero-electricity Kratky Hydroponics: Cut 2-inch holes in an opaque tote lid, insert sprouted lettuce/basil/bok choy in rockwool net cups, and fill tote with nutrient solution (pH 5.8–6.2) touching ONLY the bottom 1/4-inch of the net cup.",
+        "As plants drink water over 4 weeks, the water level drops and leaves an air gap for upper oxygen roots—growing crisp salad heads in 28 days with zero pumps or timers."
       ],
       "safety": "Use opaque dark totes (or wrap mason jars in foil/socks) so sunlight cannot enter the nutrient water and grow green algae.",
       "tags": [
@@ -520,7 +554,9 @@
         "greenhouse",
         "lettuce",
         "indoor-garden"
-      ]
+      ],
+      "scenario": "You’d like lettuce in a tub without installing a pump.",
+      "overview": "The developing air gap is part of the root environment. Light exclusion and a clearly marked starting level make the system easier to monitor."
     },
     {
       "id": "fwg-119",
@@ -536,7 +572,7 @@
       ],
       "steps": [
         "In warm Friendswood weather, Aedes and Culex mosquitoes go from egg to biting adult in just 7 days in a bottlecap of standing water.",
-        "Drop 1/4 of a BTI Mosquito Dunk into every rain barrel, birdbath, and greenhouse water reservoir every 30 days\u2014BTI is a naturally occurring soil bacterium harmless to humans, cats, dogs, birds, bees, and vegetable plants, killing ONLY mosquito and fungus-gnat larvae.",
+        "Drop 1/4 of a BTI Mosquito Dunk into every rain barrel, birdbath, and greenhouse water reservoir every 30 days—BTI is a naturally occurring soil bacterium harmless to humans, cats, dogs, birds, bees, and vegetable plants, killing ONLY mosquito and fungus-gnat larvae.",
         "Empty plastic pot saucers after every rainstorm and keep French drains/swales clear of leaf dams."
       ],
       "safety": "BTI is completely non-toxic to pets and pollinators, unlike broad-spectrum yard fogging sprays that kill butterflies and bees.",
@@ -546,7 +582,9 @@
         "friendswood",
         "yard-care",
         "rain-barrel"
-      ]
+      ],
+      "scenario": "Mosquitoes appear near a screened barrel even though its lid looks intact.",
+      "overview": "Follow water through the inlet, overflow and nearby saucers. One unscreened opening or overlooked puddle can sustain the problem."
     },
     {
       "id": "fwg-120",
@@ -566,7 +604,7 @@
       ],
       "steps": [
         "In late July/August (peak Texas heat when outdoor gardening pauses), empty the greenhouse, scrub algae and dust off polycarbonate panels inside and out with mild soapy water and a soft brush (maximizes winter light transmission by 20%+).",
-        "Sanitize benches, pots, and trays with 3% hydrogen peroxide or 1:10 vinegar spray, then close vents for 3 sunny afternoons so 140\u00b0F+ solar heat naturally sterilizes lingering spider mites and fungal spores before fall seed starting."
+        "Sanitize benches, pots, and trays with 3% hydrogen peroxide or 1:10 vinegar spray, then close vents for 3 sunny afternoons so 140°F+ solar heat naturally sterilizes lingering spider mites and fungal spores before fall seed starting."
       ],
       "safety": "Never use abrasive scouring pads or ammonia window cleaners on UV-coated polycarbonate panels.",
       "tags": [
@@ -574,8 +612,37 @@
         "sanitization",
         "maintenance",
         "friendswood"
-      ]
+      ],
+      "scenario": "The last tray has left the greenhouse and the benches are finally bare.",
+      "overview": "Cleaning away organic debris comes before disinfection. Refill the space with clean trays and note any pest trouble spots from the season."
+    },
+    {
+      "id": "fwg-121",
+      "sub": "Friendswood Greenhouse & Climate",
+      "title": "Map the greenhouse’s cold pockets",
+      "scenario": "One seedling tray suffers on a cold night while the thermometer at shoulder height says everything stayed warm.",
+      "time": "Two comparable nights",
+      "diff": "Easy",
+      "gear": [
+        "Two minimum/maximum thermometers",
+        "Notebook"
+      ],
+      "supplies": [],
+      "steps": [
+        "Place both thermometers side by side at bench height for one cycle. Note any consistent difference.",
+        "Keep one at the usual bench and move the other to plant height near a suspect door or low shelf, clear of direct heater output.",
+        "Record both overnight minima and outside conditions. Swap the instruments on a similar night to see whether the difference follows the site or the thermometer.",
+        "Mark the colder spot on a bench sketch and move tender trays to a better position before the next forecast cold night."
+      ],
+      "overview": "A paired comparison makes the map specific to this greenhouse. Repeat it after moving shelving, adding a heater or closing a draft.",
+      "tags": [
+        "friendswood greenhouse",
+        "climate"
+      ],
+      "cat": "Homestead & Garden"
     }
   ],
-  "glossary": {}
+  "glossary": {},
+  "count": 21,
+  "version": "2026.11.15-birthday-r1"
 }

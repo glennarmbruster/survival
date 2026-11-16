@@ -1,0 +1,1010 @@
+{
+  "pack": "10-household-preparedness",
+  "category": "Household Preparedness & Recovery",
+  "count": 32,
+  "guides": [
+    {
+      "id": "hh-001",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Before the storm",
+      "title": "Set up Friendswood alerts on both phones",
+      "scenario": "One of you is in the garden while the other is out of town. A water notice sent to only one phone leaves half the household guessing.",
+      "diff": "Easy",
+      "time": "10 minutes",
+      "gear": [
+        "Both phones"
+      ],
+      "supplies": [],
+      "steps": [
+        "Open the city’s emergency notifications page below and choose Sign Up. Each of you should register the phone or email you actually check.",
+        "Enter the address you want covered. Some alerts target a specific geographic area, so confirm the street and contact information.",
+        "Save the city page as a bookmark. Show each other where a notice will appear and choose a second way to receive local news if cellular service fails.",
+        "After a move or phone change, return to the city page to update the subscription."
+      ],
+      "overview": "A city subscription connects the warning to your address. Two reachable contacts give the household a second chance to act on it.",
+      "tags": [
+        "before the storm"
+      ],
+      "sources": [
+        [
+          "City of Friendswood · Emergency notifications",
+          "https://www.ci.friendswood.tx.us/618/Emergency-Notifications"
+        ]
+      ]
+    },
+    {
+      "id": "hh-002",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Before the storm",
+      "title": "Make a wallet card for meeting up",
+      "scenario": "The phones are at 3% and a blocked street keeps you from meeting at home.",
+      "diff": "Easy",
+      "time": "15 minutes",
+      "gear": [
+        "Pen"
+      ],
+      "supplies": [
+        "Two wallet-sized cards"
+      ],
+      "steps": [
+        "Choose one meeting point outside the home and a second outside the neighborhood. Use a specific entrance or landmark everyone can describe.",
+        "Ask a willing out-of-area contact to relay messages. Write their number and both meeting places on each card.",
+        "Agree what to text when separated. Try “Safe at the library, staying here, next check-in at 4.” Include the date if the incident spans several days.",
+        "Swap cards and describe both meeting places from memory. Correct ambiguous wording and return each card to its wallet."
+      ],
+      "overview": "The card answers three questions without a charged phone. Where should I go, who can relay a message, and when should I expect another update?",
+      "tags": [
+        "before the storm"
+      ],
+      "sources": [
+        [
+          "Ready.gov · Family emergency planning",
+          "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "hh-003",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Before the storm",
+      "title": "Pack the last ten minutes of an evacuation",
+      "scenario": "The bags are by the door. The everyday things you still need are on a charger, in the refrigerator and beside the bed.",
+      "diff": "Easy",
+      "time": "15 minutes to prepare",
+      "gear": [
+        "Pen"
+      ],
+      "supplies": [
+        "Index card",
+        "Bag with handles"
+      ],
+      "steps": [
+        "Walk from the bedroom to the exit on an ordinary day. Write down the items you use daily that cannot stay packed, including glasses, medication, keys and mobility aids.",
+        "Beside each item, write its usual location and who will collect it. Put the short list on the packed bag.",
+        "Place the open collection bag beside the exit. Practice collecting the items and check that one person can still open the door and manage a pet carrier.",
+        "If an order or immediate danger requires leaving now, go. The rehearsal helps you identify the essentials that should already be close at hand."
+      ],
+      "overview": "The last-minute list bridges the gap between a packed evacuation bag and a lived-in home. Update it when a routine or prescription changes.",
+      "tags": [
+        "before the storm"
+      ],
+      "sources": [
+        [
+          "Ready.gov · Family emergency planning",
+          "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "hh-004",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Before the storm",
+      "title": "Choose two reachable evacuation destinations",
+      "scenario": "The usual destination is across a flooded route or outside your host’s availability.",
+      "diff": "Easy",
+      "time": "25 minutes",
+      "gear": [
+        "Paper map",
+        "Phone"
+      ],
+      "supplies": [
+        "Paper"
+      ],
+      "steps": [
+        "Choose a primary and a backup destination outside the likely affected area. Call ahead about availability, accessibility and pets.",
+        "Write the addresses, contact numbers and access needs on paper. Identify alternate routes without assuming a mapped road will be open.",
+        "Agree who checks official evacuation instructions and closures, and who contacts the destination. Follow current routing from authorities.",
+        "Practice locating both destinations without internet. If a route is covered in water or barricaded, turn around and seek an official alternative."
+      ],
+      "overview": "A destination becomes usable when a person can receive you and a safe route remains available. Keep the two contacts beside the household’s departure list.",
+      "tags": [
+        "before the storm"
+      ],
+      "sources": [
+        [
+          "Ready.gov · Family emergency planning",
+          "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf"
+        ],
+        [
+          "National Weather Service · During a flood",
+          "https://www.weather.gov/safety/flood-during"
+        ]
+      ]
+    },
+    {
+      "id": "hh-005",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Before the storm",
+      "title": "Arrange evacuation with mobility or sensory needs",
+      "scenario": "An ordinary doorway, noisy shelter or high vehicle step can turn into the hardest part of leaving.",
+      "diff": "Easy",
+      "time": "30 minutes",
+      "gear": [
+        "Usual mobility or communication aids"
+      ],
+      "supplies": [
+        "Paper contact card"
+      ],
+      "steps": [
+        "Ask the person what help they want with transfers, directions and communication. Write their preferences in their words.",
+        "With permission, ask a primary helper and a backup how they can help. Confirm the vehicle can accommodate the person and equipment.",
+        "Call the destination to verify step-free access, charging outlets, service-animal arrangements and any other specific need.",
+        "Walk the route to the vehicle together in daylight. Note any barrier and arrange qualified help with transfers that cannot be made safely."
+      ],
+      "overview": "A workable plan names the helper, transport and receiving location. Give the person a copy they can present directly to responders or shelter staff.",
+      "tags": [
+        "before the storm"
+      ],
+      "sources": [
+        [
+          "Ready.gov · Family emergency planning",
+          "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "hh-006",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Before the storm",
+      "title": "Inventory the pantry by meals and water needed",
+      "scenario": "A shelf full of dry rice looks reassuring until the water is off and you cannot cook.",
+      "diff": "Easy",
+      "time": "20 minutes",
+      "gear": [
+        "Can opener",
+        "Pen"
+      ],
+      "supplies": [
+        "Paper",
+        "Foods already on hand"
+      ],
+      "steps": [
+        "Draw three columns for ready to eat, needs safe water, and needs heat. Sort a representative three-day selection for both of you.",
+        "Build actual breakfasts, lunches and dinners from the items. Write the servings on each line and include drinks and any dietary constraints.",
+        "Set aside one whole day of meals that can be eaten straight from the shelf. Check that the can opener works on the cans you chose.",
+        "Eat one trial meal on an ordinary day. Replace what you used and revise quantities based on what the two of you actually ate."
+      ],
+      "overview": "You finish with a menu you have tested and the water and cooking requirements for the other meals. A list of cans alone cannot show those dependencies.",
+      "tags": [
+        "before the storm"
+      ]
+    },
+    {
+      "id": "hh-007",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Before the storm",
+      "title": "Size a drinking-water reserve for two people",
+      "scenario": "You have room for a few cases but want to know exactly how many days they buy.",
+      "diff": "Easy",
+      "time": "15 minutes",
+      "gear": [
+        "Measuring jug or bottle label"
+      ],
+      "supplies": [
+        "Sealed drinking water",
+        "Date labels"
+      ],
+      "steps": [
+        "Allow at least one gallon per person per day for at least three days. For two people the starting amount is six gallons. Plan extra for heat, illness and pets.",
+        "Add the labeled volumes of the containers. Six one-gallon jugs or forty-eight 16-fluid-ounce bottles each supply six gallons.",
+        "Choose a cool location away from sunlight, chemicals and areas likely to flood. Store manageable containers where both people can lift them.",
+        "Date the inventory. Follow commercial bottle dates and replace water you filled into properly sanitized food-grade containers every six months."
+      ],
+      "overview": "Write the reserve in days as well as gallons. If guests arrive or conditions get hotter, that number immediately tells you what needs reconsidering.",
+      "tags": [
+        "before the storm"
+      ],
+      "sources": [
+        [
+          "CDC · Storing emergency water",
+          "https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html"
+        ]
+      ]
+    },
+    {
+      "id": "hh-008",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Before the storm",
+      "title": "Run a bedroom-to-street fire drill",
+      "scenario": "It’s easy to name the front door at lunch. Can both of you find another way out from where you sleep?",
+      "diff": "Easy",
+      "time": "15 minutes",
+      "gear": [
+        "Smoke alarm test button"
+      ],
+      "supplies": [
+        "Paper floor sketch"
+      ],
+      "steps": [
+        "Sketch doors and windows and identify two exits from each room where possible. Clear obstructions and check that intended exits open.",
+        "Choose one recognizable meeting spot outside, away from the building and clear of firefighters’ access.",
+        "Walk the plan together after announcing the drill. Pretend the usual exit is blocked and name the alternate. Never climb or jump for practice.",
+        "At the meeting point count everyone. In a real fire, stay out, call 911 from safety and tell firefighters about anyone missing."
+      ],
+      "overview": "A drill reveals the sticking latch, blocked path or vague meeting place while there is time to fix it. Repeat after a furniture or sleeping-arrangement change.",
+      "tags": [
+        "before the storm"
+      ],
+      "sources": [
+        [
+          "U.S. Fire Administration · Home fire escape plans",
+          "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/"
+        ]
+      ]
+    },
+    {
+      "id": "hh-009",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Before the storm",
+      "title": "Prepare a care card for medications and equipment",
+      "scenario": "Someone else has to speak to a pharmacy or equipment supplier while you are away from home.",
+      "diff": "Easy",
+      "time": "20 minutes",
+      "gear": [
+        "Phone or pen"
+      ],
+      "supplies": [
+        "Current prescription labels",
+        "Device information"
+      ],
+      "steps": [
+        "Copy current medicine names, strengths and prescribed schedules from the labels. List known allergies, pharmacy, prescriber and a contact who can clarify changes.",
+        "For each powered device, add make, model, supplier number and the location of its instructions and approved backup equipment.",
+        "Ask the pharmacist how any temperature-sensitive medicine should travel and what to do after a storage interruption. Record their product-specific answer.",
+        "Date the card, review it together and keep a private copy with the travel kit. Replace old copies when instructions change."
+      ],
+      "overview": "The care card gives a professional an accurate starting point for reconciliation. It also helps the partner who usually leaves refills and equipment calls to the other person.",
+      "tags": [
+        "before the storm"
+      ],
+      "sources": [
+        [
+          "FDA · Home health and consumer devices",
+          "https://www.fda.gov/medical-devices/products-and-medical-procedures/home-health-and-consumer-devices"
+        ]
+      ]
+    },
+    {
+      "id": "hh-010",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Before the storm",
+      "title": "Measure the real reach of a battery backup",
+      "scenario": "The power bank says it is full. Nobody knows whether it charges the household’s actual phone and cable.",
+      "diff": "Easy",
+      "time": "10 minutes plus charging time",
+      "gear": [
+        "Phone",
+        "Power bank",
+        "Usual cable"
+      ],
+      "supplies": [
+        "Paper label"
+      ],
+      "steps": [
+        "Charge the power bank as instructed. Pick a phone at a known starting percentage and plug it in with the cable you plan to pack.",
+        "After a timed interval record the phone’s charge, the bank’s indicator and whether using the phone interrupted charging.",
+        "Pack the cable with the bank and label the last successful test. Store and recharge as directed by its maker.",
+        "Keep medical equipment on its own manufacturer-approved backup plan. Take a damaged, swollen or overheating battery out of use."
+      ],
+      "overview": "The test establishes that this cable, connector and battery work together. A nominal capacity printed on the case cannot establish that by itself.",
+      "tags": [
+        "before the storm"
+      ],
+      "sources": [
+        [
+          "FEMA · Preparing for power outages",
+          "https://www.ready.gov/sites/default/files/2025-02/fema_full-suite-hazard-info-sheets.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "hh-011",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Before the storm",
+      "title": "Make a plan for powered medical equipment",
+      "scenario": "A battery alarm during a blackout is the wrong time to discover a device’s backup limit.",
+      "diff": "Easy",
+      "time": "30 minutes plus provider call",
+      "gear": [
+        "Device instructions",
+        "Phone"
+      ],
+      "supplies": [
+        "Paper card"
+      ],
+      "steps": [
+        "List the devices that must keep running and who supplies each one. Call the supplier or care team about approved backup power and safe transfer procedures.",
+        "Ask how to recognize remaining operating time, which alarms matter and at what point to leave for a powered location.",
+        "Confirm a destination that can support the equipment and arrange transport with a backup contact. Include travel time when choosing the departure threshold.",
+        "Keep the plan and supplier numbers with the device. If failure threatens breathing or another essential function, call 911 immediately."
+      ],
+      "overview": "A backup plan has a time to act, a destination and someone who can get you there. Do not disconnect essential equipment to estimate its runtime.",
+      "tags": [
+        "before the storm"
+      ],
+      "sources": [
+        [
+          "FDA · Home health and consumer devices",
+          "https://www.fda.gov/medical-devices/products-and-medical-procedures/home-health-and-consumer-devices"
+        ],
+        [
+          "FEMA · Preparing for power outages",
+          "https://www.ready.gov/sites/default/files/2025-02/fema_full-suite-hazard-info-sheets.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "hh-012",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Before the storm",
+      "title": "Photograph what you own before the next storm",
+      "scenario": "If a room were empty tomorrow, listing everything in its drawers would be surprisingly hard.",
+      "diff": "Easy",
+      "time": "20 minutes per room",
+      "gear": [
+        "Phone or camera"
+      ],
+      "supplies": [
+        "Private storage location"
+      ],
+      "steps": [
+        "Stand at the doorway and photograph the room, then open storage areas and capture groups of items.",
+        "For major appliances, tools and electronics, take a second photo of the model and serial label and save any matching receipt.",
+        "Name the set by room and date. Store a protected copy somewhere accessible if the house and phone are both unavailable.",
+        "Have the other person retrieve one item by name. Fix the filing system now if it takes several guesses."
+      ],
+      "overview": "A wide photo establishes where an item belonged. The close-up establishes which item it was, making replacement and claim paperwork easier.",
+      "tags": [
+        "before the storm"
+      ],
+      "sources": [
+        [
+          "FEMA · Documenting storm damage",
+          "https://www.fema.gov/print/pdf/node/694490"
+        ]
+      ]
+    },
+    {
+      "id": "hh-013",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "During a disruption",
+      "title": "Read a water notice before turning on the tap",
+      "scenario": "A city text mentions the water system. The word after “do not” changes what you can safely do.",
+      "diff": "Easy",
+      "time": "5 minutes",
+      "gear": [
+        "Copy of the utility notice"
+      ],
+      "supplies": [
+        "Sealed bottled water",
+        "Reminder labels"
+      ],
+      "steps": [
+        "Read the complete notice, its affected area and its issue time. Preserve a copy while your phone has service.",
+        "For a boil notice, use bottled water or follow the official boiling directions for drinking, brushing teeth, food and ice. Disable the refrigerator’s water and ice dispenser.",
+        "For a do-not-drink notice, use bottled water for ingestion and food preparation. Boiling will not remove hazardous chemicals. For a do-not-use notice, avoid all tap-water contact covered by the order.",
+        "Place a reminder at every used tap and tell both people. Keep the measures in place until the utility lifts the notice and gives its flushing or ice-disposal instructions."
+      ],
+      "overview": "Your household’s plan should reflect the exact notice, including what to do after it ends. The absence of odor or discoloration cannot tell you the water is safe.",
+      "tags": [
+        "during a disruption"
+      ],
+      "sources": [
+        [
+          "CDC · Drinking water advisories",
+          "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html"
+        ]
+      ]
+    },
+    {
+      "id": "hh-014",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "During a disruption",
+      "title": "Set up a handwashing station without a running tap",
+      "scenario": "The water is off and the same pair of hands has to handle the trash and prepare lunch.",
+      "diff": "Easy",
+      "time": "10 minutes",
+      "gear": [
+        "Spouted water jug",
+        "Catch basin"
+      ],
+      "supplies": [
+        "Safe water",
+        "Soap",
+        "Clean towels"
+      ],
+      "steps": [
+        "Stand the jug on a stable surface with its spout above the catch basin. Place soap and a clean drying supply on the clean side.",
+        "Wet hands with safe running water, lather all surfaces for at least 20 seconds, rinse from the spout and dry.",
+        "Keep used water out of the clean jug. Empty the catch basin according to local wastewater directions before it overflows.",
+        "Check soap, clean water and towels before the next meal. If soap and water are unavailable, use sanitizer containing at least 60% alcohol where appropriate."
+      ],
+      "overview": "A one-way path from clean jug to hands to catch basin keeps multiple people from dipping into a shared bowl.",
+      "tags": [
+        "during a disruption"
+      ],
+      "sources": [
+        [
+          "CDC · Personal hygiene during an emergency",
+          "https://www.cdc.gov/water-emergency/safety/guidelines-for-personal-hygiene-during-an-emergency.html"
+        ]
+      ]
+    },
+    {
+      "id": "hh-015",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "During a disruption",
+      "title": "Start a refrigerator outage clock",
+      "scenario": "You wake up to a dark kitchen and do not know exactly when the electricity failed.",
+      "diff": "Easy",
+      "time": "5 minutes plus monitoring",
+      "gear": [
+        "Appliance thermometers",
+        "Pen"
+      ],
+      "supplies": [
+        "Paper for the door"
+      ],
+      "steps": [
+        "Record the last known time power was on and the first time you noticed the outage. Use the earlier time for planning if the start is uncertain.",
+        "Leave doors closed. An unopened refrigerator typically holds safe cold for about four hours. A closed full freezer lasts about 48 hours and a half-full one about 24.",
+        "If suitable ice and a cooler are already available, transfer perishables before their safe window ends and hold them at 40°F or below.",
+        "When power returns, use the official food chart to assess each item. Without reliable evidence it stayed cold, discard refrigerated perishables after four hours without power. Never taste-test."
+      ],
+      "overview": "The door note preserves timing that is easy to forget during a long outage. Ice crystals or a measured temperature of 40°F or below help assess frozen items.",
+      "tags": [
+        "during a disruption"
+      ],
+      "sources": [
+        [
+          "FoodSafety.gov · Food safety during a power outage",
+          "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
+        ]
+      ]
+    },
+    {
+      "id": "hh-016",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "During a disruption",
+      "title": "Turn back from a flooded route",
+      "scenario": "On the drive home, water covers the lane near an underpass. A truck ahead makes it through.",
+      "diff": "Easy",
+      "time": "Immediate",
+      "gear": [
+        "Paper map or official route update"
+      ],
+      "supplies": [],
+      "steps": [
+        "Slow down on dry pavement and stop before the water. Leave space to turn safely.",
+        "Turn back without entering the water or passing a barricade. A larger vehicle’s crossing reveals little about the road beneath it.",
+        "Seek higher ground via a dry route. If none is available, remain in a safe location and check official information rather than following an unverified shortcut.",
+        "Update your contact from a safe stop. If trapped or in immediate danger, call 911 and give your location and landmarks."
+      ],
+      "overview": "Getting home later is a successful outcome here. Your next useful piece of information is a confirmed dry route, which may be different from the one shown on a saved map.",
+      "tags": [
+        "during a disruption"
+      ],
+      "sources": [
+        [
+          "National Weather Service · During a flood",
+          "https://www.weather.gov/safety/flood-during"
+        ]
+      ]
+    },
+    {
+      "id": "hh-017",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "During a disruption",
+      "title": "Send one useful storm check-in",
+      "scenario": "Calls drop and a family message thread fills with guesses about who is safe.",
+      "diff": "Easy",
+      "time": "2 minutes",
+      "gear": [
+        "Phone",
+        "Wallet contact card"
+      ],
+      "supplies": [],
+      "steps": [
+        "From a safe location send one short update to the agreed contact. Include your name, time, location, condition and next check-in.",
+        "Use an unambiguous landmark. For example, “Cindy and Glenn, 3:20 pm, inside the north library entrance, both safe. Next text at 5.”",
+        "Ask the contact to relay it. Conserve the battery and avoid repeatedly calling everyone in the group.",
+        "If you need emergency aid, call 911 as soon as possible. A family text is not a request for dispatch."
+      ],
+      "overview": "A time and next contact window help the reader distinguish an old message from a new development when delivery is delayed.",
+      "tags": [
+        "during a disruption"
+      ],
+      "sources": [
+        [
+          "Ready.gov · Family emergency planning",
+          "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "hh-018",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "During a disruption",
+      "title": "Hand off a pet to a temporary caretaker",
+      "scenario": "A pet-friendly friend can help, but has never fed the animal or managed its carrier.",
+      "diff": "Easy",
+      "time": "15 minutes",
+      "gear": [
+        "Carrier or leash",
+        "Phone"
+      ],
+      "supplies": [
+        "Usual food",
+        "Written care card"
+      ],
+      "steps": [
+        "Write the pet’s name, identifying marks, feeding routine, veterinary contact, owner contact and any prescription instructions exactly as labeled.",
+        "Label the carrier and food and pack familiar restraint equipment. Include a current photo and a document showing the animal belongs with you.",
+        "Tell the caretaker how to prevent an escape during transfers. Arrange a quiet enclosed room for opening a cat carrier.",
+        "Agree how often to check in, who can authorize veterinary care and where you will reunite. Keep a copy of the handoff details."
+      ],
+      "overview": "A caretaker needs day-to-day instructions as well as a way to return the animal. Specific food and handling notes help a displaced pet keep familiar routines.",
+      "tags": [
+        "during a disruption"
+      ],
+      "sources": [
+        [
+          "Ready.gov · Family emergency planning",
+          "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "hh-019",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "During a disruption",
+      "title": "Keep a paper log when shifts change",
+      "scenario": "One of you goes to sleep during a long outage. The other inherits half a dozen unfinished tasks.",
+      "diff": "Easy",
+      "time": "5 minutes per handoff",
+      "gear": [
+        "Pen"
+      ],
+      "supplies": [
+        "Notebook"
+      ],
+      "steps": [
+        "Draw four columns for time, observation, action and next check. Use local time and include the date at midnight.",
+        "Record facts separately from estimates. For example, record the refrigerator’s measured temperature separately from the estimated outage start.",
+        "Circle the next check for each active issue and assign a person. Cross out completed tasks with a single line so the history remains readable.",
+        "Read the open items aloud at handoff. Put critical care information in the person’s separate medical record."
+      ],
+      "overview": "The log tells the next person what changed and which decisions are still open. It also creates a timeline if the utility or insurer later asks for one.",
+      "tags": [
+        "during a disruption"
+      ]
+    },
+    {
+      "id": "hh-020",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "During a disruption",
+      "title": "Decide which room stays cool or when to leave",
+      "scenario": "The house is heating up and the power company has no restoration estimate.",
+      "diff": "Easy",
+      "time": "10 minutes",
+      "gear": [
+        "Room thermometer",
+        "Phone"
+      ],
+      "supplies": [
+        "Drinking water",
+        "Contact list"
+      ],
+      "steps": [
+        "Check the indoor temperature and the people in the room. If someone is confused, collapses or shows signs of heat stroke, call 911 and start cooling immediately.",
+        "Contact an accessible air-conditioned destination and confirm it is open, reachable and suitable for everyone, including pets if needed.",
+        "While arranging transport, reduce sun through windows and postpone heat-producing tasks. Keep drinking water accessible to alert people who can swallow.",
+        "Leave before the heat makes travel difficult. Let your household contact know where you are and when you will check in."
+      ],
+      "overview": "A confirmed cool destination is the important output. A room that was tolerable an hour ago may no longer be suitable for a person with extra cooling or medical needs.",
+      "tags": [
+        "during a disruption"
+      ],
+      "sources": [
+        [
+          "FEMA · Preparing for power outages",
+          "https://www.ready.gov/sites/default/files/2025-02/fema_full-suite-hazard-info-sheets.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "hh-021",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Return and recovery",
+      "title": "Check a flooded home from outside first",
+      "scenario": "The road is open again, but that tells you little about the condition of the house.",
+      "diff": "Easy",
+      "time": "5 minutes from safety",
+      "gear": [
+        "Phone",
+        "Paper contact list"
+      ],
+      "supplies": [],
+      "steps": [
+        "Wait for local authorities to permit return and approach only by a dry, open route.",
+        "From a safe location look for downed lines, sagging walls, displaced foundations, water at outlets or a gas odor. Move away and call the utility or emergency services if a hazard is present; make calls away from a possible gas leak.",
+        "Keep everyone outside if structural or electrical safety is uncertain. Arrange qualified inspection of flooded systems before power is restored.",
+        "Record who assessed the property and which areas, if any, are cleared. Give the same information to anyone arriving to help."
+      ],
+      "overview": "An all-clear for the neighborhood and a safe entry for a particular home are two separate decisions. Record the latter before organizing cleanup.",
+      "tags": [
+        "return and recovery"
+      ],
+      "sources": [
+        [
+          "National Weather Service · During a flood",
+          "https://www.weather.gov/safety/flood-during"
+        ],
+        [
+          "FEMA · Documenting storm damage",
+          "https://www.fema.gov/print/pdf/node/694490"
+        ]
+      ]
+    },
+    {
+      "id": "hh-022",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Return and recovery",
+      "title": "Sort pantry food after floodwater reaches a shelf",
+      "scenario": "The jars still look sealed and the waterline is below the top of some containers.",
+      "diff": "Easy",
+      "time": "15 minutes per shelf",
+      "gear": [
+        "Phone for damage photos"
+      ],
+      "supplies": [
+        "Waste bags"
+      ],
+      "steps": [
+        "Enter only after the area is cleared as safe. Keep children and pets out and photograph the affected shelves if it is safe to do so.",
+        "Set aside unaffected food from above the flood line in a clean location. If contact is uncertain, treat the package as exposed.",
+        "Discard exposed home-canned food, packages with screw or snap lids, cardboard, cloth and plastic-wrapped food. Do not open containers for a taste or smell check.",
+        "Follow public-health guidance for disposal. Use clean supplies for the next meal and clean your hands before touching unaffected food."
+      ],
+      "overview": "Closures and packaging can admit contamination that is invisible from outside. Keep a simple list of discarded food if your insurer requests it.",
+      "tags": [
+        "return and recovery"
+      ],
+      "sources": [
+        [
+          "CDC · Packaged food after flooding",
+          "https://www.cdc.gov/natural-disasters/psa-toolkit/keeping-or-discarding-packaged-food.html"
+        ]
+      ]
+    },
+    {
+      "id": "hh-023",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Return and recovery",
+      "title": "Build a storm-damage photo record",
+      "scenario": "Three people are ready to clear a damaged room and belongings will soon lose their original positions.",
+      "diff": "Easy",
+      "time": "15 minutes per safe room",
+      "gear": [
+        "Phone or camera",
+        "Notebook"
+      ],
+      "supplies": [],
+      "steps": [
+        "Start only in areas cleared for entry. Photograph the whole room from the doorway before moving things.",
+        "Work clockwise and take a wide view, a close view of damage and a model label if safe and accessible. Give each item a number in the notebook.",
+        "Record the item, room, approximate age and what you did with it. Ask the insurer about inspection and disposal before discarding when safe and practical.",
+        "Save copies away from the damaged property. Keep temporary repair receipts and add them to the same claim record."
+      ],
+      "overview": "The sequence connects each close-up to a recognizable room and item. It is much easier to explain a loss when the overview photos survive cleanup.",
+      "tags": [
+        "return and recovery"
+      ],
+      "sources": [
+        [
+          "FEMA · Documenting storm damage",
+          "https://www.fema.gov/print/pdf/node/694490"
+        ]
+      ]
+    },
+    {
+      "id": "hh-024",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Return and recovery",
+      "title": "Open a storm expense and call ledger",
+      "scenario": "A hotel receipt, a repair estimate and an insurer callback number are in three different places.",
+      "diff": "Easy",
+      "time": "10 minutes to start",
+      "gear": [
+        "Envelope",
+        "Pen"
+      ],
+      "supplies": [
+        "Paper or simple spreadsheet"
+      ],
+      "steps": [
+        "Put the incident date, insurer’s verified number and claim reference on the first page.",
+        "Give each expense a line with date, vendor, amount, purpose and receipt location. Photograph paper receipts while still legible.",
+        "For a call, record the representative, time, promised action and date to follow up. Ask for material instructions in writing.",
+        "Keep paid amounts, estimates and reimbursements in separate columns. Check discrepancies against the actual policy with the insurer."
+      ],
+      "overview": "A running ledger distinguishes money spent from quotes and payments still pending. It gives either partner enough context to take the next call.",
+      "tags": [
+        "return and recovery"
+      ],
+      "sources": [
+        [
+          "FEMA · Documenting storm damage",
+          "https://www.fema.gov/print/pdf/node/694490"
+        ]
+      ]
+    },
+    {
+      "id": "hh-025",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Return and recovery",
+      "title": "Reset the kitchen after a water advisory ends",
+      "scenario": "The utility has lifted its notice, but yesterday’s ice is still in the freezer.",
+      "diff": "Easy",
+      "time": "Varies by utility",
+      "gear": [
+        "Official end notice",
+        "Appliance instructions"
+      ],
+      "supplies": [
+        "Safe water",
+        "Clean labels"
+      ],
+      "steps": [
+        "Confirm the end notice covers your address and read the utility’s specific flushing and appliance instructions.",
+        "Identify every affected outlet, dispenser, ice maker and filter. Keep stored safe water available while you work through the list.",
+        "Discard affected ice and follow the utility and appliance manufacturer’s directions for flushing, cleaning and any filter replacement. Avoid guessing a universal flushing time.",
+        "Mark each outlet complete. Remove reminder labels only once that outlet and its connected equipment are back in service."
+      ],
+      "overview": "Lifting an advisory restores the public supply. The outlet-by-outlet check addresses water or ice still held inside household equipment.",
+      "tags": [
+        "return and recovery"
+      ],
+      "sources": [
+        [
+          "CDC · Drinking water advisories",
+          "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html"
+        ]
+      ]
+    },
+    {
+      "id": "hh-026",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Return and recovery",
+      "title": "Repack the kit after you actually use it",
+      "scenario": "The storm passes and a half-empty bag goes back into the closet.",
+      "diff": "Easy",
+      "time": "20 minutes",
+      "gear": [
+        "Pen",
+        "Phone for photos"
+      ],
+      "supplies": [
+        "Replacement supplies"
+      ],
+      "steps": [
+        "Lay the kit out in a dry place. Separate items used, damaged, expired and still ready.",
+        "Make a purchase or refill list with the exact battery, size or part name. Return borrowed cables and add replacements that stay packed.",
+        "Ask each person which item was hard to find and which was unnecessary. Change one pocket or label and have the other person locate it.",
+        "Mark the refill as pending until the replacement is physically in the bag. Date the next check and return the kit to its agreed location."
+      ],
+      "overview": "A kit is ready again when its missing items have been replaced and both people can find them. The most valuable change may be moving one item to the outside pocket.",
+      "tags": [
+        "return and recovery"
+      ]
+    },
+    {
+      "id": "hh-027",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Return and recovery",
+      "title": "Rehearse the plan in twenty minutes",
+      "scenario": "Choose an ordinary evening. Imagine that one of you is away when a water outage and a street closure happen together.",
+      "diff": "Easy",
+      "time": "20 minutes",
+      "gear": [
+        "Timer",
+        "Wallet cards",
+        "Household plan"
+      ],
+      "supplies": [],
+      "steps": [
+        "Give each person a starting location. Without coaching, ask each to find the water reserve, identify the official information source and name the meeting point.",
+        "Introduce one complication, such as a dead phone or a pet at home. Have each person describe the next action and who needs to hear about it.",
+        "Compare answers. Write down the first point at which the two plans diverged, then fix that card, phone number or storage location.",
+        "Repeat just the failed portion and date the revision. Leave alarms, utilities and essential equipment operating throughout the practice."
+      ],
+      "overview": "The drill is finished when both people can make the same next decision using the information they will actually have. Keep the revised card wherever the practice revealed a gap.",
+      "tags": [
+        "return and recovery"
+      ]
+    },
+    {
+      "id": "hh-028",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Warnings and shelter",
+      "title": "Shelter during a tornado warning",
+      "scenario": "A tornado warning lights up the phone while you are upstairs. Your planned hurricane destination is across town.",
+      "diff": "Easy",
+      "time": "Immediate",
+      "gear": [
+        "Phone or weather radio"
+      ],
+      "supplies": [],
+      "steps": [
+        "Go immediately to the safe room or storm shelter. In a sturdy building without one, move to a small windowless interior room on the lowest safe level.",
+        "Bring anyone beside you, crouch low and protect heads and necks with your arms or something already within reach. Stay away from windows.",
+        "Listen to official alerts and stay sheltered until the warning passes. If you live in a mobile home, arrange a sturdy shelter and move there ahead of severe weather when possible."
+      ],
+      "overview": "Choose the room on a calm day and practice getting there from the bedroom. When a warning arrives, you should already know which door to open.",
+      "tags": [
+        "warnings and shelter"
+      ],
+      "sources": [
+        [
+          "FEMA · Tornado safety",
+          "https://www.ready.gov/sites/default/files/2019.CERT_.HazardAnnexes.IG_.FINAL_.508c.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "hh-029",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Warnings and shelter",
+      "title": "Stop outdoor work when thunder starts",
+      "scenario": "Rain has yet to reach the greenhouse, but you hear thunder while putting away tools.",
+      "diff": "Easy",
+      "time": "Immediate",
+      "gear": [
+        "Weather alert or clock"
+      ],
+      "supplies": [],
+      "steps": [
+        "Leave the garden, pool, open shelter or greenhouse immediately. Go inside a substantial building with wiring or plumbing, or an enclosed metal-topped vehicle with the windows up.",
+        "Inside, stay away from windows, plumbing and equipment connected to wiring. Postpone showers and outdoor checks.",
+        "Wait at least 30 minutes after the last thunder before going back out. Each new rumble restarts the wait."
+      ],
+      "overview": "The sound of thunder is enough to change the plan. Name a reachable shelter before beginning work so you never need to finish a task outdoors to earn the break.",
+      "tags": [
+        "warnings and shelter"
+      ],
+      "sources": [
+        [
+          "National Weather Service · Lightning safety",
+          "https://www.weather.gov/safety/lightning-tips"
+        ]
+      ]
+    },
+    {
+      "id": "hh-030",
+      "cat": "Household Preparedness & Recovery",
+      "sub": "Warnings and shelter",
+      "title": "Decide who can enter a damp home after a flood",
+      "scenario": "A room has stayed wet for two days and a family member with asthma wants to help move furniture.",
+      "diff": "Easy",
+      "time": "Before cleanup",
+      "gear": [
+        "Phone",
+        "Notebook"
+      ],
+      "supplies": [],
+      "steps": [
+        "Wait for structural and electrical clearance. If the building stayed wet beyond 24–48 hours, assume mold may be present even where you cannot see it.",
+        "Keep people with asthma or other lung disease, compromised immunity, and children away from moldy areas and cleanup. Arrange an alternative place to stay if needed.",
+        "From a safe location record the water source, time wet and affected rooms. Call the insurer and qualified remediation help for extensive damage or sewage contamination.",
+        "Before reoccupying, confirm the moisture source is repaired, damaged material is addressed and the area is clean and dry."
+      ],
+      "overview": "Dry paint on the surface is a poor test of what is behind a wall. The return decision involves both the state of the building and the health of the people who would enter.",
+      "tags": [
+        "warnings and shelter"
+      ],
+      "sources": [
+        [
+          "CDC · Mold exposure after severe weather",
+          "https://www.cdc.gov/asthma/hcp/clinical-guidance/index.html"
+        ],
+        [
+          "FEMA · Documenting storm damage",
+          "https://www.fema.gov/print/pdf/node/694490"
+        ]
+      ]
+    },
+    {
+      "id": "hh-031",
+      "sub": "Warnings and shelter",
+      "title": "Set up a cleaner-air room during wildfire smoke",
+      "scenario": "Smoke has traveled into Friendswood overnight. The house is safe to occupy, but the outdoor air is unhealthy and both of you need a place to sleep.",
+      "gear": [
+        "Portable particle air cleaner sized for the room",
+        "Local air-quality and emergency alerts"
+      ],
+      "time": "Before smoke arrives or when advised",
+      "steps": [
+        "Check local fire and evacuation alerts first. If officials advise leaving, follow that direction. For a smoke event with sheltering advised, check AirNow and choose a room that stays cool and fits everyone overnight.",
+        "Close exterior doors and windows. Where the cooling system has a fresh-air intake setting, select recirculation according to its instructions. Keep exits clear.",
+        "Place a room-sized air cleaner that does not produce ozone where its vents are clear. Run it continuously at the highest tolerable speed. Avoid frying, burning candles and smoking indoors.",
+        "Check on heat, smoke and anyone feeling unwell. If power fails, the room gets too hot or smoke keeps entering, move to a cleaner, cooler building. When outdoor air improves, ventilate the room."
+      ],
+      "overview": "Choose your backup address while the air is clear. In a Gulf Coast summer, a closed bedroom can become too hot to use long before the smoke outdoors clears.",
+      "tags": [
+        "wildfire",
+        "smoke",
+        "air quality",
+        "heat",
+        "clean room"
+      ],
+      "sources": [
+        [
+          "EPA · Create a clean room during a wildfire",
+          "https://www.epa.gov/emergencies-iaq/create-clean-room-protect-indoor-air-quality-during-wildfire"
+        ]
+      ],
+      "cat": "Household Preparedness & Recovery",
+      "diff": "Easy",
+      "supplies": []
+    },
+    {
+      "id": "hh-032",
+      "sub": "Household drills",
+      "title": "Rehearse seven days without power in Friendswood",
+      "scenario": "On paper, it is August. The power went out at breakfast, the utility has no firm restoration time, and a friend across town has offered a cool room. What would make the two of you leave today?",
+      "time": "35–45 minutes together",
+      "gear": [
+        "Paper and pencil",
+        "Household contact and medication cards",
+        "Current water and pantry inventory"
+      ],
+      "steps": [
+        "Leave the electricity, cooling, medicine storage and medical equipment running throughout this tabletop exercise. On one page draw seven day columns and make rows for drinking water, meals, cooling, medicine or powered equipment, and contact with someone outside the house.",
+        "Hour one. One person records the outage start, checks alerts and finds the refrigerator outage guide. The other identifies any immediate dependency on power and calls the proposed host in this rehearsal only if you have arranged it. Write down a reachable destination, a ride and a second option.",
+        "First night. Build a meal for two from food already safe at room temperature. Count the water the meal and both people would use. Enter it in the log. Use your pharmacist’s or equipment provider’s actual storage limits and backup instructions. Mark anything unknown for follow-up.",
+        "Day three. Imagine the first host loses power too. Swap roles. Using yesterday’s water use and what remains, work out when you must resupply. Pick a departure time that leaves enough daylight and cooling, water and device power for the trip. Move it earlier if any essential need cannot be met.",
+        "Days four to seven. Fill the remaining columns at the location you chose. Name who confirms drinking water, needed equipment, a place to sleep and the next check-in. If either of you assumes a delivery or a ride, identify the person who can confirm it and an alternative if it falls through.",
+        "Compare the two decisions you made: when to leave and when it is safe to return. Circle the first unconfirmed dependency, give one person the job of resolving it and write the answer on the household card."
+      ],
+      "overview": "The most revealing entry is often the first blank square. Seven days of pantry food can coexist with one afternoon of usable battery power. The earlier limit sets your timetable.",
+      "tags": [
+        "power outage",
+        "hurricane",
+        "blackout",
+        "rehearsal",
+        "week",
+        "drill"
+      ],
+      "sources": [
+        [
+          "FEMA · Power outages",
+          "https://www.ready.gov/sites/default/files/2024-08/ready.gov_power-outage_info-sheet.pdf"
+        ]
+      ],
+      "cat": "Household Preparedness & Recovery",
+      "diff": "Easy",
+      "supplies": []
+    }
+  ],
+  "version": "2026.11.15-birthday-r1"
+}

@@ -18,8 +18,8 @@
       ],
       "steps": [
         "Power off and unplug the Glowforge before touching any optical glass.",
-        "Clean the 4 critical optical surfaces every 20\u201340 hours of cutting (or immediately if cuts stop going all the way through): (1) printer head window on the left side of the head, (2) left-side laser window under the left rail, (3) bottom camera lens on the lid, and (4) the internal focus lens removed from the bottom of the printer head using the blue magnetic tool.",
-        "Wipe each lens gently in a circular motion with a fresh Zeiss lens wipe\u2014never use paper towels or dry cloths, which scratch the anti-reflective coating.",
+        "Clean the 4 critical optical surfaces every 20–40 hours of cutting (or immediately if cuts stop going all the way through): (1) printer head window on the left side of the head, (2) left-side laser window under the left rail, (3) bottom camera lens on the lid, and (4) the internal focus lens removed from the bottom of the printer head using the blue magnetic tool.",
+        "Wipe each lens gently in a circular motion with a fresh Zeiss lens wipe—never use paper towels or dry cloths, which scratch the anti-reflective coating.",
         "Reinsert the focus lens cup-side UP ('cup goes up') until the magnet clicks, and wipe the stainless rails and air-assist fan scoop clean."
       ],
       "safety": "Never spray liquid cleaner directly onto lenses or electronics, and always ensure the focus lens is installed cup-side up before firing.",
@@ -29,7 +29,9 @@
         "cleaning",
         "optics",
         "maintenance"
-      ]
+      ],
+      "scenario": "A familiar laser-cut file no longer cuts through the same material.",
+      "overview": "Clean the approved optical surfaces before changing the file settings. A repeat cut on identical scrap separates optical trouble from a material change."
     },
     {
       "id": "crf-102",
@@ -47,8 +49,8 @@
         "1/8-inch (3mm) Baltic birch plywood or cast acrylic"
       ],
       "steps": [
-        "Measure your laser's exact kerf (the width of material vaporized by the beam, typically 0.006\"\u20130.008\" on a Glowforge) by cutting a 1.000-inch test square and measuring the resulting piece with digital calipers (1.000\" minus measured width = kerf).",
-        "For friction-fit finger-joint boxes that snap together without sloppy gaps: apply an outward path offset equal to HALF the kerf (0.003\"\u20130.004\") on mating tabs.",
+        "Measure your laser's exact kerf (the width of material vaporized by the beam, typically 0.006\"–0.008\" on a Glowforge) by cutting a 1.000-inch test square and measuring the resulting piece with digital calipers (1.000\" minus measured width = kerf).",
+        "For friction-fit finger-joint boxes that snap together without sloppy gaps: apply an outward path offset equal to HALF the kerf (0.003\"–0.004\") on mating tabs.",
         "For seamless wood/acrylic inlays: mirror the inlay piece face-down when cutting so the slight V-bevel of the laser beam matches the pocket bevel for a zero-gap flush fit."
       ],
       "safety": "Test finger-joint tolerances on a small 2-tab scrap strip before cutting an entire sheet of Proofgrade or Baltic birch.",
@@ -59,7 +61,9 @@
         "boxes",
         "calipers",
         "laser"
-      ]
+      ],
+      "scenario": "A tab fits in the drawing but rattles in the cut slot.",
+      "overview": "Cut a small fit gauge from the actual sheet. The best slot width goes with that sheet, lens and setting."
     },
     {
       "id": "crf-103",
@@ -82,9 +86,9 @@
       "steps": [
         "SAFE TO LASER: Cast & extruded acrylic (cast engraves frosty white; extruded engraves clear), untreated hardwoods & birch/maple plywood, MDF, vegetable-tanned leather, paper/cardboard, cork, slate, glass, ceramic tile, and anodized aluminum (ablates anodizing cleanly).",
         "NEVER LASER (DEADLY / DESTRUCTIVE): PVC, vinyl, faux leather/pleather (releases hydrogen chloride gas that forms hydrochloric acid inside your lungs and corrodes every metal part in your Glowforge in one cut), polycarbonate/Lexan (catches fire and produces toxic phosgene), ABS (melts and releases cyanide gas), and fiberglass/carbon fiber.",
-        "Beilstein Unknown-Plastic Test: Heat a bare copper wire red-hot in a torch flame, touch it to a scrap of unknown plastic, and put the wire back in the flame\u2014a bright GREEN flame means chlorine/PVC is present; DO NOT laser it."
+        "Beilstein Unknown-Plastic Test: Heat a bare copper wire red-hot in a torch flame, touch it to a scrap of unknown plastic, and put the wire back in the flame—a bright GREEN flame means chlorine/PVC is present; DO NOT laser it."
       ],
-      "safety": "Never leave a running laser cutter unattended even for 30 seconds\u2014acrylic and cardboard flare-ups can ignite within seconds.",
+      "safety": "Never leave a running laser cutter unattended even for 30 seconds—acrylic and cardboard flare-ups can ignite within seconds.",
       "tags": [
         "laser-safe",
         "pvc",
@@ -92,7 +96,9 @@
         "glowforge",
         "acrylic",
         "materials"
-      ]
+      ],
+      "scenario": "A scrap bin contains unmarked clear plastic that resembles acrylic.",
+      "overview": "Use positive material identification and the machine’s approved list before loading a sheet. Appearance cannot establish laser compatibility."
     },
     {
       "id": "crf-104",
@@ -112,18 +118,20 @@
         "Magic Eraser or LA's Totally Awesome cleaner"
       ],
       "steps": [
-        "Apply 12-inch wide paper transfer tape smoothly across unmasked Baltic birch or cast acrylic using a brayer roller before cutting\u2014this catches all brown resin smoke flashback so wood surfaces stay clean.",
+        "Apply 12-inch wide paper transfer tape smoothly across unmasked Baltic birch or cast acrylic using a brayer roller before cutting—this catches all brown resin smoke flashback so wood surfaces stay clean.",
         "Weed tiny masked islands after engraving by pressing a strip of strong duct tape or Gorilla tape over the piece and peeling straight up.",
         "For unmasked engraved wood (like live-edge charcuterie boards), wipe charred soot out of deep grooves with a slightly damp Magic Eraser or alcohol wipe, then seal with food-safe mineral oil + beeswax."
       ],
-      "safety": "Use paper transfer masking only\u2014never clear vinyl transfer tape, which contains PVC.",
+      "safety": "Use paper transfer masking only—never clear vinyl transfer tape, which contains PVC.",
       "tags": [
         "masking",
         "weeding",
         "glowforge",
         "wood-engraving",
         "cleanup"
-      ]
+      ],
+      "scenario": "A pale wooden design comes out with brown halos around its cuts.",
+      "overview": "A masking trial on scrap shows whether the finish will lift or leave residue before the whole panel is committed."
     },
     {
       "id": "crf-105",
@@ -142,17 +150,19 @@
       ],
       "steps": [
         "Generate or import an overlapping staggered-slot living-hinge vector pattern where cut lines run PARALLEL to the outer wood grain direction (bending perpendicular to the outer veneer fibers prevents snapping).",
-        "Keep bridge spacing between parallel cut lines at 1.5mm\u20132mm for tight-radius curved book covers, wrap-around lamps, or roll-top boxes.",
+        "Keep bridge spacing between parallel cut lines at 1.5mm–2mm for tight-radius curved book covers, wrap-around lamps, or roll-top boxes.",
         "Mist the living hinge lightly with warm water before bending slowly around a form, then glue rigid end caps to lock the curve permanently."
       ],
-      "safety": "Keep air-assist fan clean when cutting dense living hinges\u2014hundreds of closely spaced cuts concentrate heat in one small zone.",
+      "safety": "Keep air-assist fan clean when cutting dense living hinges—hundreds of closely spaced cuts concentrate heat in one small zone.",
       "tags": [
         "living-hinge",
         "glowforge",
         "baltic-birch",
         "laser",
         "woodworking"
-      ]
+      ],
+      "scenario": "A flat wooden panel needs to curve around the corner of a box.",
+      "overview": "A short hinge test reveals usable bend direction and radius. Stop before the remaining fibers begin to crack."
     },
     {
       "id": "crf-106",
@@ -183,7 +193,9 @@
         "canvas",
         "glowforge",
         "laser"
-      ]
+      ],
+      "scenario": "A design that engraves cleanly on slate looks weak on a different surface.",
+      "overview": "Run a small matrix on a spare blank from the same batch and inspect it under the light where the object will be used."
     },
     {
       "id": "crf-107",
@@ -200,9 +212,9 @@
         "Solid basswood, cherry, walnut, or thick cast acrylic"
       ],
       "steps": [
-        "Convert photos to high-contrast grayscale, boost midtone brightness by +15%\u201320% (lasers darken midtones heavily), and sharpen edges.",
+        "Convert photos to high-contrast grayscale, boost midtone brightness by +15%–20% (lasers darken midtones heavily), and sharpen edges.",
         "Select 'Vary Power' (3D Engrave) mode in the Glowforge UI so pure black pixels fire at 100% power (deepest carve) and pure white pixels fire at 0% power, creating sculpted 3D relief.",
-        "Use solid hardwood or cast acrylic rather than thin plywood\u2014plywood glue layers char black and resist even depth carving."
+        "Use solid hardwood or cast acrylic rather than thin plywood—plywood glue layers char black and resist even depth carving."
       ],
       "safety": "3D depth engraving removes significant material and generates extra smoke; verify exhaust hose seals tightly to the window vent.",
       "tags": [
@@ -211,7 +223,9 @@
         "glowforge",
         "hardwood",
         "laser"
-      ]
+      ],
+      "scenario": "A photo engraving has lost detail in its shadows.",
+      "overview": "Prepare the tonal range for the actual wood and compare small crops. Fine facial detail is a better test than a large area of background."
     },
     {
       "id": "crf-108",
@@ -224,12 +238,12 @@
         "Glowforge laser cutter"
       ],
       "supplies": [
-        "Full-grain vegetable-tanned leather (3\u20135 oz)",
+        "Full-grain vegetable-tanned leather (3–5 oz)",
         "Saddle soap / leather balm",
         "Heat-activated hat patch adhesive (3M/HeatnBond Ultra)"
       ],
       "steps": [
-        "Use ONLY vegetable-tanned leather\u2014never chrome-tanned leather (which contains chromium salts and smells toxic when burned).",
+        "Use ONLY vegetable-tanned leather—never chrome-tanned leather (which contains chromium salts and smells toxic when burned).",
         "Mask the grain side with paper transfer tape, cut and engrave at high speed, then immediately wash charred edges with saddle soap and damp cloth before un-masking.",
         "Condition with leather balm and fuse 3M thermo-adhesive film to the back so patches press onto trucker hats with a hat heat press."
       ],
@@ -240,7 +254,9 @@
         "glowforge",
         "laser",
         "veg-tan"
-      ]
+      ],
+      "scenario": "A hide offcut would make a patch but its tanning treatment is uncertain.",
+      "overview": "Confirm laser compatibility with the supplier first. A scrap test then establishes edge appearance and legibility."
     },
     {
       "id": "crf-109",
@@ -261,18 +277,20 @@
         "100% polyester or poly-coated blanks"
       ],
       "steps": [
-        "Verify actual platen temperature with an infrared temp gun\u2014many presses run 10\u00b0F\u201315\u00b0F hotter or cooler than their digital readout.",
+        "Verify actual platen temperature with an infrared temp gun—many presses run 10°F–15°F hotter or cooler than their digital readout.",
         "Always MIRROR your design before printing, let ink dry 2 minutes (or hover under open press platen 15 seconds) to prevent smearing, and sandwich every press between clean butcher paper sheets to protect your platen from ghosting.",
-        "Standard Reference Settings: 100% Polyester Shirts = 385\u00b0F\u2013400\u00b0F for 45\u201360 sec (medium pressure); Ceramic Mugs = 400\u00b0F for 180\u2013210 sec; Neoprene Coasters/Mousepads = 385\u00b0F for 45\u201350 sec; Hardboard / ChromaLuxe Metal = 400\u00b0F for 60\u201375 sec; Frosted Glass = 385\u00b0F for 180 sec."
+        "Standard Reference Settings: 100% Polyester Shirts = 385°F–400°F for 45–60 sec (medium pressure); Ceramic Mugs = 400°F for 180–210 sec; Neoprene Coasters/Mousepads = 385°F for 45–50 sec; Hardboard / ChromaLuxe Metal = 400°F for 60–75 sec; Frosted Glass = 385°F for 180 sec."
       ],
-      "safety": "Sublimation ink permanently dyes ONLY polyester polymers\u2014on 100% cotton, colors wash out completely after the first laundry cycle.",
+      "safety": "Sublimation ink permanently dyes ONLY polyester polymers—on 100% cotton, colors wash out completely after the first laundry cycle.",
       "tags": [
         "sublimation",
         "heat-press",
         "temp-chart",
         "polyester",
         "crafting"
-      ]
+      ],
+      "scenario": "A new sublimation blank arrived without familiar press settings.",
+      "overview": "Find the supplier’s specification for that exact coating and test one blank. Record actual time, temperature and pressure with the result."
     },
     {
       "id": "crf-110",
@@ -291,19 +309,21 @@
         "Butcher paper"
       ],
       "steps": [
-        "Pre-press fabric blanks for 5\u201310 seconds BEFORE taping your transfer\u2014this removes hidden moisture (which causes washed-out spots and steam ghosting) and pre-shrinks fabric.",
+        "Pre-press fabric blanks for 5–10 seconds BEFORE taping your transfer—this removes hidden moisture (which causes washed-out spots and steam ghosting) and pre-shrinks fabric.",
         "Lint-roll polyester shirts thoroughly before pressing; invisible synthetic lint fibers turn bright blue/purple dots under heat.",
-        "Tear (hand-rip) the edges of your sublimation paper rather than cutting with scissors, and insert a Teflon pressing pillow inside shirts so collars/seams drop off the edge\u2014this eliminates permanent rectangular press boxes.",
+        "Tear (hand-rip) the edges of your sublimation paper rather than cutting with scissors, and insert a Teflon pressing pillow inside shirts so collars/seams drop off the edge—this eliminates permanent rectangular press boxes.",
         "Lift the heat press handle smoothly straight up without shifting the paper while hot."
       ],
-      "safety": "Use fresh butcher paper on top and bottom for every single press\u2014reusing ink-stained paper transfers ghost marks onto your next shirt.",
+      "safety": "Use fresh butcher paper on top and bottom for every single press—reusing ink-stained paper transfers ghost marks onto your next shirt.",
       "tags": [
         "sublimation",
         "ghosting",
         "press-marks",
         "heat-press",
         "troubleshooting"
-      ]
+      ],
+      "scenario": "A printed outline has a faint second image on one side.",
+      "overview": "A displaced shadow points to paper movement, while rectangular marks can come from heat or pressure. Change one cause per test."
     },
     {
       "id": "crf-111",
@@ -324,17 +344,19 @@
       ],
       "steps": [
         "Clean tumbler with rubbing alcohol, wrap the trimmed sublimation print tight around the cylinder overlapping the seam by 1/8-inch, and tape the vertical seam every 1.5 inches plus top and bottom rims.",
-        "Tumbler Press Method: Press at 365\u00b0F\u2013385\u00b0F for 50\u201360 seconds, rotate 180\u00b0, and press another 40\u201350 seconds for even top-to-bottom color.",
-        "Convection Oven Method: Slide a shrink-wrap sleeve over the taped transfer, shrink tight with a heat gun, bake at 365\u00b0F\u2013375\u00b0F for 5\u20136 minutes (rotating halfway), and peel immediately wearing heat gloves."
+        "Tumbler Press Method: Press at 365°F–385°F for 50–60 seconds, rotate 180°, and press another 40–50 seconds for even top-to-bottom color.",
+        "Convection Oven Method: Slide a shrink-wrap sleeve over the taped transfer, shrink tight with a heat gun, bake at 365°F–375°F for 5–6 minutes (rotating halfway), and peel immediately wearing heat gloves."
       ],
-      "safety": "CRITICAL: Never sublimate inside an oven used for cooking food\u2014sublimation gas fumes deposit toxic polymer/dye residue onto oven walls.",
+      "safety": "CRITICAL: Never sublimate inside an oven used for cooking food—sublimation gas fumes deposit toxic polymer/dye residue onto oven walls.",
       "tags": [
         "tumblers",
         "sublimation",
         "mug-press",
         "shrink-wrap",
         "crafting"
-      ]
+      ],
+      "scenario": "The graphic on a tumbler looks continuous on paper but leaves a white seam.",
+      "overview": "Dry-fit a paper template around the actual blank and mark the join. Check the seam before judging the rest of the transfer."
     },
     {
       "id": "crf-112",
@@ -354,8 +376,8 @@
       ],
       "steps": [
         "Because sublimation ink is transparent and needs polyester, use two proven methods on dark or 100% cotton shirts:",
-        "Method 1 (White Glitter HTV Base \u2014 indestructible wash durability): Cut a solid offset silhouette from white glitter HTV on your Cricut, press onto the cotton shirt at 320\u00b0F for 10 seconds, peel carrier cold, align your mirrored sublimation print on top, and press at 385\u00b0F for 45 seconds.",
-        "Method 2 (EasySubli / Sublimation HTV): Print directly onto EasySubli sheets (or press matte sublimation HTV onto cotton first) and press at 311\u00b0F\u2013340\u00b0F per sheet instructions."
+        "Method 1 (White Glitter HTV Base — indestructible wash durability): Cut a solid offset silhouette from white glitter HTV on your Cricut, press onto the cotton shirt at 320°F for 10 seconds, peel carrier cold, align your mirrored sublimation print on top, and press at 385°F for 45 seconds.",
+        "Method 2 (EasySubli / Sublimation HTV): Print directly onto EasySubli sheets (or press matte sublimation HTV onto cotton first) and press at 311°F–340°F per sheet instructions."
       ],
       "safety": "Always place a Teflon sheet or parchment paper over exposed HTV during the second high-temp press so vinyl does not stick to the upper platen.",
       "tags": [
@@ -364,7 +386,9 @@
         "easysubli",
         "cricut",
         "heat-press"
-      ]
+      ],
+      "scenario": "A bright design disappears against a dark cotton shirt.",
+      "overview": "An appropriate transfer layer supplies the printable surface. Confirm garment and layer compatibility before cutting the final art."
     },
     {
       "id": "crf-113",
@@ -384,11 +408,11 @@
         "Direct-to-Film (DTF) transfers"
       ],
       "steps": [
-        "Standard HTV (Siser EasyWeed): Cut mirrored shiny-side DOWN, weed excess, press at 305\u00b0F for 10\u201315 seconds with medium pressure, and peel warm or cold.",
-        "Multi-Color HTV Layering: Press base layers for ONLY 3\u20135 seconds each (just enough to tack without shrinking), align the next color with a Teflon sheet covering all exposed vinyl, and do a full 15-second press on the final top layer (Puff HTV always goes on TOP last at 280\u00b0F\u2013300\u00b0F with firm pressure).",
-        "DTF (Direct-to-Film) Transfers: Press at 300\u00b0F\u2013315\u00b0F for 12\u201315 seconds with firm pressure, let cool completely (unless labeled hot-peel), peel carrier smoothly, and do a 5-second finishing press with parchment paper to lock matte durability."
+        "Standard HTV (Siser EasyWeed): Cut mirrored shiny-side DOWN, weed excess, press at 305°F for 10–15 seconds with medium pressure, and peel warm or cold.",
+        "Multi-Color HTV Layering: Press base layers for ONLY 3–5 seconds each (just enough to tack without shrinking), align the next color with a Teflon sheet covering all exposed vinyl, and do a full 15-second press on the final top layer (Puff HTV always goes on TOP last at 280°F–300°F with firm pressure).",
+        "DTF (Direct-to-Film) Transfers: Press at 300°F–315°F for 12–15 seconds with firm pressure, let cool completely (unless labeled hot-peel), peel carrier smoothly, and do a 5-second finishing press with parchment paper to lock matte durability."
       ],
-      "safety": "Never press glitter, foil, or holographic HTV underneath another layer\u2014top layers will peel right off textured finishes.",
+      "safety": "Never press glitter, foil, or holographic HTV underneath another layer—top layers will peel right off textured finishes.",
       "tags": [
         "htv",
         "dtf",
@@ -396,7 +420,9 @@
         "puff-vinyl",
         "heat-press",
         "shirts"
-      ]
+      ],
+      "scenario": "A layered shirt looks fine off the press but lifts after washing.",
+      "overview": "Identify which layers can take another press and which belong on top. A washed scrap is the most useful durability sample."
     },
     {
       "id": "crf-114",
@@ -413,8 +439,8 @@
         "Distilled water / printhead cleaning kit"
       ],
       "steps": [
-        "Sublimation ink is thicker than standard dye ink and dries quickly in idle printheads\u2014print a full-color CMYK purge page at least once every 4\u20135 days even when you have no active projects.",
-        "Keep the printer in an air-conditioned room (45%\u201360% humidity) and never unplug it via a power strip\u2014use the printer's own power button so the printhead parks and caps airtight.",
+        "Sublimation ink is thicker than standard dye ink and dries quickly in idle printheads—print a full-color CMYK purge page at least once every 4–5 days even when you have no active projects.",
+        "Keep the printer in an air-conditioned room (45%–60% humidity) and never unplug it via a power strip—use the printer's own power button so the printhead parks and caps airtight.",
         "If banding lines appear, run ONE nozzle check + head cleaning cycle, wait 15 minutes for ink bubbles to settle before testing again (running 4 cleanings back-to-back overheats piezo nozzles and wastes ink pads)."
       ],
       "safety": "Keep a spare waste-ink maintenance box on hand if converting an Epson EcoTank for sublimation.",
@@ -424,7 +450,9 @@
         "ecotank",
         "sawgrass",
         "maintenance"
-      ]
+      ],
+      "scenario": "A solid color print has parallel missing lines.",
+      "overview": "Keep the nozzle check as a before-and-after sample. Repeated cleaning without a changed pattern points to a different problem."
     },
     {
       "id": "crf-115",
@@ -444,9 +472,9 @@
         "Blue painter's tape"
       ],
       "steps": [
-        "Match blade to material: Fine-Point Blade (vinyl, HTV, cardstock); Rotary Blade (unbacked fabric, felt, silk\u2014never needs stabilizer); Knife Blade (thick basswood, chipboard, tooling leather\u2014requires multiple passes); Deep-Point Blade (craft foam, magnets, stiff felt).",
+        "Match blade to material: Fine-Point Blade (vinyl, HTV, cardstock); Rotary Blade (unbacked fabric, felt, silk—never needs stabilizer); Knife Blade (thick basswood, chipboard, tooling leather—requires multiple passes); Deep-Point Blade (craft foam, magnets, stiff felt).",
         "Before starting a cut, push the white star wheels on the roller bar all the way to the sides when cutting thick materials or balsa wood so they don't leave track dents.",
-        "Clean fuzzy mats gently with alcohol-free baby wipes and air-dry\u2014stickiness returns automatically once lint is removed; tape corners down with blue painter's tape on older mats."
+        "Clean fuzzy mats gently with alcohol-free baby wipes and air-dry—stickiness returns automatically once lint is removed; tape corners down with blue painter's tape on older mats."
       ],
       "safety": "Check the Fine-Point blade tip regularly by stabbing it into a crumpled ball of aluminum foil 10 times to knock off sticky adhesive buildup.",
       "tags": [
@@ -455,7 +483,9 @@
         "cutting-mat",
         "maintenance",
         "crafting"
-      ]
+      ],
+      "scenario": "A cardstock design tears at corners and the mat has lost its grip.",
+      "overview": "Separate a dull blade from a slipping sheet by changing one factor at a time on scrap."
     },
     {
       "id": "crf-116",
@@ -481,14 +511,16 @@
         "Oracal 631 (matte, water-based removable adhesive): Use for indoor painted walls and temporary stencils so paint won't peel off later.",
         "Clean glass/metal/car surfaces with 70% alcohol first; for large car decals, mist the surface lightly with water + 2 drops dish soap ('wet method') so you can slide the decal straight before squeegeeing water out from the center."
       ],
-      "safety": "Wait 48\u201372 hours before hand-washing vinyl-decaled tumblers so adhesive reaches full cure bond (never put vinyl decals in the dishwasher).",
+      "safety": "Wait 48–72 hours before hand-washing vinyl-decaled tumblers so adhesive reaches full cure bond (never put vinyl decals in the dishwasher).",
       "tags": [
         "oracal-651",
         "vinyl",
         "decals",
         "cricut",
         "transfer-tape"
-      ]
+      ],
+      "scenario": "A temporary wall sign and an outdoor decal look identical in the design file.",
+      "overview": "The substrate and intended removal date determine the adhesive. Test an inconspicuous spot for release and finish damage."
     },
     {
       "id": "crf-117",
@@ -518,7 +550,9 @@
         "layering",
         "vinyl",
         "registration"
-      ]
+      ],
+      "scenario": "Tiny lettering stays on the backing and the second color will not line up.",
+      "overview": "Transfer tape supports delicate pieces. Alignment marks outside the finished artwork establish a shared reference for each layer."
     },
     {
       "id": "crf-118",
@@ -538,7 +572,7 @@
       ],
       "steps": [
         "Run Print-Then-Cut Calibration inside Cricut Design Space whenever cuts drift off-center by even 1mm.",
-        "Glossy Sticker Paper Sensor Fix: Cricut's optical sensor often misreads black registration lines on shiny glossy paper\u2014apply matte Scotch tape over the black registration border box (or dim overhead room lights) before loading the mat.",
+        "Glossy Sticker Paper Sensor Fix: Cricut's optical sensor often misreads black registration lines on shiny glossy paper—apply matte Scotch tape over the black registration border box (or dim overhead room lights) before loading the mat.",
         "Apply a clear self-adhesive laminating sheet over printed stickers before cutting so stickers become waterproof and UV-scratchproof."
       ],
       "safety": "Select 'Offset' around sticker designs to create clean die-cut white borders.",
@@ -548,7 +582,9 @@
         "cricut",
         "calibration",
         "crafting"
-      ]
+      ],
+      "scenario": "The image prints correctly but the cutter misses its outline.",
+      "overview": "A calibration sheet tests alignment separately from glossy reflections. Keep the same print scale for the real sheet."
     },
     {
       "id": "crf-119",
@@ -570,16 +606,18 @@
       "steps": [
         "Clean glass casserole dish or mug with rubbing alcohol, apply your weeded vinyl stencil (weed OUT the design so bare glass shows inside), and burnish edges tightly so cream cannot bleed underneath.",
         "Wearing nitrile gloves and safety glasses, dab a thick, even layer of etching cream over the exposed glass without brushing back and forth aggressively.",
-        "Wait 3\u20135 minutes (check bottle label\u2014never leave on >10 minutes or etch turns cloudy), rinse off completely under running water wearing gloves, and peel off the vinyl stencil."
+        "Wait 3–5 minutes (check bottle label—never leave on >10 minutes or etch turns cloudy), rinse off completely under running water wearing gloves, and peel off the vinyl stencil."
       ],
-      "safety": "Etching cream contains corrosive fluoride compounds\u2014wear gloves/eye protection and never use on Pyrex borosilicate glass or plastic.",
+      "safety": "Etching cream contains corrosive fluoride compounds—wear gloves/eye protection and never use on Pyrex borosilicate glass or plastic.",
       "tags": [
         "glass-etching",
         "stencil",
         "cricut",
         "gifts",
         "crafting"
-      ]
+      ],
+      "scenario": "An etched design needs crisp edges around a drinking glass.",
+      "overview": "A well-adhered stencil defines the boundary. Follow the etchant label and keep the design off food and lip-contact surfaces."
     },
     {
       "id": "crf-120",
@@ -599,8 +637,8 @@
       ],
       "steps": [
         "Use solid-core cardstock (colored all the way through) rather than white-core cardstock so cut edges never show white lines.",
-        "Peel the MAT away from the cardstock (flip mat face-down on table and roll mat backward) rather than peeling paper off the mat\u2014this prevents paper curling.",
-        "Stack 6\u201310 intricate cut layers inside a deep shadow box separated by 3mm foam spacer strips and backlit with warm LED fairy lights."
+        "Peel the MAT away from the cardstock (flip mat face-down on table and roll mat backward) rather than peeling paper off the mat—this prevents paper curling.",
+        "Stack 6–10 intricate cut layers inside a deep shadow box separated by 3mm foam spacer strips and backlit with warm LED fairy lights."
       ],
       "safety": "Use the 'Cardstock for Intricate Cuts' setting (lighter pressure, 2 passes) to keep delicate filigree from tearing.",
       "tags": [
@@ -609,7 +647,9 @@
         "paper-craft",
         "cricut",
         "3d-paper"
-      ]
+      ],
+      "scenario": "Flat cardstock pieces need to read as a three-dimensional scene.",
+      "overview": "Dry-stack the layers before gluing. Spacers and the direction of light determine which details remain visible."
     },
     {
       "id": "crf-121",
@@ -630,8 +670,8 @@
       ],
       "steps": [
         "90% of 3D print failures happen on Layer 1: wash textured PEI or smooth build plates with warm water and plain Dawn dish soap (fingerprint skin oils ruin adhesion far worse than alcohol fixes).",
-        "Run auto bed mesh leveling at printing bed temperature (60\u00b0C for PLA, 80\u00b0C for PETG) and fine-tune live Z-offset until extruded lines squish flat together with zero gaps between lines and zero rough ridges.",
-        "Wait for the build plate to cool below 35\u00b0C after printing\u2014PEI plates self-release prints with a gentle pop once cool."
+        "Run auto bed mesh leveling at printing bed temperature (60°C for PLA, 80°C for PETG) and fine-tune live Z-offset until extruded lines squish flat together with zero gaps between lines and zero rough ridges.",
+        "Wait for the build plate to cool below 35°C after printing—PEI plates self-release prints with a gentle pop once cool."
       ],
       "safety": "When printing PETG on smooth glass or smooth PEI, apply a thin coat of glue stick as a RELEASE agent so PETG doesn't rip chunks out of the bed.",
       "tags": [
@@ -640,7 +680,9 @@
         "first-layer",
         "pei",
         "adhesion"
-      ]
+      ],
+      "scenario": "The first printed line either drags loose or appears nearly transparent.",
+      "overview": "Read the first-layer pattern across the whole bed. Local variation and a uniformly wrong nozzle height have different fixes."
     },
     {
       "id": "crf-122",
@@ -660,12 +702,12 @@
         "ASA (UV-resistant outdoor)"
       ],
       "steps": [
-        "PLA (195\u00b0C\u2013215\u00b0C nozzle / 55\u00b0C\u201360\u00b0C bed): Easiest, crispest detail, zero odor, ideal for indoor organizers, cookie cutters (food-safe coated), and prototypes\u2014NEVER leave PLA in a hot Texas car or outdoors, as it softens and warps at 130\u00b0F (55\u00b0C).",
-        "PETG (235\u00b0C\u2013250\u00b0C nozzle / 75\u00b0C\u201385\u00b0C bed): Tough, impact-resistant, water-resistant, survives up to 175\u00b0F\u2014ideal for garden tags, pool parts, brackets, and workshop jigs.",
-        "TPU (220\u00b0C\u2013235\u00b0C nozzle / slow 25\u201340 mm/s speed): Rubber-like flexible filament for phone cases, gaskets, bumpers, and vibration feet.",
-        "ASA (250\u00b0C\u2013265\u00b0C nozzle / 100\u00b0C bed / enclosure required): UV-stable, outdoor weatherproof upgrade over ABS for car mounts and patio fixtures."
+        "PLA (195°C–215°C nozzle / 55°C–60°C bed): Easiest, crispest detail, zero odor, ideal for indoor organizers, cookie cutters (food-safe coated), and prototypes—NEVER leave PLA in a hot Texas car or outdoors, as it softens and warps at 130°F (55°C).",
+        "PETG (235°C–250°C nozzle / 75°C–85°C bed): Tough, impact-resistant, water-resistant, survives up to 175°F—ideal for garden tags, pool parts, brackets, and workshop jigs.",
+        "TPU (220°C–235°C nozzle / slow 25–40 mm/s speed): Rubber-like flexible filament for phone cases, gaskets, bumpers, and vibration feet.",
+        "ASA (250°C–265°C nozzle / 100°C bed / enclosure required): UV-stable, outdoor weatherproof upgrade over ABS for car mounts and patio fixtures."
       ],
-      "safety": "Print ASA/ABS ONLY in an enclosed printer vented outdoors or filtered through activated carbon\u2014styrene fumes are hazardous.",
+      "safety": "Print ASA/ABS ONLY in an enclosed printer vented outdoors or filtered through activated carbon—styrene fumes are hazardous.",
       "tags": [
         "filament",
         "pla",
@@ -673,7 +715,9 @@
         "tpu",
         "asa",
         "3d-printing"
-      ]
+      ],
+      "scenario": "A printed part will spend summer afternoons inside a parked Texas car.",
+      "overview": "Select for service temperature, load and printer ventilation before choosing color. Test the material in the real use environment."
     },
     {
       "id": "crf-123",
@@ -681,7 +725,7 @@
       "sub": "3D Printing",
       "title": "Drying Wet Filament & Airtight Humidity Storage (Gulf Coast Essential)",
       "diff": "Easy",
-      "time": "4\u20136 hours",
+      "time": "4–6 hours",
       "gear": [
         "Filament dryer box (or food dehydrator)",
         "Digital hygrometer"
@@ -691,18 +735,20 @@
         "Rechargeable orange-to-green silica gel beads"
       ],
       "steps": [
-        "In humid Friendswood/Gulf Coast air, PETG, TPU, and Nylon absorb atmospheric moisture within 24\u201348 hours\u2014wet filament pops/crackles at the nozzle, strings heavily, and prints brittle layers.",
-        "Dry spools in a filament dryer before printing: PLA at 45\u00b0C\u201350\u00b0C for 4 hrs; PETG at 60\u00b0C\u201365\u00b0C for 6 hrs; TPU/Nylon at 65\u00b0C\u201370\u00b0C for 6\u20138 hrs.",
+        "In humid Friendswood/Gulf Coast air, PETG, TPU, and Nylon absorb atmospheric moisture within 24–48 hours—wet filament pops/crackles at the nozzle, strings heavily, and prints brittle layers.",
+        "Dry spools in a filament dryer before printing: PLA at 45°C–50°C for 4 hrs; PETG at 60°C–65°C for 6 hrs; TPU/Nylon at 65°C–70°C for 6–8 hrs.",
         "Store spools inside gasket-sealed cereal dryboxes with 50g of color-indicating silica gel beads to hold relative humidity under 15%."
       ],
-      "safety": "Never exceed 55\u00b0C when drying PLA or the filament will soften and fuse together on the spool.",
+      "safety": "Never exceed 55°C when drying PLA or the filament will soften and fuse together on the spool.",
       "tags": [
         "filament-dryer",
         "humidity",
         "petg",
         "storage",
         "3d-printing"
-      ]
+      ],
+      "scenario": "A spool pops at the nozzle after sitting out in humid weather.",
+      "overview": "Dry using the material maker’s limits and store with a moisture indicator. A sealed bag preserves a dry spool more readily than it dries a wet one."
     },
     {
       "id": "crf-124",
@@ -720,16 +766,18 @@
         "Light-colored nylon or PLA filament"
       ],
       "steps": [
-        "Heat the hotend to printing temp (220\u00b0C for PLA / 250\u00b0C for PETG) and gently insert a 0.4mm acupuncture needle straight up into the nozzle tip to break up minor debris.",
-        "For stubborn partial clogs, perform a Cold Pull: push light-colored PLA/nylon firmly down into the heated nozzle until a bit extrudes, cool the nozzle down to 90\u00b0C (for PLA) or 130\u00b0C (for Nylon), release the extruder tension lever, and yank the filament straight upward in one firm pull\u2014the tip comes out molded to the inner nozzle cone with burnt carbon debris embedded in it."
+        "Heat the hotend to printing temp (220°C for PLA / 250°C for PETG) and gently insert a 0.4mm acupuncture needle straight up into the nozzle tip to break up minor debris.",
+        "For stubborn partial clogs, perform a Cold Pull: push light-colored PLA/nylon firmly down into the heated nozzle until a bit extrudes, cool the nozzle down to 90°C (for PLA) or 130°C (for Nylon), release the extruder tension lever, and yank the filament straight upward in one firm pull—the tip comes out molded to the inner nozzle cone with burnt carbon debris embedded in it."
       ],
-      "safety": "Wear heat-resistant gloves or use pliers\u2014the heater block and nozzle are above 200\u00b0C.",
+      "safety": "Wear heat-resistant gloves or use pliers—the heater block and nozzle are above 200°C.",
       "tags": [
         "nozzle-clog",
         "cold-pull",
         "3d-printing",
         "troubleshooting"
-      ]
+      ],
+      "scenario": "Filament feeds inconsistently and a known-good spool gives the same symptom.",
+      "overview": "Check the feed path before attempting the printer maker’s unclogging procedure. A test extrusion helps confirm flow before restarting a job."
     },
     {
       "id": "crf-125",
@@ -743,9 +791,9 @@
       ],
       "supplies": [],
       "steps": [
-        "Part strength comes from WALL LOOPS (perimeters), NOT high infill: increasing walls from 2 to 4\u20135 loops with 15%\u201320% Gyroid infill makes brackets 2x stronger and prints faster than 80% infill with 2 walls.",
+        "Part strength comes from WALL LOOPS (perimeters), NOT high infill: increasing walls from 2 to 4–5 loops with 15%–20% Gyroid infill makes brackets 2x stronger and prints faster than 80% infill with 2 walls.",
         "Orient functional hooks and brackets on their SIDE so layer lines run along the load path rather than shearing apart between layers.",
-        "Enable Organic/Tree Supports ('on build plate only') for overhangs >50\u00b0\u2014tree supports use less plastic, print faster, and snap off cleanly without scarring top surfaces."
+        "Enable Organic/Tree Supports ('on build plate only') for overhangs >50°—tree supports use less plastic, print faster, and snap off cleanly without scarring top surfaces."
       ],
       "safety": "Use a deburring tool to trim sharp brim edges off freshly removed 3D prints safely.",
       "tags": [
@@ -754,7 +802,9 @@
         "tree-supports",
         "3d-printing",
         "strength"
-      ]
+      ],
+      "scenario": "A printed bracket breaks along its layer lines.",
+      "overview": "Orientation changes how the load acts on the layers. Compare small test pieces before spending time increasing infill."
     },
     {
       "id": "crf-126",
@@ -766,7 +816,7 @@
       "gear": [
         "Soldering iron with brass heat-set tip",
         "Deburring tool",
-        "Sandpaper (120\u2013400 grit)"
+        "Sandpaper (120–400 grit)"
       ],
       "supplies": [
         "Knurled brass M3/M4 threaded inserts",
@@ -774,7 +824,7 @@
         "Filler primer"
       ],
       "steps": [
-        "Design screw holes slightly smaller than the insert's outer diameter, set soldering iron to 200\u00b0C\u2013220\u00b0C, rest the knurled brass insert in the hole, and press straight down gently until flush\u2014melted plastic flows into the knurls for rock-solid machine threads.",
+        "Design screw holes slightly smaller than the insert's outer diameter, set soldering iron to 200°C–220°C, rest the knurled brass insert in the hole, and press straight down gently until flush—melted plastic flows into the knurls for rock-solid machine threads.",
         "Weld broken or multi-part PLA prints using thick cyanoacrylate (superglue) dusted with a pinch of baking soda for instant rock-hard gap filling, or weld seams with a 3D printing pen.",
         "Smooth layer lines for painting by wet-sanding (keeps plastic from melting from friction) and spraying automotive high-build filler primer."
       ],
@@ -785,7 +835,9 @@
         "sanding",
         "3d-printing",
         "hardware"
-      ]
+      ],
+      "scenario": "A screw needs to come out of a plastic enclosure repeatedly.",
+      "overview": "Fit an insert on a scrap boss first. A straight, flush seat and sound surrounding plastic determine whether the screw will run cleanly."
     },
     {
       "id": "crf-127",
@@ -805,7 +857,7 @@
       ],
       "steps": [
         "90% of 'bird's nest' thread tangles UNDERNEATH the fabric are caused by improper UPPER threading (not bobbin tension!): raise the presser foot completely BEFORE threading the upper path so tension discs open and seat the thread.",
-        "Match needle to fabric and replace every 8 hours of sewing: Universal (70/10\u201390/14) for woven cotton; Ballpoint/Jersey for stretchy knits (prevents skipped stitches and runs); Denim/Jeans (100/16) for canvas/heavy seams; Microtex (70/10) for crisp silk/microfiber.",
+        "Match needle to fabric and replace every 8 hours of sewing: Universal (70/10–90/14) for woven cotton; Ballpoint/Jersey for stretchy knits (prevents skipped stitches and runs); Denim/Jeans (100/16) for canvas/heavy seams; Microtex (70/10) for crisp silk/microfiber.",
         "Clean lint out of the bobbin race and feed dogs after every project using a dry brush (never canned compressed air, which blows lint deeper into motor gears)."
       ],
       "safety": "Turn off or unplug the machine before changing needles or cleaning around the bobbin hook.",
@@ -815,7 +867,9 @@
         "needles",
         "troubleshooting",
         "sewing"
-      ]
+      ],
+      "scenario": "Loops appear under a seam after the machine was rethreaded.",
+      "overview": "Thread the machine with the presser foot in the position the manual specifies and test on doubled project fabric."
     },
     {
       "id": "crf-128",
@@ -835,19 +889,21 @@
       ],
       "steps": [
         "Run thread across a block of beeswax before sewing to stop tangling and double durability.",
-        "1. Backstitch (strongest seam repair): Bring needle up, stitch backward one stitch length, then advance two stitch lengths underneath\u2014creates a continuous machine-strength line.",
-        "2. Ladder / Slip Stitch (invisible pillow/plush/hem closure): Fold raw edges inside, alternate horizontal bites inside each folded crease, and pull gently\u2014stitches disappear completely.",
+        "1. Backstitch (strongest seam repair): Bring needle up, stitch backward one stitch length, then advance two stitch lengths underneath—creates a continuous machine-strength line.",
+        "2. Ladder / Slip Stitch (invisible pillow/plush/hem closure): Fold raw edges inside, alternate horizontal bites inside each folded crease, and pull gently—stitches disappear completely.",
         "3. Whipstitch & Blanket Stitch: Use whipstitch for fast rolled edges and blanket stitch for reinforcing felt/wool blanket edges.",
         "4. Bar Tack: Wrap tight satin stitches across pocket corners and belt loops to prevent ripping under stress."
       ],
-      "safety": "Keep thread lengths under 18\u201320 inches when hand sewing so thread doesn't knot or fray from repeated pulls.",
+      "safety": "Keep thread lengths under 18–20 inches when hand sewing so thread doesn't knot or fray from repeated pulls.",
       "tags": [
         "hand-sewing",
         "stitches",
         "ladder-stitch",
         "backstitch",
         "mending"
-      ]
+      ],
+      "scenario": "A seam is opening in a spot that a machine cannot reach.",
+      "overview": "Match the stitch to the job. A load-bearing seam, hidden opening and raw edge need different thread paths."
     },
     {
       "id": "crf-129",
@@ -868,16 +924,18 @@
       ],
       "steps": [
         "Double your thread and anchor with two tiny X-stitches right where the button sits.",
-        "Place a toothpick across the TOP of the flat button between the holes and sew through the holes OVER the toothpick 5\u20136 times (if sewing a heavy coat, align a small flat backing button on the inside fabric so thread never tears the wool).",
-        "Remove the toothpick, pull the button slightly away from the fabric, wrap the thread tightly 5\u20136 times around the thread bundle underneath to create a flexible 'thread shank', and knot securely underneath."
+        "Place a toothpick across the TOP of the flat button between the holes and sew through the holes OVER the toothpick 5–6 times (if sewing a heavy coat, align a small flat backing button on the inside fabric so thread never tears the wool).",
+        "Remove the toothpick, pull the button slightly away from the fabric, wrap the thread tightly 5–6 times around the thread bundle underneath to create a flexible 'thread shank', and knot securely underneath."
       ],
-      "safety": "Never sew flat buttons flush against thick fabric without a thread shank\u2014there won't be room for the buttonhole flap to sit flat.",
+      "safety": "Never sew flat buttons flush against thick fabric without a thread shank—there won't be room for the buttonhole flap to sit flat.",
       "tags": [
         "button",
         "mending",
         "clothing-repair",
         "sewing"
-      ]
+      ],
+      "scenario": "A coat button sits so tightly against the fabric that the buttonhole puckers.",
+      "overview": "A thread shank creates room for the thickness of the closed garment. Test the button through the actual hole."
     },
     {
       "id": "crf-130",
@@ -895,18 +953,20 @@
         "Heavy thread"
       ],
       "steps": [
-        "Zipper separates behind the slider: The metal slider jaws have widened from wear\u2014use needle-nose pliers to gently squeeze the top and bottom plates of the slider 1mm closer together on BOTH sides until teeth lock firmly again.",
+        "Zipper separates behind the slider: The metal slider jaws have widened from wear—use needle-nose pliers to gently squeeze the top and bottom plates of the slider 1mm closer together on BOTH sides until teeth lock firmly again.",
         "Stuck zipper: Rub graphite pencil lead or beeswax along both rows of teeth to lubricate without staining fabric.",
         "Replacing a broken slider without removing the whole zipper: pry off the top metal stop with pliers, slide the old pull off, slip on a matching-size replacement slider, and crimp a new top stop (or whipstitch a thick thread bar across the top teeth)."
       ],
-      "safety": "Squeeze metal sliders gently in tiny increments\u2014cast zinc sliders can crack if crushed hard with pliers.",
+      "safety": "Squeeze metal sliders gently in tiny increments—cast zinc sliders can crack if crushed hard with pliers.",
       "tags": [
         "zipper",
         "repair",
         "jacket",
         "bag-repair",
         "mending"
-      ]
+      ],
+      "scenario": "The zipper closes behind the pull and then separates again.",
+      "overview": "Examine the slider and teeth independently. A replacement slider cannot repair a missing or badly damaged tooth."
     },
     {
       "id": "crf-131",
@@ -936,7 +996,9 @@
         "jeans",
         "alterations",
         "sewing"
-      ]
+      ],
+      "scenario": "A favorite pair of jeans fits everywhere but drags at the heel.",
+      "overview": "Mark the length while wearing the intended shoes. Pin and try on both legs before trimming any fabric."
     },
     {
       "id": "crf-132",
@@ -955,17 +1017,19 @@
         "Water-soluble marking pen"
       ],
       "steps": [
-        "Sashiko Denim Patching: Baste a woven cotton patch slightly larger than the tear behind the jeans hole, draw a 1/4-inch grid on top with a water-soluble pen, and stitch geometric running stitches through both layers\u2014creating an ultra-strong, decorative reinforced fabric.",
+        "Sashiko Denim Patching: Baste a woven cotton patch slightly larger than the tear behind the jeans hole, draw a 1/4-inch grid on top with a water-soluble pen, and stitch geometric running stitches through both layers—creating an ultra-strong, decorative reinforced fabric.",
         "Swiss / Woven Darning for Socks & Sweaters: Stretch the hole gently over a darning mushroom, weave vertical warp threads across the hole anchoring 1/2-inch into sound knit fabric, then weave horizontal weft threads over-and-under like a tiny loom."
       ],
-      "safety": "Never pull darning threads tight across a sock heel\u2014leave tiny loops at each turn so the mend stretches comfortably with the foot.",
+      "safety": "Never pull darning threads tight across a sock heel—leave tiny loops at each turn so the mend stretches comfortably with the foot.",
       "tags": [
         "sashiko",
         "visible-mending",
         "darning",
         "socks",
         "denim"
-      ]
+      ],
+      "scenario": "A sock heel is thinning but no hole has opened yet.",
+      "overview": "Anchor the repair in sound material around the wear. A flexible patch lasts better on a moving joint."
     },
     {
       "id": "crf-133",
@@ -986,7 +1050,7 @@
       ],
       "steps": [
         "For quick field rips on nylon tents, rain jackets, and sleeping bags: round the corners of a patch of Tenacious Tape (rounded corners don't peel up), press firmly onto clean dry fabric, and seal the reverse side with Seam Grip.",
-        "For torn backpack straps, canvas boat covers, or leather: use a Speedy Stitcher lockstitch awl\u2014push the needle through, pull out a loop on the back, pass the bobbin thread through the loop, and pull both ends tight so every stitch locks independently (even if one stitch wears through, the seam never unravels)."
+        "For torn backpack straps, canvas boat covers, or leather: use a Speedy Stitcher lockstitch awl—push the needle through, pull out a loop on the back, pass the bobbin thread through the loop, and pull both ends tight so every stitch locks independently (even if one stitch wears through, the seam never unravels)."
       ],
       "safety": "Keep fingers clear of the exit side when pushing a heavy sewing awl through thick webbing or leather.",
       "tags": [
@@ -995,7 +1059,9 @@
         "speedy-stitcher",
         "tenacious-tape",
         "tent"
-      ]
+      ],
+      "scenario": "A canvas bag has split along a seam and the surrounding fabric still feels strong.",
+      "overview": "Spread the repair into sound fabric and inspect the back of the seam. Retire load-bearing safety equipment if its integrity is uncertain."
     },
     {
       "id": "crf-134",
@@ -1011,22 +1077,24 @@
       ],
       "supplies": [
         "100% cotton fabric",
-        "100% cotton batting (Warm & Natural \u2014 NO polyester!)",
+        "100% cotton batting (Warm & Natural — NO polyester!)",
         "100% cotton thread"
       ],
       "steps": [
-        "MICROWAVE SAFETY RULE: Use strictly 100% cotton fabric, 100% cotton batting, and 100% cotton thread for microwave bowl cozies\u2014polyester batting or metallic thread sparks and melts in microwaves.",
+        "MICROWAVE SAFETY RULE: Use strictly 100% cotton fabric, 100% cotton batting, and 100% cotton thread for microwave bowl cozies—polyester batting or metallic thread sparks and melts in microwaves.",
         "Cut two 10-inch squares of cotton fabric and two 10-inch squares of cotton batting; quilt an X across each fabric+batting pair.",
         "Fold in half and sew 1-inch-wide by 2-inch-deep darts at the center of all 4 edges to form a bowl shape, place right sides together, sew around perimeter leaving a 3-inch turning gap, turn right-side out, and topstitch 1/8-inch from edge."
       ],
-      "safety": "Double-check thread spools\u2014standard all-purpose thread is polyester; use pure cotton thread for microwaveable cozies.",
+      "safety": "Double-check thread spools—standard all-purpose thread is polyester; use pure cotton thread for microwaveable cozies.",
       "tags": [
         "bowl-cozy",
         "sewing-project",
         "quilting",
         "gifts",
         "cotton"
-      ]
+      ],
+      "scenario": "A fabric bowl holder needs to fit the actual bowls in the kitchen.",
+      "overview": "Test with a cool bowl first. Microwave use requires every component and pattern to be specifically suitable for that use."
     },
     {
       "id": "crf-135",
@@ -1051,7 +1119,7 @@
         "Blood / Protein Stains: Rinse IMMEDIATELY in COLD water only (hot water cooks protein permanently into fibers), then dab with 3% hydrogen peroxide and wash cold.",
         "Cooking Oil / Grease (even after drying): Rub pure Dawn dish soap + baking soda into the dry spot, let sit 30 minutes, and wash warm.",
         "Red Wine / Berry Stains: Flush with boiling water poured from 12 inches high (or soak in oxygen bleach / sodium percarbonate).",
-        "Ballpoint Ink / Sharpie: Place paper towel underneath and dab with 70%\u201390% isopropyl alcohol or hand sanitizer until ink transfers onto the towel."
+        "Ballpoint Ink / Sharpie: Place paper towel underneath and dab with 70%–90% isopropyl alcohol or hand sanitizer until ink transfers onto the towel."
       ],
       "safety": "Never mix hydrogen peroxide and vinegar in the same bottle (creates irritating peracetic acid), and test peroxide on dark fabrics first.",
       "tags": [
@@ -1060,7 +1128,9 @@
         "textiles",
         "cleaning",
         "household"
-      ]
+      ],
+      "scenario": "A stained shirt is about to go into the dryer.",
+      "overview": "Identify the stain and fabric before applying heat. Inspect while damp because drying can make a remaining mark harder to remove."
     },
     {
       "id": "crf-136",
@@ -1070,7 +1140,7 @@
       "diff": "Easy",
       "time": "1 hour",
       "gear": [
-        "Felting needles (36\u201340 gauge barbed)",
+        "Felting needles (36–40 gauge barbed)",
         "Foam felting pad",
         "Bubble wrap & bamboo mat"
       ],
@@ -1079,17 +1149,19 @@
         "Warm soapy water (olive oil soap)"
       ],
       "steps": [
-        "Wet Felting: Lay thin overlapping layers of wool roving at 90\u00b0 angles over a flat resist template, wet with warm soapy water, cover with bubble wrap, and rub gently then roll tightly inside a bamboo mat\u2014heat, moisture, and agitation interlock microscopic wool scales into dense, windproof fabric.",
-        "Needle Felting (and Sweater Hole Patching): Lay wool roving over a sweater hole backed by a foam pad and poke straight up-and-down with a barbed felting needle\u2014barbs tangle wool fibers permanently into the knit without sewing."
+        "Wet Felting: Lay thin overlapping layers of wool roving at 90° angles over a flat resist template, wet with warm soapy water, cover with bubble wrap, and rub gently then roll tightly inside a bamboo mat—heat, moisture, and agitation interlock microscopic wool scales into dense, windproof fabric.",
+        "Needle Felting (and Sweater Hole Patching): Lay wool roving over a sweater hole backed by a foam pad and poke straight up-and-down with a barbed felting needle—barbs tangle wool fibers permanently into the knit without sewing."
       ],
-      "safety": "Felting needles are razor-sharp and brittle\u2014poke strictly straight in and out without bending sideways, and watch fingers.",
+      "safety": "Felting needles are razor-sharp and brittle—poke strictly straight in and out without bending sideways, and watch fingers.",
       "tags": [
         "felting",
         "wool",
         "needle-felting",
         "fiber-arts",
         "mending"
-      ]
+      ],
+      "scenario": "A wool slipper has a thin spot and you want a repair that blends with it.",
+      "overview": "Wet felting shapes a larger area while a needle can place fibers locally. Check fit as the wool compacts."
     },
     {
       "id": "crf-137",
@@ -1110,17 +1182,19 @@
       ],
       "steps": [
         "Scour fabric first by simmering in washing soda + gentle soap to remove natural waxes so dye binds evenly.",
-        "Mordant (locks color permanently): Simmer pre-wetted fabric for 1 hour at 180\u00b0F in water with 15% weight-of-fiber (WOF) Alum (plus 6% cream of tartar for wool).",
+        "Mordant (locks color permanently): Simmer pre-wetted fabric for 1 hour at 180°F in water with 15% weight-of-fiber (WOF) Alum (plus 6% cream of tartar for wool).",
         "Simmer dye material (yellow onion skins = rich golden amber; avocado pits/skins = dusty rose pink; marigolds = bright sunny yellow) for 1 hour, strain out plant bits, immerse mordanted fabric for 1 hour, cool, and rinse clear."
       ],
-      "safety": "Use dedicated pots and spoons marked 'DYE ONLY'\u2014never reuse mordant/dye pots for cooking food.",
+      "safety": "Use dedicated pots and spoons marked 'DYE ONLY'—never reuse mordant/dye pots for cooking food.",
       "tags": [
         "natural-dye",
         "botanical",
         "avocado-dye",
         "textiles",
         "homestead"
-      ]
+      ],
+      "scenario": "Onion skins from one batch give a different shade from the last.",
+      "overview": "A labeled swatch linking fiber, mordant and dye bath turns a surprise color into a repeatable result."
     },
     {
       "id": "crf-138",
@@ -1139,7 +1213,7 @@
       ],
       "steps": [
         "Crochet Dishcloth Starter: Make a slip knot on the hook, yarn over and pull through 25 times for a foundation chain, skip first chain, insert hook into next chain, yarn over, pull up a loop, yarn over, pull through both loops (Single Crochet) across every row.",
-        "Knitting Basics: Cast on 25 stitches using the Long-Tail Cast-On; hold needle in left hand, insert right needle front-to-back through first stitch, wrap yarn counter-clockwise around right tip, pull loop through, and slide old stitch off (Garter Stitch\u2014naturally stretchy and lies flat)."
+        "Knitting Basics: Cast on 25 stitches using the Long-Tail Cast-On; hold needle in left hand, insert right needle front-to-back through first stitch, wrap yarn counter-clockwise around right tip, pull loop through, and slide old stitch off (Garter Stitch—naturally stretchy and lies flat)."
       ],
       "safety": "Use smooth light-colored worsted cotton or wool yarn when learning so you can see every stitch loop clearly.",
       "tags": [
@@ -1148,7 +1222,9 @@
         "yarn",
         "fiber-arts",
         "beginner"
-      ]
+      ],
+      "scenario": "The first row keeps tightening until the hook or needle barely enters.",
+      "overview": "Practice on a short strip and count stitches at each edge. An even rectangle shows both tension and turn consistency."
     },
     {
       "id": "crf-139",
@@ -1170,9 +1246,9 @@
         "14 oz distilled water"
       ],
       "steps": [
-        "SAFETY FIRST: Put on splash goggles and gloves; ALWAYS pour LYE INTO COLD DISTILLED WATER slowly while stirring outdoors or under a vent hood\u2014NEVER pour water onto dry lye (causes volcanic boiling splash). Let lye solution cool to 100\u00b0F\u2013110\u00b0F.",
-        "Melt solid oils gently, combine with olive oil, and cool to 100\u00b0F\u2013110\u00b0F.",
-        "Pour cooled lye water slowly into the oils, pulse with a stick blender in short bursts until batter reaches 'light trace' (drizzled batter leaves a faint trail on the surface like thin pudding), pour into silicone mold, insulate with a towel for 24 hours, slice into bars, and cure on racks for 4\u20136 weeks."
+        "SAFETY FIRST: Put on splash goggles and gloves; ALWAYS pour LYE INTO COLD DISTILLED WATER slowly while stirring outdoors or under a vent hood—NEVER pour water onto dry lye (causes volcanic boiling splash). Let lye solution cool to 100°F–110°F.",
+        "Melt solid oils gently, combine with olive oil, and cool to 100°F–110°F.",
+        "Pour cooled lye water slowly into the oils, pulse with a stick blender in short bursts until batter reaches 'light trace' (drizzled batter leaves a faint trail on the surface like thin pudding), pour into silicone mold, insulate with a towel for 24 hours, slice into bars, and cure on racks for 4–6 weeks."
       ],
       "safety": "Always verify exact lye weights through a saponification calculator whenever changing oil ratios, and never use aluminum pots (lye reacts violently with aluminum).",
       "tags": [
@@ -1181,7 +1257,9 @@
         "lye",
         "homestead",
         "gifts"
-      ]
+      ],
+      "scenario": "A soap formula uses a different oil from the one on your shelf.",
+      "overview": "Use a verified formulation and recalculated lye quantity for the actual oils. Cure, label and keep batches away from food and children."
     },
     {
       "id": "crf-140",
@@ -1203,8 +1281,8 @@
       ],
       "steps": [
         "Anchor pre-tabbed cotton wicks dead-center in clean glass jars using heat-resistant wick stickers and thread through wooden centering bars.",
-        "Melt wax gently in a double boiler (never direct burner flame\u2014wax vapor is flammable) to 175\u00b0F\u2013185\u00b0F; if adding fragrance oil (6%\u20138% by weight), stir gently for 2 full minutes at 185\u00b0F for soy or 160\u00b0F for beeswax.",
-        "Pour slowly at 135\u00b0F\u2013145\u00b0F to prevent sinkholes and frosting, cure 48 hours (beeswax) or 1\u20132 weeks (soy) before lighting, and trim wick to 1/4-inch before every burn."
+        "Melt wax gently in a double boiler (never direct burner flame—wax vapor is flammable) to 175°F–185°F; if adding fragrance oil (6%–8% by weight), stir gently for 2 full minutes at 185°F for soy or 160°F for beeswax.",
+        "Pour slowly at 135°F–145°F to prevent sinkholes and frosting, cure 48 hours (beeswax) or 1–2 weeks (soy) before lighting, and trim wick to 1/4-inch before every burn."
       ],
       "safety": "Never leave melting wax unattended on a stove and never extinguish a wax fire with water (use a metal lid or baking soda).",
       "tags": [
@@ -1213,7 +1291,9 @@
         "soy-candles",
         "gifts",
         "homestead"
-      ]
+      ],
+      "scenario": "The first candle tunnels or produces soot as it burns.",
+      "overview": "Match wick, wax and vessel with a supervised test burn before making a gift batch."
     },
     {
       "id": "crf-141",
@@ -1237,16 +1317,18 @@
       ],
       "steps": [
         "Glue leather pieces together with contact cement, mark a parallel stitch line 3mm from the edge with a groover, and punch clean angled holes straight down using diamond chisels and a poly mallet on a punch pad.",
-        "Thread a harness needle onto EACH end of a single piece of waxed thread (4x the seam length) and perform the Saddle Stitch: pass left needle through hole, then pass right needle through the EXACT same hole\u2014because the two threads cross independently, the seam cannot unravel even if cut.",
+        "Thread a harness needle onto EACH end of a single piece of waxed thread (4x the seam length) and perform the Saddle Stitch: pass left needle through hole, then pass right needle through the EXACT same hole—because the two threads cross independently, the seam cannot unravel even if cut.",
         "Sand edges flush, apply Tokonole burnishing gum, and rub briskly with a wooden slicker until edges shine like glass."
       ],
-      "safety": "Use a rawhide, poly, or dead-blow mallet on stitching chisels\u2014steel hammers mushroom and ruin hardened chisel tops.",
+      "safety": "Use a rawhide, poly, or dead-blow mallet on stitching chisels—steel hammers mushroom and ruin hardened chisel tops.",
       "tags": [
         "leatherwork",
         "saddle-stitch",
         "burnishing",
         "crafting"
-      ]
+      ],
+      "scenario": "A leather seam needs to survive repeated flexing on a wallet.",
+      "overview": "Evenly spaced holes guide the two needles. Check the back face for consistent tension before finishing the edge."
     },
     {
       "id": "crf-142",
@@ -1265,9 +1347,9 @@
         "Raffia, waxed linen, or sinew thread"
       ],
       "steps": [
-        "Soak clean brown longleaf pine needles in warm water for 20\u201330 minutes until supple and flexible without snapping.",
+        "Soak clean brown longleaf pine needles in warm water for 20–30 minutes until supple and flexible without snapping.",
         "Gather a pencil-thick bundle of needles (sheaths removed), wrap the base tightly with raffia, coil into a tight spiral center, and stitch each new coil row to the row beneath using a figure-8 or Lazy Squaw wrap stitch.",
-        "Feed 4\u20135 fresh damp needles into the center of the bundle through your straw gauge tube whenever the coil starts thinning."
+        "Feed 4–5 fresh damp needles into the center of the bundle through your straw gauge tube whenever the coil starts thinning."
       ],
       "safety": "Avoid harvesting pine needles near sprayed roadsides; wash needles thoroughly in warm soapy water before soaking.",
       "tags": [
@@ -1276,7 +1358,9 @@
         "weaving",
         "bushcraft",
         "fiber-arts"
-      ]
+      ],
+      "scenario": "A small basket starts round but leans as the walls rise.",
+      "overview": "The placement of each new coil controls the wall angle. Check the profile every few rounds while adjustment is still easy."
     },
     {
       "id": "crf-143",
@@ -1292,7 +1376,7 @@
       "steps": [
         "For Cricut/Glowforge clean vector cutting: always convert live text to Outlines/Paths ('Object to Path') before exporting SVG so fonts never revert or disappear.",
         "Weld/Unite overlapping cursive letters before cutting so the blade/laser cuts the outer silhouette as one continuous word instead of slicing through adjacent letter tails.",
-        "Set RGB stroke colors in Glowforge SVGs (e.g., Red = Cut, Blue = Score, Black Fill = Engrave) so the Glowforge UI automatically separates operations in exact order (Score \u2192 Engrave \u2192 Cut last)."
+        "Set RGB stroke colors in Glowforge SVGs (e.g., Red = Cut, Blue = Score, Black Fill = Engrave) so the Glowforge UI automatically separates operations in exact order (Score → Engrave → Cut last)."
       ],
       "safety": "Always place interior cutout holes BEFORE outer perimeter cuts in Glowforge so the piece doesn't drop slightly out of focus before inner holes finish.",
       "tags": [
@@ -1301,7 +1385,9 @@
         "glowforge",
         "cricut",
         "vector"
-      ]
+      ],
+      "scenario": "A repeating design shows a line where two tiles meet.",
+      "overview": "Test a grid of repeated tiles at full scale and inspect the seams. Closed cut paths matter separately from visual alignment."
     },
     {
       "id": "crf-144",
@@ -1319,18 +1405,20 @@
         "Blank trucker hats (Richardson 112)"
       ],
       "steps": [
-        "Note: Use ONLY PVC-free laser-safe polyurethane (PU) leatherette sheets\u2014never standard vinyl faux leather.",
+        "Note: Use ONLY PVC-free laser-safe polyurethane (PU) leatherette sheets—never standard vinyl faux leather.",
         "Engrave and cut patches on the Glowforge (wipe soot off silver/gold metallic leatherette with a damp Magic Eraser).",
-        "Pre-press the front crown of the Richardson 112 hat on a curved hat press at 270\u00b0F\u2013285\u00b0F for 5 seconds, position patch, cover with a Teflon/silicone pad, and press at 270\u00b0F\u2013285\u00b0F for 15\u201320 seconds (use lower heat than cotton shirts so polyester mesh/buckram doesn't scorch)."
+        "Pre-press the front crown of the Richardson 112 hat on a curved hat press at 270°F–285°F for 5 seconds, position patch, cover with a Teflon/silicone pad, and press at 270°F–285°F for 15–20 seconds (use lower heat than cotton shirts so polyester mesh/buckram doesn't scorch)."
       ],
-      "safety": "Never exceed 285\u00b0F on structured polyester trucker hats or the internal buckram stiffener will permanently dent.",
+      "safety": "Never exceed 285°F on structured polyester trucker hats or the internal buckram stiffener will permanently dent.",
       "tags": [
         "hat-press",
         "leatherette",
         "glowforge",
         "trucker-hats",
         "gifts"
-      ]
+      ],
+      "scenario": "A flat patch wrinkles against the crown of a hat.",
+      "overview": "Fit the patch and support to the hat’s curve. Only use leatherette explicitly approved for the laser and pressing process."
     },
     {
       "id": "crf-145",
@@ -1351,19 +1439,21 @@
         "Silicone molds"
       ],
       "steps": [
-        "Work in a ventilated room at 72\u00b0F\u201378\u00b0F with low humidity (high Gulf Coast humidity causes cloudy 'amine blush' on curing epoxy).",
-        "Measure Part A and Part B strictly 1:1 by volume (or exact weight per bottle ratio) and stir slowly scraping sides and bottom for 3\u20134 full minutes so no uncured sticky spots remain.",
+        "Work in a ventilated room at 72°F–78°F with low humidity (high Gulf Coast humidity causes cloudy 'amine blush' on curing epoxy).",
+        "Measure Part A and Part B strictly 1:1 by volume (or exact weight per bottle ratio) and stir slowly scraping sides and bottom for 3–4 full minutes so no uncured sticky spots remain.",
         "Pour slowly in a thin stream from 6 inches high to pop micro-bubbles, then sweep a heat gun quickly across the surface to pop remaining surface bubbles.",
         "Cover cured piece with an upside-down tote to keep dust/cat hair off during the 24-hour cure."
       ],
-      "safety": "Wear nitrile gloves (epoxy penetrates latex) and an organic-vapor respirator\u2014uncured epoxy fumes and skin contact cause allergic sensitization.",
+      "safety": "Wear nitrile gloves (epoxy penetrates latex) and an organic-vapor respirator—uncured epoxy fumes and skin contact cause allergic sensitization.",
       "tags": [
         "resin",
         "epoxy",
         "uv-resin",
         "molds",
         "crafting"
-      ]
+      ],
+      "scenario": "A casting looks set at the surface but its handling time is unclear.",
+      "overview": "Follow the resin system’s full cure schedule and intended use. A tack-free surface alone does not establish a complete cure."
     },
     {
       "id": "crf-146",
@@ -1383,16 +1473,18 @@
       ],
       "steps": [
         "Attach a Walking Foot so top and bottom fabric layers feed at identical speed without rippling or shifting.",
-        "Pin-baste the 3-layer quilt sandwich every 4\u20135 inches from the center outward, and quilt from the center out toward edges.",
-        "Mitered Binding Corners: Sew 2.5-inch folded binding along the front edge with a 1/4-inch seam, stop 1/4-inch before the corner and backstitch, fold binding strip straight UP at a 45\u00b0 diagonal angle, then fold straight DOWN flush with the next edge and continue sewing."
+        "Pin-baste the 3-layer quilt sandwich every 4–5 inches from the center outward, and quilt from the center out toward edges.",
+        "Mitered Binding Corners: Sew 2.5-inch folded binding along the front edge with a 1/4-inch seam, stop 1/4-inch before the corner and backstitch, fold binding strip straight UP at a 45° diagonal angle, then fold straight DOWN flush with the next edge and continue sewing."
       ],
-      "safety": "Close rotary cutter safety guards immediately after EVERY single cut\u2014rotary blades are surgical-grade sharp.",
+      "safety": "Close rotary cutter safety guards immediately after EVERY single cut—rotary blades are surgical-grade sharp.",
       "tags": [
         "quilting",
         "binding",
         "walking-foot",
         "sewing"
-      ]
+      ],
+      "scenario": "The quilt back has a fold that is invisible from the top.",
+      "overview": "Check all layers during basting. Binding will finish the edges but cannot flatten a fold already sewn into the backing."
     },
     {
       "id": "crf-147",
@@ -1413,17 +1505,19 @@
       ],
       "steps": [
         "Cut your rhinestone circle-grid template (0.132\" circles for SS10 stones) out of sticky rhinestone flock on your Cricut and stick the weeded flock onto a rigid backing board.",
-        "Pour hotfix rhinestones onto the template and sweep gently in circles with a soft foam brush\u2014stones automatically drop shiny-side UP into the holes.",
-        "Lift the aligned stones off with hotfix transfer tape and press onto your shirt/tote at 320\u00b0F\u2013330\u00b0F for 12\u201315 seconds with medium pressure."
+        "Pour hotfix rhinestones onto the template and sweep gently in circles with a soft foam brush—stones automatically drop shiny-side UP into the holes.",
+        "Lift the aligned stones off with hotfix transfer tape and press onto your shirt/tote at 320°F–330°F for 12–15 seconds with medium pressure."
       ],
-      "safety": "Test stone adhesion after cooling by picking gently at a corner stone\u2014if it lifts, press 5 seconds longer from the back side.",
+      "safety": "Test stone adhesion after cooling by picking gently at a corner stone—if it lifts, press 5 seconds longer from the back side.",
       "tags": [
         "rhinestones",
         "hotfix",
         "cricut",
         "heat-press",
         "bling"
-      ]
+      ],
+      "scenario": "A rhinestone pattern has gaps after brushing stones into the template.",
+      "overview": "Check hole size and orientation against the actual stones. Lift a small test section to confirm the transfer tape picks them up."
     },
     {
       "id": "crf-148",
@@ -1445,14 +1539,16 @@
         "Enable 'Ramp' / shoulder slope settings if available so thin text lines have wide, sturdy bases that won't wobble when pressed into ink.",
         "Wash gray laser ash off the rubber stamp with soap and an old toothbrush, trim, and mount onto a laser-cut wood block."
       ],
-      "safety": "Use ONLY certified laser-safe rubber\u2014never generic silicone or vinyl rubber, which damages laser optics.",
+      "safety": "Use ONLY certified laser-safe rubber—never generic silicone or vinyl rubber, which damages laser optics.",
       "tags": [
         "rubber-stamps",
         "glowforge",
         "laser",
         "stationery",
         "crafting"
-      ]
+      ],
+      "scenario": "The lettering on a rubber stamp prints backward.",
+      "overview": "Mirror the artwork for the stamp face and use only material certified for laser engraving. A scrap impression reveals small filled-in details."
     },
     {
       "id": "crf-149",
@@ -1469,16 +1565,18 @@
       ],
       "steps": [
         "Even on a single-extruder printer without an AMS, you can print crisp two-tone signs, coasters, and badges by adding a 'Pause at Layer' command in your slicer right where raised text begins and swapping filament spools.",
-        "HueForge Filament Painting: Blend translucent layers of 4 filaments (dark base \u2192 midtones \u2192 bright white top) at 0.08mm layer height to create photographic lithophane-style wall art without an AMS."
+        "HueForge Filament Painting: Blend translucent layers of 4 filaments (dark base → midtones → bright white top) at 0.08mm layer height to create photographic lithophane-style wall art without an AMS."
       ],
-      "safety": "Purge 30\u201350mm of filament after a manual color swap so old dark pigment doesn't streak into light top layers.",
+      "safety": "Purge 30–50mm of filament after a manual color swap so old dark pigment doesn't streak into light top layers.",
       "tags": [
         "hueforge",
         "multicolor",
         "3d-printing",
         "coasters",
         "filament-swap"
-      ]
+      ],
+      "scenario": "A layered color print looks right on screen and muddy in plastic.",
+      "overview": "The actual translucency and order of the filaments shape the image. Save a small color test alongside the project settings."
     },
     {
       "id": "crf-150",
@@ -1498,8 +1596,8 @@
         "Painters tape & label maker"
       ],
       "steps": [
-        "Keep a dedicated ABC fire extinguisher within arm's reach of your Glowforge, heat press, and 3D printers\u2014never store flammable aerosol adhesives or alcohol bottles right next to heat presses.",
-        "Place heat presses and soldering irons on silicone heat mats and plug high-wattage heat presses (1,400W\u20131,800W) directly into a dedicated wall outlet rather than daisy-chained power strips.",
+        "Keep a dedicated ABC fire extinguisher within arm's reach of your Glowforge, heat press, and 3D printers—never store flammable aerosol adhesives or alcohol bottles right next to heat presses.",
+        "Place heat presses and soldering irons on silicone heat mats and plug high-wattage heat presses (1,400W–1,800W) directly into a dedicated wall outlet rather than daisy-chained power strips.",
         "Drop dull Cricut blades, rotary blades, and X-Acto blades into a labeled metal tin taped shut before recycling."
       ],
       "safety": "Run an inline duct fan at the window end of your Glowforge hose so the entire indoor duct stays under negative pressure (pulling smoke out even if a clamp loosens).",
@@ -1509,7 +1607,9 @@
         "glowforge",
         "heat-press",
         "organization"
-      ]
+      ],
+      "scenario": "Blades, press tools and finished crafts compete for the same patch of table.",
+      "overview": "Give hot items a cooling spot and sharps a fixed return point. Walk the route from the machine to that spot before starting a long job."
     },
     {
       "id": "crf-151",
@@ -1526,7 +1626,7 @@
         "Oversized plywood or cast acrylic sheet (up to 19.5\" wide x any length)"
       ],
       "steps": [
-        "Support the overhanging front and back ends of the long board at the EXACT height of the Glowforge crumb tray using roller stands or stacked books\u2014any sag tilts the board and ruins optical camera alignment.",
+        "Support the overhanging front and back ends of the long board at the EXACT height of the Glowforge crumb tray using roller stands or stacked books—any sag tilts the board and ruins optical camera alignment.",
         "Enable Pro Passthrough in the Glowforge UI, cut Section 1, slide the board straight forward keeping the right edge pressed flush against the right rail, and let the camera scan the printed/cut alignment features before cutting Section 2."
       ],
       "safety": "Keep front and rear passthrough shields installed properly so stray laser reflections cannot escape.",
@@ -1535,7 +1635,9 @@
         "passthrough",
         "oversized-signs",
         "laser"
-      ]
+      ],
+      "scenario": "A sign extends past the laser bed and a visible seam would spoil the lettering.",
+      "overview": "Support the stock at a consistent height and verify alignment on scrap before engraving across a join."
     },
     {
       "id": "crf-152",
@@ -1554,17 +1656,19 @@
         "Microfiber cloth"
       ],
       "steps": [
-        "To turn frosted laser-cut acrylic edges crystal clear like glass: hold a small pinpoint butane torch flame 1\u20132 inches from the acrylic edge and sweep steadily in ONE continuous pass (never pause in one spot, which boils/bubbles the edge).",
-        "Let cool undisturbed without touching\u2014stress-crazing happens if alcohol or solvents touch freshly flame-polished acrylic (anneal at 175\u00b0F for 1 hour if gluing later)."
+        "To turn frosted laser-cut acrylic edges crystal clear like glass: hold a small pinpoint butane torch flame 1–2 inches from the acrylic edge and sweep steadily in ONE continuous pass (never pause in one spot, which boils/bubbles the edge).",
+        "Let cool undisturbed without touching—stress-crazing happens if alcohol or solvents touch freshly flame-polished acrylic (anneal at 175°F for 1 hour if gluing later)."
       ],
-      "safety": "Never wipe acrylic with rubbing alcohol or Windex (ammonia)\u2014both cause instant hairline stress cracks; clean acrylic ONLY with water, Novus polish, or Brillianize.",
+      "safety": "Never wipe acrylic with rubbing alcohol or Windex (ammonia)—both cause instant hairline stress cracks; clean acrylic ONLY with water, Novus polish, or Brillianize.",
       "tags": [
         "acrylic",
         "flame-polish",
         "glowforge",
         "finishing",
         "laser"
-      ]
+      ],
+      "scenario": "A clear acrylic edge looks rough after cutting.",
+      "overview": "Confirm the exact plastic and finish needed. A scrap edge can establish whether progressively finer mechanical finishing gives adequate clarity."
     },
     {
       "id": "crf-153",
@@ -1592,7 +1696,9 @@
         "mirror-acrylic",
         "glowforge",
         "gifts"
-      ]
+      ],
+      "scenario": "A cake topper needs thin letters that survive removal from the sheet.",
+      "overview": "Check the narrowest connection at full scale. Keep unapproved cut material, paint and adhesive away from food contact."
     },
     {
       "id": "crf-154",
@@ -1612,17 +1718,19 @@
         "Neoprene/sandstone car coasters"
       ],
       "steps": [
-        "Photo Slate (press face-DOWN or face-UP with green silicone pad): Place butcher paper on bottom platen, lay printed transfer face-up, place white coated slate face-down on transfer, cover with a flexible green silicone pad (conforms to chiseled edges), and press at 385\u00b0F\u2013400\u00b0F for 7\u20138 minutes (420\u2013480 sec) with light-medium pressure.",
-        "Double-Sided Garden Flags: Insert parchment paper INSIDE the flag pocket so ink doesn't bleed through to the back side, press Side 1 at 385\u00b0F for 45 sec, cool, flip, and press Side 2."
+        "Photo Slate (press face-DOWN or face-UP with green silicone pad): Place butcher paper on bottom platen, lay printed transfer face-up, place white coated slate face-down on transfer, cover with a flexible green silicone pad (conforms to chiseled edges), and press at 385°F–400°F for 7–8 minutes (420–480 sec) with light-medium pressure.",
+        "Double-Sided Garden Flags: Insert parchment paper INSIDE the flag pocket so ink doesn't bleed through to the back side, press Side 1 at 385°F for 45 sec, cool, flip, and press Side 2."
       ],
-      "safety": "Photo slates hold extreme heat for 15+ minutes\u2014transfer to a heat-safe cooling rack wearing insulated gloves.",
+      "safety": "Photo slates hold extreme heat for 15+ minutes—transfer to a heat-safe cooling rack wearing insulated gloves.",
       "tags": [
         "photo-slate",
         "garden-flags",
         "sublimation",
         "heat-press",
         "gifts"
-      ]
+      ],
+      "scenario": "A photo looks different on slate than it did on a fabric flag.",
+      "overview": "Coating, substrate color and texture influence the transfer. Compare samples from the same print before changing the artwork."
     },
     {
       "id": "crf-155",
@@ -1642,18 +1750,20 @@
         "Hydrogen peroxide 3% (neutralizer)"
       ],
       "steps": [
-        "Choose a 65% polyester / 35% cotton heather shirt\u2014bleach eats away the dark cotton dye to create a bright white/cream vintage canvas while leaving the 65% polyester fibers intact to hold vibrant sublimation ink!",
+        "Choose a 65% polyester / 35% cotton heather shirt—bleach eats away the dark cotton dye to create a bright white/cream vintage canvas while leaving the 65% polyester fibers intact to hold vibrant sublimation ink!",
         "Slide cardboard inside the shirt, mist 50/50 bleach-water in your design zone outdoors in bright sun until it turns creamy white, then immediately douse in a bucket of water + 1 cup hydrogen peroxide to stop bleach from eating fabric holes.",
-        "Wash, dry completely, and press your sublimation transfer over the bleached area at 385\u00b0F for 50 seconds."
+        "Wash, dry completely, and press your sublimation transfer over the bleached area at 385°F for 50 seconds."
       ],
-      "safety": "Always neutralize bleach with hydrogen peroxide and water before pressing\u2014heating un-rinsed bleach releases toxic chlorine fumes.",
+      "safety": "Always neutralize bleach with hydrogen peroxide and water before pressing—heating un-rinsed bleach releases toxic chlorine fumes.",
       "tags": [
         "bleached-tees",
         "sublimation",
         "vintage-shirt",
         "heat-press",
         "crafting"
-      ]
+      ],
+      "scenario": "A distressed shirt needs a graphic and the lightened area varies across the fabric.",
+      "overview": "Prepare and launder the fabric according to product directions before heat work. Inspect for weakened fibers before applying the transfer."
     },
     {
       "id": "crf-156",
@@ -1670,7 +1780,7 @@
         "ICC profile matching your exact ink + paper brand"
       ],
       "steps": [
-        "Sublimation transfers ALWAYS look dull, chalky, or brownish on paper before pressing\u2014vibrant color activates only under 385\u00b0F\u2013400\u00b0F heat.",
+        "Sublimation transfers ALWAYS look dull, chalky, or brownish on paper before pressing—vibrant color activates only under 385°F–400°F heat.",
         "If pressed blacks look green or brown: either temperature/time was too low (ink didn't fully gasify) OR too high/long (ink scorched), OR your print dialog let the printer manage color instead of letting your design software manage color via your ink brand's ICC profile (Cosmo/Hiipoo/Printers Jack/Sawgrass)."
       ],
       "safety": "Select 'High Quality' and turn OFF 'High Speed / Bi-Directional Printing' in printer preferences for sharp, banding-free transfers.",
@@ -1679,7 +1789,9 @@
         "color-management",
         "sublimation",
         "troubleshooting"
-      ]
+      ],
+      "scenario": "Blacks look brown even though the nozzle check is clean.",
+      "overview": "Match the color profile to the ink, paper and printer. Judge the pressed sample under consistent light."
     },
     {
       "id": "crf-157",
@@ -1697,17 +1809,19 @@
       ],
       "steps": [
         "Center Chest Adult Graphic: Fold shirt lengthwise and press 3 seconds to create a crisp center crease; place top of design 3 to 3.5 inches (4 fingers) below the bottom edge of the front collar rib.",
-        "Left-Chest Pocket Logo (3\"\u20134\" wide): Align the vertical center of the logo directly below the collar-to-shoulder seam junction (about 7\"\u20138\" down from the shoulder seam and 3.5\"\u20134\" left of center placket).",
-        "Youth Shirts: Place design 2.5 inches below collar; Onesies/Toddler: 1.5\u20132 inches below collar."
+        "Left-Chest Pocket Logo (3\"–4\" wide): Align the vertical center of the logo directly below the collar-to-shoulder seam junction (about 7\"–8\" down from the shoulder seam and 3.5\"–4\" left of center placket).",
+        "Youth Shirts: Place design 2.5 inches below collar; Onesies/Toddler: 1.5–2 inches below collar."
       ],
-      "safety": "Remove plastic T-shirt alignment rulers BEFORE closing the heat press platen\u2014they melt instantly.",
+      "safety": "Remove plastic T-shirt alignment rulers BEFORE closing the heat press platen—they melt instantly.",
       "tags": [
         "placement-guide",
         "t-shirts",
         "heat-press",
         "htv",
         "dtf"
-      ]
+      ],
+      "scenario": "Two shirts of different sizes need the same logo placement when worn.",
+      "overview": "Measure from stable garment features and pin a paper mock-up first. A flat measurement can look different on a curved chest."
     },
     {
       "id": "crf-158",
@@ -1726,8 +1840,8 @@
         "Acrylic craft paint"
       ],
       "steps": [
-        "Secret to razor-sharp wood signs with ZERO paint bleed under vinyl edges: apply your weeded vinyl stencil, burnish hard, then brush a thin coat of CLEAR Mod Podge Matte (or the exact background paint color) across the stencil edges first and let dry 15 minutes\u2014this seals microscopic wood-grain channels.",
-        "Apply top lettering paint in 2\u20133 thin coats using a dry foam pouncer straight up-and-down (never brush sideways under stencil edges).",
+        "Secret to razor-sharp wood signs with ZERO paint bleed under vinyl edges: apply your weeded vinyl stencil, burnish hard, then brush a thin coat of CLEAR Mod Podge Matte (or the exact background paint color) across the stencil edges first and let dry 15 minutes—this seals microscopic wood-grain channels.",
+        "Apply top lettering paint in 2–3 thin coats using a dry foam pouncer straight up-and-down (never brush sideways under stencil edges).",
         "Peel the vinyl stencil off while the final paint coat is still slightly tacky so dry paint film doesn't tear."
       ],
       "safety": "Seal finished outdoor porch signs with 2 coats of spar urethane for Gulf Coast sun and humidity protection.",
@@ -1737,7 +1851,9 @@
         "cricut",
         "painting",
         "no-bleed"
-      ]
+      ],
+      "scenario": "Paint bleeds under a stencil on a rough wooden sign.",
+      "overview": "A test stroke on a matching offcut shows how much paint the edge can tolerate. Lift the stencil before deciding on a second coat."
     },
     {
       "id": "crf-159",
@@ -1768,7 +1884,9 @@
         "cricut",
         "jewelry",
         "gifts"
-      ]
+      ],
+      "scenario": "A pair of earrings looks symmetrical in the file but hangs differently.",
+      "overview": "Mirror the pieces, check hole placement and test the hardware on a scrap before cutting the final pair."
     },
     {
       "id": "crf-160",
@@ -1788,17 +1906,19 @@
         "Polyester blanks"
       ],
       "steps": [
-        "Handle Infusible Ink sheets ONLY with dry, lotion-free hands\u2014skin moisture or oils leave blank blotches.",
-        "Cut mirrored with colored ink side UP on a green StandardGrip mat, weed by gently rolling/cracking the stiff sheet (avoid tweezers, which scratch pigment off the carrier), and press at 385\u00b0F\u2013400\u00b0F with butcher paper."
+        "Handle Infusible Ink sheets ONLY with dry, lotion-free hands—skin moisture or oils leave blank blotches.",
+        "Cut mirrored with colored ink side UP on a green StandardGrip mat, weed by gently rolling/cracking the stiff sheet (avoid tweezers, which scratch pigment off the carrier), and press at 385°F–400°F with butcher paper."
       ],
-      "safety": "Never reuse Infusible Ink sheets\u2014once pressed, the dye has permanently transferred into the blank.",
+      "safety": "Never reuse Infusible Ink sheets—once pressed, the dye has permanently transferred into the blank.",
       "tags": [
         "infusible-ink",
         "cricut",
         "coasters",
         "sublimation",
         "crafting"
-      ]
+      ],
+      "scenario": "A white speck spoils an otherwise clean transfer on a coaster.",
+      "overview": "Clean the compatible blank and handle the transfer by its edges. A small speck is hard to correct after heat fixes the image."
     },
     {
       "id": "crf-161",
@@ -1816,17 +1936,19 @@
         "Food-grade epoxy/silicone sealer (for multi-use)"
       ],
       "steps": [
-        "Import any black-and-white silhouette SVG into CookieCAD (free web tool) to auto-generate a tapered 0.6mm\u20130.8mm sharp cutting blade, sturdy 3mm comfort handle rim, and matching interior embosser stamp.",
+        "Import any black-and-white silhouette SVG into CookieCAD (free web tool) to auto-generate a tapered 0.6mm–0.8mm sharp cutting blade, sturdy 3mm comfort handle rim, and matching interior embosser stamp.",
         "Print in PLA at 0.2mm layer height with 3 walls and 15% infill; hand-wash ONLY in cool/lukewarm water (dishwashers warp PLA immediately), or press through plastic wrap over dough for effortless cleanup."
       ],
-      "safety": "Raw 3D-printed layer lines can trap flour and bacteria\u2014use with plastic wrap over dough or coat with FDA-compliant food-safe resin for repeated baking.",
+      "safety": "Raw 3D-printed layer lines can trap flour and bacteria—use with plastic wrap over dough or coat with FDA-compliant food-safe resin for repeated baking.",
       "tags": [
         "cookie-cutters",
         "3d-printing",
         "baking",
         "svg",
         "pla"
-      ]
+      ],
+      "scenario": "A detailed logo needs to leave a recognizable impression in dough.",
+      "overview": "Test a paper outline at serving size. Use only materials and finishes suitable for repeated food contact when choosing the actual tool."
     },
     {
       "id": "crf-162",
@@ -1845,7 +1967,7 @@
         "90% isopropyl alcohol"
       ],
       "steps": [
-        "Every 200\u2013300 print hours: wipe dust off smooth linear rods and lead screws with a lint-free cloth, apply a thin film of Super Lube grease to Z-axis lead screws (and light machine oil on unsealed linear bearings\u2014never grease carbon-fiber X-rods like Bambu X1/P1, clean carbon rods ONLY with 90% alcohol).",
+        "Every 200–300 print hours: wipe dust off smooth linear rods and lead screws with a lint-free cloth, apply a thin film of Super Lube grease to Z-axis lead screws (and light machine oil on unsealed linear bearings—never grease carbon-fiber X-rods like Bambu X1/P1, clean carbon rods ONLY with 90% alcohol).",
         "Brush plastic dust out of extruder drive gear teeth and check X/Y belt tension (belts should pluck like a low bass guitar string without slack)."
       ],
       "safety": "Power off and unplug the printer before cleaning stepper belts or extruder gears.",
@@ -1855,7 +1977,9 @@
         "lubrication",
         "belts",
         "calibration"
-      ]
+      ],
+      "scenario": "Print quality has drifted after many hours on the same machine.",
+      "overview": "Inspect belts, screws and feed gears against the manufacturer’s service instructions. Compare a familiar print after each adjustment."
     },
     {
       "id": "crf-163",
@@ -1873,7 +1997,7 @@
       ],
       "steps": [
         "Measure your craft drawer interior in millimeters and divide by 42mm (the universal Zack Freedman Gridfinity 1x1 unit size) to print interlocking baseplates that drop into drawers without glue.",
-        "Print stackable lipped bins sized to hold Cricut blades, weeding pens, bobbins, Glowforge lenses, and screws\u2014every bin snaps into the 42mm grid so tools never slide when opening drawers."
+        "Print stackable lipped bins sized to hold Cricut blades, weeding pens, bobbins, Glowforge lenses, and screws—every bin snaps into the 42mm grid so tools never slide when opening drawers."
       ],
       "safety": "Use 2 walls and 10% lightning/gyroid infill on Gridfinity bins to save filament and print full drawer sets overnight.",
       "tags": [
@@ -1882,7 +2006,9 @@
         "3d-printing",
         "craft-room",
         "storage"
-      ]
+      ],
+      "scenario": "A drawer needs bins that still leave room for long tools.",
+      "overview": "Measure the usable interior with the drawer closed. Print one unit to check fit before committing to a whole grid."
     },
     {
       "id": "crf-164",
@@ -1904,9 +2030,9 @@
       ],
       "steps": [
         "Reinforce thin woven fabric with a small scrap of fusible interfacing or leather behind the snap so hardware never rips through.",
-        "Punch a hole slightly smaller than the post (use an awl rather than cutting threads on woven fabric), insert post through fabric, place onto the concave anvil, align cap/socket, and strike squarely 3\u20134 firm taps with a mallet until the post rolls cleanly."
+        "Punch a hole slightly smaller than the post (use an awl rather than cutting threads on woven fabric), insert post through fabric, place onto the concave anvil, align cap/socket, and strike squarely 3–4 firm taps with a mallet until the post rolls cleanly."
       ],
-      "safety": "Work on a solid wood block or concrete floor\u2014hollow tables bounce and deform snap posts sideways.",
+      "safety": "Work on a solid wood block or concrete floor—hollow tables bounce and deform snap posts sideways.",
       "tags": [
         "snaps",
         "grommets",
@@ -1914,7 +2040,9 @@
         "hardware",
         "sewing",
         "leather"
-      ]
+      ],
+      "scenario": "A grommet pulls out of thin cloth even when the metal looks securely crimped.",
+      "overview": "Reinforce the surrounding fabric and match the setting die to the hardware. Tug a finished sample in the direction of the real load."
     },
     {
       "id": "crf-165",
@@ -1933,7 +2061,7 @@
         "Cotton/linen fabric"
       ],
       "steps": [
-        "Cut elastic 2\u20133 inches shorter than waist measurement for comfortable stretch; pin a large safety pin to one end to thread through the folded fabric casing and pin the tail end to the casing opening so it doesn't vanish inside.",
+        "Cut elastic 2–3 inches shorter than waist measurement for comfortable stretch; pin a large safety pin to one end to thread through the folded fabric casing and pin the tail end to the casing opening so it doesn't vanish inside.",
         "Overlap elastic ends by 1 inch (never twist!) and sew a sturdy box-X stitch across the overlap, close the casing gap, and stitch vertically in the ditch at side seams so elastic never rolls inside the waistband."
       ],
       "safety": "Use knit or braided elastic inside casings; reserve woven elastic for exposed waistbands.",
@@ -1943,7 +2071,9 @@
         "sewing",
         "alterations",
         "clothing"
-      ]
+      ],
+      "scenario": "An elastic waistband twists inside its casing after washing.",
+      "overview": "Match casing width to the elastic and check for a twist before joining its ends. Test the stretch on the wearer before closing the opening."
     },
     {
       "id": "crf-166",
@@ -1960,9 +2090,9 @@
         "4 cones serger thread"
       ],
       "steps": [
-        "Thread a serger in strict order: (1) Upper Looper, (2) Lower Looper, (3) Right Needle, (4) Left Needle\u2014if any looper thread breaks, rethread the needles AFTER the loopers so threads don't tangle.",
+        "Thread a serger in strict order: (1) Upper Looper, (2) Lower Looper, (3) Right Needle, (4) Left Needle—if any looper thread breaks, rethread the needles AFTER the loopers so threads don't tangle.",
         "Color-code cones temporarily (red, blue, green, yellow) when dialing in tension: balanced stitches lock right on the cut fabric edge without looping loose off the side.",
-        "Adjust Differential Feed up to 1.5\u20132.0 when serging stretchy knit T-shirts to eliminate wavy 'lettuce-edge' stretching."
+        "Adjust Differential Feed up to 1.5–2.0 when serging stretchy knit T-shirts to eliminate wavy 'lettuce-edge' stretching."
       ],
       "safety": "Keep fingers strictly clear of the upper/lower cutting knives on the right side of the presser foot.",
       "tags": [
@@ -1971,7 +2101,9 @@
         "knits",
         "tension",
         "sewing"
-      ]
+      ],
+      "scenario": "One thread loops loosely off a serged edge.",
+      "overview": "Contrasting practice threads make it clear which tension path needs attention. Save a balanced sample with its settings."
     },
     {
       "id": "crf-167",
@@ -1996,20 +2128,22 @@
         "Fold outer panels right-sides together and lining panels right-sides together (leaving zipper HALFWAY OPEN!), sew perimeter leaving a 4-inch turning gap in the bottom of the lining.",
         "Pinch each bottom corner into a triangle aligning side seam to bottom seam, sew 1.5 inches across the tip to box the corners, turn right-side out through the lining gap, and stitch the lining shut."
       ],
-      "safety": "ALWAYS leave the zipper halfway open before sewing the pouch perimeter\u2014otherwise you cannot turn the bag right-side out!",
+      "safety": "ALWAYS leave the zipper halfway open before sewing the pouch perimeter—otherwise you cannot turn the bag right-side out!",
       "tags": [
         "zipper-pouch",
         "tote-bag",
         "boxed-corners",
         "sewing-project",
         "gifts"
-      ]
+      ],
+      "scenario": "The pouch zipper works but the corners make it sit crooked.",
+      "overview": "Mark the same corner depth on both sides before stitching. Check that the zipper can open for turning the lining."
     },
     {
       "id": "crf-168",
       "cat": "Crafts & Textiles",
       "sub": "Fiber Arts & Traditional Craft",
-      "title": "Macram\u00e9 Plant Hangers & Wall Hangings (4 Foundational Knots)",
+      "title": "Macramé Plant Hangers & Wall Hangings (4 Foundational Knots)",
       "diff": "Easy",
       "time": "45 mins",
       "gear": [
@@ -2018,7 +2152,7 @@
         "Comb"
       ],
       "supplies": [
-        "3mm or 4mm single-twist 100% cotton macram\u00e9 cord"
+        "3mm or 4mm single-twist 100% cotton macramé cord"
       ],
       "steps": [
         "Mount cords onto a dowel/ring using the Lark's Head Knot (fold cord in half, pass loop over dowel, pull tails through loop).",
@@ -2032,7 +2166,9 @@
         "knots",
         "cotton-cord",
         "decor"
-      ]
+      ],
+      "scenario": "A plant hanger needs to hold the pot level once watered.",
+      "overview": "Even knot spacing sets the cradle’s shape. Test at low height with the actual loaded pot and suitable hanging hardware."
     },
     {
       "id": "crf-169",
@@ -2051,18 +2187,20 @@
         "Carpet latex / PVA backing glue"
       ],
       "steps": [
-        "Stretch monk's cloth drum-tight on a gripper frame\u2014loose fabric causes loops to pull right back out.",
+        "Stretch monk's cloth drum-tight on a gripper frame—loose fabric causes loops to pull right back out.",
         "Thread yarn through the needle shaft and eye, push needle all the way down until the handle touches the cloth with the bevel facing your direction of travel, and glide the tip just grazing the fabric surface to the next hole (never lift high off the cloth).",
         "Seal the back of finished wall hangings or mug rugs with flexible latex backing glue."
       ],
-      "safety": "Keep yarn feeding completely slack from the ball\u2014any slight tension on the trailing yarn pulls stitches out.",
+      "safety": "Keep yarn feeding completely slack from the ball—any slight tension on the trailing yarn pulls stitches out.",
       "tags": [
         "punch-needle",
         "tufting",
         "monks-cloth",
         "yarn",
         "fiber-arts"
-      ]
+      ],
+      "scenario": "Loops pull out of a new punch-needle design.",
+      "overview": "Backing tension, yarn size and tool depth work together. Examine both faces of a small swatch before starting the full design."
     },
     {
       "id": "crf-170",
@@ -2073,7 +2211,7 @@
       "time": "1 hour",
       "gear": [
         "Wire-tip pyrography burner",
-        "Orbital sander (120\u2013320 grit)"
+        "Orbital sander (120–320 grit)"
       ],
       "supplies": [
         "Basswood, birch, or olivewood board",
@@ -2081,18 +2219,20 @@
         "Food-safe fractionated coconut oil + beeswax board butter"
       ],
       "steps": [
-        "Sand wood silky smooth to 320 grit before burning\u2014rough grain snags pyrography nibs and causes uneven dark blotches.",
-        "Trace designs with graphite paper, turn burner heat to medium-low, and move the nib at a steady pace letting heat\u2014not hand pressure\u2014darken the wood.",
-        "Condition cutting and charcuterie boards with a 4:1 melted blend of food-safe mineral oil (or fractionated coconut oil\u2014never cooking vegetable/olive oil, which goes rancid) and beeswax."
+        "Sand wood silky smooth to 320 grit before burning—rough grain snags pyrography nibs and causes uneven dark blotches.",
+        "Trace designs with graphite paper, turn burner heat to medium-low, and move the nib at a steady pace letting heat—not hand pressure—darken the wood.",
+        "Condition cutting and charcuterie boards with a 4:1 melted blend of food-safe mineral oil (or fractionated coconut oil—never cooking vegetable/olive oil, which goes rancid) and beeswax."
       ],
-      "safety": "Never burn pressure-treated, painted, or MDF wood\u2014use untreated hardwoods only with a small desktop fume extractor.",
+      "safety": "Never burn pressure-treated, painted, or MDF wood—use untreated hardwoods only with a small desktop fume extractor.",
       "tags": [
         "pyrography",
         "woodburning",
         "charcuterie-board",
         "wood-finish",
         "gifts"
-      ]
+      ],
+      "scenario": "A burned motif or resin detail will be used on a board near food.",
+      "overview": "Decide which surface will actually touch food and choose a finish rated for that use. Allow its full cure before service."
     },
     {
       "id": "crf-171",
@@ -2113,17 +2253,19 @@
         "Granulated sugar + sweet almond/coconut oil (for scrubs)"
       ],
       "steps": [
-        "Cube melt-and-pour soap base, microwave in 20-second bursts stirring between each until just melted (130\u00b0F\u2013140\u00b0F\u2014never boil), stir in 1%\u20132% skin-safe fragrance oil and mica dispersed in a drop of rubbing alcohol.",
+        "Cube melt-and-pour soap base, microwave in 20-second bursts stirring between each until just melted (130°F–140°F—never boil), stir in 1%–2% skin-safe fragrance oil and mica dispersed in a drop of rubbing alcohol.",
         "Pour into silicone molds and immediately spritz the top surface with 99% isopropyl alcohol to vanish all tiny air bubbles cleanly; unmold after 2 hours and wrap airtight in plastic wrap so glycerin doesn't sweat moisture in humid air."
       ],
-      "safety": "Use ONLY cosmetic-grade skin-safe fragrance oils and micas\u2014never candle fragrance oils or craft glitter in bath products.",
+      "safety": "Use ONLY cosmetic-grade skin-safe fragrance oils and micas—never candle fragrance oils or craft glitter in bath products.",
       "tags": [
         "melt-and-pour",
         "soap",
         "sugar-scrub",
         "gifts",
         "bath-body"
-      ]
+      ],
+      "scenario": "You want a small gift batch with matching scents and labels.",
+      "overview": "Keep water out of stored scrubs and list the ingredients on each container. A test portion lets you judge scent strength before filling every jar."
     },
     {
       "id": "crf-172",
@@ -2146,8 +2288,8 @@
       ],
       "steps": [
         "Cut 100% cotton fabric into 8\", 11\", and 14\" squares using zig-zag pinking shears so edges never fray.",
-        "Place fabric on a parchment-lined baking sheet, sprinkle evenly with grated beeswax, crushed pine resin, and drops of jojoba oil, and bake at 200\u00b0F for 5\u20138 minutes until melted.",
-        "Brush the melted blend evenly to all corners, lift fabric by two corners, and wave in the air for 30 seconds until dry and pliable\u2014hand-wash only in cool soapy water."
+        "Place fabric on a parchment-lined baking sheet, sprinkle evenly with grated beeswax, crushed pine resin, and drops of jojoba oil, and bake at 200°F for 5–8 minutes until melted.",
+        "Brush the melted blend evenly to all corners, lift fabric by two corners, and wave in the air for 30 seconds until dry and pliable—hand-wash only in cool soapy water."
       ],
       "safety": "Never wash beeswax wraps in hot water or use them over raw meat/fish.",
       "tags": [
@@ -2156,7 +2298,9 @@
         "kitchen-craft",
         "sewing",
         "homestead"
-      ]
+      ],
+      "scenario": "A cotton scrap could become a reusable wrap for a bowl.",
+      "overview": "A thin, even wax coat lets the cloth bend around the rim. Reserve the wrap for appropriate cool foods and wash it gently."
     },
     {
       "id": "crf-173",
@@ -2174,7 +2318,7 @@
         "Tape strips"
       ],
       "steps": [
-        "Tape foil transfer sheet tightly on all 4 sides over smooth cardstock (drum-tight with zero wrinkles\u2014loose foil snags under the tip).",
+        "Tape foil transfer sheet tightly on all 4 sides over smooth cardstock (drum-tight with zero wrinkles—loose foil snags under the tip).",
         "Set line operation to 'Foil' (Medium/Bold tip works best for bold monograms), run the cut, and peel foil off BEFORE unloading the mat if adding a cut border afterward."
       ],
       "safety": "Use smooth uncoated cardstock rather than heavily textured linen paper so foil transfers cleanly without skipping.",
@@ -2184,7 +2328,9 @@
         "cricut",
         "stationery",
         "gifts"
-      ]
+      ],
+      "scenario": "Fine foil lettering breaks up at the corners of a card.",
+      "overview": "Test the foil and tool on an offcut from the same cardstock. Check the direction of the sheet and tape before running the final design."
     },
     {
       "id": "crf-174",
@@ -2204,7 +2350,7 @@
       ],
       "steps": [
         "Check cruise line rules first: cruise cabin doors are steel (magnetic), and lines require non-adhesive magnets (never tape or Command strips) for easy fire-safe removal.",
-        "Cut layered wood/acrylic name plaques or cruise ship shapes on the Glowforge (or printable vinyl + 30-mil magnet sheets on Cricut) and glue strong neodymium or flexible sheet magnets flush to the back\u2014use strong magnets so heavy cabin doors slamming don't knock decor down."
+        "Cut layered wood/acrylic name plaques or cruise ship shapes on the Glowforge (or printable vinyl + 30-mil magnet sheets on Cricut) and glue strong neodymium or flexible sheet magnets flush to the back—use strong magnets so heavy cabin doors slamming don't knock decor down."
       ],
       "safety": "Avoid hanging magnets over cabin door peepholes, sprinklers, or room number plaques.",
       "tags": [
@@ -2213,7 +2359,9 @@
         "cricut",
         "luggage-tags",
         "travel-craft"
-      ]
+      ],
+      "scenario": "Matching luggage tags need to be readable at a distance without exposing personal details.",
+      "overview": "Test legibility at actual size and protect the contact side from casual view. Verify ship rules before taking magnetic door decorations."
     },
     {
       "id": "crf-175",
@@ -2246,7 +2394,36 @@
         "sewing",
         "emergency-kit",
         "checklist"
-      ]
+      ],
+      "scenario": "A hem or strap may fail during a trip and a full sewing box will stay home.",
+      "overview": "Choose thread and needles that fit the garments you are packing. Store sharp items securely and check travel restrictions for the route."
+    },
+    {
+      "id": "crf-176",
+      "sub": "Sewing & Mending",
+      "title": "Patch a tarp before the next rain",
+      "scenario": "A pinhole shows daylight through the tarp whenever the fabric pulls tight over a pole.",
+      "time": "15 minutes plus cure time",
+      "diff": "Easy",
+      "gear": [
+        "Scissors",
+        "Clean cloth"
+      ],
+      "supplies": [
+        "Patch or tape approved for the tarp coating"
+      ],
+      "steps": [
+        "Unload the damaged section, dry it and mark the tear’s ends. Identify the fabric coating before choosing a compatible repair patch.",
+        "Clean and prepare the area as the patch maker directs. Cut rounded corners and allow the specified overlap beyond both ends of the tear.",
+        "Lay the tarp flat without tension, smooth the patch from the center outward and observe the maker’s cure time.",
+        "Test the repair on a low practice pitch. Adjust the pole contact or add appropriate protection to keep the same pressure point from wearing through again."
+      ],
+      "overview": "A patch can stop a small leak while a changed contact point prevents a repeat. Replace material that is brittle, widely torn or damaged at a load-bearing attachment.",
+      "tags": [
+        "sewing",
+        "mending"
+      ],
+      "cat": "Crafts & Textiles"
     }
   ],
   "glossary": {
@@ -2260,7 +2437,7 @@
       "term": "Heat-Resistant Polyimide Tape (Kapton)",
       "aka": "Sublimation / 3D printer thermal tape",
       "svg": "kaptontape",
-      "def": "Amber-colored high-temperature polyimide film tape rated up to 500\u00b0F (260\u00b0C) that holds sublimation transfers tightly onto mugs, tumblers, and shirts without melting or leaving sticky adhesive residue."
+      "def": "Amber-colored high-temperature polyimide film tape rated up to 500°F (260°C) that holds sublimation transfers tightly onto mugs, tumblers, and shirts without melting or leaving sticky adhesive residue."
     },
     "speedy stitcher sewing awl": {
       "term": "Speedy Stitcher Lockstitch Sewing Awl",
@@ -2278,7 +2455,9 @@
       "term": "Craft Brayer Roller",
       "aka": "Hard-rubber smoothing roller",
       "svg": "brayer",
-      "def": "A smooth rubber roller mounted in a metal handle used to press vinyl, cardstock, and fabric evenly onto Cricut cutting mats\u2014and to apply bubble-free paper masking tape onto wood before Glowforge cutting."
+      "def": "A smooth rubber roller mounted in a metal handle used to press vinyl, cardstock, and fabric evenly onto Cricut cutting mats—and to apply bubble-free paper masking tape onto wood before Glowforge cutting."
     }
-  }
+  },
+  "count": 76,
+  "version": "2026.11.15-birthday-r1"
 }
