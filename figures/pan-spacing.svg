@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Leave space between the cut faces</title>
+<desc>Top view shows chunks on a sheet pan. A side view shows one flat cut face against the pan surface.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="18" y="28" width="178" height="93" rx="4" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M33 59 q9-25 25-4 q3 7-2 9 h-22Z" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4" />
+<path d="M89 58 q9-25 25-4 q3 7-2 9 h-22Z" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4" />
+<path d="M145 59 q9-25 25-4 q3 7-2 9 h-22Z" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4" />
+<path d="M55 96 q9-25 25-4 q3 7-2 9 h-22Z" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4" />
+<path d="M124 96 q9-25 25-4 q3 7-2 9 h-22Z" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4" />
+<path d="M208 97 Q226 49 254 65 Q274 71 282 97Z" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4" />
+<path d="M207 99 H291" fill="none" stroke="#223f3e" stroke-width="3" />
+<text x="106" y="146" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">From above</text>
+<text x="251" y="146" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="14" text-anchor="middle" fill="#223f3e">Flat side down</text>
+</svg>

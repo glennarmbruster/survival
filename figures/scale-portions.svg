@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Divide first, then shape</title>
+<desc>An overhead board shows dough cut in half, then into quarters, with one portion rounded separately.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<ellipse cx="59" cy="78" rx="35" ry="27" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M59 50 V106 M25 78 H94" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M111 79 L142 79 M135.2 83.2 L142 79 135.2 74.8" fill="none" stroke="#a9492b" stroke-width="3" />
+<path d="M160 78 q0-30 36-29 v29Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<path d="M202 79 V49 q35 1 34 30Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<ellipse cx="269" cy="85" rx="19" ry="17" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<text x="61" y="141" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Divide</text>
+<text x="221" y="141" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Shape one piece</text>
+</svg>

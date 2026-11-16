@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Keep extra mesh beyond every side of the frame</title>
+<desc>A solid window frame sits inside a larger dashed rectangle of mesh. The overhang extends past all four edges.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="52" y="23" width="216" height="108" rx="0" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M56 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M64 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M72 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M80 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M88 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M96 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M104 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M112 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M120 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M128 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M136 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M144 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M152 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M160 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M168 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M176 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M184 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M192 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M200 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M208 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M216 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M224 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M232 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M240 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M248 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M256 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M264 24 V130" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M53 28 H267" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M53 36 H267" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M53 44 H267" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M53 52 H267" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M53 60 H267" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M53 68 H267" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M53 76 H267" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M53 84 H267" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M53 92 H267" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M53 100 H267" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M53 108 H267" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M53 116 H267" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M53 124 H267" fill="none" stroke="#78967f" stroke-width="1" />
+<path d="M74 43 H246 V111 H74Z" fill="none" stroke="#223f3e" stroke-width="6" />
+<path d="M248 80 L265 80 M258.2 84.2 L265 80 258.2 75.8" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="160" y="152" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Leave mesh beyond the frame</text>
+</svg>

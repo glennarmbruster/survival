@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Name the entrance on both copies</title>
+<desc>A wallet card contains spaces for nearby and farther meeting places, the relay contact, and the next check-in.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="23" y="19" width="274" height="133" rx="9" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="23" y="19" width="274" height="27" rx="6" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4"/>
+<text x="160" y="38" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Meeting card</text>
+<text x="38" y="70" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="14" text-anchor="start" fill="#223f3e">Near entrance</text><path d="M142 71 H277" fill="none" stroke="#96aaa0" stroke-width="1.5" />
+<text x="38" y="93" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="14" text-anchor="start" fill="#223f3e">Far entrance</text><path d="M136 94 H277" fill="none" stroke="#96aaa0" stroke-width="1.5" />
+<text x="38" y="116" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="14" text-anchor="start" fill="#223f3e">Relay phone</text><path d="M136 117 H277" fill="none" stroke="#96aaa0" stroke-width="1.5" />
+<text x="38" y="139" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="14" text-anchor="start" fill="#223f3e">Next check-in</text><path d="M144 140 H277" fill="none" stroke="#96aaa0" stroke-width="1.5" />
+</svg>

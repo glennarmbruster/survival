@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Check the same detail at two scales</title>
+<desc>A building’s entrance is circled in an overview, then shown as the specific door beside a fixed landmark.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="15" y="29" width="132" height="97" rx="4" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M27 102 V66 l52-20 51 20 v36Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<rect x="86" y="78" width="20" height="24" rx="4" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4"/>
+<circle cx="96" cy="91" r="18" fill="none" stroke="#a9492b" stroke-width="2"/>
+<rect x="169" y="29" width="136" height="97" rx="4" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="191" y="49" width="45" height="62" rx="4" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4"/>
+<circle cx="226" cy="83" r="2" fill="#223f3e" stroke="#223f3e" stroke-width="2"/>
+<path d="M248 93 h43 m-38 0 v14 m32-14 v14" fill="none" stroke="#886e57" stroke-width="3" />
+<text x="80" y="150" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Building</text>
+<text x="236" y="150" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Door by bench</text>
+</svg>

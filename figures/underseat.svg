@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Keep arrival essentials within reach</title>
+<desc>Side view of a seat and the bag under it. A highlighted pocket faces the person reaching in.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M48 27 h22 v57 h91 v14 H51Z" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4" />
+<path d="M59 100 v40 M153 100 v40" fill="none" stroke="#223f3e" stroke-width="5" />
+<rect x="69" y="106" width="73" height="32" rx="7" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="117" y="109" width="22" height="25" rx="3" fill="#e5ae62" stroke="#223f3e" stroke-width="2.4"/>
+<text x="233" y="78" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Reachable</text>
+<text x="236" y="97" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">pocket</text>
+<path d="M202 104 L145 119 M150.5 113.2 L145 119 152.7 121.3" fill="none" stroke="#a9492b" stroke-width="3" />
+</svg>

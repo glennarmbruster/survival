@@ -30,6 +30,15 @@
           "City of Friendswood · Emergency notifications",
           "https://www.ci.friendswood.tx.us/618/Emergency-Notifications"
         ]
+      ],
+      "illustrations": [
+        {
+          "step": "Open the city’s emergency notifications page below and choose Sign Up. Each of you should register the phone or email you actually check.",
+          "plate": "paired-alerts",
+          "title": "Register each person’s usual contact",
+          "alt": "A home address branches to two different phones. Each person has their own registration.",
+          "caption": "Check both registrations. A message on one person’s phone tells you only that their contact is reachable."
+        }
       ]
     },
     {
@@ -61,6 +70,15 @@
           "Ready.gov · Family emergency planning",
           "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf"
         ]
+      ],
+      "illustrations": [
+        {
+          "step": "Ask a willing out-of-area contact to relay messages. Write their number and both meeting places on each card.",
+          "plate": "meet-card",
+          "title": "Name the entrance on both copies",
+          "alt": "A wallet card contains spaces for nearby and farther meeting places, the relay contact, and the next check-in.",
+          "caption": "Make both copies from the same wording. A named entrance gives each person something they can actually find."
+        }
       ]
     },
     {
@@ -93,6 +111,15 @@
           "Ready.gov · Family emergency planning",
           "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf"
         ]
+      ],
+      "illustrations": [
+        {
+          "step": "Beside each item, write its usual location and who will collect it. Put the short list on the packed bag.",
+          "plate": "bag-tag",
+          "title": "Give each loose item a home and a collector",
+          "alt": "A tag attached to a bag lists an example item, its location and the person collecting it.",
+          "caption": "Give the last-minute list a permanent place on the bag. Assign each loose item to someone who can reach it."
+        }
       ]
     },
     {
@@ -219,6 +246,15 @@
           "CDC · Storing emergency water",
           "https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html"
         ]
+      ],
+      "illustrations": [
+        {
+          "step": "Allow at least one gallon per person per day for at least three days. For two people the starting amount is six gallons. Plan extra for heat, illness and pets.",
+          "plate": "jugs",
+          "title": "Count the days in rows",
+          "alt": "Six one-gallon jugs form three columns, with one row per person. Each column supplies both people for one day at the starting allowance.",
+          "caption": "Each pictured jug holds one gallon. One column represents a day for two people at the starting allowance in this guide."
+        }
       ]
     },
     {
@@ -282,6 +318,15 @@
           "FDA · Home health and consumer devices",
           "https://www.fda.gov/medical-devices/products-and-medical-procedures/home-health-and-consumer-devices"
         ]
+      ],
+      "illustrations": [
+        {
+          "step": "Copy current medicine names, strengths and prescribed schedules from the labels. List known allergies, pharmacy, prescriber and a contact who can clarify changes.",
+          "plate": "product-label",
+          "title": "Read the identifying details from the container",
+          "alt": "An example container has arrows pointing to the product name and strength as printed, without example doses.",
+          "caption": "Use the wording printed on the actual container. A clear photo preserves the small print when someone else needs to read it."
+        }
       ]
     },
     {
@@ -315,6 +360,15 @@
           "FEMA · Preparing for power outages",
           "https://www.ready.gov/sites/default/files/2025-02/fema_full-suite-hazard-info-sheets.pdf"
         ]
+      ],
+      "illustrations": [
+        {
+          "step": "Pack the cable with the bank and label the last successful test. Store and recharge as directed by its maker.",
+          "plate": "cord-wrap",
+          "title": "Bundle the cable with its power bank",
+          "alt": "A power bank and matching cable sit together in one pouch. Both connectors are visible.",
+          "caption": "Store the working cable beside the device. A date on the pouch records the last time you tested the pair."
+        }
       ]
     },
     {
@@ -382,6 +436,15 @@
           "FEMA · Documenting storm damage",
           "https://www.fema.gov/print/pdf/node/694490"
         ]
+      ],
+      "illustrations": [
+        {
+          "step": "For major appliances, tools and electronics, take a second photo of the model and serial label and save any matching receipt.",
+          "plate": "two-photos",
+          "title": "Take a wide photo and a label photo",
+          "alt": "An appliance in a room is paired with a close photo of its model and serial label.",
+          "caption": "Keep the two images together. The room view places the item and the label identifies the particular model."
+        }
       ]
     },
     {
@@ -480,6 +543,15 @@
           "FoodSafety.gov · Food safety during a power outage",
           "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
         ]
+      ],
+      "illustrations": [
+        {
+          "step": "Record the last known time power was on and the first time you noticed the outage. Use the earlier time for planning if the start is uncertain.",
+          "plate": "time-window",
+          "title": "Record the uncertainty",
+          "alt": "Two marks on a timeline show when power was last known to be on and when it was first noticed off. The outage began somewhere in between.",
+          "caption": "Write the two actual clock times down. A later observation does not tell you exactly when the power failed."
+        }
       ]
     },
     {
@@ -757,6 +829,15 @@
           "FEMA · Documenting storm damage",
           "https://www.fema.gov/print/pdf/node/694490"
         ]
+      ],
+      "illustrations": [
+        {
+          "step": "Give each expense a line with date, vendor, amount, purpose and receipt location. Photograph paper receipts while still legible.",
+          "plate": "ledger",
+          "title": "Give each expense its own row",
+          "alt": "A paper ledger pairs an expense with a receipt ID. The next expense starts on a fresh row.",
+          "caption": "Write the receipt identifier beside the amount. Use the same identifier in the image filename or paper envelope."
+        }
       ]
     },
     {
@@ -1006,5 +1087,5 @@
       "supplies": []
     }
   ],
-  "version": "2026.11.15-birthday-r1"
+  "version": "2026.11.16-illustrated-r1"
 }

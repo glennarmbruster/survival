@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Spread the edges as thick as the center</title>
+<desc>Two side sections of puree show a raised mound and an even layer. A level layer has matching thickness at the middle and edges.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M20 98 Q47 94 71 76 Q82 67 100 84 Q118 97 140 98Z" fill="#e5ae62" stroke="#223f3e" stroke-width="2.4" />
+<path d="M181 98 V84 Q234 82 296 84 V98Z" fill="#e5ae62" stroke="#223f3e" stroke-width="2.4" />
+<path d="M14 100 H146 M176 100 H301" fill="none" stroke="#223f3e" stroke-width="3" />
+<text x="81" y="140" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">High center</text>
+<text x="239" y="140" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Even layer</text>
+</svg>

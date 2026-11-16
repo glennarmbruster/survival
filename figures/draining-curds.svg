@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Leave space for the whey</title>
+<desc>Cloth cradles curds in a strainer above a bowl. Drops fall into the gap below.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M38 75 Q51 149 110 149 Q165 149 184 75 Z" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4" />
+<path d="M33 55 H186 M46 54 Q105 134 169 54 Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<path d="M34 65 L45 49 Q61 43 69 57 Q106 107 154 57 L166 46 L175 59" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4" />
+<circle cx="76" cy="58" r="6" fill="#e7c99f" stroke="#223f3e" stroke-width="2"/><circle cx="84" cy="53" r="7" fill="#e7c99f" stroke="#223f3e" stroke-width="2"/><circle cx="97" cy="56" r="9" fill="#e7c99f" stroke="#223f3e" stroke-width="2"/><circle cx="108" cy="50" r="6" fill="#e7c99f" stroke="#223f3e" stroke-width="2"/><circle cx="119" cy="54" r="7" fill="#e7c99f" stroke="#223f3e" stroke-width="2"/><circle cx="133" cy="54" r="8" fill="#e7c99f" stroke="#223f3e" stroke-width="2"/>
+<path d="M101 101 q-7 10 0 10 q7 0 0 -10 M114 115 q-7 10 0 10 q7 0 0 -10" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4" />
+<text x="226" y="50" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Curds</text>
+<path d="M210 56 L143 60 M149.6 55.4 L143 60 150.1 63.8" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="240" y="117" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Clearance</text>
+<path d="M201 120 L140 113 M147.3 109.6 L140 113 146.3 117.9" fill="none" stroke="#a9492b" stroke-width="3" />
+</svg>

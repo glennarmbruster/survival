@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Give each loose item a home and a collector</title>
+<desc>A tag attached to a bag lists an example item, its location and the person collecting it.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="23" y="63" width="98" height="71" rx="12" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M40 65 v-16 q0-19 22-19 h16 q20 0 20 19 v16" fill="none" stroke="#223f3e" stroke-width="5" />
+<rect x="36" y="86" width="73" height="29" rx="5" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M95 61 q25-34 51-14" fill="none" stroke="#a9492b" stroke-width="2.4" />
+<path d="M133 48 l18 -16 h147 v94 H152 l-19-16Z" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4" />
+<circle cx="145" cy="60" r="3" fill="#faf6eb" stroke="#223f3e" stroke-width="2"/>
+<text x="219" y="59" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="17" text-anchor="middle" fill="#223f3e">Glasses</text>
+<text x="219" y="83" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="15" text-anchor="middle" fill="#223f3e">Bedside table</text>
+<text x="219" y="107" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="15" text-anchor="middle" fill="#223f3e">Who: ______</text>
+</svg>

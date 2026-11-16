@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Put dense items against the back panel</title>
+<desc>Side section of a backpack shows dense gear close to the wearer and a light outer compartment.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M66 132 V32 Q69 19 94 24 Q145 27 163 66 L176 114 Q180 136 158 138 H75 Z" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4" />
+<rect x="70" y="48" width="41" height="70" rx="4" fill="#886e57" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M123 49 Q151 52 155 84 H121Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<path d="M65 32 Q23 43 48 112 L63 110" fill="none" stroke="#223f3e" stroke-width="2.4" />
+<text x="245" y="61" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Light gear</text>
+<path d="M202 62 L151 67 M157.4 62.2 L151 67 158.2 70.5" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="243" y="108" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Dense gear</text>
+<path d="M199 107 L106 97 M113.2 93.6 L106 97 112.3 101.9" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="106" y="156" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Side view</text>
+</svg>

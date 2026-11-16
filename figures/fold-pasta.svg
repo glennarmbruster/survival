@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Fold loosely and slice across the fold</title>
+<desc>A folded strip of pasta dough is marked with crosswise cuts. A separate ribbon unrolls to its full length.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M23 62 H168 l17 13 H38Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<path d="M34 76 h148 l-6 12 H41Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<path d="M63 60 l15 25" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M84 60 l15 25" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M105 60 l15 25" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M126 60 l15 25" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M147 60 l15 25" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M212 105 Q184 71 222 55 Q260 38 278 61 Q290 83 260 90 Q230 92 240 72" fill="none" stroke="#886e57" stroke-width="9" />
+<path d="M212 105 Q184 71 222 55 Q260 38 278 61 Q290 83 260 90 Q230 92 240 72" fill="none" stroke="#e7c99f" stroke-width="5" />
+<text x="102" y="145" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Crosswise cuts</text>
+<text x="251" y="145" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">One ribbon</text>
+</svg>

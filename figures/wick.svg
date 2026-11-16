@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Center the wick at both ends</title>
+<desc>A bar spans the rim of a jar. A straight wick runs from the center of the bar down to a tab on the bottom.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M68 40 V120 Q68 133 82 133 H175 Q187 133 187 120 V40" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4" />
+<rect x="55" y="35" width="144" height="11" rx="4" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M127 25 V122" fill="none" stroke="#886e57" stroke-width="3" />
+<rect x="115" y="122" width="25" height="5" rx="2" fill="#223f3e" stroke="#223f3e" stroke-width="2.4"/>
+<text x="249" y="56" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Bar</text>
+<path d="M225 54 L198 41 M206.0 40.2 L198 41 202.3 47.7" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="248" y="117" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Tab</text>
+<path d="M222 120 L146 126 M152.5 121.3 L146 126 153.1 129.6" fill="none" stroke="#a9492b" stroke-width="3" />
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Leave one dated record for both caregivers</title>
+<desc>A sample blank log has four writing lines for time, medicine, amount given, and who gave it.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="29" y="15" width="262" height="138" rx="6" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<text x="46" y="43" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="15" text-anchor="start" fill="#223f3e">Date / time</text><path d="M141 45 H274" fill="none" stroke="#8da9a3" stroke-width="1.5" />
+<text x="46" y="74" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="15" text-anchor="start" fill="#223f3e">Medicine</text><path d="M130 76 H274" fill="none" stroke="#8da9a3" stroke-width="1.5" />
+<text x="46" y="105" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="15" text-anchor="start" fill="#223f3e">Amount given</text><path d="M162 107 H274" fill="none" stroke="#8da9a3" stroke-width="1.5" />
+<text x="46" y="136" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="15" text-anchor="start" fill="#223f3e">Given by</text><path d="M126 138 H274" fill="none" stroke="#8da9a3" stroke-width="1.5" />
+</svg>

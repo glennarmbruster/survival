@@ -1205,6 +1205,15 @@
           "Poison Control · First aid for poisonings",
           "https://www.poison.org/first-aid-for-poisonings"
         ]
+      ],
+      "illustrations": [
+        {
+          "step": "Have the container or a photo ready. Report the person’s age, weight if known, product, possible amount, time and symptoms. Do not delay the call to find a missing detail.",
+          "plate": "product-label",
+          "title": "Read the identifying details from the container",
+          "alt": "An example container has arrows pointing to the product name and strength as printed, without example doses.",
+          "caption": "Use the wording printed on the actual container. A clear photo preserves the small print when someone else needs to read it."
+        }
       ]
     },
     {
@@ -1362,6 +1371,15 @@
           "Poison Control · Ibuprofen and medication errors",
           "https://www.poison.org/articles/ibuprofen"
         ]
+      ],
+      "illustrations": [
+        {
+          "step": "Record the medicine name, dose and time immediately. Check cold remedies for the same ingredient. Consult a pharmacist or clinician before combining or alternating products.",
+          "plate": "medicine-log",
+          "title": "Leave one dated record for both caregivers",
+          "alt": "A sample blank log has four writing lines for time, medicine, amount given, and who gave it.",
+          "caption": "Use the same record when caregivers switch. A date beside the time keeps entries on opposite sides of midnight in order."
+        }
       ]
     },
     {
@@ -1631,6 +1649,15 @@
           "American Red Cross · First aid steps",
           "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps"
         ]
+      ],
+      "illustrations": [
+        {
+          "step": "Once help is on the way and immediate care is underway, a second person can jot down MIST. M is the mechanism or illness: what happened and when. I is injuries or symptoms you actually noticed. S is signs, such as a change in breathing or responsiveness. T is treatment already given, by whom and when. Report what you know and say when a detail is unknown.",
+          "plate": "handover",
+          "title": "Keep the order of events on one note",
+          "alt": "A note has spaces for what happened, what was seen, what changed, and care already given.",
+          "caption": "Once help is on the way, a second person can fill in what is known. A short note leaves room to record a later change and its time."
+        }
       ]
     },
     {
@@ -2427,7 +2454,16 @@
         "evacuation",
         "kits"
       ],
-      "cat": "First Aid & Remedies"
+      "cat": "First Aid & Remedies",
+      "illustrations": [
+        {
+          "step": "Write the street address, city, nearest cross street and the entrance an ambulance can use. Include unit or building details where appropriate.",
+          "plate": "two-points",
+          "title": "Check the same detail at two scales",
+          "alt": "A building’s entrance is circled in an overview, then shown as the specific door beside a fixed landmark.",
+          "caption": "Name the door and the fixed feature beside it. Use a landmark that will still be there if parked cars move."
+        }
+      ]
     }
   ],
   "glossary": {
@@ -2469,5 +2505,5 @@
     }
   },
   "count": 76,
-  "version": "2026.11.15-birthday-r1"
+  "version": "2026.11.16-illustrated-r1"
 }

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Wind each thread into its own notch</title>
+<desc>A notched card holds three separate wraps of thread. Needle points are secured in a felt flap.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M42 38 H68 l5 7 5-7 H114 l5 7 5-7 H160 l5 7 5-7 H248 V122 H170 l-5-7 -5 7 H124 l-5-7 -5 7 H78 l-5-7 -5 7 H42Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<path d="M70 44 l7 71 m-2 -71 l7 71" fill="none" stroke="#223f3e" stroke-width="2.4" />
+<path d="M116 44 l7 71 m-2 -71 l7 71" fill="none" stroke="#fffdf7" stroke-width="2.4" />
+<path d="M162 44 l7 71 m-2 -71 l7 71" fill="none" stroke="#a9492b" stroke-width="2.4" />
+<rect x="193" y="53" width="37" height="55" rx="2" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M202 42 L203 67 M212 40 L213 67 M223 44 L223 67" fill="none" stroke="#223f3e" stroke-width="2.4" />
+<text x="160" y="150" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Keep the points in felt</text>
+</svg>

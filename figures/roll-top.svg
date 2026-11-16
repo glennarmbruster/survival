@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Roll the stiff edges together</title>
+<desc>Three views of a dry bag show its flat mouth, a rolled cuff, and its ends clipped together.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<g transform="translate(13 0)"><path d="M4 61 H72 L68 121 Q37 133 8 121Z" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4" /><rect x="1" y="57" width="74" height="8" rx="2" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/></g>
+<g transform="translate(122 0)"><path d="M4 61 H72 L68 121 Q37 133 8 121Z" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4" /><rect x="1" y="57" width="74" height="8" rx="2" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/></g>
+<g transform="translate(232 0)"><path d="M4 61 H72 L68 121 Q37 133 8 121Z" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4" /><rect x="1" y="57" width="74" height="8" rx="2" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/></g>
+<rect x="124" y="63" width="69" height="7" rx="3" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="126" y="69" width="65" height="7" rx="3" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M239 63 Q248 33 268 37 Q289 35 300 63" fill="none" stroke="#223f3e" stroke-width="5" />
+<rect x="261" y="32" width="16" height="10" rx="2" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M94 86 L110 86 M103.2 90.2 L110 86 103.2 81.8" fill="none" stroke="#a9492b" stroke-width="3" />
+<path d="M202 86 L219 86 M212.2 90.2 L219 86 212.2 81.8" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="52" y="150" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Flatten</text>
+<text x="158" y="150" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Roll</text>
+<text x="268" y="150" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Buckle</text>
+</svg>

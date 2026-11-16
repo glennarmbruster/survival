@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Measure three parts oil to one part vinegar</title>
+<desc>Three equal measures of oil and one equal measure of vinegar make a small batch.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<g transform="translate(21 40)"><ellipse cx="25" cy="28" rx="23" ry="15" fill="#e5ae62" stroke="#223f3e" stroke-width="2.4"/><path d="M33 42 L45 75" fill="none" stroke="#223f3e" stroke-width="6" /></g>
+<g transform="translate(94 40)"><ellipse cx="25" cy="28" rx="23" ry="15" fill="#e5ae62" stroke="#223f3e" stroke-width="2.4"/><path d="M33 42 L45 75" fill="none" stroke="#223f3e" stroke-width="6" /></g>
+<g transform="translate(167 40)"><ellipse cx="25" cy="28" rx="23" ry="15" fill="#e5ae62" stroke="#223f3e" stroke-width="2.4"/><path d="M33 42 L45 75" fill="none" stroke="#223f3e" stroke-width="6" /></g>
+<g transform="translate(240 40)"><ellipse cx="25" cy="28" rx="23" ry="15" fill="#c28368" stroke="#223f3e" stroke-width="2.4"/><path d="M33 42 L45 75" fill="none" stroke="#223f3e" stroke-width="6" /></g>
+<path d="M24 109 v8 h190 v-8" fill="none" stroke="#a9492b" stroke-width="2.4" />
+<text x="119" y="145" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">3 oil</text>
+<text x="268" y="145" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">1 vinegar</text>
+</svg>

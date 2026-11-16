@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Score the dough before baking</title>
+<desc>Top view of a rectangular sheet of cracker dough, with evenly spaced cuts in both directions.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="40" y="19" width="240" height="108" rx="6" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="50" y="29" width="220" height="88" rx="4" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M94 29 V117" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M138 29 V117" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M182 29 V117" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M226 29 V117" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M50 73 H270" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="160" y="151" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Score in both directions</text>
+</svg>

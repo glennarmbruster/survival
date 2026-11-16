@@ -127,7 +127,7 @@
       "id": "fwg-105",
       "cat": "Homestead & Garden",
       "sub": "Friendswood Greenhouse & Climate",
-      "title": "Greenhouse Seed-Starting Timeline for Friendswood (Spring & Fall Batches)",
+      "title": "Label and time greenhouse sowings in Friendswood",
       "diff": "Easy",
       "time": "20 mins",
       "gear": [
@@ -153,7 +153,16 @@
         "transplants"
       ],
       "scenario": "The spring tomatoes outgrew their trays before the bed was ready.",
-      "overview": "Work backward from the intended transplant window and include hardening-off time. A second, smaller sowing spreads the risk of a late cold snap."
+      "overview": "Work backward from the intended transplant window and include hardening-off time. A second, smaller sowing spreads the risk of a late cold snap.",
+      "illustrations": [
+        {
+          "step": "Spring Batch (Start indoors/greenhouse Dec 26 – Jan 15): Sow tomatoes, sweet/hot peppers, eggplant, and basil on a 75°F–80°F heat mat so sturdy 8-inch transplants are ready to plant outdoors in Friendswood by February 20–March 1.",
+          "plate": "plant-tag",
+          "title": "Track the sowing date with each batch",
+          "alt": "Two identical seed trays have separate plant labels showing crop, variety, and sowing date.",
+          "caption": "Write the variety and actual sowing date as you fill the cells. Keep the label with that batch when trays move."
+        }
+      ]
     },
     {
       "id": "fwg-106",
@@ -185,7 +194,16 @@
         "bti"
       ],
       "scenario": "Leaves look mottled and tiny insects lift when the bench is bumped.",
-      "overview": "Inspect leaf undersides and the potting surface separately. Matching the pest to its habitat narrows the treatment and avoids disturbing healthy trays."
+      "overview": "Inspect leaf undersides and the potting surface separately. Matching the pest to its habitat narrows the treatment and avoids disturbing healthy trays.",
+      "illustrations": [
+        {
+          "step": "Spider Mites & Whiteflies (thrive in dry/warm greenhouse air): Mist plant undersides weekly with water, hang yellow sticky cards at canopy height to monitor early outbreaks, and spray insecticidal soap at dusk.",
+          "plate": "sticky-card",
+          "title": "Keep a monitoring card near the leaf tops",
+          "alt": "A yellow monitoring card hangs just above the canopy. A dotted line marks the height of the upper leaves.",
+          "caption": "Move the card up as the plants grow. Date the card so catches from different weeks are comparable."
+        }
+      ]
     },
     {
       "id": "fwg-107",
@@ -275,7 +293,16 @@
         "friendswood"
       ],
       "scenario": "A bed can sit empty during the hottest weeks and has a persistent weed problem.",
-      "overview": "Good contact between clear covering and moist soil helps trap heat. Document treated edges because weeds can return from just outside the bed."
+      "overview": "Good contact between clear covering and moist soil helps trap heat. Document treated edges because weeds can return from just outside the bed.",
+      "illustrations": [
+        {
+          "step": "Stretch CLEAR plastic tightly over the damp bed and bury all 4 edges in a 4-inch trench so superheated air cannot escape—clear plastic acts like a greenhouse trapping 130°F–150°F heat down 6 inches deep, killing root-knot nematodes, fungal wilt, and Bermuda grass rhizomes.",
+          "plate": "bed-cover",
+          "title": "Bury the edges of the clear sheet",
+          "alt": "Cross section shows a clear cover hugging a raised soil bed with its ends tucked into soil on both sides.",
+          "caption": "Look along the sides and corners for loose edges. Pinholes and lifted corners interrupt the continuous cover."
+        }
+      ]
     },
     {
       "id": "fwg-110",
@@ -313,7 +340,7 @@
       "id": "fwg-111",
       "cat": "Homestead & Garden",
       "sub": "Friendswood Greenhouse & Climate",
-      "title": "Greenhouse Watering Automation: Overhead Misters vs. Drip Lines",
+      "title": "Water greenhouse pots at the root zone",
       "diff": "Easy",
       "time": "45 mins",
       "gear": [
@@ -326,8 +353,8 @@
       ],
       "steps": [
         "Use fine overhead micro-misters ONLY for germinating seedling flats and raising humidity for tropicals/orchids in the morning.",
-        "Run 1/4-inch drip emitters directly to the base of potted tomatoes, peppers, and citrus inside the greenhouse so leaves stay dry and free of gray mold (Botrytis) and powdery mildew.",
-        "Schedule watering for 7:00 AM–8:00 AM so excess moisture evaporates before evening."
+        "Bring a drip emitter to the pot and secure it above the mix, beside the plant. Run one watering cycle while you watch. A displaced tube can empty into the aisle while the timer appears to be working normally.",
+        "After the cycle, check the mix below the surface in several pots, including the one farthest from the supply. Group plants with similar needs and adjust duration to the moisture at the roots."
       ],
       "safety": "Install a 25 PSI pressure regulator on city water spigots so high Friendswood water pressure doesn't blow barbed drip fittings apart.",
       "tags": [
@@ -338,7 +365,16 @@
         "friendswood"
       ],
       "scenario": "Propagation trays and large pots share a timer but dry at different rates.",
-      "overview": "Check water at root depth and group containers with similar demand. Mist in the air does not prove the root ball is wet."
+      "overview": "Check water at root depth and group containers with similar demand. Mist in the air does not prove the root ball is wet.",
+      "illustrations": [
+        {
+          "step": "Bring a drip emitter to the pot and secure it above the mix, beside the plant. Run one watering cycle while you watch. A displaced tube can empty into the aisle while the timer appears to be working normally.",
+          "plate": "drip-pot",
+          "title": "Bring the emitter to the soil",
+          "alt": "A tube reaches the pot rim. Water drips at the soil line beside the stem, leaving the leaves dry.",
+          "caption": "Follow the tube to its outlet. Watch the first drops land on the potting mix and check that the tube stays put."
+        }
+      ]
     },
     {
       "id": "fwg-112",
@@ -584,7 +620,16 @@
         "rain-barrel"
       ],
       "scenario": "Mosquitoes appear near a screened barrel even though its lid looks intact.",
-      "overview": "Follow water through the inlet, overflow and nearby saucers. One unscreened opening or overlooked puddle can sustain the problem."
+      "overview": "Follow water through the inlet, overflow and nearby saucers. One unscreened opening or overlooked puddle can sustain the problem.",
+      "illustrations": [
+        {
+          "step": "Empty plastic pot saucers after every rainstorm and keep French drains/swales clear of leaf dams.",
+          "plate": "saucer",
+          "title": "Empty the saucer beneath the pot",
+          "alt": "The left saucer holds standing water and the right saucer is tipped empty away from the plant.",
+          "caption": "Lift the pot long enough to check the whole saucer. Water can remain under a pot even when the visible rim looks dry."
+        }
+      ]
     },
     {
       "id": "fwg-120",
@@ -644,5 +689,5 @@
   ],
   "glossary": {},
   "count": 21,
-  "version": "2026.11.15-birthday-r1"
+  "version": "2026.11.16-illustrated-r1"
 }

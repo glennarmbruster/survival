@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Tape parallel to the joint</title>
+<desc>Two blue strips flank a narrow central caulk joint. The tape edges define the width of the bead.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="33" y="26" width="254" height="103" rx="1" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="34" y="45" width="252" height="17" rx="0" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="34" y="85" width="252" height="17" rx="0" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M36 74 H285" fill="none" stroke="#886e57" stroke-width="4" />
+<text x="160" y="151" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Keep the joint exposed</text>
+</svg>

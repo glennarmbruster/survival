@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Read the identifying details from the container</title>
+<desc>An example container has arrows pointing to the product name and strength as printed, without example doses.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="35" y="32" width="96" height="109" rx="13" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="48" y="20" width="70" height="20" rx="4" fill="#223f3e" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="39" y="62" width="88" height="56" rx="2" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<text x="82" y="84" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Name</text>
+<text x="82" y="105" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="13" text-anchor="middle" fill="#223f3e">Strength</text>
+<text x="232" y="68" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Exact name</text>
+<path d="M187 74 L128 80 M134.4 75.1 L128 80 135.2 83.5" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="229" y="113" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">As printed</text>
+<path d="M187 107 L128 101 M135.2 97.5 L128 101 134.4 105.9" fill="none" stroke="#a9492b" stroke-width="3" />
+</svg>

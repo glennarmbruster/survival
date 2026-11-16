@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Empty the saucer beneath the pot</title>
+<desc>The left saucer holds standing water and the right saucer is tipped empty away from the plant.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M35 49 h78 l-11 62 H47Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<path d="M20 103 Q67 120 127 104 L118 121 Q67 134 29 119Z" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4" />
+<path d="M141 93 L178 93 M171.2 97.2 L178 93 171.2 88.8" fill="none" stroke="#a9492b" stroke-width="3" />
+<path d="M202 56 l83 39 q-27 19 -83 -26 Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<path d="M279 104 q-7 12 0 12 q7 0 0-12 M267 113 q-6 10 0 10 q6 0 0-10" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4" />
+<text x="75" y="149" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Standing water</text>
+<text x="242" y="149" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Tip out water</text>
+</svg>

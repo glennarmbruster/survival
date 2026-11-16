@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Fold the backing close to the surface</title>
+<desc>Side view shows backing doubled over at a shallow angle while the design stays flat.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M29 109 H293" fill="none" stroke="#223f3e" stroke-width="5" />
+<path d="M45 102 H257" fill="none" stroke="#a9c3a1" stroke-width="7" />
+<path d="M51 96 H206 Q233 96 208 89 L99 65" fill="none" stroke="#886e57" stroke-width="4" />
+<path d="M164 67 L108 54 M115.6 51.5 L108 54 113.7 59.6" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="160" y="147" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Peel back along the surface</text>
+</svg>

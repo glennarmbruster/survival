@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Watch the edge and the bubbles</title>
+<desc>A pancake viewed from above has a matte rim and open bubbles. A spatula can slide under the set edge.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<ellipse cx="106" cy="82" rx="77" ry="57" fill="#e6b974" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="106" cy="82" rx="65" ry="45" fill="#f1d39b" stroke="#223f3e" stroke-width="2.4"/>
+<circle cx="76" cy="76" r="4" fill="#886e57" stroke="#223f3e" stroke-width="2"/><circle cx="95" cy="54" r="3" fill="#886e57" stroke="#223f3e" stroke-width="2"/><circle cx="117" cy="68" r="5" fill="#886e57" stroke="#223f3e" stroke-width="2"/><circle cx="107" cy="93" r="4" fill="#886e57" stroke="#223f3e" stroke-width="2"/><circle cx="144" cy="85" r="3" fill="#886e57" stroke="#223f3e" stroke-width="2"/><circle cx="86" cy="108" r="4" fill="#886e57" stroke="#223f3e" stroke-width="2"/>
+<text x="237" y="51" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Open bubbles</text>
+<path d="M207 58 L147 75 M152.4 69.1 L147 75 154.7 77.2" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="243" y="122" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Set edge</text>
+<path d="M212 115 L174 104 M181.7 101.9 L174 104 179.4 109.9" fill="none" stroke="#a9492b" stroke-width="3" />
+</svg>

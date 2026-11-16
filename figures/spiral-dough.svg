@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Coil the filled rope before rolling it flat</title>
+<desc>A long dough rope is loosely coiled into a spiral. The next view shows the flat pancake.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M25 102 Q85 144 115 94 Q140 42 82 40 Q40 38 41 82 Q45 112 83 104 Q110 95 104 73 Q97 50 72 62 Q55 73 67 85 Q78 97 88 82" fill="none" stroke="#886e57" stroke-width="10" />
+<path d="M25 102 Q85 144 115 94 Q140 42 82 40 Q40 38 41 82 Q45 112 83 104 Q110 95 104 73 Q97 50 72 62 Q55 73 67 85 Q78 97 88 82" fill="none" stroke="#e7c99f" stroke-width="6" />
+<path d="M142 80 L176 80 M169.2 84.2 L176 80 169.2 75.8" fill="none" stroke="#a9492b" stroke-width="3" />
+<ellipse cx="240" cy="83" rx="47" ry="30" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<text x="73" y="148" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Coil the rope</text>
+<text x="238" y="148" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Roll it flat</text>
+</svg>

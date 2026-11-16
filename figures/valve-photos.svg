@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Pair a room view with a detail photo</title>
+<desc>The first frame shows the sink cabinet within the room. The second frame shows the stop on the supply pipe.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="15" y="24" width="137" height="101" rx="4" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M26 67 H140 M39 69 V112 H125 V69 M80 70 V111 M61 61 Q78 74 99 61 M80 58 v-9 q0-11 10-9 v8" fill="none" stroke="#223f3e" stroke-width="2.4" />
+<rect x="168" y="24" width="137" height="101" rx="4" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M183 95 H229 V67 H246 V38" fill="none" stroke="#748f90" stroke-width="7" />
+<ellipse cx="229" cy="67" rx="16" ry="6" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<circle cx="229" cy="67" r="2" fill="#223f3e" stroke="#223f3e" stroke-width="2"/>
+<text x="83" y="150" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Find the cabinet</text>
+<text x="236" y="150" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Identify the stop</text>
+</svg>

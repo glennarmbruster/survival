@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Bring the emitter to the soil</title>
+<desc>A tube reaches the pot rim. Water drips at the soil line beside the stem, leaving the leaves dry.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M73 83 H193 L179 141 H87 Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<path d="M70 79 H196 V90 H70Z" fill="#886e57" stroke="#223f3e" stroke-width="2.4" />
+<path d="M134 83 V45 Q112 47 105 27 Q131 26 134 46 Q142 21 164 23 Q162 42 138 50" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4" />
+<path d="M18 57 H78 Q86 57 86 65 H105" fill="none" stroke="#223f3e" stroke-width="5" />
+<path d="M104 70 q-7 9 0 9 q7 0 0-9" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4" />
+<text x="249" y="53" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Emitter</text>
+<path d="M218 58 L116 64 M122.6 59.4 L116 64 123.1 67.8" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="243" y="117" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Soil line</text>
+<path d="M215 109 L180 87 M188.0 87.1 L180 87 183.5 94.2" fill="none" stroke="#a9492b" stroke-width="3" />
+</svg>

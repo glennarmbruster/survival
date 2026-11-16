@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Lift the beater to read the peak</title>
+<desc>A soft peak droops in a rounded hook. A firmer peak stands taller with a small bend at the tip.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M23 111 Q64 104 65 86 Q69 46 103 55 Q120 62 111 74 Q103 63 93 73 Q83 91 136 111 Z" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4" />
+<path d="M178 111 Q216 106 223 71 Q226 41 237 34 L249 50 Q236 45 238 62 Q236 98 292 111 Z" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4" />
+<text x="82" y="145" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Soft peak</text>
+<text x="236" y="145" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Medium peak</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Give equal portions equal room</title>
+<desc>An overhead rectangle contains fifteen rounds arranged in three rows of five with even space between them.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="25" y="22" width="270" height="110" rx="9" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="58" cy="46" rx="17" ry="12" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="58" cy="77" rx="17" ry="12" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="58" cy="108" rx="17" ry="12" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="109" cy="46" rx="17" ry="12" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="109" cy="77" rx="17" ry="12" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="109" cy="108" rx="17" ry="12" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="160" cy="46" rx="17" ry="12" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="160" cy="77" rx="17" ry="12" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="160" cy="108" rx="17" ry="12" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="211" cy="46" rx="17" ry="12" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="211" cy="77" rx="17" ry="12" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="211" cy="108" rx="17" ry="12" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="262" cy="46" rx="17" ry="12" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="262" cy="77" rx="17" ry="12" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<ellipse cx="262" cy="108" rx="17" ry="12" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<text x="160" y="153" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Three rows of five</text>
+</svg>

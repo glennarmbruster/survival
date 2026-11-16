@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Trace where runoff collects</title>
+<desc>A terrain cross section shows slopes draining into a gully. Arrows point downhill toward the low point.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M12 64 Q55 66 90 96 Q111 114 135 122 Q151 123 166 101 Q188 67 219 61 Q257 57 307 35 V144 H12Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<path d="M53 66 L96 97 M88.0 96.4 L96 97 92.9 89.6" fill="none" stroke="#a9492b" stroke-width="3" />
+<path d="M207 64 L164 97 M166.9 89.5 L164 97 172.0 96.2" fill="none" stroke="#a9492b" stroke-width="3" />
+<path d="M114 121 q17 8 32 0" fill="none" stroke="#42777c" stroke-width="3.5" />
+<text x="116" y="162" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Low channel</text>
+<text x="243" y="25" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Higher ground</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Read the dimensions on the filter frame</title>
+<desc>A filter with visible pleats has a frame label with three example dimensions. Thickness is the third number.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="40" y="17" width="238" height="109" rx="4" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="50" y="26" width="217" height="64" rx="0" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M52 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<path d="M65 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<path d="M78 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<path d="M91 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<path d="M104 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<path d="M117 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<path d="M130 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<path d="M143 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<path d="M156 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<path d="M169 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<path d="M182 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<path d="M195 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<path d="M208 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<path d="M221 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<path d="M234 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<path d="M247 28 l6 58 6 -58" fill="none" stroke="#9bafa6" stroke-width="1.6" />
+<text x="160" y="114" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="18" text-anchor="middle" fill="#223f3e">16 × 20 × 1</text>
+<text x="160" y="151" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Length × width × thickness</text>
+</svg>

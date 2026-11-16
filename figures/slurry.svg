@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Disperse starch before adding it to the pan</title>
+<desc>A small cup contains a smooth slurry and a spoon resting on the bottom. An arrow leads to the saucepan.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M21 63 h84 l-8 54 H31Z" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4" />
+<path d="M32 84 Q55 78 99 84" fill="none" stroke="#fffdf7" stroke-width="4" />
+<path d="M50 98 l39-64" fill="none" stroke="#223f3e" stroke-width="4" />
+<path d="M120 88 L162 88 M155.2 92.2 L162 88 155.2 83.8" fill="none" stroke="#a9492b" stroke-width="3" />
+<path d="M177 72 H267 V105 Q265 119 248 119 H196 Q178 119 177 105Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<path d="M268 78 h31" fill="none" stroke="#223f3e" stroke-width="6" />
+<text x="67" y="147" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Stir smooth</text>
+<text x="232" y="147" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Whisk into pan</text>
+</svg>

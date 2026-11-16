@@ -4,7 +4,7 @@
       "id": "hom-101",
       "cat": "Homestead & Garden",
       "sub": "Soil & Compost",
-      "title": "Breaking Up Texas Gulf Coast Gumbo Clay",
+      "title": "Work Gulf Coast clay when it crumbles",
       "diff": "Medium",
       "time": "2–3 hours",
       "gear": [
@@ -20,7 +20,7 @@
         "Hardwood mulch"
       ],
       "steps": [
-        "Test soil moisture before working—never till or dig wet gumbo clay, which dries into brick-hard clods.",
+        "Take a handful from a few inches below the surface. Squeeze it, then press the lump with your thumb. If it smears into a shiny ribbon, leave the bed to dry. When it breaks into dull crumbs under light pressure, you can work it without making hard clods.",
         "Spread 3 inches of finished compost and 2 inches of expanded shale across the bed surface.",
         "Drive a broadfork straight down 10–12 inches and rock back slightly to fracture subsoil compaction without inverting soil biology.",
         "Rake amendments into the top 4–6 inches and top-dress immediately with 3 inches of shredded hardwood mulch to prevent sun-baking."
@@ -35,7 +35,16 @@
         "amendment"
       ],
       "scenario": "A shovel comes up coated in sticky Friendswood clay after rain.",
-      "overview": "The first decision is when the soil is workable. Leave one small strip untreated so you can compare drainage and root growth next season."
+      "overview": "The first decision is when the soil is workable. Leave one small strip untreated so you can compare drainage and root growth next season.",
+      "illustrations": [
+        {
+          "step": "Take a handful from a few inches below the surface. Squeeze it, then press the lump with your thumb. If it smears into a shiny ribbon, leave the bed to dry. When it breaks into dull crumbs under light pressure, you can work it without making hard clods.",
+          "plate": "clay-clods",
+          "title": "Squeeze a sample, then press it with your thumb",
+          "alt": "Wet clay holds together as a shiny lump. Workable soil breaks into dull crumbs.",
+          "caption": "Test soil from the depth you plan to work. A dry crust can hide a sticky layer underneath."
+        }
+      ]
     },
     {
       "id": "hom-102",
@@ -214,7 +223,7 @@
       "id": "hom-107",
       "cat": "Homestead & Garden",
       "sub": "Soil & Compost",
-      "title": "Testing Soil Drainage & pH Without a Lab",
+      "title": "Check how your garden soil drains and settles",
       "diff": "Easy",
       "time": "1 hour",
       "gear": [
@@ -231,8 +240,8 @@
       "steps": [
         "Percolation test: Dig a 12-inch-deep hole, fill with water, let drain completely, then refill and time how fast it drops (1–2 inches/hour is ideal; under 1/2 inch/hour needs raised beds).",
         "Jar texture test: Fill a mason jar 1/3 with soil and 2/3 with water, shake hard, and measure settled layers at 1 minute (sand), 2 hours (silt), and 24 hours (clay).",
-        "Quick fizz pH check: Put 2 tbsp soil in two cups; add 1/2 cup vinegar to one (fizzing = alkaline soil >7.5) and 1/2 cup water + baking soda to the other (fizzing = acidic soil <5.5).",
-        "Confirm exact numbers with a calibrated soil pH/moisture meter across 4–5 spots in the bed."
+        "Use the jar for texture. Its layers cannot tell you the soil pH. For a pH reading, take a sample and follow a soil test kit’s directions, or send a sample to a soil-testing service.",
+        "Sample a few places in the bed. Record which readings belong to which area before choosing amendments."
       ],
       "safety": "Use distilled water rather than hard tap water for pH testing so mineral alkalinity does not skew results.",
       "tags": [
@@ -243,7 +252,16 @@
         "clay"
       ],
       "scenario": "One bed stays puddled long after the path has dried.",
-      "overview": "Compare drainage in several spots and record the results on a sketch. A laboratory soil test can narrow down amendment choices."
+      "overview": "Compare drainage in several spots and record the results on a sketch. A laboratory soil test can narrow down amendment choices.",
+      "illustrations": [
+        {
+          "step": "Jar texture test: Fill a mason jar 1/3 with soil and 2/3 with water, shake hard, and measure settled layers at 1 minute (sand), 2 hours (silt), and 24 hours (clay).",
+          "plate": "soillayers",
+          "title": "Read the settled layers from the bottom up",
+          "alt": "A jar contains coarse sand on the bottom, silt in the middle, fine clay above it, and water on top.",
+          "caption": "Mark boundaries on the outside of the jar so handling it does not disturb the settled sample."
+        }
+      ]
     },
     {
       "id": "hom-108",
@@ -387,7 +405,7 @@
       "id": "hom-112",
       "cat": "Homestead & Garden",
       "sub": "Seeds & Propagation",
-      "title": "Saving Dry Pod & Flower Seeds (Beans, Okra, Peppers)",
+      "title": "Save seeds from dry pods and ripe peppers",
       "diff": "Easy",
       "time": "30 mins",
       "gear": [
@@ -414,13 +432,22 @@
         "storage"
       ],
       "scenario": "Bean and okra pods are ready to shell before the next stretch of wet weather.",
-      "overview": "Seeds need to finish drying before airtight storage. A paper label travels with the batch from pod to packet."
+      "overview": "Seeds need to finish drying before airtight storage. A paper label travels with the batch from pod to packet.",
+      "illustrations": [
+        {
+          "step": "Spread seeds on a screen in an air-conditioned room for 2 weeks so Gulf Coast humidity is drawn out.",
+          "plate": "dry-seeds",
+          "title": "Spread seeds so air can reach both faces",
+          "alt": "Side and top edges of a mesh screen surround a single scattered layer of seeds.",
+          "caption": "Separate seeds that touch and label each screen before setting it down. Spread another batch on a second screen."
+        }
+      ]
     },
     {
       "id": "hom-113",
       "cat": "Homestead & Garden",
       "sub": "Seeds & Propagation",
-      "title": "Paper Towel Germination Viability Test",
+      "title": "Check an old seed packet with a damp towel",
       "diff": "Easy",
       "time": "5–10 days",
       "gear": [
@@ -433,10 +460,10 @@
         "Water"
       ],
       "steps": [
-        "Moisten a paper towel so it is damp but not dripping, and space 10 seeds evenly across half of it.",
-        "Fold the towel over the seeds, slide into a labeled zip-top bag (leave 1 inch unsealed for airflow), and place in a warm spot (70°F–80°F).",
-        "Check every 2 days and count sprouted seeds after 7–10 days: 8–10 sprouts means normal sowing; 5–7 means sow twice as thickly; under 4 means replace the packet.",
-        "Plant sprouted test seeds gently into potting mix immediately so they are not wasted."
+        "Check the seed packet for germination time, temperature and light needs. Count ten seeds from different parts of the packet. Spread them over half a damp paper towel so roots will be easy to tell apart.",
+        "Fold the towel over the seeds and place it in a loosely closed bag. Write the variety and start date on the outside. Keep the towel damp and follow the packet’s germination conditions.",
+        "Look every couple of days. Count a seed once when a root appears. At the end of the packet’s expected germination window, seven sprouts from ten seeds means 70% sprouted in this small sample.",
+        "Use a strong result to sow as usual. With fewer sprouts, sow extra or use fresher seed where space is tight. Repeat with ten more seeds if the result would change what you plant."
       ],
       "safety": "Discard any batch covered in fuzzy black mold rather than clean white root hairs.",
       "tags": [
@@ -446,7 +473,16 @@
         "spring-prep"
       ],
       "scenario": "Last year’s seed packet still feels full, but you have space for only one sowing.",
-      "overview": "Count sprouted seeds against the original sample to estimate how thickly to sow. Ten seeds make the arithmetic easy to repeat."
+      "overview": "Count sprouted seeds against the original sample to estimate how thickly to sow. Ten seeds make the arithmetic easy to repeat.",
+      "illustrations": [
+        {
+          "step": "Look every couple of days. Count a seed once when a root appears. At the end of the packet’s expected germination window, seven sprouts from ten seeds means 70% sprouted in this small sample.",
+          "plate": "seed-towel",
+          "title": "Count a sample of ten seeds",
+          "alt": "A folded-open towel has ten seeds in two rows. Seven have visible roots, giving a sample result of seven out of ten.",
+          "caption": "Use the original ten seeds as the denominator. A visible root counts even if a seed has not grown a leaf."
+        }
+      ]
     },
     {
       "id": "hom-114",
@@ -480,7 +516,16 @@
         "damping-off"
       ],
       "scenario": "Seedlings have toppled at soil level in a tray by the window.",
-      "overview": "Air circulation, clean equipment and careful watering work together. Mark each sowing date so you can distinguish slow emergence from loss."
+      "overview": "Air circulation, clean equipment and careful watering work together. Mark each sowing date so you can distinguish slow emergence from loss.",
+      "illustrations": [
+        {
+          "step": "Plant seeds at a depth equal to 2x their diameter, mist gently, and cover with a dome until the first green loops emerge.",
+          "plate": "plant-tag",
+          "title": "Track the sowing date with each batch",
+          "alt": "Two identical seed trays have separate plant labels showing crop, variety, and sowing date.",
+          "caption": "Write the variety and actual sowing date as you fill the cells. Keep the label with that batch when trays move."
+        }
+      ]
     },
     {
       "id": "hom-115",
@@ -1743,5 +1788,5 @@
     }
   },
   "count": 51,
-  "version": "2026.11.15-birthday-r1"
+  "version": "2026.11.16-illustrated-r1"
 }

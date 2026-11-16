@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Add a little hot liquid while whisking</title>
+<desc>A small tipped cup sends a narrow stream into a bowl, while the whisk stays in the mixture.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M29 35 L74 21 85 51 44 64Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<path d="M83 48 Q104 44 127 96" fill="none" stroke="#e5ae62" stroke-width="4" />
+<path d="M63 92 Q90 142 152 139 Q204 140 227 92Z" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4" />
+<path d="M72 92 Q149 111 220 92" fill="none" stroke="#886e57" stroke-width="3" />
+<path d="M177 82 L220 30" fill="none" stroke="#223f3e" stroke-width="6" />
+<path d="M177 80 Q133 87 136 106 Q149 123 178 82 M177 81 Q145 95 144 109" fill="none" stroke="#223f3e" stroke-width="2.4" />
+<text x="248" y="145" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="15" text-anchor="end" fill="#223f3e">Whisk as you pour</text>
+</svg>

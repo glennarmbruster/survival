@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Fit the whole receipt in the frame</title>
+<desc>An overhead phone view shows a receipt with store, date, item, and total inside the photo boundaries.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="71" y="13" width="178" height="142" rx="13" fill="#223f3e" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="79" y="22" width="162" height="123" rx="6" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M109 28 H210 V137 L200 132 190 137 180 132 170 137 160 132 150 137 140 132 130 137 120 132 109 137Z" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4" />
+<text x="159" y="51" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Store</text>
+<text x="159" y="72" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="14" text-anchor="middle" fill="#223f3e">Date</text>
+<path d="M119 84 H197 M119 93 H178" fill="none" stroke="#886e57" stroke-width="2.4" />
+<text x="160" y="118" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="15" text-anchor="middle" fill="#223f3e">Total</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Count the days in rows</title>
+<desc>Six one-gallon jugs form three columns, with one row per person. Each column supplies both people for one day at the starting allowance.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<g transform="translate(102 40)"><path d="M0 9 l7-5 v-4 h11 v5 q10 1 12 10 v18 h-30Z" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4" /><path d="M19 8 q8 1 8 10 h-7Z" fill="#faf6eb" stroke="#223f3e" stroke-width="2.4" /></g>
+<g transform="translate(102 94)"><path d="M0 9 l7-5 v-4 h11 v5 q10 1 12 10 v18 h-30Z" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4" /><path d="M19 8 q8 1 8 10 h-7Z" fill="#faf6eb" stroke="#223f3e" stroke-width="2.4" /></g>
+<g transform="translate(173 40)"><path d="M0 9 l7-5 v-4 h11 v5 q10 1 12 10 v18 h-30Z" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4" /><path d="M19 8 q8 1 8 10 h-7Z" fill="#faf6eb" stroke="#223f3e" stroke-width="2.4" /></g>
+<g transform="translate(173 94)"><path d="M0 9 l7-5 v-4 h11 v5 q10 1 12 10 v18 h-30Z" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4" /><path d="M19 8 q8 1 8 10 h-7Z" fill="#faf6eb" stroke="#223f3e" stroke-width="2.4" /></g>
+<g transform="translate(244 40)"><path d="M0 9 l7-5 v-4 h11 v5 q10 1 12 10 v18 h-30Z" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4" /><path d="M19 8 q8 1 8 10 h-7Z" fill="#faf6eb" stroke="#223f3e" stroke-width="2.4" /></g>
+<g transform="translate(244 94)"><path d="M0 9 l7-5 v-4 h11 v5 q10 1 12 10 v18 h-30Z" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4" /><path d="M19 8 q8 1 8 10 h-7Z" fill="#faf6eb" stroke="#223f3e" stroke-width="2.4" /></g>
+<text x="79" y="64" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="14" text-anchor="end" fill="#223f3e">Person 1</text>
+<text x="79" y="119" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="14" text-anchor="end" fill="#223f3e">Person 2</text>
+<text x="116" y="151" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="15" text-anchor="middle" fill="#223f3e">Day 1</text>
+<text x="187" y="151" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="15" text-anchor="middle" fill="#223f3e">Day 2</text>
+<text x="258" y="151" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="15" text-anchor="middle" fill="#223f3e">Day 3</text>
+</svg>

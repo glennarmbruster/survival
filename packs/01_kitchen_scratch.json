@@ -177,7 +177,7 @@
       "id": "kit-001",
       "cat": "Kitchen & From-Scratch",
       "sub": "Fresh Cheese & Dairy",
-      "title": "30-Minute Whole Milk Ricotta",
+      "title": "Make whole-milk ricotta",
       "diff": "Easy",
       "time": "45 mins",
       "gear": [
@@ -194,7 +194,7 @@
       "steps": [
         "Heat milk slowly over medium heat to 190°F, stirring gently so the bottom does not scorch.",
         "Remove from heat, gently stir in lemon juice, and let sit undisturbed for 10 minutes until thick curds separate from pale yellow whey.",
-        "Ladle curds into a colander lined with damp butter muslin over a bowl; drain 15-30 minutes depending on desired thickness.",
+        "Set a colander lined with damp butter muslin over a deep bowl. Ladle in the curds gently. Check after 15 minutes. For toast, try spreading a spoonful. For lasagna, drain a little longer, up to about 30 minutes, until a spoonful holds its mound.",
         "Fold in salt, transfer to an airtight container, and chill immediately."
       ],
       "safety": "Do not use ultra-pasteurized (UHT) milk—its proteins are denatured and will not form firm curds. Refrigerate and consume within 5 days.",
@@ -205,7 +205,16 @@
         "beginner"
       ],
       "scenario": "Dinner needs a soft cheese and there’s a gallon of milk in the fridge. Decide whether it’s going on toast or into lasagna before you drain it.",
-      "overview": "A spoonful that slumps will spread well. For a filling, leave the curds in the cloth a little longer so they hold their shape and keep the pasta layers intact."
+      "overview": "A spoonful that slumps will spread well. For a filling, leave the curds in the cloth a little longer so they hold their shape and keep the pasta layers intact.",
+      "illustrations": [
+        {
+          "step": "Set a colander lined with damp butter muslin over a deep bowl. Ladle in the curds gently. Check after 15 minutes. For toast, try spreading a spoonful. For lasagna, drain a little longer, up to about 30 minutes, until a spoonful holds its mound.",
+          "plate": "draining-curds",
+          "title": "Leave space for the whey",
+          "alt": "Cloth cradles curds in a strainer above a bowl. Drops fall into the gap below.",
+          "caption": "The strainer should sit above the collected whey. If the liquid reaches the cloth, empty the bowl or use a deeper one."
+        }
+      ]
     },
     {
       "id": "kit-002",
@@ -509,13 +518,22 @@
         "mexican"
       ],
       "scenario": "You want a cheese that scatters over tacos in little pieces.",
-      "overview": "Light pressing leaves the curd moist enough to cling to a warm tortilla and firm enough to crumble between your fingers."
+      "overview": "Light pressing leaves the curd moist enough to cling to a warm tortilla and firm enough to crumble between your fingers.",
+      "illustrations": [
+        {
+          "step": "Drain curds in butter muslin for 20 minutes, then transfer to a bowl and crumble by hand while working in salt.",
+          "plate": "draining-curds",
+          "title": "Leave space for the whey",
+          "alt": "Cloth cradles curds in a strainer above a bowl. Drops fall into the gap below.",
+          "caption": "The strainer should sit above the collected whey. If the liquid reaches the cloth, empty the bowl or use a deeper one."
+        }
+      ]
     },
     {
       "id": "kit-011",
       "cat": "Kitchen & From-Scratch",
       "sub": "Bread & Baking",
-      "title": "Maintaining a Resilient Sourdough Starter",
+      "title": "Feed a sourdough starter and mark its rise",
       "diff": "Easy",
       "time": "10 mins/day",
       "gear": [
@@ -531,7 +549,7 @@
       "steps": [
         "Discard all but 50g of existing starter into a separate jar (save discard for crackers or pancakes).",
         "Stir 50g water into the 50g starter until milky, then mix in 50g flour until no dry pockets remain.",
-        "Scrape down jar sides, mark the starting level with a rubber band, and cover loosely.",
+        "Scrape the sides clean above the starter so streaks do not look like a rise. Slip a rubber band around the jar level with the mixture and cover loosely. A straight-sided jar makes the change in height easy to read.",
         "Use when doubled/tripled and domed on top (4-6 hours at 75°F), or refrigerate after 2 hours for weekly feeding."
       ],
       "safety": "Never seal a glass starter jar airtight during active fermentation—pressure buildup can crack glass.",
@@ -542,7 +560,16 @@
         "fermentation"
       ],
       "scenario": "Your starter rose overnight and has already begun to sink. Is it ready for another feeding?",
-      "overview": "A mark on the jar shows how far the culture rose. Watching a few feeds gives you a better baking schedule for your kitchen."
+      "overview": "A mark on the jar shows how far the culture rose. Watching a few feeds gives you a better baking schedule for your kitchen.",
+      "illustrations": [
+        {
+          "step": "Scrape the sides clean above the starter so streaks do not look like a rise. Slip a rubber band around the jar level with the mixture and cover loosely. A straight-sided jar makes the change in height easy to read.",
+          "plate": "starter-level",
+          "title": "Mark the starting height",
+          "alt": "Two jars show a rubber band fixed at the original level. Bubbly starter in the second jar reaches twice that height.",
+          "caption": "Put the band at the fresh mixture’s surface and leave it there through the rise. Read the height against the band."
+        }
+      ]
     },
     {
       "id": "kit-012",
@@ -588,7 +615,7 @@
       "id": "kit-013",
       "cat": "Kitchen & From-Scratch",
       "sub": "Bread & Baking",
-      "title": "Sourdough Discard Rosemary & Sea Salt Crackers",
+      "title": "Roll and score sourdough discard crackers",
       "diff": "Easy",
       "time": "35 mins",
       "gear": [
@@ -607,7 +634,7 @@
       "steps": [
         "Stir sourdough discard, melted butter, salt, and rosemary into a smooth paste.",
         "Spread thinly (1/16 inch) onto parchment paper using an offset spatula or roll between two parchment sheets.",
-        "Brush lightly with oil, sprinkle flaky salt, and score into 1.5-inch squares with a pizza wheel.",
+        "Brush lightly with oil and sprinkle with flaky salt. Run the pizza wheel across the dough in parallel lines, then turn the pan and cross those lines to make roughly 1½-inch squares. Leave the squares together for baking.",
         "Bake at 350°F for 20-25 minutes until golden brown and crisp throughout."
       ],
       "safety": "Remove outer edge crackers early if they brown faster than the center batch.",
@@ -618,7 +645,16 @@
         "zero-waste"
       ],
       "scenario": "There’s discard in the fridge and just enough time to bake a snack.",
-      "overview": "Even thickness matters most here. Remove the thin edge pieces first if they brown ahead of the center."
+      "overview": "Even thickness matters most here. Remove the thin edge pieces first if they brown ahead of the center.",
+      "illustrations": [
+        {
+          "step": "Brush lightly with oil and sprinkle with flaky salt. Run the pizza wheel across the dough in parallel lines, then turn the pan and cross those lines to make roughly 1½-inch squares. Leave the squares together for baking.",
+          "plate": "score-sheet",
+          "title": "Score the dough before baking",
+          "alt": "Top view of a rectangular sheet of cracker dough, with evenly spaced cuts in both directions.",
+          "caption": "Cut straight across the sheet, then turn it a quarter turn. Keep the dough on the parchment so the pieces stay in place."
+        }
+      ]
     },
     {
       "id": "kit-014",
@@ -693,7 +729,7 @@
       "id": "kit-016",
       "cat": "Kitchen & From-Scratch",
       "sub": "Bread & Baking",
-      "title": "Buttery Flaky Yeast Dinner Rolls",
+      "title": "Shape a pan of soft dinner rolls",
       "diff": "Easy",
       "time": "2.5 hrs",
       "gear": [
@@ -712,7 +748,7 @@
       ],
       "steps": [
         "Mix warm milk, sugar, yeast, egg, flour, and salt into a soft dough; knead in softened butter 1 tablespoon at a time until silky.",
-        "Rise 1 hour until doubled, divide into 15 equal balls (about 55g each), and arrange in a buttered 9x13 pan.",
+        "Let the dough rise until doubled, about 1 hour. Divide into 15 equal portions, about 55 g each. Round each piece, set it seam-side down and arrange three rows of five in a buttered 9 × 13-inch pan. Leave equal gaps so the rolls meet as they rise.",
         "Proof 40 minutes until puffy and touching, bake at 375°F for 18-20 minutes, and brush with melted butter."
       ],
       "safety": "Keep milk below 115°F so it does not kill the yeast.",
@@ -723,7 +759,16 @@
         "baking"
       ],
       "scenario": "A tray of dinner rolls needs to finish at the same time.",
-      "overview": "Divide the dough evenly and arrange it with even gaps so the rolls rise together and pull apart along soft sides."
+      "overview": "Divide the dough evenly and arrange it with even gaps so the rolls rise together and pull apart along soft sides.",
+      "illustrations": [
+        {
+          "step": "Let the dough rise until doubled, about 1 hour. Divide into 15 equal portions, about 55 g each. Round each piece, set it seam-side down and arrange three rows of five in a buttered 9 × 13-inch pan. Leave equal gaps so the rolls meet as they rise.",
+          "plate": "roll-pan",
+          "title": "Give equal portions equal room",
+          "alt": "An overhead rectangle contains fifteen rounds arranged in three rows of five with even space between them.",
+          "caption": "Set out the corners first and space the remaining rolls between them. The empty gaps show where the dough can expand."
+        }
+      ]
     },
     {
       "id": "kit-017",
@@ -1201,7 +1246,16 @@
         "glaze"
       ],
       "scenario": "You want the sweet, savory flavor of honey and garlic for tonight’s glaze.",
-      "overview": "A small cooked batch gives a pourable glaze you can use at dinner without relying on a room-temperature garlic ferment."
+      "overview": "A small cooked batch gives a pourable glaze you can use at dinner without relying on a room-temperature garlic ferment.",
+      "illustrations": [
+        {
+          "step": "Stir in two tablespoons of honey and a teaspoon of vinegar. Simmer gently, stirring, until it lightly coats a spoon. Thin with a little water if necessary.",
+          "plate": "spoon-coat",
+          "title": "Read the back of the spoon",
+          "alt": "Two tilted spoons show a thin liquid running into drops and a thicker sauce clinging in a continuous film.",
+          "caption": "Dip a clean spoon and tilt it over the pan. Look for a thin coating that stays on the metal after the excess runs off."
+        }
+      ]
     },
     {
       "id": "kit-031",
@@ -1705,7 +1759,16 @@
         "steam"
       ],
       "scenario": "The skin is pale even though a chicken quarter is cooking through.",
-      "overview": "Moist cooking and dry finishing solve different parts of the meal. Verify doneness in the thickest meat away from bone."
+      "overview": "Moist cooking and dry finishing solve different parts of the meal. Verify doneness in the thickest meat away from bone.",
+      "illustrations": [
+        {
+          "step": "Pat chicken skin dry, rub with kosher salt, baking powder, and spices, and place skin-side up on a wire rack over a sheet pan.",
+          "plate": "rack-and-pan",
+          "title": "Nest the wire rack inside the rim",
+          "alt": "A side view shows food resting on a raised rack. The edges of the sheet pan extend beyond both ends of the rack.",
+          "caption": "Set the rack inside the rim. Check that the feet sit flat before loading it and that any drips land in the pan."
+        }
+      ]
     },
     {
       "id": "kit-045",
@@ -1870,7 +1933,23 @@
         "pan-sauce"
       ],
       "scenario": "A fish fillet is ready and the browned bits in the skillet are too good to wash away.",
-      "overview": "Deglazing captures those bits. The cream provides body while lemon and capers balance the richness."
+      "overview": "Deglazing captures those bits. The cream provides body while lemon and capers balance the richness.",
+      "illustrations": [
+        {
+          "step": "Stir in heavy cream and capers; simmer 2 minutes until thick enough to coat a spoon.",
+          "plate": "spoon-coat",
+          "title": "Read the back of the spoon",
+          "alt": "Two tilted spoons show a thin liquid running into drops and a thicker sauce clinging in a continuous film.",
+          "caption": "Dip a clean spoon and tilt it over the pan. Look for a thin coating that stays on the metal after the excess runs off."
+        },
+        {
+          "step": "Sauté garlic 30 seconds until fragrant, then pour in wine or broth and scrape up browned fond bits; simmer until reduced by half.",
+          "plate": "sauce-level",
+          "title": "Compare the depth in the same pan",
+          "alt": "A straight-sided pan shows the starting liquid line and a second line halfway down to the pan bottom.",
+          "caption": "Note the initial depth before simmering. In a pan with sloping sides, check volume in a heatproof measure if an exact reduction matters."
+        }
+      ]
     },
     {
       "id": "kit-050",
@@ -2120,7 +2199,16 @@
         "roasting"
       ],
       "scenario": "You want a roast with well-seasoned meat and a surface that browns.",
-      "overview": "Time in the refrigerator lets salt spread inward while exposed skin dries. Count the salt already present in enhanced poultry."
+      "overview": "Time in the refrigerator lets salt spread inward while exposed skin dries. Count the salt already present in enhanced poultry.",
+      "illustrations": [
+        {
+          "step": "Place uncovered on a wire rack set over a sheet pan in the refrigerator for 12-24 hours.",
+          "plate": "rack-and-pan",
+          "title": "Nest the wire rack inside the rim",
+          "alt": "A side view shows food resting on a raised rack. The edges of the sheet pan extend beyond both ends of the rack.",
+          "caption": "Set the rack inside the rim. Check that the feet sit flat before loading it and that any drips land in the pan."
+        }
+      ]
     },
     {
       "id": "kit-058",
@@ -2440,7 +2528,7 @@
       "id": "kit-067",
       "cat": "Kitchen & From-Scratch",
       "sub": "Pasta, Noodles & Dumplings",
-      "title": "Silky 3-Ingredient Fresh Egg Pasta Dough",
+      "title": "Make and cut fresh egg pasta",
       "diff": "Medium",
       "time": "1 hr",
       "gear": [
@@ -2453,10 +2541,10 @@
         "1/2 tsp kosher salt + 1 tsp olive oil"
       ],
       "steps": [
-        "Mound flour on a board, make a deep well in the center, and crack eggs, salt, and oil into the well.",
-        "Beat eggs with a fork while gradually drawing flour inward until a shaggy dough forms.",
+        "Mound the flour on a board and hollow out a wide well. Leave a continuous wall all the way around it. Add the eggs, salt and oil inside the well.",
+        "Beat the eggs with a fork, taking a little flour from the inside edge with each pass. If the wall starts to open, push loose flour against the gap. Once the mixture holds together, gather the rest into a shaggy dough.",
         "Knead firmly with the heel of your hand for 8-10 minutes until smooth and elastic; wrap tightly and rest 30 minutes so gluten relaxes.",
-        "Roll thin (1/16 inch), dust with flour or semolina, fold loosely, and slice into fettuccine or pappardelle ribbons."
+        "Roll to about 1/16 inch. Dust the sheet lightly, fold it loosely and slice across the folds. Unroll the first ribbon before cutting the rest. If it sticks to itself, unfold the sheet and dust between the layers."
       ],
       "safety": "Fresh egg pasta cooks in just 2-3 minutes in vigorously boiling salted water.",
       "tags": [
@@ -2466,13 +2554,29 @@
         "from-scratch"
       ],
       "scenario": "You want fresh noodles but the dough tears as it goes through the rollers.",
-      "overview": "Resting allows the flour to hydrate. A smooth sheet can then be thinned in stages and cut to the width your sauce needs."
+      "overview": "Resting allows the flour to hydrate. A smooth sheet can then be thinned in stages and cut to the width your sauce needs.",
+      "illustrations": [
+        {
+          "step": "Beat the eggs with a fork, taking a little flour from the inside edge with each pass. If the wall starts to open, push loose flour against the gap. Once the mixture holds together, gather the rest into a shaggy dough.",
+          "plate": "flour-well",
+          "title": "Keep a wall around the eggs",
+          "alt": "Overhead view of flour around a central well. An arrow pulls flour from the inner rim toward the eggs.",
+          "caption": "Work from the inside of the flour wall. Keep the outer rim intact until the eggs are thick enough to stay put."
+        },
+        {
+          "step": "Roll to about 1/16 inch. Dust the sheet lightly, fold it loosely and slice across the folds. Unroll the first ribbon before cutting the rest. If it sticks to itself, unfold the sheet and dust between the layers.",
+          "plate": "fold-pasta",
+          "title": "Fold loosely and slice across the fold",
+          "alt": "A folded strip of pasta dough is marked with crosswise cuts. A separate ribbon unrolls to its full length.",
+          "caption": "The distance between cuts sets the ribbon width. Separate the first ribbon to see the result."
+        }
+      ]
     },
     {
       "id": "kit-068",
       "cat": "Kitchen & From-Scratch",
       "sub": "Pasta, Noodles & Dumplings",
-      "title": "Pillow-Soft Yukon Gold Potato Gnocchi",
+      "title": "Roll and cut potato gnocchi",
       "diff": "Medium",
       "time": "1 hr",
       "gear": [
@@ -2489,7 +2593,7 @@
         "Bake whole potatoes at 400°F for 45-50 minutes until tender (baking keeps potatoes drier than boiling so you need less flour).",
         "Halve warm potatoes, scoop flesh through a potato ricer onto the counter, and let steam cool 5 minutes.",
         "Sprinkle flour, salt, and egg yolk over the potatoes; fold gently until a soft dough forms without over-kneading.",
-        "Roll into 3/4-inch ropes, cut 3/4-inch pillows, and boil until they float to the surface (about 2 minutes)."
+        "Roll a portion into a rope about ¾ inch thick. Cut one piece about as long as the rope is thick and use it as a guide for the rest. Repeat with the remaining dough. Boil in batches until the pieces float, about 2 minutes."
       ],
       "safety": "Overworking gnocchi dough develops gluten and makes dumplings heavy instead of cloud-light.",
       "tags": [
@@ -2499,7 +2603,16 @@
         "italian"
       ],
       "scenario": "Last time the gnocchi were heavy. This time you have flour ready but want to use less.",
-      "overview": "Dry potato flesh takes less flour to bind. Test one dumpling in the water before shaping the rest."
+      "overview": "Dry potato flesh takes less flour to bind. Test one dumpling in the water before shaping the rest.",
+      "illustrations": [
+        {
+          "step": "Roll a portion into a rope about ¾ inch thick. Cut one piece about as long as the rope is thick and use it as a guide for the rest. Repeat with the remaining dough. Boil in batches until the pieces float, about 2 minutes.",
+          "plate": "gnocchi-rope",
+          "title": "Cut pillows as long as the rope is wide",
+          "alt": "A dough rope with equal-width crosscuts sits beside three separated pieces.",
+          "caption": "Check the first piece against the rope. It is easier to correct the thickness before cutting the whole batch."
+        }
+      ]
     },
     {
       "id": "kit-069",
@@ -3067,7 +3180,23 @@
         "dessert"
       ],
       "scenario": "The ice cream maker is ready but the custard still feels warm.",
-      "overview": "Chilling the base before churning helps it freeze evenly and retain the air incorporated by the machine."
+      "overview": "Chilling the base before churning helps it freeze evenly and retain the air incorporated by the machine.",
+      "illustrations": [
+        {
+          "step": "Return custard to the saucepan and cook over low heat, stirring constantly until it reaches 170°F-175°F and coats the back of a spoon.",
+          "plate": "spoon-coat",
+          "title": "Read the back of the spoon",
+          "alt": "Two tilted spoons show a thin liquid running into drops and a thicker sauce clinging in a continuous film.",
+          "caption": "Dip a clean spoon and tilt it over the pan. Look for a thin coating that stays on the metal after the excess runs off."
+        },
+        {
+          "step": "Whisk egg yolks with remaining sugar until pale, then slowly ladle hot cream into yolks while whisking constantly to temper.",
+          "plate": "slow-pour",
+          "title": "Add a little hot liquid while whisking",
+          "alt": "A small tipped cup sends a narrow stream into a bowl, while the whisk stays in the mixture.",
+          "caption": "Set the bowl on a folded damp towel to steady it. Keep the whisk moving where the stream meets the yolks."
+        }
+      ]
     },
     {
       "id": "kit-087",
@@ -3262,7 +3391,7 @@
       "id": "kit-093",
       "cat": "Kitchen & From-Scratch",
       "sub": "Eggs & Breakfast Classics",
-      "title": "Fluffy Buttermilk Griddle Pancakes",
+      "title": "Cook buttermilk pancakes on a griddle",
       "diff": "Easy",
       "time": "20 mins",
       "gear": [
@@ -3282,7 +3411,7 @@
       "steps": [
         "Whisk dry ingredients in one bowl; whisk buttermilk, eggs, and cooled melted butter in another.",
         "Fold wet into dry gently until just combined—leave small lumps (overmixing makes pancakes tough).",
-        "Rest batter 10 minutes, ladle onto a 350°F buttered griddle, and flip once bubbles pop and edges look set."
+        "Rest the batter for 10 minutes. Ladle it onto the buttered 350°F griddle. Watch for bubbles that pop and leave holes while the rim turns matte. Slide a thin spatula under the edge, flip once and cook until golden on the second side."
       ],
       "safety": "Do not press pancakes down with the spatula after flipping—that squeezes out air pockets.",
       "tags": [
@@ -3291,7 +3420,16 @@
         "breakfast"
       ],
       "scenario": "The first pancake is dark on one side and raw in the middle.",
-      "overview": "Use the first cake to set the griddle temperature. Bubbles and a set rim help time the turn on the rest."
+      "overview": "Use the first cake to set the griddle temperature. Bubbles and a set rim help time the turn on the rest.",
+      "illustrations": [
+        {
+          "step": "Rest the batter for 10 minutes. Ladle it onto the buttered 350°F griddle. Watch for bubbles that pop and leave holes while the rim turns matte. Slide a thin spatula under the edge, flip once and cook until golden on the second side.",
+          "plate": "pancake-flip",
+          "title": "Watch the edge and the bubbles",
+          "alt": "A pancake viewed from above has a matte rim and open bubbles. A spatula can slide under the set edge.",
+          "caption": "Look near the rim as well as the center. The edge should hold its shape when the spatula slips underneath."
+        }
+      ]
     },
     {
       "id": "kit-094",
@@ -3323,7 +3461,16 @@
         "cast-iron"
       ],
       "scenario": "Grated potatoes keep steaming into a cake instead of crisping.",
-      "overview": "Removing rinse water is as important as removing surface starch. A thin layer gives the potatoes room to brown."
+      "overview": "Removing rinse water is as important as removing surface starch. A thin layer gives the potatoes room to brown.",
+      "illustrations": [
+        {
+          "step": "Swirl and rinse until water runs clear, then dump shreds into a clean kitchen towel and wring over the sink with full strength until completely dry.",
+          "plate": "towel-wring",
+          "title": "Gather the towel around the shreds",
+          "alt": "A towel closes around grated food. Its ends are twisted above the bundle and drops fall below.",
+          "caption": "Bring the corners together over the sink and twist the towel around the shreds. Open it once and loosen any compacted lump."
+        }
+      ]
     },
     {
       "id": "kit-095",
@@ -3354,7 +3501,16 @@
         "sides"
       ],
       "scenario": "A tray of broccoli came out soft and pale.",
-      "overview": "Dry surfaces and space between pieces let escaping steam leave the pan. Flat sides in contact with metal brown first."
+      "overview": "Dry surfaces and space between pieces let escaping steam leave the pan. Flat sides in contact with metal brown first.",
+      "illustrations": [
+        {
+          "step": "Pour vegetables onto the sizzling hot sheet pan cut-side down in a single uncrowded layer; roast 16-20 minutes until deeply charred and tender.",
+          "plate": "pan-spacing",
+          "title": "Leave space between the cut faces",
+          "alt": "Top view shows chunks on a sheet pan. A side view shows one flat cut face against the pan surface.",
+          "caption": "Turn the flat face of each piece to the metal. Split the batch between pans if the pieces would sit on top of each other."
+        }
+      ]
     },
     {
       "id": "kit-096",
@@ -3987,7 +4143,7 @@
       "id": "kit-117",
       "cat": "Kitchen & From-Scratch",
       "sub": "Fresh Cheese & Dairy",
-      "title": "Homemade Sweetened Whipped Cream & Stabilized Frosting",
+      "title": "Whip cream to soft or medium peaks",
       "diff": "Easy",
       "time": "10 mins",
       "gear": [
@@ -4002,7 +4158,8 @@
       ],
       "steps": [
         "Chill mixing bowl and beaters in the freezer for 10 minutes.",
-        "Whip cold heavy cream, powdered sugar, and vanilla on medium-high until soft peaks form; fold in 1 tbsp mascarpone if stabilizing for cake piping, then whip to medium peaks."
+        "Whip the cold cream, powdered sugar and vanilla on medium-high. As the whisk starts leaving tracks, stop the mixer and lift the beater straight up. At the soft-peak stage the cream makes a tip that folds back on itself.",
+        "For a topping, stop at soft peaks. For the stabilized frosting, fold in the mascarpone and whip in short bursts until the peak stands with just a bend at the tip. Check after each burst because the texture changes quickly."
       ],
       "safety": "Stop whipping as soon as stiff peaks hold—15 seconds too long turns whipped cream into sweet butter.",
       "tags": [
@@ -4012,7 +4169,16 @@
         "frosting"
       ],
       "scenario": "The cake must travel and plain whipped cream tends to slump.",
-      "overview": "Choose the stabilization method before whipping. Stop while the cream still spreads smoothly without looking grainy."
+      "overview": "Choose the stabilization method before whipping. Stop while the cream still spreads smoothly without looking grainy.",
+      "illustrations": [
+        {
+          "step": "Whip the cold cream, powdered sugar and vanilla on medium-high. As the whisk starts leaving tracks, stop the mixer and lift the beater straight up. At the soft-peak stage the cream makes a tip that folds back on itself.",
+          "plate": "cream-peaks",
+          "title": "Lift the beater to read the peak",
+          "alt": "A soft peak droops in a rounded hook. A firmer peak stands taller with a small bend at the tip.",
+          "caption": "Lift the stopped beater. The way the tip bends is easier to judge on a still whisk."
+        }
+      ]
     },
     {
       "id": "kit-118",
@@ -4320,7 +4486,16 @@
         "gluten-free"
       ],
       "scenario": "Taco fillings are ready but fresh masa dough cracks around the press.",
-      "overview": "The edge of a pressed round shows whether the dough needs a little more water before the whole batch is shaped."
+      "overview": "The edge of a pressed round shows whether the dough needs a little more water before the whole batch is shaped.",
+      "illustrations": [
+        {
+          "step": "Mix masa harina, salt, and warm water until smooth like Play-Doh (if edges crack when pressed, knead in 1 tbsp more water).",
+          "plate": "tortilla-edge",
+          "title": "Read the edge of the test tortilla",
+          "alt": "A pressed round with deep radial cracks is shown beside a round with a continuous edge.",
+          "caption": "Press one small ball before shaping the whole batch. If the rim splits deeply, work in water as directed and test one more."
+        }
+      ]
     },
     {
       "id": "kit-127",
@@ -4823,7 +4998,16 @@
         "zero-waste"
       ],
       "scenario": "Tomatoes are ripening faster than the sauce pot can handle.",
-      "overview": "A dry sheet can stay as leather or be ground into powder. A small measured portion makes later reconstitution easier."
+      "overview": "A dry sheet can stay as leather or be ground into powder. A small measured portion makes later reconstitution easier.",
+      "illustrations": [
+        {
+          "step": "Spread pureed tomatoes or tomato paste 1/8-inch thick on silicone dehydrator sheets and dry at 135°F for 8-12 hours until brittle.",
+          "plate": "level-puree",
+          "title": "Spread the edges as thick as the center",
+          "alt": "Two side sections of puree show a raised mound and an even layer. A level layer has matching thickness at the middle and edges.",
+          "caption": "Check the tray from the side. A ridge in the center can stay soft after the thin edges are ready."
+        }
+      ]
     },
     {
       "id": "kit-141",
@@ -4856,7 +5040,16 @@
         "pantry"
       ],
       "scenario": "Stir-fry vegetables are ready and you want a glossy coating.",
-      "overview": "The glaze thickens further as it cools. Add it toward the finish so the sugar does not catch on the pan."
+      "overview": "The glaze thickens further as it cools. Add it toward the finish so the sugar does not catch on the pan.",
+      "illustrations": [
+        {
+          "step": "Whisk in cornstarch slurry and simmer 1 minute until glossy and thick enough to coat chicken, salmon, or stir-fry.",
+          "plate": "slurry",
+          "title": "Disperse starch before adding it to the pan",
+          "alt": "A small cup contains a smooth slurry and a spoon resting on the bottom. An arrow leads to the saucepan.",
+          "caption": "Mix the starch into a little cold liquid in a separate cup. Stir again just before adding it because the starch settles on the bottom."
+        }
+      ]
     },
     {
       "id": "kit-142",
@@ -4954,22 +5147,23 @@
       "id": "kit-145",
       "cat": "Kitchen & From-Scratch",
       "sub": "Sauces, Condiments & Pantry Staples",
-      "title": "3-2-1 Classic French Vinaigrette Ratio",
+      "title": "Shake a small batch of vinaigrette",
       "diff": "Easy",
       "time": "3 mins",
       "gear": [
         "Small mason jar with lid"
       ],
       "supplies": [
-        "3 parts extra-virgin olive oil (6 tbsp)",
-        "1 part acid: wine vinegar, apple cider vinegar, or lemon juice (2 tbsp)",
-        "1 tsp Dijon mustard (emulsifier)",
-        "1 tsp honey or maple syrup + pinch salt & pepper"
+        "3 parts olive oil",
+        "1 part vinegar or lemon juice",
+        "Dijon mustard, honey or maple syrup, salt and pepper to taste"
       ],
       "steps": [
-        "Add all ingredients to a small mason jar, screw lid on tight, and shake vigorously for 15 seconds until creamy and emulsified."
+        "Choose a measure that fits the salad. For a small bowl, use one teaspoon of vinegar and three teaspoons of oil. For a larger batch, use the same ratio in tablespoons. Leave shaking room in the jar.",
+        "Add a dab of mustard, a little honey or maple syrup if you like, and a pinch of salt and pepper. Close the lid and shake until the separate bands of oil and vinegar become cloudy and the dressing looks even.",
+        "Dip a leaf in the dressing and taste. Add vinegar a few drops at a time for more bite, or a little oil to soften it. Shake again just before dressing the greens."
       ],
-      "safety": "Dijon mustard acts as a natural emulsifier so the oil and vinegar stay combined instead of separating.",
+      "safety": "Mustard helps hold the dressing together. It can still separate as it stands.",
       "tags": [
         "vinaigrette",
         "salad-dressing",
@@ -4977,7 +5171,23 @@
         "basics"
       ],
       "scenario": "A small salad does not need a full bottle of dressing.",
-      "overview": "A ratio scales down to a spoonful. Taste it with the greens because salt and acidity seem stronger on their own."
+      "overview": "A ratio scales down to a spoonful. Taste it with the greens because salt and acidity seem stronger on their own.",
+      "illustrations": [
+        {
+          "step": "Choose a measure that fits the salad. For a small bowl, use one teaspoon of vinegar and three teaspoons of oil. For a larger batch, use the same ratio in tablespoons. Leave shaking room in the jar.",
+          "plate": "vinaigrette",
+          "title": "Measure three parts oil to one part vinegar",
+          "alt": "Three equal measures of oil and one equal measure of vinegar make a small batch.",
+          "caption": "Use the same spoon for all four measures. The ratio stays the same when the batch size changes."
+        },
+        {
+          "step": "Add a dab of mustard, a little honey or maple syrup if you like, and a pinch of salt and pepper. Close the lid and shake until the separate bands of oil and vinegar become cloudy and the dressing looks even.",
+          "plate": "jar-layers",
+          "title": "Shake until the layers blend",
+          "alt": "A jar of dressing has two distinct bands before shaking and a single cloudy mixture immediately afterward.",
+          "caption": "The boundary between layers disappears just after shaking. If it reappears while you finish the salad, shake the closed jar again."
+        }
+      ]
     },
     {
       "id": "kit-146",
@@ -5109,7 +5319,16 @@
         "dinner"
       ],
       "scenario": "Thick pork chops brown before their centers are ready.",
-      "overview": "A gentle first stage evens the interior. A short, hot finish adds color with less chance of overshooting doneness."
+      "overview": "A gentle first stage evens the interior. A short, hot finish adds color with less chance of overshooting doneness.",
+      "illustrations": [
+        {
+          "step": "Season pork chops with salt and pepper and set on a wire rack over a sheet pan.",
+          "plate": "rack-and-pan",
+          "title": "Nest the wire rack inside the rim",
+          "alt": "A side view shows food resting on a raised rack. The edges of the sheet pan extend beyond both ends of the rack.",
+          "caption": "Set the rack inside the rim. Check that the feet sit flat before loading it and that any drips land in the pan."
+        }
+      ]
     },
     {
       "id": "kit-150",
@@ -5210,7 +5429,23 @@
         "dessert"
       ],
       "scenario": "A tart shell is ready and needs a cream filling that will slice.",
-      "overview": "Thickening on the stove gives the filling structure. Chill it promptly with the surface covered to keep a skin from forming."
+      "overview": "Thickening on the stove gives the filling structure. Chill it promptly with the surface covered to keep a skin from forming.",
+      "illustrations": [
+        {
+          "step": "Whisk egg yolks, remaining sugar, cornstarch, and salt until smooth, then slowly whisk hot milk into yolks to temper.",
+          "plate": "slow-pour",
+          "title": "Add a little hot liquid while whisking",
+          "alt": "A small tipped cup sends a narrow stream into a bowl, while the whisk stays in the mixture.",
+          "caption": "Set the bowl on a folded damp towel to steady it. Keep the whisk moving where the stream meets the yolks."
+        },
+        {
+          "step": "Strain through fine mesh, whisk in cold butter and vanilla, and press plastic wrap directly onto surface while chilling.",
+          "plate": "contact-cover",
+          "title": "Rest the cover directly on the surface",
+          "alt": "Cross section shows a cover touching the surface of custard from edge to edge, with loose ends hanging over the rim.",
+          "caption": "Lower the cover from one side to the other. Check for air pockets before chilling."
+        }
+      ]
     },
     {
       "id": "kit-153",
@@ -5517,6 +5752,15 @@
           "FoodSafety.gov · Four steps to food safety",
           "https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety"
         ]
+      ],
+      "illustrations": [
+        {
+          "step": "Cook sound washed tomatoes until soft and pass them through a food mill. Simmer the purée until it coats a spoon.",
+          "plate": "spoon-coat",
+          "title": "Read the back of the spoon",
+          "alt": "Two tilted spoons show a thin liquid running into drops and a thicker sauce clinging in a continuous film.",
+          "caption": "Dip a clean spoon and tilt it over the pan. Look for a thin coating that stays on the metal after the excess runs off."
+        }
       ]
     },
     {
@@ -5804,7 +6048,16 @@
         "baking"
       ],
       "scenario": "A cheesecake base needs crumbs and you have whole-wheat flour and honey.",
-      "overview": "Even rolling and docking make uniformly crisp crackers that crush without chewy pieces."
+      "overview": "Even rolling and docking make uniformly crisp crackers that crush without chewy pieces.",
+      "illustrations": [
+        {
+          "step": "Roll 1/8-inch thick on parchment, cut into rectangles, dock with a fork, and bake at 350°F for 12-15 minutes until browned at edges.",
+          "plate": "score-sheet",
+          "title": "Score the dough before baking",
+          "alt": "Top view of a rectangular sheet of cracker dough, with evenly spaced cuts in both directions.",
+          "caption": "Cut straight across the sheet, then turn it a quarter turn. Keep the dough on the parchment so the pieces stay in place."
+        }
+      ]
     },
     {
       "id": "kit-170",
@@ -6044,7 +6297,7 @@
       "id": "kit-177",
       "cat": "Kitchen & From-Scratch",
       "sub": "Sauces, Condiments & Pantry Staples",
-      "title": "Homemade Peanut Butter or Roasted Almond Butter",
+      "title": "Grind roasted nuts into nut butter",
       "diff": "Easy",
       "time": "15 mins",
       "gear": [
@@ -6057,7 +6310,7 @@
         "Optional: 1 tbsp honey + 1 tsp neutral oil"
       ],
       "steps": [
-        "Pulse roasted nuts in a food processor for 4-6 minutes, scraping down sides every minute as crumbs turn into a ball and then release oils into creamy butter.",
+        "Process the roasted nuts in pulses at first. They will go from crumbs to a heavy ball before spreading around the bowl. Stop the motor before scraping the sides. Resume until the blade leaves a glossy trail in the paste, about 4–6 minutes in total depending on the machine.",
         "Blend in salt (and optional honey) for 30 seconds until glossy; store in a glass jar."
       ],
       "safety": "Let hot nuts cool slightly if roasting your own so the food processor motor does not overheat.",
@@ -6068,7 +6321,16 @@
         "from-scratch"
       ],
       "scenario": "The nut mixture looks sandy in the processor and you’re tempted to add liquid.",
-      "overview": "Released nut oils gradually bring the crumbs together. Pause for the machine to cool if it strains."
+      "overview": "Released nut oils gradually bring the crumbs together. Pause for the machine to cool if it strains.",
+      "illustrations": [
+        {
+          "step": "Process the roasted nuts in pulses at first. They will go from crumbs to a heavy ball before spreading around the bowl. Stop the motor before scraping the sides. Resume until the blade leaves a glossy trail in the paste, about 4–6 minutes in total depending on the machine.",
+          "plate": "nut-stages",
+          "title": "Watch the nuts change texture",
+          "alt": "A mound of loose crumbs, a rough ball, and a glossy swirl show the progression of ground nuts.",
+          "caption": "A ball can form between the crumb and spread stages. Stop to scrape, then watch for a glossy track behind the blade."
+        }
+      ]
     },
     {
       "id": "kit-178",
@@ -6291,7 +6553,16 @@
         "game-day"
       ],
       "scenario": "You want crisp wings from the oven and have a rack that fits the tray.",
-      "overview": "A dry surface and air circulation help the coating brown. Baking powder and baking soda are different ingredients."
+      "overview": "A dry surface and air circulation help the coating brown. Baking powder and baking soda are different ingredients.",
+      "illustrations": [
+        {
+          "step": "Arrange skin-side up in a single layer on a wire rack over a foil-lined sheet pan.",
+          "plate": "rack-and-pan",
+          "title": "Nest the wire rack inside the rim",
+          "alt": "A side view shows food resting on a raised rack. The edges of the sheet pan extend beyond both ends of the rack.",
+          "caption": "Set the rack inside the rim. Check that the feet sit flat before loading it and that any drips land in the pan."
+        }
+      ]
     },
     {
       "id": "kit-185",
@@ -6454,7 +6725,16 @@
         "apo"
       ],
       "scenario": "Guests are arriving tomorrow and you want a dessert with a crackling top.",
-      "overview": "Chill the set custards ahead. Caramelize the sugar close to serving so it stays brittle."
+      "overview": "Chill the set custards ahead. Caramelize the sugar close to serving so it stays brittle.",
+      "illustrations": [
+        {
+          "step": "Warm heavy cream and salt just to a simmer; whisk egg yolks and 1/3 cup sugar until pale, then slowly whisk in hot cream and vanilla.",
+          "plate": "slow-pour",
+          "title": "Add a little hot liquid while whisking",
+          "alt": "A small tipped cup sends a narrow stream into a bowl, while the whisk stays in the mixture.",
+          "caption": "Set the bowl on a folded damp towel to steady it. Keep the whisk moving where the stream meets the yolks."
+        }
+      ]
     },
     {
       "id": "kit-190",
@@ -6823,7 +7103,16 @@
         "holiday"
       ],
       "scenario": "A batch of rolls needs a shape that tears into soft layers.",
-      "overview": "Roll wedges from the broad end and tuck the tip underneath so the crescent stays wound while rising."
+      "overview": "Roll wedges from the broad end and tuck the tip underneath so the crescent stays wound while rising.",
+      "illustrations": [
+        {
+          "step": "Brush with softened butter, slice into 12 pizza wedges, roll wide-to-tip into crescents, proof 40 minutes, and bake at 375°F for 14-16 minutes.",
+          "plate": "pizza-wedge",
+          "title": "Roll from the wide end toward the point",
+          "alt": "A triangular piece of dough with a wide rolled base has an arrow pointing toward its narrow tip.",
+          "caption": "Keep the point centered as you roll and tuck it underneath before proofing."
+        }
+      ]
     },
     {
       "id": "kit-202",
@@ -6957,7 +7246,23 @@
         "asian"
       ],
       "scenario": "You want a savory flatbread with visible layers and scallions throughout.",
-      "overview": "Rolling, coiling and flattening create the layers. Let the dough relax if it springs back during the final roll."
+      "overview": "Rolling, coiling and flattening create the layers. Let the dough relax if it springs back during the final roll.",
+      "illustrations": [
+        {
+          "step": "Divide into 4 balls, roll thin, brush with sesame oil, scatter scallions and salt, roll into a tight cigar, coil into a snail spiral, and flatten again to 7 inches.",
+          "plate": "scale-portions",
+          "title": "Divide first, then shape",
+          "alt": "An overhead board shows dough cut in half, then into quarters, with one portion rounded separately.",
+          "caption": "Divide the batch before adding the filling so the pancakes roll to roughly the same size."
+        },
+        {
+          "step": "Divide into 4 balls, roll thin, brush with sesame oil, scatter scallions and salt, roll into a tight cigar, coil into a snail spiral, and flatten again to 7 inches.",
+          "plate": "spiral-dough",
+          "title": "Coil the filled rope before rolling it flat",
+          "alt": "A long dough rope is loosely coiled into a spiral. The next view shows the flat pancake.",
+          "caption": "Tuck the loose end under the coil. Press the spiral gently into a disk before using the rolling pin."
+        }
+      ]
     },
     {
       "id": "kit-206",
@@ -7644,7 +7949,16 @@
         "baking"
       ],
       "scenario": "The apples are juicy and the topping must stay crisp.",
-      "overview": "Keep the streusel in loose clumps and spread it across the fruit. Bubbling juice at the edges helps judge the bake."
+      "overview": "Keep the streusel in loose clumps and spread it across the fruit. Bubbling juice at the edges helps judge the bake.",
+      "illustrations": [
+        {
+          "step": "Rub cold cubed butter into oats, flour, brown sugar, pecans, and salt until crumbly clumps form; scatter over apples.",
+          "plate": "crumb-clumps",
+          "title": "Pinch a few crumbs together",
+          "alt": "Fine crumbs sit beside larger irregular clusters. A pressed cluster holds together while small loose crumbs remain.",
+          "caption": "Pinch a little of the mix and let it fall back into the bowl. Leave a mixture of small crumbs and larger clusters for the topping."
+        }
+      ]
     },
     {
       "id": "kit-226",
@@ -7736,7 +8050,16 @@
         "technique"
       ],
       "scenario": "A dish has scorched on the bottom and dinner is nearly due.",
-      "overview": "Transfer the unburned portion before stirring. Test any flavor adjustment on a small serving first."
+      "overview": "Transfer the unburned portion before stirring. Test any flavor adjustment on a small serving first.",
+      "illustrations": [
+        {
+          "step": "Sauce or stew too thin: Simmer uncovered to reduce, mash a scoop of beans/potatoes, or whisk in a beurre manié (equal parts softened butter and flour kneaded into a paste).",
+          "plate": "slurry",
+          "title": "Disperse starch before adding it to the pan",
+          "alt": "A small cup contains a smooth slurry and a spoon resting on the bottom. An arrow leads to the saucepan.",
+          "caption": "Mix the starch into a little cold liquid in a separate cup. Stir again just before adding it because the starch settles on the bottom."
+        }
+      ]
     },
     {
       "id": "kit-229",
@@ -8128,7 +8451,16 @@
         "snacks"
       ],
       "scenario": "The garden has produced more squash than the refrigerator can hold.",
-      "overview": "Thin, even slices dry more uniformly. Let a sample cool before deciding whether the center is still pliable."
+      "overview": "Thin, even slices dry more uniformly. Let a sample cool before deciding whether the center is still pliable.",
+      "illustrations": [
+        {
+          "step": "Toss lightly with olive oil and seasoning, arrange in a single layer on dehydrator trays, and dry at 135°F for 6-8 hours until crisp like potato chips.",
+          "plate": "even-layer",
+          "title": "Leave a little air around each slice",
+          "alt": "A drying tray viewed from above shows two rows of fruit rounds with open space between the edges.",
+          "caption": "Lay the slices flat with a small gap at every edge. Check the thickest slices separately when judging the batch."
+        }
+      ]
     },
     {
       "id": "kit-241",
@@ -8427,7 +8759,16 @@
         "technique"
       ],
       "scenario": "A pie or turnover needs flaky pastry without a full day of folding.",
-      "overview": "Visible pieces of cold butter are useful here. Rolling and folding arrange them into the layers that separate in the oven."
+      "overview": "Visible pieces of cold butter are useful here. Rolling and folding arrange them into the layers that separate in the oven.",
+      "illustrations": [
+        {
+          "step": "Drizzle in ice water until shaggy dough forms; roll into an 8x15-inch rectangle and fold in thirds like a business letter.",
+          "plate": "recipe-fold",
+          "title": "Bring the outer thirds over the center",
+          "alt": "Dashed lines divide a dough rectangle into thirds. Arrows fold each outside panel inward. The folded end shows three layers.",
+          "caption": "Bring one short end over the middle third. Bring the other end over the stack, keeping the corners roughly aligned."
+        }
+      ]
     },
     {
       "id": "kit-251",
@@ -8457,7 +8798,16 @@
         "topping"
       ],
       "scenario": "You want a fruit-and-honey topping for yogurt.",
-      "overview": "A small refrigerated fruit topping gives you control of sweetness and avoids guessing about the safety of a sealed fruit ferment."
+      "overview": "A small refrigerated fruit topping gives you control of sweetness and avoids guessing about the safety of a sealed fruit ferment.",
+      "illustrations": [
+        {
+          "step": "Mash a few berries to release juice. Stir in a teaspoon of honey, taste and simmer briefly until the liquid coats a spoon.",
+          "plate": "spoon-coat",
+          "title": "Read the back of the spoon",
+          "alt": "Two tilted spoons show a thin liquid running into drops and a thicker sauce clinging in a continuous film.",
+          "caption": "Dip a clean spoon and tilt it over the pan. Look for a thin coating that stays on the metal after the excess runs off."
+        }
+      ]
     },
     {
       "id": "kit-252",
@@ -8629,7 +8979,16 @@
         "crafts"
       ],
       "scenario": "You want dried citrus for drinks and a separate batch for decorations.",
-      "overview": "Sort slices by thickness and keep edible slices away from glue, string treatments or decorative coatings."
+      "overview": "Sort slices by thickness and keep edible slices away from glue, string treatments or decorative coatings.",
+      "illustrations": [
+        {
+          "step": "Slice citrus crosswise into uniform 1/4-inch rounds, blot excess juice with a towel, and arrange on dehydrator racks.",
+          "plate": "even-layer",
+          "title": "Leave a little air around each slice",
+          "alt": "A drying tray viewed from above shows two rows of fruit rounds with open space between the edges.",
+          "caption": "Lay the slices flat with a small gap at every edge. Check the thickest slices separately when judging the batch."
+        }
+      ]
     },
     {
       "id": "kit-257",
@@ -8878,7 +9237,16 @@
         "cheese"
       ],
       "scenario": "You have fresh cheesemaking whey and wonder whether it can give a second yield.",
-      "overview": "The original cheesemaking method affects how much protein remains. Expect a smaller, finer curd than the first batch."
+      "overview": "The original cheesemaking method affects how much protein remains. Expect a smaller, finer curd than the first batch.",
+      "illustrations": [
+        {
+          "step": "Skim curds gently into butter muslin and drain 20 minutes before salting.",
+          "plate": "draining-curds",
+          "title": "Leave space for the whey",
+          "alt": "Cloth cradles curds in a strainer above a bowl. Drops fall into the gap below.",
+          "caption": "The strainer should sit above the collected whey. If the liquid reaches the cloth, empty the bowl or use a deeper one."
+        }
+      ]
     },
     {
       "id": "kit-265",
@@ -9486,7 +9854,16 @@
         "preservation"
       ],
       "scenario": "Some apple slices have leathery centers while the thin ones snap.",
-      "overview": "Slice to consistent thickness and examine cooled samples from different trays before storage."
+      "overview": "Slice to consistent thickness and examine cooled samples from different trays before storage.",
+      "illustrations": [
+        {
+          "step": "Arrange on dehydrator racks without overlapping and dry at 135°F for 6-10 hours until pliable and leathery with zero moisture pockets.",
+          "plate": "even-layer",
+          "title": "Leave a little air around each slice",
+          "alt": "A drying tray viewed from above shows two rows of fruit rounds with open space between the edges.",
+          "caption": "Lay the slices flat with a small gap at every edge. Check the thickest slices separately when judging the batch."
+        }
+      ]
     },
     {
       "id": "kit-283",
@@ -9516,7 +9893,16 @@
         "kids"
       ],
       "scenario": "Soft ripe fruit needs to become a packable snack.",
-      "overview": "Spread the purée evenly, especially at the center. Roll individual pieces only after they release cleanly from the liner."
+      "overview": "Spread the purée evenly, especially at the center. Roll individual pieces only after they release cleanly from the liner.",
+      "illustrations": [
+        {
+          "step": "Simmer pureed fruit with honey and lemon juice 5 minutes to thicken slightly, then spread evenly 1/8-inch thick on silicone dehydrator sheets (slightly thicker at edges since edges dry fastest).",
+          "plate": "level-puree",
+          "title": "Spread the edges as thick as the center",
+          "alt": "Two side sections of puree show a raised mound and an even layer. A level layer has matching thickness at the middle and edges.",
+          "caption": "Check the tray from the side. A ridge in the center can stay soft after the thin edges are ready."
+        }
+      ]
     },
     {
       "id": "kit-284",
@@ -9547,7 +9933,16 @@
         "sides"
       ],
       "scenario": "You need a side with crisp skins and creamy centers on the same tray.",
-      "overview": "Moist heat cooks the interior and a dry finish browns the exterior. Group potatoes by size."
+      "overview": "Moist heat cooks the interior and a dry finish browns the exterior. Group potatoes by size.",
+      "illustrations": [
+        {
+          "step": "Toss halved potatoes with oil, salt, and garlic powder on a sheet pan.",
+          "plate": "pan-spacing",
+          "title": "Leave space between the cut faces",
+          "alt": "Top view shows chunks on a sheet pan. A side view shows one flat cut face against the pan surface.",
+          "caption": "Turn the flat face of each piece to the metal. Split the batch between pans if the pieces would sit on top of each other."
+        }
+      ]
     },
     {
       "id": "kit-285",
@@ -9699,7 +10094,16 @@
         "sauce"
       ],
       "scenario": "A yogurt dip keeps turning watery on the table.",
-      "overview": "Removing liquid from the cucumber before mixing preserves the body of the yogurt."
+      "overview": "Removing liquid from the cucumber before mixing preserves the body of the yogurt.",
+      "illustrations": [
+        {
+          "step": "Grate cucumber on large holes, sprinkle with a pinch of salt, let sit 5 minutes, and wring completely dry in a towel or butter muslin.",
+          "plate": "towel-wring",
+          "title": "Gather the towel around the shreds",
+          "alt": "A towel closes around grated food. Its ends are twisted above the bundle and drops fall below.",
+          "caption": "Bring the corners together over the sink and twist the towel around the shreds. Open it once and loosen any compacted lump."
+        }
+      ]
     },
     {
       "id": "kit-290",
@@ -9855,7 +10259,16 @@
         "reference"
       ],
       "scenario": "Two thermometers disagree and the next cooking decision depends on the reading.",
-      "overview": "An ice slurry gives one known reference point. Record an offset or replace an inaccurate instrument according to its instructions."
+      "overview": "An ice slurry gives one known reference point. Record an offset or replace an inaccurate instrument according to its instructions.",
+      "illustrations": [
+        {
+          "step": "Stir and wait 3 minutes, then submerge the thermometer probe tip into the center of the slush without touching glass sides or bottom.",
+          "plate": "ice-probe",
+          "title": "Keep the probe in the middle of the slush",
+          "alt": "A probe goes into ice water with clearance under the tip and on both sides. It does not touch the glass.",
+          "caption": "Find the instrument’s sensing area and immerse it as its maker directs. Keep it clear of the sides while the reading settles."
+        }
+      ]
     },
     {
       "id": "kit-295",
@@ -9917,7 +10330,16 @@
         "breakfast"
       ],
       "scenario": "A brunch cake needs a crumb layer substantial enough to pick up with a fork.",
-      "overview": "Pinch the streusel into varied pieces for a distinct topping. Check the cake below it for doneness."
+      "overview": "Pinch the streusel into varied pieces for a distinct topping. Check the cake below it for doneness.",
+      "illustrations": [
+        {
+          "step": "Mix streusel ingredients into large damp crumbs; set aside.",
+          "plate": "crumb-clumps",
+          "title": "Pinch a few crumbs together",
+          "alt": "Fine crumbs sit beside larger irregular clusters. A pressed cluster holds together while small loose crumbs remain.",
+          "caption": "Pinch a little of the mix and let it fall back into the bowl. Leave a mixture of small crumbs and larger clusters for the topping."
+        }
+      ]
     },
     {
       "id": "kit-297",
@@ -10157,7 +10579,16 @@
         "dinner"
       ],
       "scenario": "A small tenderloin needs to feed the table as slices with sauce.",
-      "overview": "Sear evenly cut medallions and finish the cider sauce in the same pan. Taste after reduction because sweetness concentrates."
+      "overview": "Sear evenly cut medallions and finish the cider sauce in the same pan. Taste after reduction because sweetness concentrates.",
+      "illustrations": [
+        {
+          "step": "Pour apple cider and broth into the skillet, simmer until reduced by half, whisk in Dijon mustard, rosemary, and cold butter off heat, and spoon over pork.",
+          "plate": "sauce-level",
+          "title": "Compare the depth in the same pan",
+          "alt": "A straight-sided pan shows the starting liquid line and a second line halfway down to the pan bottom.",
+          "caption": "Note the initial depth before simmering. In a pan with sloping sides, check volume in a heatproof measure if an exact reduction matters."
+        }
+      ]
     },
     {
       "id": "kit-304",
@@ -10292,8 +10723,17 @@
         "kitchen reference",
         "troubleshooting"
       ],
-      "cat": "Kitchen & From-Scratch"
+      "cat": "Kitchen & From-Scratch",
+      "illustrations": [
+        {
+          "step": "Before filling a container, write the dish, preparation date, number of servings and whether the food is raw or cooked.",
+          "plate": "food-label",
+          "title": "Make the label readable on the shelf",
+          "alt": "An example food label lists the dish, date, servings, and the finishing instruction on the visible front of a container.",
+          "caption": "Write before the container gets cold or damp. Turn the labeled side toward the front of the shelf."
+        }
+      ]
     }
   ],
-  "version": "2026.11.15-birthday-r1"
+  "version": "2026.11.16-illustrated-r1"
 }

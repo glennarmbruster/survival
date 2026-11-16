@@ -323,7 +323,16 @@
         "troubleshooting"
       ],
       "scenario": "A printed outline has a faint second image on one side.",
-      "overview": "A displaced shadow points to paper movement, while rectangular marks can come from heat or pressure. Change one cause per test."
+      "overview": "A displaced shadow points to paper movement, while rectangular marks can come from heat or pressure. Change one cause per test.",
+      "illustrations": [
+        {
+          "step": "Lift the heat press handle smoothly straight up without shifting the paper while hot.",
+          "plate": "lift-transfer",
+          "title": "Lift straight up so the transfer stays in place",
+          "alt": "A flat printed sheet lies over fabric. An arrow rises vertically from the upper plate.",
+          "caption": "Raise the upper plate vertically. Keep the sheet and fabric together until the transfer’s peel instructions call for separation."
+        }
+      ]
     },
     {
       "id": "crf-111",
@@ -485,7 +494,16 @@
         "crafting"
       ],
       "scenario": "A cardstock design tears at corners and the mat has lost its grip.",
-      "overview": "Separate a dull blade from a slipping sheet by changing one factor at a time on scrap."
+      "overview": "Separate a dull blade from a slipping sheet by changing one factor at a time on scrap.",
+      "illustrations": [
+        {
+          "step": "Match blade to material: Fine-Point Blade (vinyl, HTV, cardstock); Rotary Blade (unbacked fabric, felt, silk—never needs stabilizer); Knife Blade (thick basswood, chipboard, tooling leather—requires multiple passes); Deep-Point Blade (craft foam, magnets, stiff felt).",
+          "plate": "strip-test",
+          "title": "Check the cut on a small scrap",
+          "alt": "The edge of a small cut shape lifts cleanly while the backing remains in one piece.",
+          "caption": "Test a small corner of the actual material. For a vinyl kiss cut, the vinyl should lift while the liner stays in one piece."
+        }
+      ]
     },
     {
       "id": "crf-116",
@@ -552,7 +570,16 @@
         "registration"
       ],
       "scenario": "Tiny lettering stays on the backing and the second color will not line up.",
-      "overview": "Transfer tape supports delicate pieces. Alignment marks outside the finished artwork establish a shared reference for each layer."
+      "overview": "Transfer tape supports delicate pieces. Alignment marks outside the finished artwork establish a shared reference for each layer.",
+      "illustrations": [
+        {
+          "step": "Reverse Weeding (game-changer for tiny script fonts): Apply transfer tape directly over the un-weeded cut vinyl, burnish hard, peel away the white paper backing, and weed the negative vinyl directly off the sticky transfer tape so tiny dots and thin letters never lift.",
+          "plate": "flat-peel",
+          "title": "Fold the backing close to the surface",
+          "alt": "Side view shows backing doubled over at a shallow angle while the design stays flat.",
+          "caption": "Keep the backing doubled close to the surface. If a small letter lifts with it, lay it down and press that spot again."
+        }
+      ]
     },
     {
       "id": "crf-118",
@@ -909,7 +936,7 @@
       "id": "crf-129",
       "cat": "Crafts & Textiles",
       "sub": "Sewing & Mending",
-      "title": "Sewing a Shank Button & Reinforcing Coat / Jeans Buttons",
+      "title": "Sew a coat button with room for thick fabric",
       "diff": "Easy",
       "time": "10 mins",
       "gear": [
@@ -935,7 +962,16 @@
         "sewing"
       ],
       "scenario": "A coat button sits so tightly against the fabric that the buttonhole puckers.",
-      "overview": "A thread shank creates room for the thickness of the closed garment. Test the button through the actual hole."
+      "overview": "A thread shank creates room for the thickness of the closed garment. Test the button through the actual hole.",
+      "illustrations": [
+        {
+          "step": "Remove the toothpick, pull the button slightly away from the fabric, wrap the thread tightly 5–6 times around the thread bundle underneath to create a flexible 'thread shank', and knot securely underneath.",
+          "plate": "button-shank",
+          "title": "Leave room for a thread shank",
+          "alt": "Side view shows a button above coat fabric. Wrapped thread forms a short stem in the gap.",
+          "caption": "The little stem gives the second layer of coat fabric somewhere to sit when the button is fastened."
+        }
+      ]
     },
     {
       "id": "crf-130",
@@ -1293,7 +1329,16 @@
         "homestead"
       ],
       "scenario": "The first candle tunnels or produces soot as it burns.",
-      "overview": "Match wick, wax and vessel with a supervised test burn before making a gift batch."
+      "overview": "Match wick, wax and vessel with a supervised test burn before making a gift batch.",
+      "illustrations": [
+        {
+          "step": "Anchor pre-tabbed cotton wicks dead-center in clean glass jars using heat-resistant wick stickers and thread through wooden centering bars.",
+          "plate": "wick",
+          "title": "Center the wick at both ends",
+          "alt": "A bar spans the rim of a jar. A straight wick runs from the center of the bar down to a tab on the bottom.",
+          "caption": "Look down through the mouth of the empty jar. The tab and the hole in the centering bar should line up."
+        }
+      ]
     },
     {
       "id": "crf-141",
@@ -2042,7 +2087,16 @@
         "leather"
       ],
       "scenario": "A grommet pulls out of thin cloth even when the metal looks securely crimped.",
-      "overview": "Reinforce the surrounding fabric and match the setting die to the hardware. Tug a finished sample in the direction of the real load."
+      "overview": "Reinforce the surrounding fabric and match the setting die to the hardware. Tug a finished sample in the direction of the real load.",
+      "illustrations": [
+        {
+          "step": "Reinforce thin woven fabric with a small scrap of fusible interfacing or leather behind the snap so hardware never rips through.",
+          "plate": "snap-patch",
+          "title": "Back the snap with a wider patch",
+          "alt": "An exploded side view shows the snap, garment fabric and a reinforcement patch wider than the hardware.",
+          "caption": "Center the reinforcement behind the fastening point before making the hole. The patch spreads a pull over more fabric."
+        }
+      ]
     },
     {
       "id": "crf-165",
@@ -2367,7 +2421,7 @@
       "id": "crf-175",
       "cat": "Crafts & Textiles",
       "sub": "Sewing & Mending",
-      "title": "Portable Travel & Emergency Mending Tin Loadout",
+      "title": "Pack a mending tin for travel",
       "diff": "Easy",
       "time": "15 mins",
       "gear": [
@@ -2384,8 +2438,9 @@
         "Small strip of Tenacious Tape & hem tape"
       ],
       "steps": [
-        "Keep a compact mending tin in your luggage, glovebox, and household utility drawer so popped buttons, split seams, and torn tent/jacket fabric take 3 minutes to fix anywhere.",
-        "Pre-thread 3 needles with black, white, and navy thread wrapped around a notched piece of cardstock so you don't even have to thread a needle in low light."
+        "Pick one garment you will take and match the thread and a spare button to it. Lay the supplies inside the empty tin before winding anything. The lid should close without pressure.",
+        "Cut a small card that fits the tin. Snip shallow notches along two opposite edges. Wind one thread color through each pair of notches so the lengths can be unwound separately.",
+        "Thread the needles if you want them ready to use. Slip every point into a folded scrap of felt and close the tin. Take one thread out and put it back. If the others tangle, give that color a separate pair of notches."
       ],
       "safety": "Stick needle points into a small strip of wool felt or wine cork inside the tin so sharp tips never poke fingers.",
       "tags": [
@@ -2396,7 +2451,16 @@
         "checklist"
       ],
       "scenario": "A hem or strap may fail during a trip and a full sewing box will stay home.",
-      "overview": "Choose thread and needles that fit the garments you are packing. Store sharp items securely and check travel restrictions for the route."
+      "overview": "Choose thread and needles that fit the garments you are packing. Store sharp items securely and check travel restrictions for the route.",
+      "illustrations": [
+        {
+          "step": "Cut a small card that fits the tin. Snip shallow notches along two opposite edges. Wind one thread color through each pair of notches so the lengths can be unwound separately.",
+          "plate": "thread-card",
+          "title": "Wind each thread into its own notch",
+          "alt": "A notched card holds three separate wraps of thread. Needle points are secured in a felt flap.",
+          "caption": "Wind each length in its own lane. A felt flap holds the points away from fingers reaching into the tin."
+        }
+      ]
     },
     {
       "id": "crf-176",
@@ -2459,5 +2523,5 @@
     }
   },
   "count": 76,
-  "version": "2026.11.15-birthday-r1"
+  "version": "2026.11.16-illustrated-r1"
 }

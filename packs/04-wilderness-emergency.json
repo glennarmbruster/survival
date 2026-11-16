@@ -30,7 +30,7 @@
       "id": "sur-102",
       "cat": "Wilderness & Emergency",
       "sub": "Mindset & Priorities",
-      "title": "72-Hour Vehicle & Home Bug-Out Bag (BOB) Master Loadout",
+      "title": "Pack an evacuation bag you can carry",
       "diff": "Easy",
       "time": "1 hour",
       "gear": [
@@ -57,10 +57,10 @@
         "Spare socks, rain poncho, leather gloves"
       ],
       "steps": [
-        "Pack heavy items (water, food, tools) close to your spine between the shoulder blades and keep total bag weight under 20% of body weight.",
-        "Line the inside of the pack with a heavy-duty contractor trash bag as a waterproof liner before loading clothes and electronics.",
+        "Start with the items you personally need if you leave for several nights. Put the denser items close to your back and hold them in place so they do not shift. Keep the headlamp and rain layer where you can reach them.",
+        "Take everything out once and line the pack before reloading it. Keep items that must stay dry inside their own closed pouches. Mark any daily-use item that still needs to go in at departure.",
         "Keep a dedicated scaled-down Get-Home Bag in each vehicle trunk with walking shoes, water, headlamp, jumper pack, and rain gear.",
-        "Audit food, water, batteries, and medications every 6 months at daylight saving time."
+        "On an ordinary day, carry the loaded bag from your bedroom to the car. Try opening the door, putting the bag down and picking it up again. Adjust the load to the person who will carry it. Recheck dated supplies and batteries twice a year."
       ],
       "safety": "Never pack canned goods requiring a separate opener unless a P-38/multi-tool is attached, and avoid cotton clothing ('cotton kills' when wet).",
       "tags": [
@@ -71,13 +71,22 @@
         "gear"
       ],
       "scenario": "A storm may mean leaving home for several nights and each person can carry only one bag.",
-      "overview": "Try the loaded bag on a walk from the bedroom to the vehicle. Anything too heavy to carry or inaccessible in a hurry needs a different place."
+      "overview": "Try the loaded bag on a walk from the bedroom to the vehicle. Anything too heavy to carry or inaccessible in a hurry needs a different place.",
+      "illustrations": [
+        {
+          "step": "Start with the items you personally need if you leave for several nights. Put the denser items close to your back and hold them in place so they do not shift. Keep the headlamp and rain layer where you can reach them.",
+          "plate": "bag-sections",
+          "title": "Put dense items against the back panel",
+          "alt": "Side section of a backpack shows dense gear close to the wearer and a light outer compartment.",
+          "caption": "A heavy item at the far edge pulls the bag backward. Pack it against the back panel, then try the bag on."
+        }
+      ]
     },
     {
       "id": "sur-103",
       "cat": "Wilderness & Emergency",
       "sub": "Mindset & Priorities",
-      "title": "Pocket Survival Tin & Everyday Carry (EDC) Altoids Kit",
+      "title": "Fit a small repair and signaling kit in a pocket tin",
       "diff": "Easy",
       "time": "30 mins",
       "gear": [
@@ -427,7 +436,7 @@
       "id": "sur-114",
       "cat": "Wilderness & Emergency",
       "sub": "Shelter & Knots",
-      "title": "Shelter Site Selection & 5 Deadly Hazards to Avoid",
+      "title": "Choose a campsite that will drain",
       "diff": "Easy",
       "time": "15 mins",
       "gear": [
@@ -449,7 +458,16 @@
         "essentials"
       ],
       "scenario": "A flat patch near a creek looks comfortable just before dark.",
-      "overview": "Look above, around and upstream before unpacking. A slightly longer walk to safer ground is easier before the shelter is erected."
+      "overview": "Look above, around and upstream before unpacking. A slightly longer walk to safer ground is easier before the shelter is erected.",
+      "illustrations": [
+        {
+          "step": "Avoid dry riverbeds, narrow canyons, and low drainage depressions where flash floods or cold-air pooling occur at night.",
+          "plate": "campsite-slope",
+          "title": "Trace where runoff collects",
+          "alt": "A terrain cross section shows slopes draining into a gully. Arrows point downhill toward the low point.",
+          "caption": "Look beyond the patch of flat ground. Follow the slope with your eye to see where water from both sides would meet."
+        }
+      ]
     },
     {
       "id": "sur-115",
@@ -1554,7 +1572,16 @@
         "checklist"
       ],
       "scenario": "The phones are locked and one of you needs the other person’s insurance or emergency contact details.",
-      "overview": "A small paper set handles essential calls. Keep sensitive copies secured and check that both of you know how to retrieve them."
+      "overview": "A small paper set handles essential calls. Keep sensitive copies secured and check that both of you know how to retrieve them.",
+      "illustrations": [
+        {
+          "step": "Record video walkthroughs of every room, closet, garage, and serial numbers of major electronics/appliances once a year for effortless insurance claims.",
+          "plate": "two-photos",
+          "title": "Take a wide photo and a label photo",
+          "alt": "An appliance in a room is paired with a close photo of its model and serial label.",
+          "caption": "Keep the two images together. The room view places the item and the label identifies the particular model."
+        }
+      ]
     },
     {
       "id": "sur-149",
@@ -1581,7 +1608,16 @@
         "lighting"
       ],
       "scenario": "The lights fail after dark and you need both hands to move around the house.",
-      "overview": "A staged headlamp leaves hands free and avoids open flames around bedding, pets or a possible fuel leak."
+      "overview": "A staged headlamp leaves hands free and avoids open flames around bedding, pets or a possible fuel leak.",
+      "illustrations": [
+        {
+          "step": "Put a battery headlamp within reach of each bed and a lantern near the usual meeting area. Check battery type and condition.",
+          "plate": "robe-hook",
+          "title": "Stage the light where a hand can find it",
+          "alt": "A headlamp sits on a bedside table between the bed and the door, with an arrow from the pillow to the light.",
+          "caption": "Choose the same reachable spot each night. Test the reach while the room lights are still on."
+        }
+      ]
     },
     {
       "id": "sur-150",
@@ -1639,7 +1675,16 @@
         "navigation",
         "weather"
       ],
-      "cat": "Wilderness & Emergency"
+      "cat": "Wilderness & Emergency",
+      "illustrations": [
+        {
+          "step": "Working backward, allow time for the return, the slowest walker, breaks and a reserve for delay. Write down the resulting latest turnaround time.",
+          "plate": "turnaround",
+          "title": "Work back from the return deadline",
+          "alt": "An example timeline has a 2 pm turnaround, two hours to walk back, and an hour of reserve before a 5 pm deadline.",
+          "caption": "In this example, a 5 pm deadline minus one reserve hour and two walking hours gives a 2 pm turnaround. Use your own route and times."
+        }
+      ]
     },
     {
       "id": "sur-152",
@@ -1715,7 +1760,16 @@
       ],
       "cat": "Wilderness & Emergency",
       "diff": "Easy",
-      "supplies": []
+      "supplies": [],
+      "illustrations": [
+        {
+          "step": "Send your home contact an ordinary check-in and have them reply. Both partners should read the reply and locate the device after it is packed. Write down when the home contact should act on a missed return and whom they should call.",
+          "plate": "message-reply",
+          "title": "Check both directions",
+          "alt": "Two devices exchange an ordinary check-in and a reply. The return arrow points back to the sender.",
+          "caption": "Complete the loop with an ordinary message in each direction. Read the reply on the device you will carry."
+        }
+      ]
     }
   ],
   "glossary": {
@@ -1751,5 +1805,5 @@
     }
   },
   "count": 53,
-  "version": "2026.11.15-birthday-r1"
+  "version": "2026.11.16-illustrated-r1"
 }

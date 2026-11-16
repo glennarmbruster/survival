@@ -271,7 +271,7 @@
       "id": "shp-110",
       "cat": "Smart Shopping & Negotiation",
       "sub": "Coupons, Gift Cards & Deals",
-      "title": "Black Friday, Cyber Monday & Prime Day Fake-Sale Verification",
+      "title": "Check a sale price against its history",
       "diff": "Easy",
       "time": "10 mins",
       "gear": [
@@ -280,9 +280,9 @@
       ],
       "supplies": [],
       "steps": [
-        "Never trust '50% Off MSRP' strike-through prices on Black Friday or Prime Day—retailers routinely inflate list prices in October to fake deep November discounts.",
-        "Check 12-month price history charts on Keepa or CamelCamelCamel (for Amazon) and set Slickdeals keyword alerts 30 days ahead so you know the true historic all-time low price.",
-        "Watch out for 'derivative Black Friday SKU models' on TVs and appliances (model numbers ending in slightly altered letters that strip HDMI ports, local dimming zones, or smart features compared to the standard year-round model)."
+        "Copy the full model number, size or quantity from the listing. Use those details when checking another seller. A nearly identical name can describe a smaller package or a different model.",
+        "Look at the item’s price history where available. Compare today’s price with the amount it sold for repeatedly before the promotion. One short-lived high price can make an ordinary price look like a sale.",
+        "Add shipping and any required accessories to each price. If the model number changes, check the feature you care about before treating the offers as equivalent."
       ],
       "safety": "Screenshot the product page and price on purchase day so you can claim price-match refunds if the store drops the price further on Cyber Monday.",
       "tags": [
@@ -293,7 +293,16 @@
         "deals"
       ],
       "scenario": "A countdown timer claims today is the lowest price of the year.",
-      "overview": "Compare the same model and quantity against its price history and at least one independent seller."
+      "overview": "Compare the same model and quantity against its price history and at least one independent seller.",
+      "illustrations": [
+        {
+          "step": "Look at the item’s price history where available. Compare today’s price with the amount it sold for repeatedly before the promotion. One short-lived high price can make an ordinary price look like a sale.",
+          "plate": "price-chart",
+          "title": "Read the price before the sale",
+          "alt": "An example price line stays at 40 dollars for three periods, rises to 60, and returns to 40 at the sale.",
+          "caption": "In the example, the promotion returns the item to its earlier $40 price. Compare with the price it usually sold for."
+        }
+      ]
     },
     {
       "id": "shp-111",
@@ -1200,16 +1209,16 @@
       "id": "shp-145",
       "cat": "Smart Shopping & Negotiation",
       "sub": "Bills, Warranties & Consumer Rights",
-      "title": "Quick-Reference Consumer & Deal Checklist Before Every Big Purchase",
+      "title": "Check a large purchase before paying",
       "diff": "Easy",
       "time": "5 mins",
       "gear": [],
       "supplies": [],
       "steps": [
-        "1. Wait 24–48 hours on any non-emergency impulse purchase over $100.",
-        "2. Check Keepa/Slickdeals price history to verify it is a genuine sale.",
-        "3. Check Rakuten/TopCashback portal + discounted gift card availability (GCX/Costco/Sam's).",
-        "4. Pay with a credit card offering extended warranty + purchase protection, and save the receipt photo."
+        "For a nonurgent purchase, write down the problem it will solve and give yourself time to reconsider.",
+        "Compare the exact model and quantity with its usual selling price. Include delivery, any required parts and the return terms.",
+        "Check whether any discount requires a particular payment method or provides credit usable only later. Record what leaves your account today.",
+        "Keep an itemized receipt and the terms that mattered to your choice. Store the model number with them so you can identify the purchase later."
       ],
       "safety": "A 50% off sale on an item you don't need or use is still 100% wasted money.",
       "tags": [
@@ -1219,7 +1228,23 @@
         "budgeting"
       ],
       "scenario": "A large purchase feels urgent and the sales offer is about to close.",
-      "overview": "Write the complete cost and the one unresolved condition on paper. A decision is easier when that uncertainty has a name."
+      "overview": "Write the complete cost and the one unresolved condition on paper. A decision is easier when that uncertainty has a name.",
+      "illustrations": [
+        {
+          "step": "Compare the exact model and quantity with its usual selling price. Include delivery, any required parts and the return terms.",
+          "plate": "price-chart",
+          "title": "Read the price before the sale",
+          "alt": "An example price line stays at 40 dollars for three periods, rises to 60, and returns to 40 at the sale.",
+          "caption": "In the example, the promotion returns the item to its earlier $40 price. Compare with the price it usually sold for."
+        },
+        {
+          "step": "Keep an itemized receipt and the terms that mattered to your choice. Store the model number with them so you can identify the purchase later.",
+          "plate": "receipt-shot",
+          "title": "Fit the whole receipt in the frame",
+          "alt": "An overhead phone view shows a receipt with store, date, item, and total inside the photo boundaries.",
+          "caption": "Check the edges of the photo and zoom in on the line you may need later. File the image with the matching purchase or repair."
+        }
+      ]
     },
     {
       "id": "shp-146",
@@ -1254,7 +1279,7 @@
       "id": "shp-147",
       "cat": "Smart Shopping & Negotiation",
       "sub": "Coupons, Gift Cards & Deals",
-      "title": "Rebate Apps & Receipt Scanning Stack (Ibotta, Fetch, Upside)",
+      "title": "Save a receipt for a rebate",
       "diff": "Easy",
       "time": "10 mins",
       "gear": [
@@ -1262,8 +1287,9 @@
       ],
       "supplies": [],
       "steps": [
-        "Snap grocery and gas receipts within 7 days into Ibotta (cash back on specific grocery/household items at H-E-B, Walmart, Target), Fetch Rewards (points on every receipt for gift cards), and Upside (10¢–25¢/gallon cash back at participating gas stations).",
-        "Cash out balances to PayPal or Amazon/H-E-B gift cards once you hit $20 rather than letting points sit idle in apps."
+        "Check the offer’s terms and submission deadline before buying. Match the listed size and quantity to the item and save the offer if the program requires it.",
+        "Lay the receipt flat. Photograph the store, date, itemized purchases and total in focus, using the app’s instructions for a long receipt. Open the image once and check that you can read the relevant item.",
+        "Keep the receipt until the credit appears. Match the amount to the offer and follow that program’s current redemption rules."
       ],
       "safety": "Turn off background location tracking when not actively using gas-rebate apps to save phone battery.",
       "tags": [
@@ -1274,7 +1300,16 @@
         "gas-savings"
       ],
       "scenario": "A receipt qualifies for several rebate apps and one requires activation before purchase.",
-      "overview": "Save the qualifying offer and verify the exact product. Track pending rewards separately from money received."
+      "overview": "Save the qualifying offer and verify the exact product. Track pending rewards separately from money received.",
+      "illustrations": [
+        {
+          "step": "Lay the receipt flat. Photograph the store, date, itemized purchases and total in focus, using the app’s instructions for a long receipt. Open the image once and check that you can read the relevant item.",
+          "plate": "receipt-shot",
+          "title": "Fit the whole receipt in the frame",
+          "alt": "An overhead phone view shows a receipt with store, date, item, and total inside the photo boundaries.",
+          "caption": "Check the edges of the photo and zoom in on the line you may need later. File the image with the matching purchase or repair."
+        }
+      ]
     },
     {
       "id": "shp-148",
@@ -1408,5 +1443,5 @@
     }
   },
   "count": 51,
-  "version": "2026.11.15-birthday-r1"
+  "version": "2026.11.16-illustrated-r1"
 }

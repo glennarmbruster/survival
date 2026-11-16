@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Leave room for a thread shank</title>
+<desc>Side view shows a button above coat fabric. Wrapped thread forms a short stem in the gap.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="31" y="104" width="176" height="18" rx="2" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="59" y="49" width="126" height="19" rx="8" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M102 64 V104 M130 64 V104" fill="none" stroke="#223f3e" stroke-width="3" />
+<path d="M101 74 l31 5" fill="none" stroke="#a9492b" stroke-width="3" />
+<path d="M101 80 l31 5" fill="none" stroke="#a9492b" stroke-width="3" />
+<path d="M101 86 l31 5" fill="none" stroke="#a9492b" stroke-width="3" />
+<path d="M101 92 l31 5" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="248" y="59" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Button</text>
+<path d="M218 61 L189 61 M195.8 56.8 L189 61 195.8 65.2" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="255" y="103" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Wraps</text>
+<path d="M226 99 L137 88 M144.3 84.7 L137 88 143.3 93.0" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="118" y="150" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Side view</text>
+</svg>

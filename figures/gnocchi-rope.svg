@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Cut pillows as long as the rope is wide</title>
+<desc>A dough rope with equal-width crosscuts sits beside three separated pieces.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="23" y="54" width="158" height="39" rx="17" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M60 54 V93" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M98 54 V93" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M136 54 V93" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<rect x="194" y="56" width="31" height="36" rx="9" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="235" y="56" width="31" height="36" rx="9" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="276" y="56" width="31" height="36" rx="9" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<text x="102" y="129" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Even thickness</text>
+<text x="249" y="129" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Equal pieces</text>
+</svg>

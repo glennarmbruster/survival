@@ -1,5 +1,5 @@
 'use strict';
-const CACHE = 'goobs-survival-app-only-1';
+const CACHE = 'goobs-survival-illustrated-r1';
 const CORE = [
   './',
   './index.html',
@@ -17,7 +17,16 @@ self.addEventListener('install', e => {
       const cache = await caches.open(CACHE);
       await cache.addAll(CORE);
       const manifest = await (await cache.match('./packs/manifest.json')).json();
-      await cache.addAll(manifest.files.map(file => './packs/' + file));
+      const packPaths = manifest.files.map(file => './packs/' + file);
+      await cache.addAll(packPaths);
+      const plates = new Set();
+      for (const path of packPaths) {
+        const pack = await (await cache.match(path)).json();
+        for (const guide of pack.guides) {
+          for (const figure of guide.illustrations || []) plates.add('./figures/' + figure.plate + '.svg');
+        }
+      }
+      await cache.addAll([...plates]);
       await self.skipWaiting();
     })()
   );

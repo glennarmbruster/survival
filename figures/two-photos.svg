@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Take a wide photo and a label photo</title>
+<desc>An appliance in a room is paired with a close photo of its model and serial label.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="14" y="21" width="136" height="108" rx="4" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="57" y="35" width="48" height="79" rx="4" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M58 62 H104 M65 69 v14" fill="none" stroke="#223f3e" stroke-width="2.4" />
+<rect x="22" y="80" width="24" height="34" rx="4" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="169" y="21" width="137" height="108" rx="4" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<rect x="180" y="41" width="115" height="67" rx="4" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<text x="237" y="65" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Model</text>
+<text x="237" y="91" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Serial</text>
+<text x="81" y="151" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Room view</text>
+<text x="237" y="151" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Label close-up</text>
+</svg>

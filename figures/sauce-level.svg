@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Compare the depth in the same pan</title>
+<desc>A straight-sided pan shows the starting liquid line and a second line halfway down to the pan bottom.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M27 33 V114 Q27 124 38 124 H199 Q211 124 211 112 V33" fill="none" stroke="#223f3e" stroke-width="4" />
+<path d="M30 84 H208 V112 Q208 121 199 121 H39 Q30 121 30 112Z" fill="#e5ae62" stroke="#e5ae62" stroke-width="2.4" />
+<path d="M31 46 H207" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="259" y="51" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Start</text>
+<text x="259" y="89" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Half</text>
+<text x="120" y="152" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Straight-sided pan</text>
+</svg>

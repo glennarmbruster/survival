@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Read the edge of the test tortilla</title>
+<desc>A pressed round with deep radial cracks is shown beside a round with a continuous edge.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M81 32 Q119 32 136 58 L125 66 139 65 Q148 87 132 109 L121 104 124 117 Q96 133 66 122 L71 109 58 119 Q21 104 26 72 L39 76 29 63 Q40 36 81 32Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<ellipse cx="233" cy="80" rx="56" ry="48" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<text x="83" y="150" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Cracked rim</text>
+<text x="235" y="150" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Smooth rim</text>
+</svg>

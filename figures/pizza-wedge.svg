@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Roll from the wide end toward the point</title>
+<desc>A triangular piece of dough with a wide rolled base has an arrow pointing toward its narrow tip.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M38 106 L119 35 144 113Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<path d="M39 99 L140 105 Q151 113 137 119 L37 112 Q28 105 39 99Z" fill="#e5ae62" stroke="#223f3e" stroke-width="2.4" />
+<path d="M92 91 L111 59 M111.1 67.0 L111 59 103.9 62.7" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="231" y="72" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Roll toward</text>
+<text x="231" y="94" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">the point</text>
+</svg>

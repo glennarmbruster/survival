@@ -170,7 +170,7 @@
       "id": "trv-106",
       "cat": "Travel & Fieldcraft",
       "sub": "Packing & Air Travel",
-      "title": "One-Bag Carry-On Ranger Rolling & Compression Cube System",
+      "title": "Roll clothes and organize a carry-on",
       "diff": "Easy",
       "time": "25 mins",
       "gear": [
@@ -185,8 +185,8 @@
       ],
       "steps": [
         "Follow the 5-4-3-2-1 Capsule Wardrobe for 7–10 day trips: 5 tops, 4 bottoms, 3 pairs of shoes (wear heaviest pair on the plane), 2 swimsuits/outer layers, 1 dressy outfit—all in mix-and-match neutral colors.",
-        "Ranger-Roll (Army roll) t-shirts, underwear, and socks into tight wrinkle-free cylinders, pack inside compression cubes, and stuff socks/chargers inside spare shoes.",
-        "Drop an Apple AirTag or Tile tracker inside every checked bag and carry-on so you know exact bag location before airport baggage carousels even start."
+        "Lay a T-shirt flat and turn up the bottom few inches to make a cuff. Fold the sides and sleeves inward into one strip. Roll from the neck down to the hem and pull the cuff over the roll. Pack it in a cube with clothes you use at the same time.",
+        "If you use a luggage tracker, check its battery and place it in an inside pocket. Before leaving, take the item you need at security out of the bag and put it back. Move it closer to the opening if you have to disturb the clothing."
       ],
       "safety": "Never pack spare lithium-ion power banks, vapes, or loose lithium batteries in checked luggage—TSA/FAA strictly requires them in carry-on bags.",
       "tags": [
@@ -197,7 +197,16 @@
         "air-travel"
       ],
       "scenario": "Your carry-on closes at home but security will need access to its contents.",
-      "overview": "Group related items together and check the packed bag against the carrier’s size and weight allowances."
+      "overview": "Group related items together and check the packed bag against the carrier’s size and weight allowances.",
+      "illustrations": [
+        {
+          "step": "Lay a T-shirt flat and turn up the bottom few inches to make a cuff. Fold the sides and sleeves inward into one strip. Roll from the neck down to the hem and pull the cuff over the roll. Pack it in a cube with clothes you use at the same time.",
+          "plate": "turn-shirt",
+          "title": "Fold to a strip before rolling",
+          "alt": "A T-shirt becomes a narrow strip with sleeves tucked inward. A final arrow shows the roll moving from the neck toward the cuffed hem.",
+          "caption": "The cuff you turn up at the start becomes the pocket that holds the roll closed."
+        }
+      ]
     },
     {
       "id": "trv-107",
@@ -392,7 +401,16 @@
         "checklist"
       ],
       "scenario": "A breakdown happens after dark with the trunk full of luggage.",
-      "overview": "Pack visibility gear and a light where they can be reached without unloading into traffic."
+      "overview": "Pack visibility gear and a light where they can be reached without unloading into traffic.",
+      "illustrations": [
+        {
+          "step": "Recharge the lithium jump starter pack every 6 months (mark calendar on Jan 1 and Jul 1).",
+          "plate": "cord-wrap",
+          "title": "Bundle the cable with its power bank",
+          "alt": "A power bank and matching cable sit together in one pouch. Both connectors are visible.",
+          "caption": "Store the working cable beside the device. A date on the pouch records the last time you tested the pair."
+        }
+      ]
     },
     {
       "id": "trv-113",
@@ -1107,7 +1125,16 @@
         "gear"
       ],
       "scenario": "A jacket sheds water on its shoulders but leaks at a seam.",
-      "overview": "A surface treatment and a seam repair address different problems. Protect critical insulation in a dry bag."
+      "overview": "A surface treatment and a seam repair address different problems. Protect critical insulation in a dry bag.",
+      "illustrations": [
+        {
+          "step": "Close roll-top dry bags by folding the stiffener strip tightly at least 3 full rolls before buckling—fewer than 3 rolls allows water to wick through during submersion.",
+          "plate": "roll-top",
+          "title": "Roll the stiff edges together",
+          "alt": "Three views of a dry bag show its flat mouth, a rolled cuff, and its ends clipped together.",
+          "caption": "Press excess air out, align both lips and roll them together. Follow the bag maker’s required number of rolls before fastening."
+        }
+      ]
     },
     {
       "id": "trv-137",
@@ -1423,7 +1450,7 @@
       "id": "trv-148",
       "cat": "Travel & Fieldcraft",
       "sub": "Road Trips & Vehicle Fieldcraft",
-      "title": "Rental Car Inspection & Overseas Driving Checklist",
+      "title": "Record a rental car’s condition before driving",
       "diff": "Easy",
       "time": "10 mins",
       "gear": [
@@ -1435,9 +1462,9 @@
         "Primary auto insurance / credit card CDW coverage verification"
       ],
       "steps": [
-        "Walk around every rental car taking a continuous slow-motion smartphone video (including windshield glass, roof, wheels, and bumper undersides) BEFORE driving out of the lot—this proves pre-existing scratches/chips.",
+        "Walk around the parked rental before leaving the lot. Take one wide photo to place each mark on the car and a close photo to show its size. Include wheels, windshield and the condition of the roof where visible from the ground. Ask the rental desk to record existing damage and keep your copy.",
         "Check tire pressure, spare tire presence, and fuel type (gasoline vs. diesel—putting unleaded in a diesel or vice versa causes thousands in damage) before leaving.",
-        "Obtain a $20 International Driving Permit (IDP) from AAA before renting cars in Europe, Japan, or Latin America."
+        "For international rentals, check the driving documents required by the destination and the rental company before departure. Save a copy of the pickup report with your photos so you can compare the same panels at return."
       ],
       "safety": "Photograph the fuel gauge and odometer at drop-off alongside the return lane sign.",
       "tags": [
@@ -1448,7 +1475,16 @@
         "checklist"
       ],
       "scenario": "A rental car already has a scratch and the trip crosses a border.",
-      "overview": "Document damage at collection and confirm permitted areas, coverage and return instructions in writing."
+      "overview": "Document damage at collection and confirm permitted areas, coverage and return instructions in writing.",
+      "illustrations": [
+        {
+          "step": "Walk around the parked rental before leaving the lot. Take one wide photo to place each mark on the car and a close photo to show its size. Include wheels, windshield and the condition of the roof where visible from the ground. Ask the rental desk to record existing damage and keep your copy.",
+          "plate": "car-photos",
+          "title": "Place each scratch on the car",
+          "alt": "An overview photo of a car door sits beside a close-up of its scratch.",
+          "caption": "Keep the wide shot and detail shot together. A close-up by itself can make it hard to tell which door or bumper was marked."
+        }
+      ]
     },
     {
       "id": "trv-149",
@@ -1541,7 +1577,16 @@
         "packing",
         "air travel"
       ],
-      "cat": "Travel & Fieldcraft"
+      "cat": "Travel & Fieldcraft",
+      "illustrations": [
+        {
+          "step": "Test the bag under a chair at home. You should be able to reach medication or documents without unpacking clothing into the aisle.",
+          "plate": "underseat",
+          "title": "Keep arrival essentials within reach",
+          "alt": "Side view of a seat and the bag under it. A highlighted pocket faces the person reaching in.",
+          "caption": "Place the bag under a chair in the same orientation you plan to use. Reach for one essential while seated."
+        }
+      ]
     }
   ],
   "glossary": {
@@ -1571,5 +1616,5 @@
     }
   },
   "count": 51,
-  "version": "2026.11.15-birthday-r1"
+  "version": "2026.11.16-illustrated-r1"
 }

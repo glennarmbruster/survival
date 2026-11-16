@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Keep a monitoring card near the leaf tops</title>
+<desc>A yellow monitoring card hangs just above the canopy. A dotted line marks the height of the upper leaves.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="139" y="28" width="37" height="46" rx="4" fill="#e5ae62" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M156 27 V16 M73 137 Q74 84 55 74 Q83 76 83 102 Q94 68 116 72 Q108 94 85 105 M221 138 V90 Q191 89 184 73 Q210 71 221 89 Q228 66 254 70 Q247 91 222 99" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4" />
+<path d="M35 76 H275" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="158" y="151" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">At the top of the canopy</text>
+</svg>

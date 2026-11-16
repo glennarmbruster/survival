@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Place each scratch on the car</title>
+<desc>An overview photo of a car door sits beside a close-up of its scratch.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="13" y="27" width="135" height="96" rx="4" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M25 83 L39 76 50 56 H89 L104 71 131 78 V94 H24Z" fill="#a9c3a1" stroke="#223f3e" stroke-width="2.4" />
+<circle cx="51" cy="93" r="8" fill="#223f3e" stroke="#223f3e" stroke-width="2"/>
+<circle cx="105" cy="93" r="8" fill="#223f3e" stroke="#223f3e" stroke-width="2"/>
+<path d="M52 58 l-7 15 h54 l-13-15Z" fill="#b7d9d8" stroke="#223f3e" stroke-width="2.4" />
+<path d="M71 87 l9 -5" fill="none" stroke="#a9492b" stroke-width="3" />
+<rect x="171" y="27" width="135" height="96" rx="4" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M185 93 L218 73 229 77 277 52" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="81" y="148" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Which panel?</text>
+<text x="237" y="148" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">What damage?</text>
+</svg>

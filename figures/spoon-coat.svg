@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Read the back of the spoon</title>
+<desc>Two tilted spoons show a thin liquid running into drops and a thicker sauce clinging in a continuous film.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<g transform="translate(6 0)"><path d="M71 63 l44-35" fill="none" stroke="#223f3e" stroke-width="7" /><ellipse cx="55" cy="78" rx="27" ry="34" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/><path d="M36 68 Q58 45 74 65 Q84 79 66 93 Q60 95 58 111 Q53 123 50 108 Q50 97 44 90Z" fill="#e5ae62" stroke="#886e57" stroke-width="1.4" /></g>
+<g transform="translate(163 0)"><path d="M71 63 l44-35" fill="none" stroke="#223f3e" stroke-width="7" /><ellipse cx="55" cy="78" rx="27" ry="34" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/><path d="M31 80 Q30 51 56 48 Q81 48 79 82 Q76 104 54 108 Q35 101 31 80Z" fill="#e5ae62" stroke="#886e57" stroke-width="1.4" /></g>
+<text x="70" y="149" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Runs off</text>
+<text x="227" y="149" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Thin, even film</text>
+</svg>

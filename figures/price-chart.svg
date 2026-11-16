@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Read the price before the sale</title>
+<desc>An example price line stays at 40 dollars for three periods, rises to 60, and returns to 40 at the sale.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M53 29 V120 H293" fill="none" stroke="#223f3e" stroke-width="2.4" />
+<text x="46" y="49" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="14" text-anchor="end" fill="#223f3e">$60</text>
+<text x="46" y="101" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="14" text-anchor="end" fill="#223f3e">$40</text>
+<path d="M55 96 H292" fill="none" stroke="#a9492b" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M58 96 H158 V44 H230 V96 H286" fill="none" stroke="#223f3e" stroke-width="4" />
+<circle cx="286" cy="96" r="5" fill="#a9492b" stroke="#223f3e" stroke-width="2"/>
+<text x="94" y="147" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Earlier</text>
+<text x="253" y="147" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Sale day</text>
+</svg>

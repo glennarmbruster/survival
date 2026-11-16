@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Track the sowing date with each batch</title>
+<desc>Two identical seed trays have separate plant labels showing crop, variety, and sowing date.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<rect x="30" y="89" width="260" height="44" rx="4" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4"/>
+<path d="M83 92 l5 35" fill="none" stroke="#886e57" stroke-width="2.4" />
+<path d="M136 92 l5 35" fill="none" stroke="#886e57" stroke-width="2.4" />
+<path d="M189 92 l5 35" fill="none" stroke="#886e57" stroke-width="2.4" />
+<path d="M242 92 l5 35" fill="none" stroke="#886e57" stroke-width="2.4" />
+<g transform="translate(40 0)"><rect x="0" y="28" width="105" height="46" rx="4" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/><path d="M50 75 v24" fill="none" stroke="#886e57" stroke-width="5" /><text x="52" y="47" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="15" text-anchor="middle" fill="#223f3e">Tomato A</text><text x="52" y="65" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="14" text-anchor="middle" fill="#223f3e">Sown Jan 5</text></g>
+<g transform="translate(174 0)"><rect x="0" y="28" width="105" height="46" rx="4" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/><path d="M50 75 v24" fill="none" stroke="#886e57" stroke-width="5" /><text x="52" y="47" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="15" text-anchor="middle" fill="#223f3e">Tomato B</text><text x="52" y="65" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="14" text-anchor="middle" fill="#223f3e">Sown Jan 12</text></g>
+<text x="160" y="154" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">One label per batch</text>
+</svg>

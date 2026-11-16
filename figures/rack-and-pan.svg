@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Nest the wire rack inside the rim</title>
+<desc>A side view shows food resting on a raised rack. The edges of the sheet pan extend beyond both ends of the rack.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<path d="M26 89 L35 117 H285 L295 89" fill="none" stroke="#223f3e" stroke-width="4" />
+<path d="M49 91 H271 M57 91 v19 M261 91 v19" fill="none" stroke="#597c76" stroke-width="4" />
+<path d="M57 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M70 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M83 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M96 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M109 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M122 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M135 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M148 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M161 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M174 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M187 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M200 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M213 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M226 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M239 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M252 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M265 86 v8" fill="none" stroke="#223f3e" stroke-width="2" />
+<path d="M89 86 Q92 56 125 53 Q162 31 205 70 L224 85Z" fill="#e7c99f" stroke="#223f3e" stroke-width="2.4" />
+<text x="159" y="148" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Rack above the pan bottom</text>
+</svg>

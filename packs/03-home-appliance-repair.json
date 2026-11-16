@@ -500,7 +500,7 @@
       "id": "rep-117",
       "cat": "Home & Appliance Repair",
       "sub": "HVAC & Comfort",
-      "title": "HVAC Air Filter Sizing, MERV Ratings & Return Vent Care",
+      "title": "Read and replace a return-air filter",
       "diff": "Easy",
       "time": "10 mins",
       "gear": [
@@ -524,7 +524,16 @@
         "ac"
       ],
       "scenario": "A higher-rated filter fits the opening but the system struggles for air.",
-      "overview": "The equipment’s allowed filter range and the arrow showing airflow determine the replacement. Write the actual part size at the return."
+      "overview": "The equipment’s allowed filter range and the arrow showing airflow determine the replacement. Write the actual part size at the return.",
+      "illustrations": [
+        {
+          "step": "Check filter size printed on the cardboard frame and replace every 30–60 days during heavy summer cooling.",
+          "plate": "filter-size",
+          "title": "Read the dimensions on the filter frame",
+          "alt": "A filter with visible pleats has a frame label with three example dimensions. Thickness is the third number.",
+          "caption": "Copy the whole size line from the frame, including thickness. The numbers shown here are an example."
+        }
+      ]
     },
     {
       "id": "rep-118",
@@ -813,13 +822,22 @@
         "hardware"
       ],
       "scenario": "The bedroom door catches at one corner and misses its strike plate.",
-      "overview": "Read the gap around the door before moving the strike. Loose hinge screws can shift the entire latch out of position."
+      "overview": "Read the gap around the door before moving the strike. Loose hinge screws can shift the entire latch out of position.",
+      "illustrations": [
+        {
+          "step": "Check the top hinge first—gravity pulls the top hinge screws loose over time, dropping the latch side of the door.",
+          "plate": "door-reveal",
+          "title": "Read the gap above the door",
+          "alt": "A front view shows a level frame and a door sagging at the latch side. The widening top gap is marked with an arrow.",
+          "caption": "Close the door slowly and look along the top gap. Mark the point of first contact with removable tape before making an adjustment."
+        }
+      ]
     },
     {
       "id": "rep-127",
       "cat": "Home & Appliance Repair",
       "sub": "Walls, Doors & Hardware",
-      "title": "Re-Caulking Showers, Tubs & Countertops Without Mold",
+      "title": "Renew the caulk along a tub or sink",
       "diff": "Easy",
       "time": "1 hour",
       "gear": [
@@ -847,7 +865,16 @@
         "mold-prevention"
       ],
       "scenario": "Caulk has lifted at the back of the sink and moisture gets beneath it.",
-      "overview": "A clean, dry joint and the product’s full cure time matter to the finished seal. Investigate persistent moisture behind the joint first."
+      "overview": "A clean, dry joint and the product’s full cure time matter to the finished seal. Investigate persistent moisture behind the joint first.",
+      "illustrations": [
+        {
+          "step": "Apply parallel strips of painter's tape 1/8-inch from both sides of the seam, cut the caulk nozzle at a 45° angle to match the gap width, and run a smooth continuous bead.",
+          "plate": "two-tape-lines",
+          "title": "Tape parallel to the joint",
+          "alt": "Two blue strips flank a narrow central caulk joint. The tape edges define the width of the bead.",
+          "caption": "Sight along the space between strips before applying the bead. A kink in the tape will show in the finished edge."
+        }
+      ]
     },
     {
       "id": "rep-128",
@@ -1007,6 +1034,15 @@
           "FEMA · Documenting storm damage",
           "https://www.fema.gov/print/pdf/node/694490"
         ]
+      ],
+      "illustrations": [
+        {
+          "step": "Call the insurer and an insured roofing professional for temporary weather protection. Save receipts and photos before and after the work.",
+          "plate": "receipt-shot",
+          "title": "Fit the whole receipt in the frame",
+          "alt": "An overhead phone view shows a receipt with store, date, item, and total inside the photo boundaries.",
+          "caption": "Check the edges of the photo and zoom in on the line you may need later. File the image with the matching purchase or repair."
+        }
       ]
     },
     {
@@ -1478,7 +1514,16 @@
         "summer"
       ],
       "scenario": "A small tear at a window frame lets insects slip through.",
-      "overview": "Match the mesh and spline to the frame. Even tension keeps the replacement flat without bowing its sides."
+      "overview": "Match the mesh and spline to the frame. Even tension keeps the replacement flat without bowing its sides.",
+      "illustrations": [
+        {
+          "step": "Roll new screen mesh over the frame with 2 inches of overhang on all sides.",
+          "plate": "open-screen",
+          "title": "Keep extra mesh beyond every side of the frame",
+          "alt": "A solid window frame sits inside a larger dashed rectangle of mesh. The overhang extends past all four edges.",
+          "caption": "Lay the frame flat and check the overhang at all four corners before you start seating the spline."
+        }
+      ]
     },
     {
       "id": "rep-148",
@@ -1615,7 +1660,16 @@
         "plumbing",
         "water"
       ],
-      "cat": "Home & Appliance Repair"
+      "cat": "Home & Appliance Repair",
+      "illustrations": [
+        {
+          "step": "Photograph each shutoff from normal standing height, then close up. Add a direction from a fixed landmark and note any tool specified by the utility.",
+          "plate": "valve-photos",
+          "title": "Pair a room view with a detail photo",
+          "alt": "The first frame shows the sink cabinet within the room. The second frame shows the stop on the supply pipe.",
+          "caption": "One photo should get a visitor to the correct cabinet. The other should let them recognize the control without turning it."
+        }
+      ]
     }
   ],
   "glossary": {
@@ -1669,5 +1723,5 @@
     }
   },
   "count": 51,
-  "version": "2026.11.15-birthday-r1"
+  "version": "2026.11.16-illustrated-r1"
 }

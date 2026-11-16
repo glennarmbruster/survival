@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 168" stroke-linecap="round" stroke-linejoin="round">
+<title>Check both directions</title>
+<desc>Two devices exchange an ordinary check-in and a reply. The return arrow points back to the sender.</desc>
+<rect width="320" height="168" fill="#faf6eb"/>
+<g transform="translate(20 0)"><rect x="0" y="36" width="49" height="83" rx="8" fill="#223f3e" stroke="#223f3e" stroke-width="2.4"/><rect x="5" y="44" width="39" height="58" rx="3" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/><circle cx="24" cy="111" r="2" fill="#fffdf7" stroke="#223f3e" stroke-width="2"/></g>
+<g transform="translate(249 0)"><rect x="0" y="36" width="49" height="83" rx="8" fill="#223f3e" stroke="#223f3e" stroke-width="2.4"/><rect x="5" y="44" width="39" height="58" rx="3" fill="#fffdf7" stroke="#223f3e" stroke-width="2.4"/><circle cx="24" cy="111" r="2" fill="#fffdf7" stroke="#223f3e" stroke-width="2"/></g>
+<path d="M86 63 L229 63 M222.2 67.2 L229 63 222.2 58.8" fill="none" stroke="#a9492b" stroke-width="3" />
+<path d="M231 98 L86 98 M92.8 93.8 L86 98 92.8 102.2" fill="none" stroke="#a9492b" stroke-width="3" />
+<text x="159" y="48" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Check-in</text>
+<text x="159" y="124" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="#223f3e">Reply</text>
+</svg>
