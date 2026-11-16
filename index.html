@@ -182,11 +182,42 @@ dialog::backdrop{background:rgba(10,15,12,.55)}
   .guide-box{margin-top:0}
   .toast{bottom:24px}
 }
+header.top h1,.reader-controls h2,.guide-head h2,.field-section h3{font-family:Georgia,"Times New Roman",serif}
+header.top h1{font-weight:600;letter-spacing:-.035em;font-size:24px}
+.reader-layout{max-width:1240px;margin:22px auto;display:grid;gap:18px;align-items:start}
+.reader-controls,.reading-page{min-width:0}
+.reader-controls{display:grid;grid-template-columns:minmax(0,1fr);background:var(--card);padding:20px;border:1px solid var(--line);border-top:4px solid var(--accent);border-radius:8px}
+.reader-controls h2{font-size:25px;font-weight:500;margin-bottom:5px}
+.reader-controls label{margin:14px 0 5px;font-size:13px;font-weight:650}
+.reader-controls small{float:right;color:var(--muted);font-weight:400;font-size:12px}
+.reader-controls select,.reader-controls input{min-width:0;border-radius:5px}
+.guide-box{margin:0;border-radius:8px;padding:clamp(18px,3vw,44px);border-top:4px solid var(--accent)}
+.guide-head{flex-wrap:wrap}
+.guide-head>div{flex:1 1 300px;min-width:0}
+.guide-head h2{font-weight:500;letter-spacing:-.034em;font-size:clamp(29px,3.3vw,45px);line-height:1.12;overflow-wrap:anywhere}
+.field-section{margin:18px 0;line-height:1.6}
+.field-section h3{font-size:20px;font-weight:600;margin:0 0 6px}
+.field-section p{margin:0;white-space:pre-line}
+.scene{padding:14px 18px;background:var(--accent-soft);border-left:3px solid var(--accent)}
+.overview{border-top:1px solid var(--line);padding-top:18px}
+.steps{padding-left:2em}
+.steps li{padding:4px 0 10px .45em;border-bottom:1px solid var(--line);line-height:1.65}
+.steps li::marker{color:var(--accent);font-weight:700}
+.step-figure{margin:12px 0 4px;max-width:580px;break-inside:avoid}
+.step-figure img{display:block;width:100%;height:auto;border-radius:8px;border:1px solid var(--line);box-sizing:border-box}
+.step-figure figcaption{margin:.36em 0;font-size:.92em;font-weight:600}
+.source-list{margin:10px 0 0;padding-left:1.25em;font-size:.88em;overflow-wrap:anywhere}
+@media(min-width:900px){.reader-layout{grid-template-columns:minmax(230px,295px) minmax(0,1fr);gap:24px}.reader-controls{position:sticky;top:80px}}
+@media print{header.top,nav.tabs,.fab,.reader-controls,.guide-box button:not(.pill),.wrap-chips,.toast,.desk-nav{display:none!important}.reader-layout,.reading-page,#view{display:block;max-width:none;margin:0;padding:0}.guide-box{box-shadow:none;border:0;padding:0}.steps li,.field-section{break-inside:avoid}body{background:white;color:black;padding:0}}
+
+.reader-options{margin-top:16px;border-top:1px solid var(--line);padding-top:12px}.reader-options summary{font-size:14px;cursor:pointer;color:var(--accent);font-weight:650}.reader-options label{display:block}.book-download{display:flex;align-items:center;gap:13px;border:0;border-top:1px solid var(--line);margin-top:20px;padding:15px 0 0;background:transparent;color:var(--ink);text-align:left;font:600 19px Georgia,serif;cursor:pointer}.book-download img{box-shadow:0 2px 6px #0002}.book-download small{display:block;color:var(--accent);font:13px system-ui;margin-top:4px}
+@media(max-width:899px){.reader-controls{padding:12px 16px}.reader-controls h2{font-size:21px}.reader-controls label{margin:6px 0 3px}.reader-options{margin-top:9px;padding-top:8px}.book-download{display:none}.reader-layout{margin:12px auto}.guide-head{gap:6px}.guide-box{padding:18px}.guide-head h2{font-size:29px}}
+@media(max-width:500px){header.top .wrap{gap:6px}header.top h1{font-size:21px}.syncbadge span{display:none}.syncbadge{padding:5px}.reader-layout{gap:10px}}
 </style>
 </head>
 <body>
 <header class="top"><div class="wrap">
-  <button type="button" class="btn small ghost hbtn hide" id="backBtn" aria-label="Back">‹</button>
+  <img src="icon-192.png" alt="" width="39" height="39" style="border-radius:9px">
   <div class="grow">
     <h1 id="title">Field &amp; Home</h1>
     <div class="sub" id="sub">Offline skills &amp; workshop guide</div>
@@ -217,6 +248,8 @@ dialog::backdrop{background:rgba(10,15,12,.55)}
 <dialog id="dlg"></dialog>
 <dialog id="ask"></dialog>
 
+<script src="field-figures.js"></script>
+<script src="book-export.js"></script>
 <script>
 'use strict';
 const $ = (s, el = document) => el.querySelector(s);
@@ -226,8 +259,6 @@ const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': 
 const str = v => (typeof v === 'string' ? v : v == null ? '' : String(v));
 const clampStr = (v, n) => str(v).trim().slice(0, n);
 const todayISO = () => { const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`; };
-const DESK = matchMedia('(min-width: 1000px)');
-DESK.addEventListener('change', () => render());
 
 /* ===================== Storage Isolation ===================== */
 const APP_ID = 'goobs-survival';
@@ -540,7 +571,7 @@ function syncText() {
 function syncBadgeHTML() {
   const s = Sync.status(); if (s === 'off') return '';
   const t = syncText();
-  return `<button type="button" class="syncbadge ${t.cls}" data-action="sync-info">${t.icon} <span>${esc({ live: 'Shared', 'signed-out': 'Sign in', unavailable: 'Offline', connecting: 'Connecting', syncing: 'Syncing', denied: 'Denied', error: 'Sync issue' }[s] || 'Sync')}</span></button>`;
+  return `<button type="button" class="syncbadge ${t.cls}" data-action="sync-info" aria-label="${esc(t.text)}">${t.icon} <span>${esc({ live: 'Shared', 'signed-out': 'Sign in', unavailable: 'Offline', connecting: 'Connecting', syncing: 'Syncing', denied: 'Denied', error: 'Sync issue' }[s] || 'Sync')}</span></button>`;
 }
 function syncSignInDialog() {
   formDialog({
@@ -665,6 +696,7 @@ function lookupTerm(rawLabel) {
 /* ===================== App State & Data Model ===================== */
 const CATEGORIES = [
   'All',
+  'Household Preparedness & Recovery',
   'Kitchen & From-Scratch',
   'Homestead & Garden',
   'Home & Appliance Repair',
@@ -677,94 +709,169 @@ const CATEGORIES = [
 
 const BUILTIN_STARTER = [
   {
-    id: 'kit-001',
-    cat: 'Kitchen & From-Scratch',
-    sub: 'Fresh Cheese',
-    title: '30-Minute Whole Milk Ricotta',
-    diff: 'Easy',
-    time: '45 mins',
-    gear: ['Large heavy pot', 'Instant-read thermometer', 'Colander', 'Butter muslin'],
-    supplies: ['1 gallon whole pasteurized milk', '1/3 cup fresh lemon juice or white vinegar', '1 tsp cheese salt or kosher salt'],
-    steps: [
-      'Pour milk into a heavy pot and heat slowly over medium heat to 185°F–195°F, stirring gently so the bottom does not scorch.',
-      'Remove from heat, pour in lemon juice, and stir once or twice gently. Let sit undisturbed for 10 minutes until thick curds separate from yellowish whey.',
-      'Line a colander with damp butter muslin over a large bowl. Ladle curds into the cloth and drain 15–30 minutes depending on desired creaminess.',
-      'Fold in salt, transfer to a covered container, and refrigerate immediately.'
+    "id": "hh-002",
+    "cat": "Household Preparedness & Recovery",
+    "sub": "Before the storm",
+    "title": "Make a wallet card for meeting up",
+    "scenario": "The phones are at 3% and a blocked street keeps you from meeting at home.",
+    "diff": "Easy",
+    "time": "15 minutes",
+    "gear": [
+      "Pen"
     ],
-    safety: 'Use regular pasteurized milk (not ultra-pasteurized/UHT, which will not form firm curds). Refrigerate within 2 hours and consume within 5 days.',
-    tags: ['cheese', 'ricotta', 'dairy', 'beginner', 'bread-pairing']
+    "supplies": [
+      "Two wallet-sized cards"
+    ],
+    "steps": [
+      "Choose one meeting point outside the home and a second outside the neighborhood. Use a specific entrance or landmark everyone can describe.",
+      "Ask a willing out-of-area contact to relay messages. Write their number and both meeting places on each card.",
+      "Agree what to text when separated. Try “Safe at the library, staying here, next check-in at 4.” Include the date if the incident spans several days.",
+      "Swap cards and describe both meeting places from memory. Correct ambiguous wording and return each card to its wallet."
+    ],
+    "overview": "The card answers three questions without a charged phone. Where should I go, who can relay a message, and when should I expect another update?",
+    "tags": [
+      "before the storm"
+    ],
+    "sources": [
+      [
+        "Ready.gov · Family emergency planning",
+        "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf"
+      ]
+    ]
   },
   {
-    id: 'kit-002',
-    cat: 'Kitchen & From-Scratch',
-    sub: 'Bread Artistry',
-    title: 'Artisan Loaf Scoring & Ear Control',
-    diff: 'Easy',
-    time: '15 mins',
-    gear: ['Bread lame', 'Banneton', 'Dutch oven'],
-    supplies: ['Cold-proofed shaped dough', 'Rice flour for dusting'],
-    steps: [
-      'Chill shaped dough in the banneton for at least 2–12 hours so the skin firms up for clean cuts.',
-      'Turn dough onto parchment, dust lightly with rice flour, and hold the bread lame at a 30-degree angle to the surface (not straight down).',
-      'Make one confident, swift slash 1/2-inch deep along the length of the loaf to create a flap that peels back into an ear.',
-      'Bake covered in a preheated Dutch oven for the first 20 minutes so the score expands fully before the crust sets.'
+    "id": "kit-001",
+    "cat": "Kitchen & From-Scratch",
+    "sub": "Fresh Cheese & Dairy",
+    "title": "30-Minute Whole Milk Ricotta",
+    "diff": "Easy",
+    "time": "45 mins",
+    "gear": [
+      "Heavy stockpot",
+      "Instant-read thermometer",
+      "Colander",
+      "Butter muslin"
     ],
-    safety: 'Handle bare razor blades carefully; cap or store the bread lame immediately after scoring.',
-    tags: ['bread', 'sourdough', 'scoring', 'banneton', 'lame']
+    "supplies": [
+      "1 gal whole pasteurized milk (not UHT)",
+      "1/3 cup fresh lemon juice or white vinegar",
+      "1 tsp cheese salt"
+    ],
+    "steps": [
+      "Heat milk slowly over medium heat to 190°F, stirring gently so the bottom does not scorch.",
+      "Remove from heat, gently stir in lemon juice, and let sit undisturbed for 10 minutes until thick curds separate from pale yellow whey.",
+      "Ladle curds into a colander lined with damp butter muslin over a bowl; drain 15-30 minutes depending on desired thickness.",
+      "Fold in salt, transfer to an airtight container, and chill immediately."
+    ],
+    "safety": "Do not use ultra-pasteurized (UHT) milk—its proteins are denatured and will not form firm curds. Refrigerate and consume within 5 days.",
+    "tags": [
+      "cheese",
+      "ricotta",
+      "dairy",
+      "beginner"
+    ],
+    "scenario": "Dinner needs a soft cheese and there’s a gallon of milk in the fridge. Decide whether it’s going on toast or into lasagna before you drain it.",
+    "overview": "A spoonful that slumps will spread well. For a filling, leave the curds in the cloth a little longer so they hold their shape and keep the pasta layers intact."
   },
   {
-    id: 'hom-001',
-    cat: 'Homestead & Garden',
-    sub: 'Gulf Coast Gardening',
-    title: 'Friendswood / Southeast Texas Planting Windows',
-    diff: 'Easy',
-    time: 'Planning guide',
-    gear: ['Seed organizer box', 'Plant labels', 'Drain spade'],
-    supplies: ['Heat-tolerant heirloom seeds', 'Compost'],
-    steps: [
-      'Spring warm-season window (Feb 15 – Apr 15): Transplant tomatoes, peppers, eggplant, and bush beans after last frost risk passes so fruit sets before 90°F+ nights.',
-      'Summer heat-lovers (Apr – Jul): Plant okra, southern peas (black-eyed/purple hull), sweet potatoes, and Malabar spinach that thrive in Gulf Coast humidity.',
-      'Fall prime season (Aug 15 – Oct 15): Direct-sow bush beans, cucumbers, squash, and transplant fall tomatoes for a second harvest.',
-      'Cool-season greens & roots (Oct – Feb): Grow kale, collards, lettuce, broccoli, carrots, and radishes through mild coastal winters.'
+    "id": "hom-101",
+    "cat": "Homestead & Garden",
+    "sub": "Soil & Compost",
+    "title": "Breaking Up Texas Gulf Coast Gumbo Clay",
+    "diff": "Medium",
+    "time": "2–3 hours",
+    "gear": [
+      "Broadfork",
+      "Wheelbarrow",
+      "Garden rake",
+      "Soil pH/moisture meter"
     ],
-    safety: 'Store heirloom seeds cool, dark, and airtight; high Gulf Coast humidity rapidly shortens seed viability.',
-    tags: ['garden', 'friendswood', 'texas', 'seeds', 'calendar']
+    "supplies": [
+      "3–4 inches aged compost",
+      "Expanded shale (1/4-inch)",
+      "Elemental sulfur or organic matter",
+      "Hardwood mulch"
+    ],
+    "steps": [
+      "Test soil moisture before working—never till or dig wet gumbo clay, which dries into brick-hard clods.",
+      "Spread 3 inches of finished compost and 2 inches of expanded shale across the bed surface.",
+      "Drive a broadfork straight down 10–12 inches and rock back slightly to fracture subsoil compaction without inverting soil biology.",
+      "Rake amendments into the top 4–6 inches and top-dress immediately with 3 inches of shredded hardwood mulch to prevent sun-baking."
+    ],
+    "safety": "Avoid adding beach or builder's sand to heavy clay; sand plus clay creates a concrete-like hardpan.",
+    "tags": [
+      "soil",
+      "clay",
+      "friendswood",
+      "texas",
+      "broadfork",
+      "amendment"
+    ],
+    "scenario": "A shovel comes up coated in sticky Friendswood clay after rain.",
+    "overview": "The first decision is when the soil is workable. Leave one small strip untreated so you can compare drainage and root growth next season."
   },
   {
-    id: 'rep-001',
-    cat: 'Home & Appliance Repair',
-    sub: 'Appliances',
-    title: 'Electric Dryer Runs But No Heat (Thermal Fuse Check)',
-    diff: 'Medium',
-    time: '45 mins',
-    gear: ['Multimeter', '1/4-inch nut driver', 'Phillips screwdriver'],
-    supplies: ['Replacement thermal fuse (model-specific)'],
-    steps: [
-      'Unplug the dryer from the 240V wall outlet completely before removing any panels.',
-      'Clean the entire lint trap, exhaust duct, and exterior wall vent flap—restricted airflow is the #1 cause of blown thermal fuses.',
-      'Remove the rear access panel and locate the white plastic thermal fuse mounted on the blower housing.',
-      'Pull one wire off the fuse and test continuity with a multimeter set to Ohms (Ω). A reading of infinity/OL means the fuse is blown and must be replaced.'
+    "id": "rep-101",
+    "cat": "Home & Appliance Repair",
+    "sub": "Electrical & Safety",
+    "title": "Tripped Circuit Breaker vs. Blown Fuse Diagnosis",
+    "diff": "Easy",
+    "time": "15 mins",
+    "gear": [
+      "Non-contact voltage tester",
+      "Flashlight"
     ],
-    safety: 'Never bypass a thermal fuse with wire or foil—it is the primary fire-prevention cutoff if the dryer overheats.',
-    tags: ['dryer', 'appliance', 'repair', 'multimeter', 'heat']
+    "supplies": [
+      "Label maker or permanent marker"
+    ],
+    "steps": [
+      "Open the main electrical panel and look for a breaker handle sitting in the middle (tripped) position rather than fully ON or OFF.",
+      "Unplug high-wattage appliances on that circuit (space heaters, hair dryers, air fryers) before resetting.",
+      "Push the tripped breaker handle firmly all the way to the OFF position until it clicks, then flip it back to ON.",
+      "If the breaker trips again immediately with nothing plugged in, leave it OFF and call an electrician—this indicates a hard short circuit or ground fault."
+    ],
+    "safety": "Stand to the side of the panel (never directly in front) when flipping a breaker back on, and never touch the panel with wet hands.",
+    "tags": [
+      "electrical",
+      "breaker",
+      "panel",
+      "power",
+      "troubleshooting"
+    ],
+    "scenario": "One room loses power when two heating appliances are running.",
+    "overview": "Identify what was drawing power and whether the protective device trips again. Repeated trips, wet equipment, heat or odors call for an electrician."
   },
   {
-    id: 'sur-001',
-    cat: 'Wilderness & Emergency',
-    sub: 'Water Purification',
-    title: 'Emergency Water Purification Ratios (Boiling & Bleach)',
-    diff: 'Easy',
-    time: '10–30 mins',
-    gear: ['Pot or heat-safe container', 'Clean cloth/coffee filter', 'Dropper'],
-    supplies: ['Plain unscented household bleach (6% or 8.25% sodium hypochlorite)'],
-    steps: [
-      'Pre-filter cloudy water through a clean cotton cloth, coffee filter, or paper towel to remove sediment.',
-      'Boiling method (most reliable): Bring water to a full rolling boil for 1 full minute (3 minutes above 6,500 ft elevation), then cool covered.',
-      'Bleach method (when fuel is scarce): Add 8 drops (about 1/8 tsp) of 6% unscented bleach per gallon of clear water (6 drops if using 8.25% concentrated bleach). Double the dose if water is cloudy.',
-      'Stir well and let stand for 30 minutes. Water should have a faint chlorine odor; if not, repeat the dose and wait another 15 minutes.'
+    "id": "sur-123",
+    "cat": "Wilderness & Emergency",
+    "sub": "Wild Food & Trapping",
+    "title": "Unknown berries or leaves: leave them uneaten",
+    "diff": "Medium",
+    "time": "Immediate",
+    "gear": [
+      "Phone"
     ],
-    safety: 'Never use scented, splash-less, or color-safe bleach—only plain regular sodium hypochlorite.',
-    tags: ['water', 'purify', 'bleach', 'boil', 'emergency', 'hurricane']
+    "supplies": [],
+    "steps": [
+      "Stop anyone from tasting the plant. Photograph it in place from a safe distance if identification will be needed.",
+      "Use the food you carried and reassess your route or need for rescue. Arrange expert identification later, away from the pressure of hunger.",
+      "If anyone has already tasted it, call US Poison Control at 1-800-222-1222 promptly. Report the time, amount and symptoms. For collapse, seizure or breathing difficulty, call 911."
+    ],
+    "safety": "Do not induce vomiting or rely on a skin or taste test.",
+    "tags": [
+      "berries",
+      "edibility test",
+      "poison",
+      "foraging"
+    ],
+    "scenario": "There are berries beside the trail and your food bag is nearly empty.",
+    "overview": "Taste, skin contact and animal feeding cannot identify an edible plant. The decision to leave it behind also prevents an uncertain exposure from becoming a rescue emergency.",
+    "sources": [
+      [
+        "National Park Service · Plant identification",
+        "https://www.nps.gov/anch/faqs.htm"
+      ]
+    ]
   }
 ];
 
@@ -786,7 +893,8 @@ const ui = {
   q: '',
   cat: 'All',
   filter: 'all',
-  selectedId: 'kit-001',
+  selectedId: 'hh-002',
+  showSearch: matchMedia('(min-width:900px)').matches,
   openDefKey: ''
 };
 
@@ -848,69 +956,86 @@ const syncModel = {
 /* ===================== Modular Pack Loader (2,000+ Guides + Glossary) ===================== */
 async function loadLibraryPacks(force = false) {
   try {
-    if (!libDb) libDb = await openDB(LIB_DB_NAME).catch(() => null);
-    if (!force && libDb) {
-      const cached = await idbGet(libDb, 'packs_bundle');
-      if (cached) {
-        const parsed = JSON.parse(cached);
-        if (Array.isArray(parsed) && parsed.length) {
-          masterGuides = parsed;
-          if (!masterGuides.some(g => g.id === ui.selectedId)) ui.selectedId = masterGuides[0].id;
+    if (location.protocol === 'file:') {
+      if (!window.fieldHomeEdition) {
+        await new Promise((resolve, reject) => {
+          const script = document.createElement('script');
+          script.src = './local-edition.js';
+          script.onload = resolve;
+          script.onerror = reject;
+          document.head.appendChild(script);
+        });
+      }
+      masterGuides = window.fieldHomeEdition.guides;
+      customGlossary = window.fieldHomeEdition.glossary;
+    } else {
+      if (!libDb) libDb = await openDB(LIB_DB_NAME).catch(() => null);
+      let cached;
+      if (libDb) {
+        cached = await idbGet(libDb, 'edition');
+        if (cached?.guides?.length && !force) {
+          masterGuides = cached.guides;
+          customGlossary = cached.glossary;
+          render();
+        } else if (!force) {
+          const old = await idbGet(libDb, 'packs_bundle');
+          if (old) masterGuides = JSON.parse(old);
+          const gloss = await idbGet(libDb, 'packs_glossary');
+          if (gloss) customGlossary = JSON.parse(gloss);
+          render();
         }
       }
-      const cachedGloss = await idbGet(libDb, 'packs_glossary');
-      if (cachedGloss) customGlossary = JSON.parse(cachedGloss) || {};
+      const res = await fetch('./packs/manifest.json', {cache:'no-cache'});
+      if (!res.ok) throw Error('Manifest unavailable');
+      const manifest = await res.json();
+      if (cached?.version === manifest.version && !force) return;
+      const packs = await Promise.all(manifest.files.map(async file => {
+        const result = await fetch('./packs/' + file, {cache:'no-cache'});
+        if (!result.ok) throw Error(file);
+        const pack = await result.json();
+        if (manifest.versionedPacks && pack.version !== manifest.version) throw Error('Edition mismatch: ' + file);
+        const entries = Array.isArray(pack) ? pack : pack.guides;
+        if (!entries?.length || entries.some(g => !g.id || !g.title) || (pack.count != null && entries.length !== pack.count)) throw Error(file);
+        return pack;
+      }));
+      const guides = packs.flatMap(pack => Array.isArray(pack) ? pack : pack.guides);
+      if (new Set(guides.map(g => g.id)).size !== guides.length) throw Error('Duplicate guide');
+      const glossary = Object.assign({}, ...packs.map(pack => pack.glossary || {}));
+      if (libDb) await idbPut(libDb, 'edition', {version:manifest.version, guides, glossary}).catch(() => {});
+      masterGuides = guides;
+      customGlossary = glossary;
+      state.libVer = manifest.version;
+      save();
     }
-    const res = await fetch('./packs/manifest.json?t=' + Date.now(), { cache: 'no-store' });
-    if (!res.ok) return;
-    const manifest = await res.json();
-    if (!force && manifest.version && manifest.version === state.libVer && masterGuides.length > BUILTIN_STARTER.length) return;
-    if (Array.isArray(manifest.files) && manifest.files.length) {
-      const payloads = await Promise.all(
-        manifest.files.map(f => fetch('./packs/' + f).then(r => r.ok ? r.json() : []).catch(() => []))
-      );
-      const merged = [];
-      const glossMerged = {};
-      for (const p of payloads) {
-        if (Array.isArray(p)) merged.push(...p);
-        else if (p && typeof p === 'object') {
-          if (Array.isArray(p.guides)) merged.push(...p.guides);
-          if (p.glossary && typeof p.glossary === 'object') Object.assign(glossMerged, p.glossary);
-        }
-      }
-      const valid = merged.filter(g => g && g.id && g.title);
-      if (valid.length) {
-        masterGuides = valid;
-        customGlossary = glossMerged;
-        state.libVer = manifest.version || String(Date.now());
-        save();
-        if (libDb) {
-          await idbPut(libDb, 'packs_bundle', JSON.stringify(valid));
-          await idbPut(libDb, 'packs_glossary', JSON.stringify(glossMerged));
-        }
-        if (!masterGuides.some(g => g.id === ui.selectedId)) ui.selectedId = masterGuides[0].id;
-        render();
-        if (force) toast(`Loaded ${valid.length.toLocaleString()} guides`);
-      }
-    }
-  } catch (e) {}
+    render();
+    if (force) toast(`Loaded ${masterGuides.length.toLocaleString()} guides`);
+  } catch {
+    render();
+    if (force || masterGuides === BUILTIN_STARTER || masterGuides.length <= BUILTIN_STARTER.length) toast('Library unavailable. Showing the guides on this device.');
+  }
 }
+
 
 /* ===================== Combined Guide Helpers ===================== */
 function allGuides() {
   return [...state.customGuides, ...masterGuides];
 }
 function getGuide(id) {
-  const base = allGuides().find(g => g.id === id);
+  const base = state.customGuides.find(g => g.id === id) || masterGuides.find(g => g.id === id);
+  return withEdits(base);
+}
+function withEdits(base) {
   if (!base) return null;
-  const ed = state.edits[id] || {};
+  const ed = state.edits[base.id] || {};
   return {
     ...base,
     title: ed.customTitle || base.title,
+    scenario: ed.customScenario ?? base.scenario,
+    overview: ed.customOverview ?? base.overview,
     steps: Array.isArray(ed.customSteps) && ed.customSteps.length ? ed.customSteps : base.steps,
     notes: ed.notes || '',
     status: ed.status || '',
-    isEdited: !!(ed.customTitle || (ed.customSteps && ed.customSteps.length) || ed.notes || base.isCustom)
+    isEdited: !!(ed.customScenario !== undefined || ed.customOverview !== undefined || ed.customTitle || (ed.customSteps && ed.customSteps.length) || ed.notes || base.isCustom)
   };
 }
 const ownedSet = () => new Set(state.gear.filter(g => g.have !== false).map(g => g.name.toLowerCase()));
@@ -928,7 +1053,7 @@ function render() {
   });
 
   const total = allGuides().length;
-  $('#sub').textContent = `${total.toLocaleString()} guide${total === 1 ? '' : 's'} · 100% offline ready`;
+  $('#sub').textContent = `${total.toLocaleString()} guide${total === 1 ? '' : 's'} · Cindy & Glenn’s field guide`;
 
   if (ui.tab === 'guides') renderGuides();
   else if (ui.tab === 'logs') renderLogs();
@@ -938,14 +1063,13 @@ function render() {
 
 function filteredGuides() {
   const words = ui.q.toLowerCase().split(/\s+/).filter(Boolean);
-  return allGuides().filter(raw => {
-    const g = getGuide(raw.id);
+  return allGuides().map(withEdits).filter(g => {
     if (ui.cat !== 'All' && g.cat !== ui.cat) return false;
     if (ui.filter === 'try-next' && g.status !== 'try-next') return false;
     if (ui.filter === 'done' && g.status !== 'done') return false;
     if (ui.filter === 'edited' && !g.isEdited) return false;
     if (!words.length) return true;
-    const hay = [g.title, g.cat, g.sub, ...(g.tags || []), ...(g.gear || []), ...(g.supplies || []), ...(g.steps || []), g.notes].join(' ').toLowerCase();
+    const hay = [g.title, g.cat, g.sub, g.scenario, g.overview, ...(g.tags || []), ...(g.gear || []), ...(g.supplies || []), ...(g.steps || []), g.notes].join(' ').toLowerCase();
     return words.every(w => hay.includes(w));
   });
 }
@@ -1000,6 +1124,8 @@ function guideDetailHTML(id) {
       <button type="button" class="btn small" data-act="edit-guide" data-id="${esc(g.id)}">✎ Edit / Note</button>
     </div>
 
+    ${g.scenario ? `<section class="field-section scene"><h3>About this guide</h3><p>${esc(g.scenario)}</p></section>` : ''}
+
     <div class="chips wrap-chips" style="margin-bottom:10px">
       <button type="button" class="chip" data-act="status" data-id="${esc(g.id)}" data-st="try-next" aria-pressed="${g.status === 'try-next'}">📌 Try Next</button>
       <button type="button" class="chip" data-act="status" data-id="${esc(g.id)}" data-st="done" aria-pressed="${g.status === 'done'}">✅ Done</button>
@@ -1020,56 +1146,64 @@ function guideDetailHTML(id) {
     ${(g.supplies && g.supplies.length) ? `<div class="sec-h"><span>Supplies &amp; Ingredients</span></div><div class="pill-list">${g.supplies.map(x => renderPill(x, isOwned(x))).join('')}</div>` : ''}
 
     <div class="sec-h"><span>Step-by-Step Instructions</span></div>
-    <ol class="steps">${(g.steps || []).map(s => `<li>${esc(s)}</li>`).join('')}</ol>
+    <ol class="steps">${(g.steps || []).map(s => {
+      const figures = figuresForStep(fieldFigures, g, s).map(f => `<figure class="step-figure"><img src="data:image/png;base64,${f.png}" alt="${esc(f.alt)}"><figcaption>${esc(f.title)}</figcaption></figure>`).join('');
+      return `<li>${esc(s)}${figures}</li>`;
+    }).join('')}</ol>
 
     ${g.safety ? `<div class="callout warn"><b>⚠️ Safety &amp; Key Tip:</b> ${esc(g.safety)}</div>` : ''}
+    ${(g.sources || []).some(s => Array.isArray(s) && /^https?:\/\//i.test(s[1])) ? `<h3 class="sec-h">References</h3><ul class="source-list">${g.sources.filter(s => Array.isArray(s) && /^https?:\/\//i.test(s[1])).map(([label,url]) => `<li><a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(label)}</a></li>`).join('')}</ul>` : ''}
+    ${g.overview ? `<section class="field-section overview"><h3>Overview</h3><p>${esc(g.overview)}</p></section>` : ''}
   </article>`;
 }
 
 function renderGuides() {
   const list = filteredGuides();
-  if (list.length && !list.some(g => g.id === ui.selectedId)) ui.selectedId = list[0].id;
-
-  const searchBar = `<div class="search-bar">
-    <div class="search-row">
-      <input id="q" type="search" placeholder="Search ${allGuides().length.toLocaleString()} guides (e.g. ricotta, dryer, bleach, bread)…" value="${esc(ui.q)}" autocomplete="off">
-    </div>
-    <div class="chips">
-      ${CATEGORIES.map(c => `<button type="button" class="chip" data-cat="${esc(c)}" aria-pressed="${ui.cat === c}">${esc(c)}</button>`).join('')}
-    </div>
-    <div class="chips">
-      ${[['all', 'All'], ['try-next', '📌 Try Next'], ['done', '✅ Done'], ['edited', '✎ Edited / Notes']].map(([k, lbl]) =>
-        `<button type="button" class="chip" data-flt="${k}" aria-pressed="${ui.filter === k}">${lbl}</button>`
-      ).join('')}
-    </div>
-  </div>`;
-
-  const listHTML = list.length
-    ? `<div class="card"><div class="list">${list.slice(0, 250).map(raw => {
-        const g = getGuide(raw.id);
-        return `<button type="button" class="row${DESK.matches && g.id === ui.selectedId ? ' active' : ''}" data-open-guide="${esc(g.id)}">
-          <div class="row-main">
-            <div class="row-title">${g.status === 'try-next' ? '📌 ' : g.status === 'done' ? '✅ ' : ''}${esc(g.title)}${g.isEdited ? ' <span class="badge warn">✎</span>' : ''}</div>
-            <div class="row-sub">${esc(g.cat)}${g.sub ? ' · ' + esc(g.sub) : ''} · ${esc(g.diff || 'Easy')} · ${esc(g.time || '')}</div>
-          </div>
-        </button>`;
-      }).join('')}</div></div>${list.length > 250 ? `<p class="hint" style="text-align:center">Showing top 250 of ${list.length} matches — narrow your search to filter further.</p>` : ''}`
-    : `<div class="empty card"><h2>No matching guides</h2><p>Try clearing filters or add your own custom guide with +.</p></div>`;
-
-  if (DESK.matches) {
-    $('#backBtn').classList.add('hide');
-    view.innerHTML = `${searchBar}<div class="split"><div class="split-left">${listHTML}</div><div class="split-right">${guideDetailHTML(ui.selectedId)}</div></div>`;
-  } else if (ui.mobileReading && ui.selectedId) {
-    $('#backBtn').classList.remove('hide');
-    view.innerHTML = guideDetailHTML(ui.selectedId);
-  } else {
-    $('#backBtn').classList.add('hide');
-    view.innerHTML = `${searchBar}<div style="margin-top:8px">${listHTML}</div>`;
+  const selected = list.find(g => g.id === ui.selectedId) || list[0];
+  if (selected) ui.selectedId = selected.id;
+  const groups = new Map();
+  for (const guide of list) {
+    const group = ui.cat === 'All' ? guide.cat : guide.sub || guide.cat;
+    if (!groups.has(group)) groups.set(group, []);
+    groups.get(group).push(guide);
   }
+  const guideOptions = [...groups].map(([label, entries]) =>
+    `<optgroup label="${esc(label)}">${entries.sort((a, b) => a.title.localeCompare(b.title)).map(g =>
+      `<option value="${esc(g.id)}" ${selected?.id === g.id ? 'selected' : ''}>${esc(g.title)}</option>`
+    ).join('')}</optgroup>`
+  ).join('');
+  view.innerHTML = `<div class="reader-layout">
+    <nav class="reader-controls" aria-label="Find a field guide">
+      <h2>Find a guide</h2>
+      <label for="chapter">Chapter</label>
+      <select id="chapter">${CATEGORIES.map(c => `<option value="${esc(c)}" ${ui.cat === c ? 'selected' : ''}>${esc(c === 'All' ? 'All chapters' : c)}</option>`).join('')}</select>
+      <label for="guide-picker">Guide <small>${list.length.toLocaleString()} available</small></label>
+      <select id="guide-picker" ${list.length ? '' : 'disabled'}>${guideOptions || '<option>No matching guides</option>'}</select>
+      <details class="reader-options" ${ui.showSearch ? 'open' : ''}><summary>Search and reading lists</summary>
+      <label for="q">Search this selection</label>
+      <input id="q" type="search" placeholder="A skill, situation or ingredient…" value="${esc(ui.q)}" autocomplete="off">
+      <label for="reading-filter">Reading list</label>
+      <select id="reading-filter">${[['all','All guides'],['try-next','Try next'],['done','Done'],['edited','Edited or annotated']].map(([v,label]) =>
+        `<option value="${v}" ${v === ui.filter ? 'selected' : ''}>${label}</option>`).join('')}</select>
+      </details>
+      <button type="button" class="book-download" data-act="export-epub"><img alt="" width="44" height="66" src="field-home-cover.jpg"><span>Field &amp; Home<small>Download the ebook</small></span></button>
+    </nav>
+    <div class="reading-page">${selected ? guideDetailHTML(selected.id) : `<section class="empty card"><h2>No matching guides</h2><p>Try a different chapter, reading list or search.</p><button class="btn" type="button" data-act="clear-guide-filters">Show all guides</button></section>`}</div>
+  </div>`;
 }
 
+function openGuide(id) {
+  ui.tab = 'guides';
+  ui.selectedId = id;
+  ui.cat = getGuide(id)?.cat || 'All';
+  ui.q = '';
+  ui.filter = 'all';
+  ui.openDefKey = '';
+}
+
+
+
 function renderLogs() {
-  $('#backBtn').classList.add('hide');
   const tryNext = allGuides().map(g => getGuide(g.id)).filter(g => g.status === 'try-next');
   let html = `<div class="sec-h"><span>📌 Try-Next Queue (${tryNext.length})</span></div>`;
   html += tryNext.length
@@ -1088,7 +1222,6 @@ function renderLogs() {
 }
 
 function renderGear() {
-  $('#backBtn').classList.add('hide');
   const tools = state.gear.filter(g => g.kind !== 'seed');
   const seeds = state.gear.filter(g => g.kind === 'seed');
 
@@ -1122,7 +1255,6 @@ function renderGear() {
 }
 
 function renderTools() {
-  $('#backBtn').classList.add('hide');
   const editedCount = Object.keys(state.edits).length + state.customGuides.length;
   const u = Sync.user();
   view.innerHTML = `
@@ -1139,6 +1271,7 @@ function renderTools() {
       <p>Generate an offline <b>.epub</b> book of the entire Field &amp; Home library (${allGuides().length.toLocaleString()} guides) to send straight to Cindy’s Kindle via Amazon Send-to-Kindle.</p>
       <div class="foot" style="justify-content:flex-start;margin-bottom:0">
         <button type="button" class="btn" data-act="export-epub">📖 Download Kindle .EPUB</button>
+        <a class="btn" href="./Field%20and%20Home%20-%20Cindy%27s%20Birthday%20Edition.pdf" download>Birthday print edition (PDF)</a>
       </div>
     </div>
 
@@ -1176,9 +1309,11 @@ function editGuideDialog(id) {
     fields: [
       { name: 'notes', label: 'Cindy’s Margin Note', type: 'textarea', value: ed.notes || '', placeholder: 'Tweaks, temperatures, family feedback, or reminders…' },
       { name: 'customTitle', label: 'Title', value: g.title },
+      { name: 'customScenario', label: 'About / scenario', type: 'textarea', value: g.scenario || '' },
+      { name: 'customOverview', label: 'Closing overview', type: 'textarea', value: g.overview || '' },
       { name: 'customSteps', label: 'Steps (one step per line)', type: 'textarea', value: (g.steps || []).join('\n') }
     ],
-    extra: ed.customTitle || ed.customSteps || ed.notes ? [{
+    extra: ed.customScenario !== undefined || ed.customOverview !== undefined || ed.customTitle || ed.customSteps || ed.notes ? [{
       label: 'Reset to Original',
       kind: 'danger',
       onClick: () => { delete state.edits[id]; $('#dlg').close(); commit(); toast('Reset guide to original'); }
@@ -1194,6 +1329,11 @@ function editGuideDialog(id) {
         customSteps: base && JSON.stringify(steps) === JSON.stringify(base.steps) ? null : steps,
         updatedAt: Date.now()
       };
+      for (const [key, baseKey] of [['customScenario','scenario'],['customOverview','overview']]) {
+        const value = clampStr(v[key],3000);
+        if (value === (base[baseKey] || '')) delete state.edits[id][key];
+        else state.edits[id][key] = value;
+      }
       commit();
       toast('Saved guide edits');
     }
@@ -1210,6 +1350,8 @@ function newCustomGuideDialog() {
       { name: 'time', label: 'Estimated Time', placeholder: 'e.g. 30 mins' },
       { name: 'gear', label: 'Gear Needed (comma-separated)', placeholder: 'Stand mixer, Strainer' },
       { name: 'supplies', label: 'Supplies / Ingredients (comma-separated)', placeholder: '1 qt heavy cream, Salt' },
+      { name: 'scenario', label: 'About / scenario', type: 'textarea' },
+      { name: 'overview', label: 'Closing overview', type: 'textarea' },
       { name: 'steps', label: 'Steps (one per line)', type: 'textarea', required: true },
       { name: 'safety', label: 'Safety / Key Tip', placeholder: 'Optional warning or tip' }
     ],
@@ -1217,6 +1359,8 @@ function newCustomGuideDialog() {
       const id = 'cust-' + uid();
       state.customGuides.unshift({
         id,
+        scenario: clampStr(v.scenario, 3000),
+        overview: clampStr(v.overview, 3000),
         isCustom: true,
         cat: v.cat,
         sub: clampStr(v.sub, 50),
@@ -1230,8 +1374,7 @@ function newCustomGuideDialog() {
         tags: ['custom'],
         updatedAt: Date.now()
       });
-      ui.selectedId = id;
-      ui.mobileReading = true;
+      openGuide(id);
       commit();
       toast('Added custom guide');
     }
@@ -1316,101 +1459,13 @@ async function exportEditsToGlenn() {
   if (res === 'downloaded') toast('Edits file downloaded — attach to email to Glenn');
 }
 
-function buildEpubBlob(guides) {
-  const enc = new TextEncoder();
-  const files = [];
-  const addFile = (name, content) => {
-    const data = typeof content === 'string' ? enc.encode(content) : content;
-    files.push({ name: enc.encode(name), data });
-  };
 
-  addFile('mimetype', 'application/epub+zip');
-  addFile('META-INF/container.xml', `<?xml version="1.0"?><container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"><rootfiles><rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/></rootfiles></container>`);
-
-  const byCat = {};
-  for (const raw of guides) {
-    const g = getGuide(raw.id);
-    (byCat[g.cat] = byCat[g.cat] || []).push(g);
-  }
-  const cats = Object.keys(byCat);
-  let manifest = `<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>\n`;
-  let spine = '', navPoints = '';
-
-  cats.forEach((cat, idx) => {
-    const fname = `ch${idx + 1}.xhtml`;
-    manifest += `<item id="ch${idx + 1}" href="${fname}" media-type="application/xhtml+xml"/>\n`;
-    spine += `<itemref idref="ch${idx + 1}"/>\n`;
-    navPoints += `<navPoint id="np${idx + 1}" playOrder="${idx + 1}"><navLabel><text>${esc(cat)}</text></navLabel><content src="${fname}"/></navPoint>\n`;
-
-    const body = byCat[cat].map(g => `<h2>${esc(g.title)}</h2>
-      <p><i>${esc(g.sub || '')} · ${esc(g.diff || '')} · ${esc(g.time || '')}</i></p>
-      ${g.notes ? `<p><b>Cindy’s Note:</b> ${esc(g.notes)}</p>` : ''}
-      ${g.gear && g.gear.length ? `<p><b>Gear:</b> ${esc(g.gear.join(', '))}</p>` : ''}
-      ${g.supplies && g.supplies.length ? `<p><b>Supplies:</b> ${esc(g.supplies.join(', '))}</p>` : ''}
-      <ol>${(g.steps || []).map(s => `<li>${esc(s)}</li>`).join('')}</ol>
-      ${g.safety ? `<p><b>Safety:</b> ${esc(g.safety)}</p>` : ''}<hr/>`).join('\n');
-
-    addFile(`OEBPS/${fname}`, `<?xml version="1.0" encoding="utf-8"?><html xmlns="http://www.w3.org/1999/xhtml"><head><title>${esc(cat)}</title></head><body><h1>${esc(cat)}</h1>${body}</body></html>`);
-  });
-
-  // Add Specialty Tool Glossary chapter to EPUB
-  const glossList = Object.values({ ...BUILTIN_GLOSSARY, ...customGlossary });
-  if (glossList.length) {
-    const gIdx = cats.length + 1;
-    const gFile = `ch${gIdx}.xhtml`;
-    manifest += `<item id="ch${gIdx}" href="${gFile}" media-type="application/xhtml+xml"/>\n`;
-    spine += `<itemref idref="ch${gIdx}"/>\n`;
-    navPoints += `<navPoint id="np${gIdx}" playOrder="${gIdx}"><navLabel><text>Specialty Tool &amp; Supply Glossary</text></navLabel><content src="${gFile}"/></navPoint>\n`;
-    const gBody = glossList.map(e => `<h3>${esc(e.term)}</h3>${e.aka ? `<p><i>Also known as: ${esc(e.aka)}</i></p>` : ''}<p>${esc(e.def)}</p><hr/>`).join('\n');
-    addFile(`OEBPS/${gFile}`, `<?xml version="1.0" encoding="utf-8"?><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Tool Glossary</title></head><body><h1>Specialty Tool &amp; Supply Glossary</h1>${gBody}</body></html>`);
-  }
-
-  addFile('OEBPS/content.opf', `<?xml version="1.0" encoding="utf-8"?><package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="2.0"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>Field &amp; Home: Cindy's Skills Guide</dc:title><dc:language>en</dc:language><dc:identifier id="uid">goobs-survival-${todayISO()}</dc:identifier></metadata><manifest>${manifest}</manifest><spine toc="ncx">${spine}</spine></package>`);
-  addFile('OEBPS/toc.ncx', `<?xml version="1.0" encoding="utf-8"?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1"><head><meta name="dtb:uid" content="goobs-survival-${todayISO()}"/></head><docTitle><text>Field &amp; Home</text></docTitle><navMap>${navPoints}</navMap></ncx>`);
-
-  const crcTable = new Uint32Array(256);
-  for (let i = 0; i < 256; i++) {
-    let c = i;
-    for (let k = 0; k < 8; k++) c = (c & 1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1);
-    crcTable[i] = c;
-  }
-  const crc32 = buf => {
-    let c = 0xFFFFFFFF;
-    for (let i = 0; i < buf.length; i++) c = crcTable[(c ^ buf[i]) & 0xFF] ^ (c >>> 8);
-    return (c ^ 0xFFFFFFFF) >>> 0;
-  };
-
-  const parts = [], central = [];
-  let offset = 0;
-  for (const f of files) {
-    const crc = crc32(f.data), sz = f.data.length, nlen = f.name.length;
-    const lh = new Uint8Array(30 + nlen), lv = new DataView(lh.buffer);
-    lv.setUint32(0, 0x04034b50, true); lv.setUint16(4, 20, true);
-    lv.setUint32(14, crc, true); lv.setUint32(18, sz, true); lv.setUint32(22, sz, true); lv.setUint16(26, nlen, true);
-    lh.set(f.name, 30);
-    parts.push(lh, f.data);
-
-    const ch = new Uint8Array(46 + nlen), cv = new DataView(ch.buffer);
-    cv.setUint32(0, 0x02014b50, true); cv.setUint16(4, 20, true); cv.setUint16(6, 20, true);
-    cv.setUint32(16, crc, true); cv.setUint32(20, sz, true); cv.setUint32(24, sz, true); cv.setUint16(28, nlen, true);
-    cv.setUint32(42, offset, true);
-    ch.set(f.name, 46);
-    central.push(ch);
-    offset += lh.length + sz;
-  }
-  const cSize = central.reduce((a, b) => a + b.length, 0);
-  const eocd = new Uint8Array(22), ev = new DataView(eocd.buffer);
-  ev.setUint32(0, 0x06054b50, true); ev.setUint16(8, files.length, true); ev.setUint16(10, files.length, true);
-  ev.setUint32(12, cSize, true); ev.setUint32(16, offset, true);
-  return new Blob([...parts, ...central, eocd], { type: 'application/epub+zip' });
-}
 
 /* ===================== Event Listeners ===================== */
 document.addEventListener('click', async e => {
   const nav = e.target.closest('[data-nav]');
   if (nav) {
     ui.tab = nav.dataset.nav;
-    ui.mobileReading = false;
     render();
     window.scrollTo(0, 0);
     return;
@@ -1421,13 +1476,28 @@ document.addEventListener('click', async e => {
   }
 });
 
-$('#backBtn').onclick = () => { ui.mobileReading = false; render(); };
 $('#viewBtn').onclick = () => askDialog({ title: 'Theme', body: themesHTML(), buttons: [{ label: 'Done', value: true, kind: 'primary' }] });
 $('#fabBtn').onclick = $('#deskAddBtn').onclick = () => {
   if (ui.tab === 'logs') logDialog(null, null);
   else if (ui.tab === 'gear') gearDialog(null, 'gear');
   else newCustomGuideDialog();
 };
+
+view.addEventListener('toggle', e => {
+  if (e.target.matches('.reader-options') && e.target.isConnected) ui.showSearch = e.target.open;
+}, true);
+
+view.addEventListener('change', e => {
+  const controls = {chapter:'cat', 'guide-picker':'selectedId', 'reading-filter':'filter'};
+  const key = controls[e.target.id];
+  if (!key) return;
+  const id = e.target.id;
+  ui[key] = e.target.value;
+  ui.openDefKey = '';
+  render();
+  document.getElementById(id)?.focus({preventScroll:true});
+  if (id === 'guide-picker') window.scrollTo(0, 0);
+});
 
 view.addEventListener('input', e => {
   if (e.target.id === 'q') {
@@ -1452,14 +1522,10 @@ view.addEventListener('click', async e => {
     render();
     return;
   }
-  const cat = e.target.closest('[data-cat]');
-  if (cat) { ui.cat = cat.dataset.cat; render(); return; }
-  const flt = e.target.closest('[data-flt]');
-  if (flt) { ui.filter = flt.dataset.flt; render(); return; }
-  const og = e.target.closest('[data-open-guide]');
-  if (og) { ui.selectedId = og.dataset.openGuide; ui.mobileReading = true; render(); if (!DESK.matches) window.scrollTo(0, 0); return; }
+
+
   const jg = e.target.closest('[data-jump-guide]');
-  if (jg) { ui.tab = 'guides'; ui.selectedId = jg.dataset.jumpGuide; ui.mobileReading = true; render(); window.scrollTo(0, 0); return; }
+  if (jg) { openGuide(jg.dataset.jumpGuide); render(); window.scrollTo(0, 0); return; }
   const elLog = e.target.closest('[data-edit-log]');
   if (elLog) { const item = state.logs.find(x => x.id === elLog.dataset.editLog); if (item) logDialog(item); return; }
   const elGear = e.target.closest('[data-edit-gear]');
@@ -1469,6 +1535,7 @@ view.addEventListener('click', async e => {
   if (!act) return;
   const id = act.dataset.id;
   switch (act.dataset.act) {
+    case 'clear-guide-filters': ui.q = ''; ui.cat = 'All'; ui.filter = 'all'; render(); break;
     case 'edit-guide': editGuideDialog(id); break;
     case 'status': {
       const cur = (state.edits[id] && state.edits[id].status) || '';
@@ -1482,7 +1549,16 @@ view.addEventListener('click', async e => {
     case 'new-gear': gearDialog(null, act.dataset.kind || 'gear'); break;
     case 'export-edits': await exportEditsToGlenn(); break;
     case 'export-epub': {
-      const blob = buildEpubBlob(allGuides());
+      let cover;
+      if (window.fieldHomeEdition?.cover) {
+        cover = Uint8Array.from(atob(window.fieldHomeEdition.cover), c => c.charCodeAt(0));
+      } else {
+        try {
+          const image = await fetch('./field-home-cover.jpg');
+          if (image.ok) cover = new Uint8Array(await image.arrayBuffer());
+        } catch {}
+      }
+      const blob = buildEpubBlob(allGuides().map(withEdits), Object.values({...BUILTIN_GLOSSARY, ...customGlossary}), todayISO(), cover, fieldFigures);
       const url = URL.createObjectURL(blob);
       const a = document.createElement('a');
       a.href = url; a.download = `Field-and-Home-${todayISO()}.epub`;
