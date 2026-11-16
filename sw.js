@@ -1,8 +1,9 @@
 'use strict';
-const CACHE = 'goobs-survival-v2';
+const CACHE = 'goobs-survival-app-only-1';
 const CORE = [
   './',
   './index.html',
+  './field-figures.js',
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
@@ -12,9 +13,13 @@ const CORE = [
 
 self.addEventListener('install', e => {
   e.waitUntil(
-    caches.open(CACHE)
-      .then(c => c.addAll(CORE).catch(() => {}))
-      .then(() => self.skipWaiting())
+    (async () => {
+      const cache = await caches.open(CACHE);
+      await cache.addAll(CORE);
+      const manifest = await (await cache.match('./packs/manifest.json')).json();
+      await cache.addAll(manifest.files.map(file => './packs/' + file));
+      await self.skipWaiting();
+    })()
   );
 });
 

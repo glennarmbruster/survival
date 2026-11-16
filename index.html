@@ -210,8 +210,8 @@ header.top h1{font-weight:600;letter-spacing:-.035em;font-size:24px}
 @media(min-width:900px){.reader-layout{grid-template-columns:minmax(230px,295px) minmax(0,1fr);gap:24px}.reader-controls{position:sticky;top:80px}}
 @media print{header.top,nav.tabs,.fab,.reader-controls,.guide-box button:not(.pill),.wrap-chips,.toast,.desk-nav{display:none!important}.reader-layout,.reading-page,#view{display:block;max-width:none;margin:0;padding:0}.guide-box{box-shadow:none;border:0;padding:0}.steps li,.field-section{break-inside:avoid}body{background:white;color:black;padding:0}}
 
-.reader-options{margin-top:16px;border-top:1px solid var(--line);padding-top:12px}.reader-options summary{font-size:14px;cursor:pointer;color:var(--accent);font-weight:650}.reader-options label{display:block}.book-download{display:flex;align-items:center;gap:13px;border:0;border-top:1px solid var(--line);margin-top:20px;padding:15px 0 0;background:transparent;color:var(--ink);text-align:left;font:600 19px Georgia,serif;cursor:pointer}.book-download img{box-shadow:0 2px 6px #0002}.book-download small{display:block;color:var(--accent);font:13px system-ui;margin-top:4px}
-@media(max-width:899px){.reader-controls{padding:12px 16px}.reader-controls h2{font-size:21px}.reader-controls label{margin:6px 0 3px}.reader-options{margin-top:9px;padding-top:8px}.book-download{display:none}.reader-layout{margin:12px auto}.guide-head{gap:6px}.guide-box{padding:18px}.guide-head h2{font-size:29px}}
+.reader-options{margin-top:16px;border-top:1px solid var(--line);padding-top:12px}.reader-options summary{font-size:14px;cursor:pointer;color:var(--accent);font-weight:650}.reader-options label{display:block}
+@media(max-width:899px){.reader-controls{padding:12px 16px}.reader-controls h2{font-size:21px}.reader-controls label{margin:6px 0 3px}.reader-options{margin-top:9px;padding-top:8px}.reader-layout{margin:12px auto}.guide-head{gap:6px}.guide-box{padding:18px}.guide-head h2{font-size:29px}}
 @media(max-width:500px){header.top .wrap{gap:6px}header.top h1{font-size:21px}.syncbadge span{display:none}.syncbadge{padding:5px}.reader-layout{gap:10px}}
 </style>
 </head>
@@ -249,7 +249,12 @@ header.top h1{font-weight:600;letter-spacing:-.035em;font-size:24px}
 <dialog id="ask"></dialog>
 
 <script src="field-figures.js"></script>
-<script src="book-export.js"></script>
+<script>
+function figuresForStep(catalog, guide, step) {
+  const entries = catalog && Object.hasOwn(catalog, guide.id) && catalog[guide.id];
+  return !guide.isCustom && Array.isArray(entries) ? entries.filter(f => f.step === step) : [];
+}
+</script>
 <script>
 'use strict';
 const $ = (s, el = document) => el.querySelector(s);
@@ -1186,7 +1191,6 @@ function renderGuides() {
       <select id="reading-filter">${[['all','All guides'],['try-next','Try next'],['done','Done'],['edited','Edited or annotated']].map(([v,label]) =>
         `<option value="${v}" ${v === ui.filter ? 'selected' : ''}>${label}</option>`).join('')}</select>
       </details>
-      <button type="button" class="book-download" data-act="export-epub"><img alt="" width="44" height="66" src="field-home-cover.jpg"><span>Field &amp; Home<small>Download the ebook</small></span></button>
     </nav>
     <div class="reading-page">${selected ? guideDetailHTML(selected.id) : `<section class="empty card"><h2>No matching guides</h2><p>Try a different chapter, reading list or search.</p><button class="btn" type="button" data-act="clear-guide-filters">Show all guides</button></section>`}</div>
   </div>`;
@@ -1263,15 +1267,6 @@ function renderTools() {
       <p>Whenever Cindy edits a guide, adds a margin note, or writes a new custom guide (${editedCount} total right now), tap below to email or share a clean file with Glenn so he can merge it into the master library.</p>
       <div class="foot" style="justify-content:flex-start;margin-bottom:0">
         <button type="button" class="btn primary" data-act="export-edits">✉️ Backup &amp; Email Edits to Glenn</button>
-      </div>
-    </div>
-
-    <div class="sec-h"><span>📚 Kindle E-Book Export</span></div>
-    <div class="card pad">
-      <p>Generate an offline <b>.epub</b> book of the entire Field &amp; Home library (${allGuides().length.toLocaleString()} guides) to send straight to Cindy’s Kindle via Amazon Send-to-Kindle.</p>
-      <div class="foot" style="justify-content:flex-start;margin-bottom:0">
-        <button type="button" class="btn" data-act="export-epub">📖 Download Kindle .EPUB</button>
-        <a class="btn" href="./Field%20and%20Home%20-%20Cindy%27s%20Birthday%20Edition.pdf" download>Birthday print edition (PDF)</a>
       </div>
     </div>
 
@@ -1437,7 +1432,7 @@ function gearDialog(existing, defaultKind = 'gear') {
   });
 }
 
-/* ===================== Export Edits to Glenn + EPUB Builder ===================== */
+/* ===================== Export Edits to Glenn ===================== */
 async function exportEditsToGlenn() {
   const editedGuides = Object.values(state.edits).map(ed => {
     const base = allGuides().find(g => g.id === ed.id);
@@ -1548,25 +1543,6 @@ view.addEventListener('click', async e => {
     case 'new-log': logDialog(null, null); break;
     case 'new-gear': gearDialog(null, act.dataset.kind || 'gear'); break;
     case 'export-edits': await exportEditsToGlenn(); break;
-    case 'export-epub': {
-      let cover;
-      if (window.fieldHomeEdition?.cover) {
-        cover = Uint8Array.from(atob(window.fieldHomeEdition.cover), c => c.charCodeAt(0));
-      } else {
-        try {
-          const image = await fetch('./field-home-cover.jpg');
-          if (image.ok) cover = new Uint8Array(await image.arrayBuffer());
-        } catch {}
-      }
-      const blob = buildEpubBlob(allGuides().map(withEdits), Object.values({...BUILTIN_GLOSSARY, ...customGlossary}), todayISO(), cover, fieldFigures);
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url; a.download = `Field-and-Home-${todayISO()}.epub`;
-      document.body.appendChild(a); a.click(); a.remove();
-      setTimeout(() => URL.revokeObjectURL(url), 15000);
-      toast('Kindle .EPUB downloaded');
-      break;
-    }
     case 'signin': syncSignInDialog(); break;
     case 'signout': if (await confirmBox('Sign out?', 'Stop syncing on this device?', 'Sign out', false)) await Sync.signOut(); break;
     case 'full-backup': {
